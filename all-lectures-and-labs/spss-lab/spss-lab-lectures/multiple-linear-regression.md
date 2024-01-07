@@ -1,0 +1,33 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
+# Multiple linear regression
+
+## Syntax file
+
+[Syntax\_multiple regression](https://drive.google.com/open?id=15wjr2OtsVPHfs-G2ZCik-TQi5pRAADZ2\&usp=drive\_fs)
+
+## Slides
+
+{% embed url="https://docs.google.com/presentation/d/1qLAJ8T40EvcS27uHXSlTMfN4AXZu6__a64cq2UDdBFA/edit?usp=sharing" %}
+[**Downloadable slides here**](https://docs.google.com/presentation/d/1qLAJ8T40EvcS27uHXSlTMfN4AXZu6\_\_a64cq2UDdBFA/edit?usp=sharing)
+{% endembed %}
+
+## Lab assignment
+
+[SPSS lab assignment: multiple linear regression](https://docs.google.com/document/d/1wwHCXIr5SKSoEZh0f4CJ9V6Rxjv9lW2V45IWVsYDRBU/edit?usp=sharing)
+
+## Video
+
+{% embed url="https://youtu.be/sWwvUXphQAg" %}
