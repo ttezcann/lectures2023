@@ -20,7 +20,7 @@ layout:
 
 ### <mark style="color:orange;">**Textual instructions**</mark>
 
-1. Make sure you are signed in and see your Google profile on the top right:<img src="../../.gitbook/assets/Screenshot_2024-01-05 10.00.07.png" alt="" data-size="original">
+1. Make sure you are signed in and see your CSUMB Google profile on the top right:<img src="../../.gitbook/assets/Screenshot_2024-01-05 10.00.07.png" alt="" data-size="original">
 2. Click “File” <mark style="color:red;">➜</mark> “Make a copy.”
 3. Rename the file name. Delete the “Copy of” part. It must be “your last name and the name of the assignment.” For example, “Smith Google Drive assignment.” (otherwise -5)
 4. Put this file under your main Google Drive folder <mark style="color:red;">➜</mark> Relevant week subfolder (otherwise -10)
