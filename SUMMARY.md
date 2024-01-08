@@ -103,6 +103,7 @@
       * [Downloading R and RStudio](all-lectures-and-labs/r-lab/lab-resources/downloading-r-and-rstudio.md)
       * [How to use RStudio Cloud](all-lectures-and-labs/r-lab/lab-resources/how-to-use-rstudio-cloud.md)
       * [Is my p-value less than 0.05?](all-lectures-and-labs/r-lab/lab-resources/is-my-p-value-less-than-0.05.md)
+      * [Variables in GSS 2022 uc](all-lectures-and-labs/r-lab/lab-resources/variables-in-gss-2022-uc.md)
       * [Variables in GSS 2022](all-lectures-and-labs/r-lab/lab-resources/variables-in-gss-2022.md)
   * [SPSS lab](all-lectures-and-labs/spss-lab/README.md)
     * [SPSS lab resources](all-lectures-and-labs/spss-lab/spss-lab-resources/README.md)
