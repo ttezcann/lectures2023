@@ -19,13 +19,28 @@ Reminder:
 
 Ensure that your interpretations are clear enough for someone to understand your report **without** referring to the tables.
 
-For example:
-
-<mark style="color:red;">Wrong:</mark> The average confindex of the GSS respondents is 2.11 out of 3, with standard deviation 0.52
+Use "[Variables in GSS 2022](https://ttezcan.gitbook.io/lect/all-lectures-and-labs/r-lab/lab-resources/variables-in-gss-2022-uc)" document and check "What it measures" columns.
 
 
+
+Example 1:
+
+Frequency code: frq(gss$<mark style="color:red;">wrkslf</mark>, out = "v")
+
+<img src="https://lh7-us.googleusercontent.com/3ndqYq-E4ooa2-Wwg1tOjxVRJSrg2oZtz_sO3ONxPyPFriLBw6BcXt4Q7aRxk2Y4ZBRTZxm4mCs_fvg3YlD7hNzKMWpBIMvrrp_1CORMAgfjvX_6P2C_9K7kUZkbfGZuXNQI4jtkekYcHIMQo-Vuc1w" alt="" data-size="original">
+
+<mark style="color:green;">Correct:</mark> “The respondents’ employment status variable shows that 11.54% of the GSS respondents are self-employed and 88.46% of them work for someone else."
+
+<mark style="color:red;">Wrong:</mark> “the wrkslf shows that 11.54% of the GSS respondents are self-employed and 88.46% of them are someone else."
+
+<mark style="color:red;">Wrong:</mark> the r self-emp or works for somebody shows that 11.54% of the GSS respondents are self-employed and 88.46% of them are someone else."\
+
+
+Example 2:
 
 <mark style="color:green;">Correct:</mark> The average confidence in education and scientific community index score of the GSS respondents is 2.11 out of 3, with standard deviation 0.52
+
+<mark style="color:red;">Wrong:</mark> The average confindex of the GSS respondents is 2.11 out of 3, with standard deviation 0.52
 {% endhint %}
 
 ## Frequency tables
