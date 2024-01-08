@@ -20,13 +20,13 @@ layout:
 
 ## Slides
 
-{% embed url="https://docs.google.com/presentation/d/1Ijm4NS0Wiv7ORziZlxfJ6584-a61LcmMbVwlGR0Gegs?usp=drive_fs" %}
-[**Downloadable slides here**](https://docs.google.com/presentation/d/1Ijm4NS0Wiv7ORziZlxfJ6584-a61LcmMbVwlGR0Gegs?usp=drive\_fs)
+{% embed url="https://docs.google.com/presentation/d/1fhuSrMOrhMBNk0dFis_bVL1KTF978A8z?rtpof=true&usp=drive_fs" %}
+[**Downloadable slides here**](https://docs.google.com/presentation/d/1fhuSrMOrhMBNk0dFis\_bVL1KTF978A8z?rtpof=true\&usp=drive\_fs)
 {% endembed %}
 
 ## Assignment
 
-[Operationalization of a social fact](https://docs.google.com/document/d/1pXpHiLVdQ2yFewRCiDvWGC3NYGKAj\_MltWaKjWR249w/edit?usp=sharing)
+[Operationalization of a social fact](https://docs.google.com/document/d/1foU7RgQnoxQ3N8HCaEyLUNJCxZNXd2Tz?rtpof=true\&usp=drive\_fs)
 
 ## Video
 

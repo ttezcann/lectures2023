@@ -20,13 +20,11 @@ layout:
 
 ## Slides
 
-{% embed url="https://docs.google.com/presentation/d/1RDIRu2lEjT1d41-cZx4e5rA6Ok0z6BmoGzkPDdlQplk/edit?usp=sharing" %}
-[**Downloadable slides here**](https://docs.google.com/presentation/d/1RDIRu2lEjT1d41-cZx4e5rA6Ok0z6BmoGzkPDdlQplk/edit?usp=sharing)
-{% endembed %}
+{% embed url="https://docs.google.com/presentation/d/1ffxgwYABQybSNDIfw0gMKo6PBNpLRs5l/edit?ouid=100179871492576617561&rtpof=true&sd=true&usp=sharing" %}
 
 ## Assignment
 
-[Sociological, theoretical, and empirical foundations exercise](https://docs.google.com/document/d/1KD\_TbaObLj\_g2lcysTUtMdaD\_ueh15-eRKV1PDwARnY/edit?usp=sharing)
+[Sociological, theoretical, and empirical foundations exercise](https://docs.google.com/document/d/1f\_pTXsqf5LFk8T0E2sMqBYqNPS7vt-bN?rtpof=true\&usp=drive\_fs)
 
 ## Video
 

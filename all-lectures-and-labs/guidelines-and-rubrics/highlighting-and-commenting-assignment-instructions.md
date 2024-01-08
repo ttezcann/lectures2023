@@ -14,7 +14,7 @@ layout:
 
 # Highlighting and commenting assignment instructions
 
-## <mark style="color:orange;">Samples sss</mark>
+## <mark style="color:orange;">Samples</mark>
 
 ### [Sample 1](https://docs.google.com/document/d/1qPHry76M5NxCfCcdGoTbN9LobWBaj64K/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
 

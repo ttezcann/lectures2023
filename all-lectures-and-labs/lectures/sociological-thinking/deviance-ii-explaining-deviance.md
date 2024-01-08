@@ -20,13 +20,13 @@ layout:
 
 ## Slides
 
-{% embed url="https://docs.google.com/presentation/d/11exJ2LvAyA4khOtzeNMPQEo0h3c0ksW800mQ6O85mMA/edit?usp=sharing" %}
-[**Downloadable slides here**](https://docs.google.com/presentation/d/11exJ2LvAyA4khOtzeNMPQEo0h3c0ksW800mQ6O85mMA/edit?usp=sharing)
+{% embed url="https://docs.google.com/presentation/d/1jIHK6xfGchuk4MOr_e5eRQ92SFrWBJla?rtpof=true&usp=drive_fs" %}
+[**Downloadable slides here**](https://docs.google.com/presentation/d/1jIHK6xfGchuk4MOr\_e5eRQ92SFrWBJla?rtpof=true\&usp=drive\_fs)
 {% endembed %}
 
 ## Assignment
 
-[Deviance research field report](https://docs.google.com/document/d/140ALhMf-r7WVD4KVhrlCsYypwc7cevyLmToodVxAHEE?authuser=ttezcan%40csumb.edu\&usp=drive\_fs)
+[Deviance research field report](https://docs.google.com/document/d/1VbSU7pPzFRwclZRRFbuxKa3sTx4Ufjy7/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
 
 ## Video
 

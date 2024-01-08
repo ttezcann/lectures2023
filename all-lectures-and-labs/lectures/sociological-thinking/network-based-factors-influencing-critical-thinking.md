@@ -20,13 +20,13 @@ layout:
 
 ## Slides
 
-{% embed url="https://docs.google.com/presentation/d/1o_KmICYTAPI3KPFbY48cKu5Zc937S_PW6AOKjdT833o/edit?usp=sharing" %}
-[**Downloadable slides here**](https://docs.google.com/presentation/d/1o\_KmICYTAPI3KPFbY48cKu5Zc937S\_PW6AOKjdT833o/edit?usp=sharing)
+{% embed url="https://docs.google.com/presentation/d/1h77PakzAhvEGf8UkwwHAFYjtKtcSWgJa?rtpof=true&usp=drive_fs" %}
+[**Downloadable slides here**](https://docs.google.com/presentation/d/1h77PakzAhvEGf8UkwwHAFYjtKtcSWgJa?rtpof=true\&usp=drive\_fs)
 {% endembed %}
 
 ## Assignment
 
-[Analyzing a news article](https://docs.google.com/document/d/1PpSQlvGgG4avozsTnie4kIhwVuwKgav330tb9F2rHk4/edit?usp=sharing)
+[Analyzing a news article](https://docs.google.com/document/d/1hHRgxQyEjIL7cpPoUUSbDote8Do8o3Vx?rtpof=true\&usp=drive\_fs)
 
 ## Video
 

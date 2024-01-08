@@ -20,13 +20,13 @@ layout:
 
 ## Slides
 
-{% embed url="https://docs.google.com/presentation/d/1XHVwgjDMZLYT9tr1qqLzCeb_OIX2aDR7ijE4IX0V-6A/edit?usp=sharing" %}
-[**Downloadable slides here**](https://docs.google.com/presentation/d/1XHVwgjDMZLYT9tr1qqLzCeb\_OIX2aDR7ijE4IX0V-6A/edit?usp=sharing)
+{% embed url="https://docs.google.com/presentation/d/1dfOMEr6e86ZHYbDNsXctzWxhGCjukzG4?rtpof=true&usp=drive_fs" %}
+[**Downloadable slides here**](https://docs.google.com/presentation/d/1dfOMEr6e86ZHYbDNsXctzWxhGCjukzG4?rtpof=true\&usp=drive\_fs)
 {% endembed %}
 
 ## Assignment
 
-[Grandparents grandchildren role playing](https://docs.google.com/document/d/1LHh0jJIeoDwi2MhP6QW3FQyzgppZLM55VB8FboY7S-8/edit?usp=sharing)
+[Grandparents grandchildren role playing](https://docs.google.com/document/d/1dmyIQjjsDcVD-y5F0DO9SoiwgyzITc1T?rtpof=true\&usp=drive\_fs)
 
 ## Video
 

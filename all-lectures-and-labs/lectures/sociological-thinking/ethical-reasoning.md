@@ -20,13 +20,13 @@ layout:
 
 ## Slides
 
-{% embed url="https://docs.google.com/presentation/d/1cBKxXGlQdPUiWcA8SIGQTIsB3zARlIr2uG7cwN_XWEA/edit?usp=sharing" %}
-[**Downloadable slides here**](https://docs.google.com/presentation/d/1cBKxXGlQdPUiWcA8SIGQTIsB3zARlIr2uG7cwN\_XWEA/edit?usp=sharing)
+{% embed url="https://docs.google.com/presentation/d/1ip1GxPF7xmBxQgQACEs7vaSvHQP5gWgI?rtpof=true&usp=drive_fs" %}
+[**Downloadable slides here**](https://docs.google.com/presentation/d/1ip1GxPF7xmBxQgQACEs7vaSvHQP5gWgI?rtpof=true\&usp=drive\_fs)
 {% endembed %}
 
 ## Assignment
 
-[Ethical reasoning: Female Circumcision](https://docs.google.com/document/d/19VCW\_4F4eXgjXC4A0o7j\_OYJvLp\_DUnMDugmG0JNOzw/edit?usp=sharing)
+[Ethical reasoning: Female Circumcision](https://docs.google.com/document/d/1ijv-UBfn65WTDfeMcssMB5tf9TxZ\_h0s?rtpof=true\&usp=drive\_fs)
 
 ## Video
 

@@ -20,13 +20,13 @@ layout:
 
 ## Slides
 
-{% embed url="https://docs.google.com/presentation/d/16pYvt2Y-MBJXEU2vlFyWYRyWRFuhFoL0VfR48FFaN94/edit?usp=sharing" %}
-[**Downloadable slides here**](https://docs.google.com/presentation/d/16pYvt2Y-MBJXEU2vlFyWYRyWRFuhFoL0VfR48FFaN94/edit?usp=sharing)
+{% embed url="https://docs.google.com/presentation/d/1i4bIQmpJEUedilexhGAgP2dJr_HQ3IOe?rtpof=true&usp=drive_fs" %}
+[**Downloadable slides here**](https://docs.google.com/presentation/d/1i4bIQmpJEUedilexhGAgP2dJr\_HQ3IOe?rtpof=true\&usp=drive\_fs)
 {% endembed %}
 
 ## Assignment
 
-[Conspiracy theories on Reddit](https://docs.google.com/document/d/1l7lCr-2Lw69Ey4D\_REknt\_rVo3Q2buv4kONlOw944cA/edit?usp=sharing)
+[Conspiracy theories on Reddit](https://docs.google.com/document/d/1iOL8WSqtVsuHbBBBklrRy8plGxAL-DWT?rtpof=true\&usp=drive\_fs)
 
 ## Video
 

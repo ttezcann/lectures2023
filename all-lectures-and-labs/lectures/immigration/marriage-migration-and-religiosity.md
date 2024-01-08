@@ -20,13 +20,13 @@ layout:
 
 ## Slides
 
-{% embed url="https://docs.google.com/presentation/d/1x4CzarcSZQps1QDhWt01iwudt0BNc5io7XReuVG6OyY/edit?usp=sharing" %}
-[**Downloadable slides here**](https://docs.google.com/presentation/d/1x4CzarcSZQps1QDhWt01iwudt0BNc5io7XReuVG6OyY/edit?usp=sharing)
+{% embed url="https://docs.google.com/presentation/d/1eK1HaU2TCLPOKS9JWwZu_mWVX3feMF_O?rtpof=true&usp=drive_fs" %}
+[**Downloadable slides here**](https://docs.google.com/presentation/d/1eK1HaU2TCLPOKS9JWwZu\_mWVX3feMF\_O?rtpof=true\&usp=drive\_fs)
 {% endembed %}
 
 ## Assignment
 
-[Diary of a recent marriage migrant](https://docs.google.com/document/d/1daIwOSqRJxDWWK2rLLgNu-3FP2PRfuyBuFlZ0une8ho/edit?usp=sharing)
+[Diary of a recent marriage migrant](https://docs.google.com/document/d/1eNMGMaB0Yfui9NN5qXcyy-XyHHx8LcEY?rtpof=true\&usp=drive\_fs)
 
 ## Video
 

@@ -20,13 +20,13 @@ layout:
 
 ## Slides
 
-{% embed url="https://docs.google.com/presentation/d/10eYIfljOqrsyYk7Y5lkWD32kAhQ31JutWgqUxJvG8OM/edit?usp=sharing" %}
-[**Downloadable slides here**](https://docs.google.com/presentation/d/10eYIfljOqrsyYk7Y5lkWD32kAhQ31JutWgqUxJvG8OM/edit?usp=sharing)
+{% embed url="https://docs.google.com/presentation/d/1d6656OM6QIGHEGa6Fcoa4nu1BO5MQINB?rtpof=true&usp=drive_fs" %}
+[**Downloadable slides here**](https://docs.google.com/presentation/d/1d6656OM6QIGHEGa6Fcoa4nu1BO5MQINB?rtpof=true\&usp=drive\_fs)
 {% endembed %}
 
 ## Assignment
 
-[Social identity interview questions](https://docs.google.com/document/d/1MJur5Ht95sOraiInkhKhi3cz2m7xFi3DqTvhnizSjSU/edit?usp=sharing)
+[Social identity interview questions](https://docs.google.com/document/d/1d8WSRPcJ4jmiZo6MVi7WMOMiXF-X\_1uC?rtpof=true\&usp=drive\_fs)
 
 ## Video
 

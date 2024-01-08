@@ -16,17 +16,19 @@ layout:
 
 ## Reading
 
-* [Not everyone is chosen: Segmented assimilation and its determinants](https://drive.google.com/file/d/1qK6sIWiYsBxktfzg5FKCEXYTBkFNZtqc/view?usp=sharing)
+[Not everyone is chosen: Segmented assimilation and its determinants](https://drive.google.com/file/d/1qK6sIWiYsBxktfzg5FKCEXYTBkFNZtqc/view?usp=sharing)
+
+[<mark style="color:orange;">**\[Optional\]**</mark> Segmented Assimilation Theory and the Life Model: An Integrated Approach to](https://drive.google.com/open?id=1A6pzIFKe1ffQCaM55Lyh0F8XR\_rq8IQ4\&usp=drive\_fs)[Understanding Immigrants and Their Children](https://drive.google.com/open?id=1A6pzIFKe1ffQCaM55Lyh0F8XR\_rq8IQ4\&usp=drive\_fs)
 
 ## Slides
 
-{% embed url="https://docs.google.com/presentation/d/1yrZw2PkDWN6rQlVVCA-6CYQjaITDxeCZp_o_KlaegGY/edit?usp=sharing" %}
-[**Downloadable slides here**](https://docs.google.com/presentation/d/1yrZw2PkDWN6rQlVVCA-6CYQjaITDxeCZp\_o\_KlaegGY/edit?usp=sharing)
+{% embed url="https://docs.google.com/presentation/d/1btbHO149MSDGCGVK5tfW9m85bLuACBnH?rtpof=true&usp=drive_fs" %}
+[**Downloadable slides here**](https://docs.google.com/presentation/d/1btbHO149MSDGCGVK5tfW9m85bLuACBnH?rtpof=true\&usp=drive\_fs)
 {% endembed %}
 
 ## Assignment
 
-[Segmented assimilation core arguments](https://docs.google.com/document/d/1gLiXUgEzqQVrqnjY5LkJUzOKu9RgmHZn4wJV8Wzo\_Wo/edit?usp=sharing)
+[Segmented assimilation core arguments](https://docs.google.com/document/d/1byms4Zf0reO2dnw1ZGvfe1prwkWET-8\_?rtpof=true\&usp=drive\_fs)
 
 ## Video
 

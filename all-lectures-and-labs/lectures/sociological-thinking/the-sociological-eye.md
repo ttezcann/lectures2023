@@ -20,13 +20,13 @@ layout:
 
 ## Slides
 
-{% embed url="https://docs.google.com/presentation/d/1CH-wh-BMRMlBCF81rA3IO-kSuZPaw1sPKVz7DUKpELg?usp=drive_fs" %}
-[**Downloadable slides here**](https://docs.google.com/presentation/d/1CH-wh-BMRMlBCF81rA3IO-kSuZPaw1sPKVz7DUKpELg?usp=drive\_fs)
+{% embed url="https://docs.google.com/presentation/d/1f1Es33HgDb9gBaITy7mdut7tmNjC8xfq/edit?ouid=100179871492576617561&rtpof=true&sd=true&usp=sharing" %}
+[**Downloadable slides here**](https://docs.google.com/presentation/d/1f1Es33HgDb9gBaITy7mdut7tmNjC8xfq/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
 {% endembed %}
 
 ## Assignment
 
-[Participant observation exercise: practicing sociological imagination](https://docs.google.com/document/d/1mveFfHx88qj5zjfB\_kaxAe2l-GChXSaRZOeU-DGD5XM/edit?usp=sharing)
+[Participant observation exercise: practicing sociological imagination](https://docs.google.com/document/d/1f0dQ756G824EYOTAV6CPgm8EIO5zK9cJ?rtpof=true\&usp=drive\_fs)
 
 ## Video
 

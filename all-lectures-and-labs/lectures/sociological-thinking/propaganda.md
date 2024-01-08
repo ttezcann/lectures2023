@@ -20,13 +20,13 @@ layout:
 
 ## Slides
 
-{% embed url="https://docs.google.com/presentation/d/1rys5unWrb4625JfECjOErP93f1TFJFWT3S-VU0FO-xk/edit?usp=sharing" %}
-[**Downloadable slides here**](https://docs.google.com/presentation/d/1rys5unWrb4625JfECjOErP93f1TFJFWT3S-VU0FO-xk/edit?usp=sharing)
+{% embed url="https://docs.google.com/presentation/d/1hkNUz9HuhWpKgOtMwRe__lrf3NnA_GLJ?rtpof=true&usp=drive_fs" %}
+[**Downloadable slides here**](https://docs.google.com/presentation/d/1hkNUz9HuhWpKgOtMwRe\_\_lrf3NnA\_GLJ?rtpof=true\&usp=drive\_fs)
 {% endembed %}
 
 ## Assignment
 
-* [Propaganda in action](https://docs.google.com/document/d/1lNIMNu1kgbKFdee7JbYiBW3ghKt9jWQ66UL8vWn8rtI/edit?usp=sharing)
+* [Propaganda in action](https://docs.google.com/document/d/1ht1\_iJVnMmZO9UKMeWXsmKiS3rjSSKH1?rtpof=true\&usp=drive\_fs)
 * Quiz. Check Canvas
 
 ## Video

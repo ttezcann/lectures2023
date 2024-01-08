@@ -20,8 +20,8 @@ layout:
 
 ## Slides
 
-{% embed url="https://docs.google.com/presentation/d/1TFyFlv0peCOW-IyvLp6bEstwyVOes9d3ssnHkkLI6iM/edit?usp=sharing" %}
-[**Downloadable slides here**](https://docs.google.com/presentation/d/1TFyFlv0peCOW-IyvLp6bEstwyVOes9d3ssnHkkLI6iM/edit?usp=sharing)
+{% embed url="https://docs.google.com/presentation/d/1hfU5pYsAfigobjrPKx7VUUMmEv53wN5X?rtpof=true&usp=drive_fs" %}
+[**Downloadable slides here**](https://docs.google.com/presentation/d/1hfU5pYsAfigobjrPKx7VUUMmEv53wN5X?rtpof=true\&usp=drive\_fs)
 {% endembed %}
 
 ## Assignment

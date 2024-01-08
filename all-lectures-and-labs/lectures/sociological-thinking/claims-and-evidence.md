@@ -20,13 +20,13 @@ layout:
 
 ## Slides
 
-{% embed url="https://docs.google.com/presentation/d/1RL5U5fhjkKGdoaG9Ide-xI0YlktbyaamF9QXx73mVZI/edit?usp=sharing" %}
-[**Downloadable slides here**](https://docs.google.com/presentation/d/1RL5U5fhjkKGdoaG9Ide-xI0YlktbyaamF9QXx73mVZI/edit?usp=sharing)
+{% embed url="https://docs.google.com/presentation/d/1gMw9MOONIYOJ3uZCNAs4XqAhvWxh2nSo?rtpof=true&usp=drive_fs" %}
+[**Downloadable slides here**](https://docs.google.com/presentation/d/1gMw9MOONIYOJ3uZCNAs4XqAhvWxh2nSo?rtpof=true\&usp=drive\_fs)
 {% endembed %}
 
 ## Assignment
 
-[Reviewing an argument and evidence](https://docs.google.com/document/d/1TNNQ9za4owRNKQPPKNk61Cz4zwF43GEb-\_kan3qFzv4/edit?usp=sharing)
+[Reviewing an argument and evidence](https://docs.google.com/document/d/1gP76tSYnHziYD7qlzJWissU\_LGcON0mC?rtpof=true\&usp=drive\_fs)
 
 ## Video
 

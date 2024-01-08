@@ -20,13 +20,13 @@ layout:
 
 ## Slides
 
-{% embed url="https://docs.google.com/presentation/d/1mQ2ha2UW-KK2x61KuL6KwJEFLxNjj5ycAoOXheX44cc/edit?usp=sharing" %}
-[**Downloadable slides here**](https://docs.google.com/presentation/d/1mQ2ha2UW-KK2x61KuL6KwJEFLxNjj5ycAoOXheX44cc/edit?usp=sharing)
+{% embed url="https://docs.google.com/presentation/d/1j0Pd1_mcYkWoy0bSync1fYPf445tO0La?rtpof=true&usp=drive_fs" %}
+[**Downloadable slides here**](https://docs.google.com/presentation/d/1j0Pd1\_mcYkWoy0bSync1fYPf445tO0La?rtpof=true\&usp=drive\_fs)
 {% endembed %}
 
 ## Assignment
 
-[Breaking the norm](https://docs.google.com/document/d/1cPtXCaXR0XqB-AK5CIyAbEy0ltLhljpw4LSithyXvtk?authuser=ttezcan%40csumb.edu\&usp=drive\_fs)
+[Breaking the norm](https://docs.google.com/document/d/1jFcIf89mfeGHYQEIf7\_t2NLK8wHrV\_HK?rtpof=true\&usp=drive\_fs)
 
 ## Video
 

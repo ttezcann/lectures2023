@@ -20,13 +20,13 @@ layout:
 
 ## Slides
 
-{% embed url="https://docs.google.com/presentation/d/1Vt64mMBbNdwEFCE_UMge7r6_Hz2M0WvBq4Xl93o7_Hg/edit?usp=sharing" %}
-[**Downloadable slides here**](https://docs.google.com/presentation/d/1Vt64mMBbNdwEFCE\_UMge7r6\_Hz2M0WvBq4Xl93o7\_Hg/edit?usp=sharing)
+{% embed url="https://docs.google.com/presentation/d/1grrxWaa0Q4TGBJVssYW7ZuQOwDug8HOb?rtpof=true&usp=drive_fs" %}
+[**Downloadable slides here**](https://docs.google.com/presentation/d/1grrxWaa0Q4TGBJVssYW7ZuQOwDug8HOb?rtpof=true\&usp=drive\_fs)
 {% endembed %}
 
 ## Assignment
 
-[Change.org petitions](https://docs.google.com/document/d/1lelwqwKLqEhuXXzrkDtr6Dul2CT901JneuLLUXWFM5A/edit?usp=sharing)
+[Change.org petitions](https://docs.google.com/document/d/1grzvdOFg6PF5FwW0n6F3LCuY2L\_hbGJk?rtpof=true\&usp=drive\_fs)
 
 ## Video
 

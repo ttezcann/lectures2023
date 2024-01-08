@@ -20,13 +20,13 @@ layout:
 
 ## Slides
 
-{% embed url="https://docs.google.com/presentation/d/1dP1tlEsV9FrkZu0T7EbolBABCIQG1CZyWIGjQDICKxg/edit?usp=sharing" %}
-[**Downloadable slides here**](https://docs.google.com/presentation/d/1dP1tlEsV9FrkZu0T7EbolBABCIQG1CZyWIGjQDICKxg/edit?usp=sharing)
+{% embed url="https://docs.google.com/presentation/d/1bZXz0fLtEAfxVt5euzWq21UkzLRy3PIc?rtpof=true&usp=drive_fs" %}
+[**Downloadable slides here**](https://docs.google.com/presentation/d/1bZXz0fLtEAfxVt5euzWq21UkzLRy3PIc?rtpof=true\&usp=drive\_fs)
 {% endembed %}
 
 ## Assignment
 
-[Identifying push and pull factors](https://docs.google.com/document/d/1q\_7hI9ut-kLmV\_EPLN3xoK3qaNyz3LDT18U3dKAdVS0/edit?usp=sharing)
+[Identifying push and pull factors](https://docs.google.com/document/d/1bLre3l5MnYHtNPRMhY4sb3wrGXtvNsvt?rtpof=true\&usp=drive\_fs)
 
 ## Video
 

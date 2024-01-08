@@ -20,13 +20,13 @@ layout:
 
 ## Slides
 
-{% embed url="https://docs.google.com/presentation/d/1vEZbB4GoAquh73Qx7vE7L2GfejOWf1aY0vI0DbOCxOQ/edit?usp=sharing" %}
-[**Downloadable slides here**](https://docs.google.com/presentation/d/1vEZbB4GoAquh73Qx7vE7L2GfejOWf1aY0vI0DbOCxOQ/edit?usp=sharing)
+{% embed url="https://docs.google.com/presentation/d/1frsr5dkSCAm8rDgU6mAeZbs-N4EU3vdq?rtpof=true&usp=drive_fs" %}
+[**Downloadable slides here**](https://docs.google.com/presentation/d/1frsr5dkSCAm8rDgU6mAeZbs-N4EU3vdq?rtpof=true\&usp=drive\_fs)
 {% endembed %}
 
 ## Assignment
 
-[Social institutions](https://docs.google.com/document/d/1856WXfsiFYLzhfWPY0oNnggCBr1NG83z7F0YpXt\_UQM?usp=drive\_fs)
+[Social institutions](https://docs.google.com/document/d/1ftxUIcuudNM09ZkWyoQezJLDPlaIVQvd?rtpof=true\&usp=drive\_fs)
 
 ## Video
 

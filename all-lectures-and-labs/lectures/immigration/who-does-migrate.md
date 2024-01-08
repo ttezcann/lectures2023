@@ -22,13 +22,13 @@ layout:
 
 ## Slides
 
-{% embed url="https://docs.google.com/presentation/d/10gjl-tHfwd7rNvRzUNhE6wi3rKYn-Rv9tM8Ps2FtGLE/edit?usp=sharing" %}
-[**Downloadable slides here**](https://docs.google.com/presentation/d/10gjl-tHfwd7rNvRzUNhE6wi3rKYn-Rv9tM8Ps2FtGLE/edit?usp=sharing)
+{% embed url="https://docs.google.com/presentation/d/1bewsAvkDWrdcqwut7ugvPxJuTAC0aHXi?rtpof=true&usp=drive_fs" %}
+[**Downloadable slides here**](https://docs.google.com/presentation/d/1bewsAvkDWrdcqwut7ugvPxJuTAC0aHXi?rtpof=true\&usp=drive\_fs)
 {% endembed %}
 
 ## Assignment
 
-[Migration decision making process](https://docs.google.com/document/d/1LPid\_2pTF1wQXZuIghCvFUEgs1CSoZP4mGrE6bbH3rc/edit?usp=sharing)
+[Migration decision making process](https://docs.google.com/document/d/1bd3HpruqUFCgsDqxL7tsOItRUTlv\_3iP?rtpof=true\&usp=drive\_fs)
 
 ## Video
 

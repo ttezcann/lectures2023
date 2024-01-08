@@ -20,13 +20,13 @@ layout:
 
 ## Slides
 
-{% embed url="https://docs.google.com/presentation/d/11hlVX7BZcL-oCRiV6NWZZHYv-1q1UJU2vJFRp-uvQd4/edit?usp=sharing" %}
-[**Downloadable slides here**](https://docs.google.com/presentation/d/11hlVX7BZcL-oCRiV6NWZZHYv-1q1UJU2vJFRp-uvQd4/edit?usp=sharing)
+{% embed url="https://docs.google.com/presentation/d/1jxG4AVIx0S2ulmVOH2CB01BZct5ORLE2?rtpof=true&usp=drive_fs" %}
+[**Downloadable slides here**](https://docs.google.com/presentation/d/1jxG4AVIx0S2ulmVOH2CB01BZct5ORLE2?rtpof=true\&usp=drive\_fs)
 {% endembed %}
 
 ## Assignment
 
-[Story of addiction](https://docs.google.com/document/d/1dg\_v4vmzvxqya2sbSPKf3HaarNA01x51cFwt8XzLrG8?authuser=ttezcan%40csumb.edu\&usp=drive\_fs)
+[Story of addiction](https://docs.google.com/document/d/1k1E3X5gfkFcJJYBEaGitXVTTudOzQDBC?rtpof=true\&usp=drive\_fs)
 
 ## Video
 

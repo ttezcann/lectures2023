@@ -20,13 +20,13 @@ layout:
 
 ## Slides
 
-{% embed url="https://docs.google.com/presentation/d/1vP3Ikt30bt8RCoTYdY27O7eZWeY922VUAZC1zg2rT-U?usp=drive_fs" %}
-[**Downloadable slides here**](https://docs.google.com/presentation/d/1vP3Ikt30bt8RCoTYdY27O7eZWeY922VUAZC1zg2rT-U?usp=drive\_fs)
+{% embed url="https://docs.google.com/presentation/d/1hR84knhlCFuiG58b12Olmr0OL6_eZEzN?rtpof=true&usp=drive_fs" %}
+[**Downloadable slides here**](https://docs.google.com/presentation/d/1hR84knhlCFuiG58b12Olmr0OL6\_eZEzN?rtpof=true\&usp=drive\_fs)
 {% endembed %}
 
 ## Assignment
 
-[A difference of opinion: Organic dog meat](https://docs.google.com/document/d/1kj6j8UVZ1aPol9MDxA84ZKglEgwvp4k3PzQBiRfy7m8?usp=drive\_fs)
+[A difference of opinion: Organic dog meat](https://docs.google.com/document/d/1hSw0g8rZ5zdvmQfYUBCk8CKmkpn1u9R3?rtpof=true\&usp=drive\_fs)
 
 ## Video
 

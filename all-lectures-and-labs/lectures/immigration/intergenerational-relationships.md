@@ -20,13 +20,13 @@ layout:
 
 ## Slides
 
-{% embed url="https://docs.google.com/presentation/d/1LVc16hbkwy6NCcdglfjTb4TPJWkPDQCUIIwdTJUq0UE/edit?usp=sharing" %}
-[**Downloadable slides here**](https://docs.google.com/presentation/d/1LVc16hbkwy6NCcdglfjTb4TPJWkPDQCUIIwdTJUq0UE/edit?usp=sharing)
+{% embed url="https://docs.google.com/presentation/d/1dbXm_8M17NcCbecQIUEKeu5uFgeQOhJb?rtpof=true&usp=drive_fs" %}
+[**Downloadable slides here**](https://docs.google.com/presentation/d/1dbXm\_8M17NcCbecQIUEKeu5uFgeQOhJb?rtpof=true\&usp=drive\_fs)
 {% endembed %}
 
 ## Assignment
 
-No assignment
+[Screenwriting: Intergenerational relationships](https://docs.google.com/document/d/1dalSM9Ehn\_IPrLrE\_bo-Q1oyEfYOp5jU/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
 
 ## Video
 

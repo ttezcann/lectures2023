@@ -20,13 +20,13 @@ layout:
 
 ## Slides
 
-{% embed url="https://docs.google.com/presentation/d/1w3fVsJklYeaVH145kDvrLGZ8_T8v49BDFFqQQmeKrdw/edit?usp=sharing" %}
-[**Downloadable slides here**](https://docs.google.com/presentation/d/1w3fVsJklYeaVH145kDvrLGZ8\_T8v49BDFFqQQmeKrdw/edit?usp=sharing)
+{% embed url="https://docs.google.com/presentation/d/1gAj-ijFwlDKC8tl-K6wASf2gszDE0CA1?rtpof=true&usp=drive_fs" %}
+[**Downloadable slides here**](https://docs.google.com/presentation/d/1gAj-ijFwlDKC8tl-K6wASf2gszDE0CA1?rtpof=true\&usp=drive\_fs)
 {% endembed %}
 
 ## Assignment
 
-[Critical thinking scale](https://docs.google.com/document/d/1t-tIoJ\_9RIUaEQpy0Z12apDg2a3CfuD125dUdTrqjQY/edit?usp=sharing)
+[Critical thinking scale](https://docs.google.com/document/d/1gKYJXefXZ\_e43sRbACFgyeZBZCzfzdJs?rtpof=true\&usp=drive\_fs)
 
 ## Video
 

@@ -20,13 +20,13 @@ layout:
 
 ## Slides
 
-{% embed url="https://docs.google.com/presentation/d/1xXXuU_cY6Pf97B-oD59QRYbC-rE8-NPU1ZnCBphoL0g/edit?usp=sharing" %}
-[**Downloadable slides here**](https://docs.google.com/presentation/d/1xXXuU\_cY6Pf97B-oD59QRYbC-rE8-NPU1ZnCBphoL0g/edit?usp=sharing)
+{% embed url="https://docs.google.com/presentation/d/1gj3ZaInw_HP_dh2iRN_eLhbZuXVCLWNR?rtpof=true&usp=drive_fs" %}
+[**Downloadable slides here**](https://docs.google.com/presentation/d/1gj3ZaInw\_HP\_dh2iRN\_eLhbZuXVCLWNR?rtpof=true\&usp=drive\_fs)
 {% endembed %}
 
 ## Assignment
 
-[Making everyday arguments](https://docs.google.com/document/d/1cI64sghedZhsRb7T38u7YEUJXVTfU98L7IJYeSxVsho/edit?usp=sharing)
+[Making everyday arguments](https://docs.google.com/document/d/1gkTzIPQq0mH3hN6DK-\_KYB-\_-kH5R4gM?rtpof=true\&usp=drive\_fs)
 
 ## Video
 

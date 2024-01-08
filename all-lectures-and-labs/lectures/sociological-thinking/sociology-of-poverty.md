@@ -20,13 +20,13 @@ layout:
 
 ## Slides
 
-{% embed url="https://docs.google.com/presentation/d/1hljfc_e52uTketFDWJPCPniKDxpoKsF4jc7puoerhx8?authuser=ttezcan%40csumb.edu&usp=drive_fs" %}
-[**Downloadable slides here**](https://docs.google.com/presentation/d/1hljfc\_e52uTketFDWJPCPniKDxpoKsF4jc7puoerhx8?authuser=ttezcan%40csumb.edu\&usp=drive\_fs)
+{% embed url="https://docs.google.com/presentation/d/1jjvjnqDHHCWKmqmAdYGZORJWrhMWO5jV?rtpof=true&usp=drive_fs" %}
+[**Downloadable slides here**](https://docs.google.com/presentation/d/1jjvjnqDHHCWKmqmAdYGZORJWrhMWO5jV?rtpof=true\&usp=drive\_fs)
 {% endembed %}
 
 ## Assignment
 
-[Poverty map](https://docs.google.com/document/d/1sUTFqR8EqVX7j77P83xAfAH14S-XpNc00h0E6KBZqTY?authuser=ttezcan%40csumb.edu\&usp=drive\_fs)
+[Poverty map](https://docs.google.com/document/d/1joZ4Gz48-JunzT-m0Pb4KzMCXpiNcVmf?rtpof=true\&usp=drive\_fs)
 
 ## Video
 

@@ -17,17 +17,17 @@ layout:
 ## Reading
 
 * [Assimilation models, old and new: Explaining a long-term process](https://drive.google.com/file/d/1jVOvbYzPrcRM1RwGfj9DOzDQzpY5B7qB/view?usp=sharing)
-* <mark style="color:purple;">**\[Optional]**</mark> [Critically assessing classic assimilation theory and alternative perspectives for immigrants and the second generation in the United States](https://drive.google.com/file/d/1Bms4NKp7NZ8-U1hvnjT-KIfUtDHD49j9/view?usp=sharing)
+* <mark style="color:orange;">**\[Optional]**</mark> [Critically assessing classic assimilation theory and alternative perspectives for immigrants and the second generation in the United States](https://drive.google.com/file/d/1Bms4NKp7NZ8-U1hvnjT-KIfUtDHD49j9/view?usp=sharing)
 
 ## Slides
 
-{% embed url="https://docs.google.com/presentation/d/1KkRQ58dVywz-UrXcVtLuBqmNH3GtzkL0B6j1stpX6iY/edit?usp=sharing" %}
-[**Downloadable slides here**](https://docs.google.com/presentation/d/1KkRQ58dVywz-UrXcVtLuBqmNH3GtzkL0B6j1stpX6iY/edit?usp=sharing)
+{% embed url="https://docs.google.com/presentation/d/1bsqj59Dx1n5ZyvR-8u37_l8kuXRb3inr?rtpof=true&usp=drive_fs" %}
+[**Downloadable slides here**](https://docs.google.com/presentation/d/1bsqj59Dx1n5ZyvR-8u37\_l8kuXRb3inr?rtpof=true\&usp=drive\_fs)
 {% endembed %}
 
 ## Assignment
 
-[Researching assimilation](https://docs.google.com/document/d/1Fljxz\_eK-Nmx3HohY19P6x1MzzPtrwIsws7ZLARdL7k/edit?usp=sharing)
+[Researching assimilation](https://docs.google.com/document/d/1bovBiJkFnmykfRCyvD\_zgLf8jrO5gODR?rtpof=true\&usp=drive\_fs)
 
 ## Video
 

@@ -20,13 +20,13 @@ layout:
 
 ## Slides
 
-{% embed url="https://docs.google.com/presentation/d/1kzmq7Dyu4YPmgnVwzMTmKBXh6KM8sxivIiN7i0Ol1Dc/edit?usp=sharing" %}
-[**Downloadable slides here**](https://docs.google.com/presentation/d/1kzmq7Dyu4YPmgnVwzMTmKBXh6KM8sxivIiN7i0Ol1Dc/edit?usp=sharing)
+{% embed url="https://docs.google.com/presentation/d/1e7l-lBs_on_v8KejxhIJ2-U9OwLyapg0?rtpof=true&usp=drive_fs" %}
+[**Downloadable slides here**](https://docs.google.com/presentation/d/1e7l-lBs\_on\_v8KejxhIJ2-U9OwLyapg0?rtpof=true\&usp=drive\_fs)
 {% endembed %}
 
 ## Assignment
 
-[Immigration and crime exercise](https://docs.google.com/document/d/1Otw1uyZ0bkzCiRauDwh9EzZ01LzLuOzhW5Dfrfapy4M?authuser=ttezcan%40csumb.edu\&usp=drive\_fs)
+[Immigration and crime exercise](https://docs.google.com/document/d/1e9rog1nHUaAx8vxs89fM59wDhiaGi5lw?rtpof=true\&usp=drive\_fs)
 
 ## Video
 
