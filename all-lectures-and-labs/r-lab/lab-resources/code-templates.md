@@ -73,6 +73,48 @@ descr(gss$age, out = "v", show = "short")
 
 ## recodings
 
+### RECODING EXAMPLE
+
+{% hint style="info" %}
+Imagine we want to use “the level of physical effort required at work” (<mark style="color:orange;">phyeffrt</mark>) variable in our analyses. First, check the frequency distribution to see what 1, 2. 3, etc., mean.
+
+**Code:**&#x20;
+
+frq(gss$<mark style="color:orange;">phyeffrt</mark>, out = "v")
+
+\
+![](https://lh7-us.googleusercontent.com/48NuP2iAmjMh3rDSuVo-dP9gjMoYOFk7fV73EfyrlmNaGkg5H-7xjgyiJdsRUKMd4YssBOXZoz0A88Or6Po7LiCCYh1\_FTZ7FVoqZ7T\_DjrCWop9MamImTksXY8wPZmUBhjKibFDoaDX\_TUK1Y\_U4gs)
+
+Higher values should indicate greater physical effort, but this isn't the case. Thus, we need to change the direction of the responses:
+
+
+
+the new variable name comes first: <mark style="color:red;">phyeffrtnew</mark>
+
+the original variable name comes second: <mark style="color:orange;">phyeffrt</mark>
+
+
+
+**Code:**&#x20;
+
+gss$<mark style="color:red;">phyeffrtnew</mark> <- rec(gss$<mark style="color:orange;">phyeffrt</mark>, rec =&#x20;
+
+"1=5 \[very hard];&#x20;
+
+2=4 \[hard];
+
+3=3 \[somewhat hard];
+
+4=2 \[fairly light];
+
+5=1 \[very light]", append = FALSE)
+
+\
+Running the code above will create a new variable, <mark style="color:red;">phyeffrtnew</mark>, that we will use in our analysis.
+{% endhint %}
+
+
+
 {% hint style="warning" %}
 required package(s): library(sjmisc)
 {% endhint %}
@@ -482,6 +524,36 @@ tab_model(model4, show.std = TRUE, show.ci = FALSE, collapse.se = TRUE, p.style 
 ```
 
 ## dummy variables
+
+### DUMMY EXAMPLE
+
+{% hint style="info" %}
+<mark style="background-color:orange;">First step:</mark> Check the frequency distribution of the original variable to see what the values (1, 2, 3, etc.) mean.
+
+**Code:**&#x20;
+
+```r
+frq(gss$happy, out = "v")
+```
+
+![](<../../../.gitbook/assets/image (32).png>)
+
+
+
+<mark style="background-color:orange;">Second step</mark>: Create dummy variables for each category.
+
+**Codes:**
+
+```r
+gss$veryhappy <- ifelse(gss$happy == 1, 1, 0)
+gss$prettyhappy <- ifelse(gss$happy == 2, 1, 0)
+gss$nottoohappy <- ifelse(gss$happy == 3, 1, 0)
+```
+
+
+
+<mark style="background-color:orange;">Third step:</mark> Do not include (omit) one of the dummy variables in your model. The omitted dummy variable is called “comparison category” and should be used in interpretation as well.
+{% endhint %}
 
 {% hint style="warning" %}
 required package(s): no package needed
