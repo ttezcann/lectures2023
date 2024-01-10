@@ -14,6 +14,8 @@ layout:
 
 # Lecture reflections
 
+[\[Template is here\]](https://docs.google.com/document/d/1I80pL9soAq\_4owA7nPxa5s\_iL8lQh\_DG/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
+
 {% hint style="info" %}
 There are two guidelines here: (1) Reading reflection and (2) Lecture video reflection
 {% endhint %}
