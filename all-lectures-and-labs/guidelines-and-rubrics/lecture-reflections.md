@@ -24,11 +24,11 @@ Students will submit a reading reflection <mark style="color:red;">(250 words or
 
 After completing the reading, students write brief responses (i.e., at least several sentences) to two questions. While the first question asks for the main points of the reading, the second question needs students to focus on a specific issue in the reading. Then, students formulate a question about the specific issue that they discussed in the second question. Students should make sure to provide enough justification/ground in Question 2 for their question to provoke some discussion.
 
-<mark style="color:yellow;">**Question 1:**</mark> What is the main point of this reading? What is the main idea that the reading points out? Your response is not a summary of the readings, but an analysis of it in a way that creates new meaning for you **(15 points)**.
+<mark style="color:orange;">**Question 1:**</mark> What is the main point of this reading? What is the main idea that the reading points out? Your response is not a summary of the readings, but an analysis of it in a way that creates new meaning for you **(15 points)**.
 
-<mark style="color:yellow;">**Question 2:**</mark> What is the specific issue/topic you are most interested in presented in assigned reading for the lecture? Write a paragraph to teach this specific issue/topic to your peers and prepare to present it in class **(20 points)**.
+<mark style="color:orange;">**Question 2:**</mark> What is the specific issue/topic you are most interested in presented in assigned reading for the lecture? Write a paragraph to teach this specific issue/topic to your peers and prepare to present it in class **(20 points)**.
 
-<mark style="color:yellow;">**Your Question:**</mark> The purpose of this section is to dive deeper into the specific topic or issue you discussed in Question 2, stimulating a rich discussion among your peers. Your question should be about the specific issue/topic you stated in “Question 2”, something you already know the answer to.&#x20;
+<mark style="color:orange;">**Your Question:**</mark> The purpose of this section is to dive deeper into the specific topic or issue you discussed in Question 2, stimulating a rich discussion among your peers. Your question should be about the specific issue/topic you stated in “Question 2”, something you already know the answer to.&#x20;
 
 Your question should be comprehensive, requiring multiple follow-up questions. While the primary inquiry should be explicit, it should be detailed and complex enough to open avenues for extensive discussion. Your question should spark some discussion and you will be able to lead that discussion (**15 points)**.
 
@@ -96,7 +96,7 @@ Follow the following format in your submission **(Otherwise -10)**:
 
 <table data-header-hidden><thead><tr><th width="116"></th><th></th></tr></thead><tbody><tr><td>Q1</td><td>In the reading, it overviews the idea that ethnic diversity is accompanied by ethnic stratification leading to the idea that the majority of the white population is at the top of the hierarchy and minorities that come from less developed countries can be seen at the bottom. In the reading, it stated that there is a growing social census and that neighborhood deprivation may be an important factor above and beyond the parental social disadvantage. As they stay in these tight-knit communities they feel more comfortable as the majority of these people may experience similar events or experiences. Migrants are disadvantaged because the overall process is uncontrollable when it comes to roadblocks. Such roadblocks immigrants may encounter are social background, language fluency, social capital, prejudice, and discrimination. It was said that minorities are proven to have bigger continuation rates in their educational career, but minorities experience cumulative disadvantages and other barriers in the labor market. </td></tr><tr><td>Q2</td><td><mark style="background-color:orange;">(Discrimination and racism)</mark> Specifically, when exploring the experiences of immigrants seeking citizenship, the concept of institutional discrimination plays a crucial role in shaping their employment prospects. Additionally, students from immigrant backgrounds often encounter significant disparities in academic achievement, reflected in lower test scores throughout their school trajectories. Moreover, discrimination within the labor market serves as a compelling explanation for the persistent struggles faced by minority populations in securing employment opportunities. By examining these sociological dimensions, we can gain a deeper understanding of the multifaceted impact of discrimination and racism on immigrants' lives and societal inclusion.</td></tr><tr><td>YQ</td><td>In the context of sociological analysis, the literature suggests that teachers in Denmark tend to hold lower expectations for students with immigrant backgrounds compared to their peers. This raises an important question about the fairness of such differential expectations. Should teachers not treat all students equally by setting uniform expectations, even if it requires providing additional support to certain students? How do teachers' expectations influence the educational experiences and achievements of students with immigrant backgrounds? Are these lower expectations contributing to an achievement gap between students from different backgrounds?<br></td></tr><tr><td>WC (-5)</td><td>342<br></td></tr></tbody></table>
 
-## Lecture video reflection guidelines
+## Video reflection guidelines
 
 Upon completion of the reading reflection, students are required to submit a lecture video reflection of at least <mark style="color:red;">600 words</mark> on a designated lecture **(50 points)**.
 
@@ -110,6 +110,8 @@ For instance, in a 25-minute video, the divisions could be approximately 8 minut
 
 At the conclusion of each third (both the first and second), students should note the time code (in minute:second format) where the segment ends, e.g., (1) 07:23 and (2) 14:12.
 
+## Video reflection for grading
+
 When composing the lecture video reflections, students should achieve two primary objectives:
 
 * Demonstrate a comprehensive understanding of the lecture content,
@@ -121,3 +123,11 @@ When composing the lecture video reflections, students should achieve two primar
   * Connect points from each video segment to a real-world example. This can include current events, historical instances, case studies, or personal experiences that illustrate the concept in action.
   * Draw connections between the lecture content and the assigned reading materials. Discuss how the video complements, expands, or challenges the ideas presented in the readings.
   * Write thoughtful questions or critiques regarding the lecture content.
+
+Submissions followed the criteria above will get full credit for this part.
+
+## Format
+
+Follow the following format in your submission **(Otherwise -10)**:
+
+<table data-header-hidden><thead><tr><th width="175"></th><th></th></tr></thead><tbody><tr><td>1/3 of the video and time code </td><td><p><br></p><p>end with the time code (minute:second), for example, 07:23</p></td></tr><tr><td>WC (-5)</td><td><br></td></tr><tr><td>2/3 of the video</td><td><p><br></p><p>end with the time code (minute:second), for example, 14:12</p></td></tr><tr><td>WC (-5)</td><td><br></td></tr><tr><td>Rest of the video</td><td><br></td></tr><tr><td>WC (-5)</td><td><br></td></tr><tr><td>Total WC (-5):</td><td><br></td></tr></tbody></table>
