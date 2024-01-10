@@ -96,4 +96,28 @@ Follow the following format in your submission **(Otherwise -10)**:
 
 <table data-header-hidden><thead><tr><th width="116"></th><th></th></tr></thead><tbody><tr><td>Q1</td><td>In the reading, it overviews the idea that ethnic diversity is accompanied by ethnic stratification leading to the idea that the majority of the white population is at the top of the hierarchy and minorities that come from less developed countries can be seen at the bottom. In the reading, it stated that there is a growing social census and that neighborhood deprivation may be an important factor above and beyond the parental social disadvantage. As they stay in these tight-knit communities they feel more comfortable as the majority of these people may experience similar events or experiences. Migrants are disadvantaged because the overall process is uncontrollable when it comes to roadblocks. Such roadblocks immigrants may encounter are social background, language fluency, social capital, prejudice, and discrimination. It was said that minorities are proven to have bigger continuation rates in their educational career, but minorities experience cumulative disadvantages and other barriers in the labor market. </td></tr><tr><td>Q2</td><td><mark style="background-color:orange;">(Discrimination and racism)</mark> Specifically, when exploring the experiences of immigrants seeking citizenship, the concept of institutional discrimination plays a crucial role in shaping their employment prospects. Additionally, students from immigrant backgrounds often encounter significant disparities in academic achievement, reflected in lower test scores throughout their school trajectories. Moreover, discrimination within the labor market serves as a compelling explanation for the persistent struggles faced by minority populations in securing employment opportunities. By examining these sociological dimensions, we can gain a deeper understanding of the multifaceted impact of discrimination and racism on immigrants' lives and societal inclusion.</td></tr><tr><td>YQ</td><td>In the context of sociological analysis, the literature suggests that teachers in Denmark tend to hold lower expectations for students with immigrant backgrounds compared to their peers. This raises an important question about the fairness of such differential expectations. Should teachers not treat all students equally by setting uniform expectations, even if it requires providing additional support to certain students? How do teachers' expectations influence the educational experiences and achievements of students with immigrant backgrounds? Are these lower expectations contributing to an achievement gap between students from different backgrounds?<br></td></tr><tr><td>WC (-5)</td><td>342<br></td></tr></tbody></table>
 
-###
+## Lecture video reflection guidelines
+
+Upon completion of the reading reflection, students are required to submit a lecture video reflection of at least <mark style="color:red;">600 words</mark> on a designated lecture **(50 points)**.
+
+The reflection process involves segmenting the lecture video into three equal parts:
+
+* <mark style="color:orange;">The first third of the video (1/3),</mark>&#x20;
+* <mark style="color:orange;">The second third of the video (2/3),</mark>
+* <mark style="color:orange;">The remaining third of the video.</mark>&#x20;
+
+For instance, in a 25-minute video, the divisions could be approximately 8 minutes, 8 minutes, and 9 minutes, respectively. Alternatively, they could be divided as 9-8-8 or 8-9-8 minutes. Should a particular segment of the video focus extensively on a specific slide, leading to a slight imbalance in the division (such as 10-8-7 minutes), this is acceptable.
+
+At the conclusion of each third (both the first and second), students should note the time code (in minute:second format) where the segment ends, e.g., (1) 07:23 and (2) 14:12.
+
+When composing the lecture video reflections, students should achieve two primary objectives:
+
+* Demonstrate a comprehensive understanding of the lecture content,
+  * For each segment of the video, identify the key concepts or theories presented.
+  * Provide an explanation of the identified concept or theory in your own words and understanding. Do not paraphrase what the slides or videos mention.
+  * Discuss its significance within the context of the lecture.
+  * Reflect on why those concepts or theories is crucial to the overall understanding of the subject matter.
+* Persuasively assure the instructor that they have watched the entire video,
+  * Connect points from each video segment to a real-world example. This can include current events, historical instances, case studies, or personal experiences that illustrate the concept in action.
+  * Draw connections between the lecture content and the assigned reading materials. Discuss how the video complements, expands, or challenges the ideas presented in the readings.
+  * Write thoughtful questions or critiques regarding the lecture content.
