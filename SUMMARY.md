@@ -2,7 +2,7 @@
 
 * [All lectures and labs](README.md)
   * [Guidelines and rubrics](all-lectures-and-labs/guidelines-and-rubrics/README.md)
-    * [Reading reflections](all-lectures-and-labs/guidelines-and-rubrics/reading-reflections.md)
+    * [Lecture reflections](all-lectures-and-labs/guidelines-and-rubrics/lecture-reflections.md)
     * [Office hours](all-lectures-and-labs/guidelines-and-rubrics/office-hours.md)
     * [How to take a screenshot](all-lectures-and-labs/guidelines-and-rubrics/how-to-take-a-screenshot.md)
     * [How to submit an assignment](all-lectures-and-labs/guidelines-and-rubrics/how-to-submit-an-assignment.md)
