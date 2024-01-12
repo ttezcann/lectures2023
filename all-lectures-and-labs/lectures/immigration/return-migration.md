@@ -27,10 +27,12 @@ layout:
 ## Slides
 
 {% embed url="https://docs.google.com/presentation/d/1doSW1p4-8RtZwWXV0uBgSphKfa3csb00?rtpof=true&usp=drive_fs" %}
+[**Downloadable slides here**](https://docs.google.com/presentation/d/1doSW1p4-8RtZwWXV0uBgSphKfa3csb00?rtpof=true\&usp=drive\_fs)
+{% endembed %}
 
 ## Assignment
 
-[Return migration factors](https://docs.google.com/document/d/1XoYIS07eB9z9ojBT9l15HsY\_NUZIyrFDDS7hw2Sq7Ew?usp=drive\_fs)
+[Return migration factors](https://docs.google.com/document/d/1dqenYbaXWgOhVWTHsvKyTsJo5WbtqZ7E?rtpof=true\&usp=drive\_fs)
 
 ## Video
 
