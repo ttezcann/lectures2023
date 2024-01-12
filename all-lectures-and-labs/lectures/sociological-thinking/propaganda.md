@@ -27,7 +27,6 @@ layout:
 ## Assignment
 
 * [Propaganda in action](https://docs.google.com/document/d/1ht1\_iJVnMmZO9UKMeWXsmKiS3rjSSKH1?rtpof=true\&usp=drive\_fs)
-* Quiz. Check Canvas
 
 ## Video
 
