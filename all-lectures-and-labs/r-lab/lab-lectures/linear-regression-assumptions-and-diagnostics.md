@@ -14,13 +14,13 @@ layout:
 
 # Linear regression assumptions and diagnostics
 
-## R Script file
-
-[script\_linearregression\_assumptions\_diagnostics.R](https://drive.google.com/file/d/1-96PHHYux-ALVWfnfYYGmcQZx91h9743/view?usp=sharing)
-
 ## Reading
 
 [A Second Chance to Get Causal Inference Right A Classification of Data Science Tasks](https://drive.google.com/file/d/1FAbNAqXvEe7llEcbTP5bXRhJGEUi0yLC/view?usp=sharing)
+
+## R Script file
+
+[script\_linearregression\_assumptions\_diagnostics.R](https://drive.google.com/file/d/1-96PHHYux-ALVWfnfYYGmcQZx91h9743/view?usp=sharing)
 
 ## Slides
 
