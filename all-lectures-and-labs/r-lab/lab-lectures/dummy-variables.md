@@ -14,13 +14,13 @@ layout:
 
 # Dummy variables
 
+## Reading
+
+[Regression analysis with dummy variables](https://drive.google.com/file/d/1XVY6DkY5qRWzOT1gGY\_M9sXW1fy7YbK8/view?usp=sharing)
+
 ## R Script file
 
 [script\_dummy.R](https://drive.google.com/open?id=1Q151VBvC3s0SG1R8P9Yb\_0xGSku\_8hkj\&usp=drive\_fs)
-
-## Reading
-
-[Regression analysis with dummy variables](https://drive.google.com/file/d/1FEoLsVKyfF-WO5KU\_zjLp-b4iK\_YoUwO/view?usp=drive\_link)
 
 ## Slides
 
