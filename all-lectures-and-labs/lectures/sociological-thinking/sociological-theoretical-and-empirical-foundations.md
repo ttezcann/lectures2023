@@ -21,6 +21,8 @@ layout:
 ## Slides
 
 {% embed url="https://docs.google.com/presentation/d/1ffxgwYABQybSNDIfw0gMKo6PBNpLRs5l/edit?ouid=100179871492576617561&rtpof=true&sd=true&usp=sharing" %}
+[**Downloadable slides here**](https://docs.google.com/presentation/d/1ffxgwYABQybSNDIfw0gMKo6PBNpLRs5l?rtpof=true\&usp=drive\_fs)
+{% endembed %}
 
 ## Assignment
 
