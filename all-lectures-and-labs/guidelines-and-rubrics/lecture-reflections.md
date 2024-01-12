@@ -17,7 +17,11 @@ layout:
 [\[Template is here\]](https://docs.google.com/document/d/1I80pL9soAq\_4owA7nPxa5s\_iL8lQh\_DG/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
 
 {% hint style="info" %}
-There are two guidelines here: (1) Reading reflection and (2) Lecture video reflection
+There are two guidelines here:&#x20;
+
+(1) Reading reflection &#x20;
+
+(2) Lecture video reflection
 {% endhint %}
 
 ## Reading reflection guidelines and samples
@@ -100,7 +104,7 @@ Follow the following format in your submission **(Otherwise -10)**:
 
 ## Video reflection guidelines
 
-Upon completion of the reading reflection, students are required to submit a lecture video reflection of at least <mark style="color:red;">600 words</mark> on a designated lecture **(50 points)**.
+Upon completion of the reading reflection, students are required to submit a lecture video reflection of at least <mark style="color:red;">450 words</mark> on a designated lecture **(50 points)**.
 
 The reflection process involves segmenting the lecture video into three equal parts:
 
