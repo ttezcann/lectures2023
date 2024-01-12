@@ -14,6 +14,10 @@ layout:
 
 # Introduction to R and RStudio
 
+## Reading
+
+[Comparing four contemporary statistical software tools for introductory data science and statistics in the social sciences](https://drive.google.com/open?id=1z\_polsWq7UTcrwQ6wVTFhkOOs8x\_JsEn\&usp=drive\_fs)
+
 ## R Script file
 
 [script\_intro.R](https://drive.google.com/open?id=1q-dd3TMfDi7mLMkr-UcdmAYhi71y0r5A\&usp=drive\_fs)
