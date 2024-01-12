@@ -14,6 +14,10 @@ layout:
 
 # Introduction to scripting and dataset
 
+## Reading
+
+[The demise of the survey? A research note on trends in the use of survey data in the social sciences, 1939 to 2015](https://drive.google.com/file/d/1zdNiWlaal7qUUTXd755NFLkxLGEOXgfA/view?usp=sharing)
+
 ## R Script file
 
 [script\_scripting.R](https://drive.google.com/open?id=1ksWH9huWbEYaCsdgToB97rkiw4UPQmf1\&usp=drive\_fs)
