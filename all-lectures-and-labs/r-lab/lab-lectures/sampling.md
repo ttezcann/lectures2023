@@ -14,6 +14,10 @@ layout:
 
 # Sampling
 
+## Reading
+
+[Selecting samples](https://drive.google.com/file/d/1zvNjowBr8HWuvQyF69qlrmPyGewKlHT3/view?usp=sharing)
+
 ## R Script file
 
 [script\_sampling.R](https://drive.google.com/open?id=1DsmU1KFkjlHTkeJrVGc47IWS0vQ5OC9Z\&usp=drive\_fs)
