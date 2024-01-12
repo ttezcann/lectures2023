@@ -14,9 +14,13 @@ layout:
 
 # Qualitative (Content analysis) DRAFT research memo guideline and rubric
 
-[Click here to see the template you will use.](https://docs.google.com/document/d/1uNbySWvROGhAB13w69U4ZFMdBIO-k2RF?rtpof=true\&usp=drive\_fs)
+[**Click here to see the template you will use.**](https://docs.google.com/document/d/1uNbySWvROGhAB13w69U4ZFMdBIO-k2RF?rtpof=true\&usp=drive\_fs)
 
 Open it and click File <mark style="color:red;">**->**</mark> Copy.
+
+## Sample draft research memo
+
+[Sample draft research memo here](https://docs.google.com/document/d/1ztZ\_YJSLWejYitRIhZiJVfkFGMkeU965?rtpof=true\&usp=drive\_fs)
 
 ## The goal
 
@@ -111,7 +115,3 @@ NOT acceptable (-10 points for each):&#x20;
 
 * “In his work entitled ‘<mark style="color:red;">Research on grandparenting: needed refinements in concepts, theories, and methods’</mark> Szinovacz (1998) argued that grandparenthood has a multifaceted nature which lacks clear perceived and ascribed roles, and may embody different meanings, expectations and experiences in distinct cultural settings.
 * “The study titled ‘<mark style="color:red;">Grandparents across the ocean: Eastern European immigrants struggle to maintain intergenerational relationships</mark>’ argues that family unity across generations is vital for family survival (Nesteruk and Marks, 2009).”
-
-## Sample draft research memo
-
-[Sample draft research memo here](https://docs.google.com/document/d/1ztZ\_YJSLWejYitRIhZiJVfkFGMkeU965?rtpof=true\&usp=drive\_fs)
