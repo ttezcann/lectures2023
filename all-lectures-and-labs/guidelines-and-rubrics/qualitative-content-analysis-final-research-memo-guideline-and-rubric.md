@@ -14,9 +14,13 @@ layout:
 
 # Qualitative (Content analysis) FINAL research memo guideline and rubric
 
-[Click here to see the template you will use.](https://docs.google.com/document/d/1nwLeaCX5ymmPzQ0NMOv5jTBcfxuJ5MUG\_0xd5bZsxIw/edit?usp=sharing)
+[Click here to see the template you will use.](https://docs.google.com/document/d/1uYjqQcxMg7\_ltCZtKSTmkl7utzzVrLYk?rtpof=true\&usp=drive\_fs)
 
 Open it and click File -> Copy.
+
+## Sample final research memo
+
+[Sample final research memo here](https://docs.google.com/document/d/1V3494CCjSAP0pcROGn-3D7SL6Isq0qK\_/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
 
 ## The goal
 
@@ -143,7 +147,3 @@ NOT acceptable (-10 points for each):&#x20;
 
 * “In his work entitled ‘<mark style="color:red;">Research on grandparenting: needed refinements in concepts, theories, and methods’</mark> Szinovacz (1998) argued that grandparenthood has a multifaceted nature which lacks clear perceived and ascribed roles, and may embody different meanings, expectations and experiences in distinct cultural settings.
 * “The study titled ‘<mark style="color:red;">Grandparents across the ocean: Eastern European immigrants struggle to maintain intergenerational relationships</mark>’ argues that family unity across generations is vital for family survival (Nesteruk and Marks, 2009).”
-
-## Sample final research memo
-
-[Sample final research memo here](https://docs.google.com/document/d/1V3494CCjSAP0pcROGn-3D7SL6Isq0qK\_/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
