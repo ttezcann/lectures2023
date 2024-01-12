@@ -14,9 +14,9 @@ layout:
 
 # Statistical FINAL research memo guideline and rubric
 
-[Click here to see the template you will use.](https://docs.google.com/document/d/1HSAxsMpL9ca6053ghRU\_h8ZIu87J87KVJI9dSDtCYl8/edit?usp=sharing)
+[**Click here to see the template you will use.**](https://docs.google.com/document/d/1v0w1eOPUnsBcQSkmb9Tgg3tSgN3Yfq0h?rtpof=true\&usp=drive\_fs)
 
-Open it and click File -> Copy.
+Open it and click File <mark style="color:red;">**->**</mark> Copy.
 
 ## The goal
 
