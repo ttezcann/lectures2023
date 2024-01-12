@@ -14,13 +14,13 @@ layout:
 
 # Linear regression basics
 
-## R Script file
-
-[script\_linearregression\_basics.R](https://drive.google.com/open?id=1pB0o81aUJpBetvYpmmj2SE0QPgwpJQ51\&usp=drive\_fs)
-
 ## Reading
 
 [To Explain or to Predict](https://drive.google.com/file/d/1FCevBqd-SEf-s0afbzSRsmLfCJoLtiZZ/view?usp=sharing)
+
+## R Script file
+
+[script\_linearregression\_basics.R](https://drive.google.com/open?id=1pB0o81aUJpBetvYpmmj2SE0QPgwpJQ51\&usp=drive\_fs)
 
 ## Slides
 
