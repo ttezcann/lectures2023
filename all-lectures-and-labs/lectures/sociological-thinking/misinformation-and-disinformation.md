@@ -26,7 +26,9 @@ layout:
 
 ## Assignment
 
-Quiz. Check Canvas
+No assignment
+
+Collective in-class quiz (answers will be provided)
 
 ## Video
 
