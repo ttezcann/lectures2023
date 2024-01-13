@@ -93,26 +93,6 @@ Slides: [descriptive statistics](https://docs.google.com/presentation/d/1ukk4bfb
 
 ***
 
-## Crosstabs
-
-Crosstabs provide a tabular summary of two [categorical variables](#user-content-fn-12)[^12] and allow you to observe the relationship between them.
-
-```r
-sjt.xtab(gss$sex, gss$marital, show.col.prc = TRUE)
-```
-
-[Independent variable ](#user-content-fn-13)[^13]first (sex), [dependent variable](#user-content-fn-14)[^14] second (marital)
-
-<figure><img src="https://lh4.googleusercontent.com/ZSdGWC18qHfueYYP95-PNz-_hcEocgwq4VR0Gf8NIsO5QC3i96I3yNaXRko_zJ96yZpPbiNhBOJgjtchoT_Cfxvkmo5fDhyZ_eKgPVZv67kE3kUTLWVeXb2kO9A_PD-CzHoPpd_k4w1aFW3u19NaHMg" alt=""><figcaption></figcaption></figure>
-
-{% hint style="info" %}
-46.9% of the married people are males; 53.1% of the married people are females. 27.5% of the widowed people are males; 72.5% of the widowed people are females; 40% of the divorced people are males; 60% of the divorced people are females; 42.7% of the separated people are males; 57.3% of the separated people are females; 50% of the never married people are males; 50% of the never married people are females.
-{% endhint %}
-
-Slides: [descriptive statistics](https://docs.google.com/presentation/d/1ukk4bfb8eHoS2fezXlfgMbQgz91DGDuBJ5f5hX-1W3Q/edit?usp=sharing)
-
-***
-
 ## Chi-square (example 1)
 
 We utilize crosstabs for chi-square analysis, which is used to discover if there is a relationship between two categorical variables (we check the p value). We refer to statistically significant as p < 0.05. The Chi-Square Test can only compare categorical variables.&#x20;
@@ -223,7 +203,23 @@ plot_frq(gss$marital, type = "bar", geom.colors = "#336699")
 Same as frequency table interpretation
 
 \
-[The marital status variable](#user-content-fn-15)[^15] shows that 41.43%[^16] of the respondents are married;[^17] 7.23% of the respondents are widowed; 17.23% of the respondents are divorced; 2.92% of the respondents are separated; 31.20% of the respondents are never married.
+[The marital status variable](#user-content-fn-12)[^12] shows that 41.43%[^13] of the respondents are married;[^14] 7.23% of the respondents are widowed; 17.23% of the respondents are divorced; 2.92% of the respondents are separated; 31.20% of the respondents are never married.
+{% endhint %}
+
+Slides: [visualization](https://docs.google.com/presentation/d/1j8vQxVYCuG0s96EtUgcvMJoB5jN3wgV5iS-xgMyZKtk/edit?usp=sharing)
+
+## Histogram (for continuous variables)
+
+```r
+plot_frq(gss$educ, type = "hist",show.mean = TRUE, show.mean.val = TRUE, normal.curve = TRUE, show.sd = TRUE, normal.curve.color = "red")
+```
+
+<figure><img src="../../../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+Same as descriptive table interpretation
+
+The education in years variable shows that the average years of schooling of the respondents is 14.11, with standard deviation 2.89.
 {% endhint %}
 
 Slides: [visualization](https://docs.google.com/presentation/d/1j8vQxVYCuG0s96EtUgcvMJoB5jN3wgV5iS-xgMyZKtk/edit?usp=sharing)
@@ -599,28 +595,8 @@ The Tjur R-squared value indicates that 14.1% of the variation in being higher c
 
 [^11]: Express which continuous variable you analyze.
 
-[^12]: Categorical variables take on values that are names or labels, not real numbers.
+[^12]: use "what it measures" column of Variables in GSS page.
 
-[^13]: Independent variable (IV) causes a change in Dependent Variable (DV).
+[^13]: Always use "valid.prc" (valid percent) column of the tables.
 
-
-
-    Independent variables are the factors through which we attempt to explain our dependent variable.
-
-    \
-
-
-[^14]: The dependent variable (DV) is just like the name sounds; it depends upon some factor that you control.
-
-
-
-    Dependent variable is the main issue we investigate.
-
-    \
-
-
-[^15]: use "what it measures" column of Variables in GSS page.
-
-[^16]: Always use "valid.prc" (valid percent) column of the tables.
-
-[^17]: use the response sets.
+[^14]: use the response sets.
