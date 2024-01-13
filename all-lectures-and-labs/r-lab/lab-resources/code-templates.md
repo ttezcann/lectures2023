@@ -51,16 +51,6 @@ required package(s): library(sjmisc)
 frq(gss$sex, out = "v")
 ```
 
-## frequency table by groups aka crosstab (for categorical variables)
-
-{% hint style="warning" %}
-required package(s): library(sjPlot)
-{% endhint %}
-
-```r
-sjt.xtab(gss$sex, gss$marital, show.col.prc = TRUE)
-```
-
 ## descriptive table (for continuous variables)
 
 {% hint style="warning" %}
