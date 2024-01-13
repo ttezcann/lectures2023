@@ -14,6 +14,10 @@ layout:
 
 # Visualization
 
+## Reading
+
+[Look at data](https://drive.google.com/file/d/1-mkNa8JiPNKAY3vbAT0JWgaU-Pq2mmUt/view?usp=sharing)
+
 ## R Script file
 
 [script\_visualization.R](https://drive.google.com/open?id=1L1tOtO6DigVmWPvrjGgdYK\_zd6-piBUb\&usp=drive\_fs)
