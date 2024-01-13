@@ -36,5 +36,5 @@ layout:
 
 ## Video
 
-{% embed url="https://youtu.be/hT-VsZ72wHo" %}
+{% embed url="https://youtu.be/E7kSLMIw_Gw" %}
 
