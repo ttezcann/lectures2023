@@ -14,6 +14,10 @@ layout:
 
 # T-test
 
+## Reading
+
+[T-tests](https://drive.google.com/open?id=1-RXHYALU8IVq5fBnROKSLyhqVjGnrSNv\&usp=drive\_fs)
+
 ## R Script file
 
 [script\_ttest.R](https://drive.google.com/open?id=1-MALgYPrMhTOMJuSlvI782b09JSrhp0C\&usp=drive\_fs)
