@@ -32,6 +32,8 @@ layout:
 
 [RStudio lab assignment scripting](https://docs.google.com/document/d/1\_nM\_N35xnALjjEIgoDfvA68ai1iJMlk8?rtpof=true\&usp=drive\_fs)
 
+[RStudio lab assignment common errors and troubleshooting in RStudio](https://docs.google.com/document/d/101lAFYN8csZywv5qoGcJI5VokTBNog28/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
+
 ## Video
 
 {% embed url="https://youtu.be/hT-VsZ72wHo" %}
