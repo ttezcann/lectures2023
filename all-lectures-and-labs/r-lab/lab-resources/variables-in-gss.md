@@ -12,13 +12,13 @@ layout:
     visible: false
 ---
 
-# Variables in GSS 2022 uc
+# Variables in GSS
 
 ## Guideline
 
 ### What is this document?
 
-This document lists the variable names, what they measure, the full wording and response sets of each question from the GSS dataset (2022).
+This document lists the variable names, what they measure, the full wording and response sets of each question from the GSS dataset.
 
 ### Table A. Guideline of variable types
 

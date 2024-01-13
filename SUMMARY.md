@@ -96,7 +96,7 @@
       * [Linear regression assumptions and diagnostics](all-lectures-and-labs/r-lab/lab-lectures/linear-regression-assumptions-and-diagnostics.md)
     * [Lab resources](all-lectures-and-labs/r-lab/lab-resources/README.md)
       * [All R script files](all-lectures-and-labs/r-lab/lab-resources/all-r-script-files.md)
-      * [Variables in GSS 2022](all-lectures-and-labs/r-lab/lab-resources/variables-in-gss-2022.md)
+      * [Variables in GSS](all-lectures-and-labs/r-lab/lab-resources/variables-in-gss.md)
       * [Interpretation templates](all-lectures-and-labs/r-lab/lab-resources/interpretation-templates.md)
       * [Code templates](all-lectures-and-labs/r-lab/lab-resources/code-templates.md)
       * [Is my p-value less than 0.05?](all-lectures-and-labs/r-lab/lab-resources/is-my-p-value-less-than-0.05.md)
