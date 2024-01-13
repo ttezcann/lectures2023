@@ -14,6 +14,10 @@ layout:
 
 # Correlation
 
+## Reading
+
+[Correlation](https://drive.google.com/open?id=1tbgGJnak1D5nmn7LhuIsrin4LZUC1faM\&usp=drive\_fs)
+
 ## R Script file
 
 [script\_correlation.R](https://drive.google.com/open?id=1fzydcKVHKVhEp-E3TVSSs0rdpXDQiKWO\&usp=drive\_fs)
