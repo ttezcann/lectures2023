@@ -14,6 +14,10 @@ layout:
 
 # Logistic regression
 
+## Reading
+
+[A conceptual introduction to bivariate logistic regression](https://drive.google.com/file/d/1-SRjUuwh3\_Ts2d8v03wfZYaIXFxTdUiH/view?usp=sharing)
+
 ## R Script file
 
 [logistic.R](https://drive.google.com/open?id=1qC4Rt2CXs6quJEtTtZxkhV27xHXWUJkD\&usp=drive\_fs)
