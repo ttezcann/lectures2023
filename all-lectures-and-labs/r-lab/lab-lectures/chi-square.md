@@ -14,6 +14,10 @@ layout:
 
 # Chi-square
 
+## Reading
+
+[Inferential statistics and chi-square reading](https://drive.google.com/open?id=1-PbcGjr9TGm-9y8Y5-NfsIZr06lRRRr-\&usp=drive\_fs)
+
 ## R Script file
 
 [script\_chisquare.R](https://drive.google.com/open?id=1CjOawdrardp48XweOo1ALyZ4Hnl9RYaP\&usp=drive\_fs)
