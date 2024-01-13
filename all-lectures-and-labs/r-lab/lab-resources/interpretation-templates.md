@@ -19,28 +19,44 @@ Reminder:
 
 Ensure that your interpretations are clear enough for someone to understand your report **without** referring to the tables.
 
-Use "[Variables in GSS 2022](https://ttezcan.gitbook.io/lect/all-lectures-and-labs/r-lab/lab-resources/variables-in-gss-2022-uc)" document and check "What it measures" columns.
+Use "[Variables in GSS](https://ttezcan.gitbook.io/lect/all-lectures-and-labs/r-lab/lab-resources/variables-in-gss-2022-uc)" document and check "What it measures" columns, read the questions, and the response sets.
 
 
 
-Example 1:
+**Example 1:**
 
 Frequency code: frq(gss$<mark style="color:red;">wrkslf</mark>, out = "v")
 
 <img src="https://lh7-us.googleusercontent.com/3ndqYq-E4ooa2-Wwg1tOjxVRJSrg2oZtz_sO3ONxPyPFriLBw6BcXt4Q7aRxk2Y4ZBRTZxm4mCs_fvg3YlD7hNzKMWpBIMvrrp_1CORMAgfjvX_6P2C_9K7kUZkbfGZuXNQI4jtkekYcHIMQo-Vuc1w" alt="" data-size="original">
 
-<mark style="color:green;">Correct:</mark> “The respondents’ employment status variable shows that 11.54% of the GSS respondents are self-employed and 88.46% of them work for someone else."
+<mark style="color:green;">Correct:</mark> “The employment status variable shows that 11.54% of the respondents are self-employed and 88.46% of them work for someone else."
 
-<mark style="color:red;">Wrong:</mark> “the wrkslf shows that 11.54% of the GSS respondents are self-employed and 88.46% of them are someone else."
+<mark style="color:red;">Wrong:</mark> “The wrkslf shows that 11.54% of the respondents are self-employed and 88.46% of them are someone else."
 
-<mark style="color:red;">Wrong:</mark> the r self-emp or works for somebody shows that 11.54% of the GSS respondents are self-employed and 88.46% of them are someone else."\
+<mark style="color:red;">Wrong:</mark> the r self-emp or works for somebody shows that 11.54% of the respondents are self-employed and 88.46% of them are someone else."\
 
 
-Example 2:
+**Example 2:**
 
-<mark style="color:green;">Correct:</mark> The average confidence in education and scientific community index score of the GSS respondents is 2.11 out of 3, with standard deviation 0.52
+Descriptive code: descr(gss$<mark style="color:red;">educ</mark>, out = "v", show = "short")
 
-<mark style="color:red;">Wrong:</mark> The average confindex of the GSS respondents is 2.11 out of 3, with standard deviation 0.52
+![](<../../../.gitbook/assets/image (35).png>)
+
+<mark style="color:green;">Correct:</mark> The education in years variable shows that the average years of schooling (or education) of the respondents is 14.11, with standard deviation 2.89.
+
+<mark style="color:red;">Wrong:</mark> The education is 14.11, with standard deviation 2.89.
+
+
+
+**Example 3:**
+
+Descriptive code: descr(gss$<mark style="color:red;">hapindex</mark>, out = "v", show = "short")
+
+![](<../../../.gitbook/assets/image (34).png>)
+
+<mark style="color:green;">Correct:</mark> The average happiness index score of the respondents is 2.10 out of 3, with standard deviation 0.47
+
+<mark style="color:red;">Wrong:</mark> The average hapindex of the respondents is 2.10 out of 3, with standard deviation 0.47
 {% endhint %}
 
 ## Frequency tables
@@ -50,10 +66,10 @@ Example 2:
 <pre class="language-r"><code class="lang-r"><strong>frq(gss$<a data-footnote-ref href="#user-content-fn-3">marital</a>, out = <a data-footnote-ref href="#user-content-fn-4">"v"</a>)
 </strong></code></pre>
 
-<figure><img src="https://lh4.googleusercontent.com/NTKPIUoyV6uB4GIJqzGJJqtS6n8eF5xyEgbCtjGlISojVX9JuVS15OjCwuxzMa5u7oIHGzfMH_NUptWr9m5GkYwsI-oNtp4bD4GMxRVNTxXYfzTUqKfVO12spTKLP01tVnPan3zqQBJu4OseOHQczqo" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-42.54% of the GSS respondents are married; 8.53% of the GSS respondents are widowed; 17.18% of the GSS respondents are divorced; 3.20% of the GSS respondents are separated; 28.56% of the GSS respondents are never married.
+[The marital status variable](#user-content-fn-5)[^5] shows that 41.43%[^6] of the respondents are married;[^7] 7.23% of the respondents are widowed; 17.23% of the respondents are divorced; 2.92% of the respondents are separated; 31.20% of the respondents are never married.
 {% endhint %}
 
 Slides: [descriptive statistics](https://docs.google.com/presentation/d/1ukk4bfb8eHoS2fezXlfgMbQgz91DGDuBJ5f5hX-1W3Q/edit?usp=sharing)
@@ -62,15 +78,15 @@ Slides: [descriptive statistics](https://docs.google.com/presentation/d/1ukk4bfb
 
 ## Descriptive tables
 
-[Descriptive tables](#user-content-fn-5)[^5] are for [continuous variables](#user-content-fn-6)[^6].
+[Descriptive tables](#user-content-fn-8)[^8] are for [continuous variables](#user-content-fn-9)[^9].
 
-<pre class="language-r"><code class="lang-r">descr(gss$<a data-footnote-ref href="#user-content-fn-7">age</a>, out = "v", show = "short")
+<pre class="language-r"><code class="lang-r">descr(gss$<a data-footnote-ref href="#user-content-fn-10">age</a>, out = "v", show = "short")
 </code></pre>
 
 <figure><img src="https://lh4.googleusercontent.com/VyP_Y5PbQHUYcdaHudhITUxTdUnIHvZ299A_mfdhr9N4vYdfBd2ZWct-k6JisfExAA4oHf5s_tu-NRRpfmatrwnaN_WlZbLFMA0lpKITUjIhpjZFTgX0EnpnYFOQVwLO5j87gbwiIIaQA8li1bEZR6o" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-The average age[^8] of the GSS respondents is 48.97, with standard deviation 18.06.
+The average age[^11] of the GSS respondents is 48.97, with standard deviation 18.06.
 {% endhint %}
 
 Slides: [descriptive statistics](https://docs.google.com/presentation/d/1ukk4bfb8eHoS2fezXlfgMbQgz91DGDuBJ5f5hX-1W3Q/edit?usp=sharing)
@@ -79,13 +95,13 @@ Slides: [descriptive statistics](https://docs.google.com/presentation/d/1ukk4bfb
 
 ## Crosstabs
 
-Crosstabs provide a tabular summary of two [categorical variables](#user-content-fn-9)[^9] and allow you to observe the relationship between them.
+Crosstabs provide a tabular summary of two [categorical variables](#user-content-fn-12)[^12] and allow you to observe the relationship between them.
 
 ```r
 sjt.xtab(gss$sex, gss$marital, show.col.prc = TRUE)
 ```
 
-[Independent variable ](#user-content-fn-10)[^10]first (sex), [dependent variable](#user-content-fn-11)[^11] second (marital)
+[Independent variable ](#user-content-fn-13)[^13]first (sex), [dependent variable](#user-content-fn-14)[^14] second (marital)
 
 <figure><img src="https://lh4.googleusercontent.com/ZSdGWC18qHfueYYP95-PNz-_hcEocgwq4VR0Gf8NIsO5QC3i96I3yNaXRko_zJ96yZpPbiNhBOJgjtchoT_Cfxvkmo5fDhyZ_eKgPVZv67kE3kUTLWVeXb2kO9A_PD-CzHoPpd_k4w1aFW3u19NaHMg" alt=""><figcaption></figcaption></figure>
 
@@ -198,17 +214,16 @@ Slides: [chisquare](https://docs.google.com/presentation/d/1s1Gpv0vyCNrZETRihoGX
 ## Bar graph (for categorical variables)
 
 ```r
-plot_frq(gss$marital, type = "bar",
-geom.colors = "#336699")
+plot_frq(gss$marital, type = "bar", geom.colors = "#336699")
 ```
 
-<figure><img src="../../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Same as frequency table interpretation
 
 \
-41.4% of the GSS respondents are married; 7.2% of the GSS respondents are widowed; 17.2% of the GSS respondents are divorced; 2.9% of the GSS respondents are separated; 31.2% of the GSS respondents are never married.
+[The marital status variable](#user-content-fn-15)[^15] shows that 41.43%[^16] of the respondents are married;[^17] 7.23% of the respondents are widowed; 17.23% of the respondents are divorced; 2.92% of the respondents are separated; 31.20% of the respondents are never married.
 {% endhint %}
 
 Slides: [visualization](https://docs.google.com/presentation/d/1j8vQxVYCuG0s96EtUgcvMJoB5jN3wgV5iS-xgMyZKtk/edit?usp=sharing)
@@ -566,21 +581,27 @@ The Tjur R-squared value indicates that 14.1% of the variation in being higher c
 
     if you replace v with **b**, you will see the output on your browser.
 
-[^5]: The “Descriptives” command is used to determine mean, standard deviation.
+[^5]: use "what it measures" column of Variables in GSS page.
 
-[^6]: Continuous variables are numeric variables that have an infinite number of values between any two values, with each point placed at an equal distance from one another.
+[^6]: Always use "valid.prc" (valid percent) column of the tables.
+
+[^7]: use the response sets.
+
+[^8]: The “Descriptives” command is used to determine mean, standard deviation.
+
+[^9]: Continuous variables are numeric variables that have an infinite number of values between any two values, with each point placed at an equal distance from one another.
 
 
 
     F
 
-[^7]: replace age with a new continuous variable.
+[^10]: replace age with a new continuous variable.
 
-[^8]: Express which continuous variable you analyze.
+[^11]: Express which continuous variable you analyze.
 
-[^9]: Categorical variables take on values that are names or labels, not real numbers.
+[^12]: Categorical variables take on values that are names or labels, not real numbers.
 
-[^10]: Independent variable (IV) causes a change in Dependent Variable (DV).
+[^13]: Independent variable (IV) causes a change in Dependent Variable (DV).
 
 
 
@@ -589,10 +610,17 @@ The Tjur R-squared value indicates that 14.1% of the variation in being higher c
     \
 
 
-[^11]: The dependent variable (DV) is just like the name sounds; it depends upon some factor that you control.
+[^14]: The dependent variable (DV) is just like the name sounds; it depends upon some factor that you control.
 
 
 
     Dependent variable is the main issue we investigate.
 
     \
+
+
+[^15]: use "what it measures" column of Variables in GSS page.
+
+[^16]: Always use "valid.prc" (valid percent) column of the tables.
+
+[^17]: use the response sets.
