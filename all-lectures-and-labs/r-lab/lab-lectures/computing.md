@@ -14,6 +14,10 @@ layout:
 
 # Computing
 
+## Reading
+
+[Summated rating scale construction](https://drive.google.com/file/d/1-Gjbex4YsZaDJSYEnIe03Ec1awRFd3Al/view?usp=sharing)
+
 ## R Script file
 
 [script\_computing.R](https://drive.google.com/open?id=1VYeQ6ts2fjYeTrN\_fMxW-6yGDn5c2wt1\&usp=drive\_fs)
