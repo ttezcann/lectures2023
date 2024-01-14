@@ -14,7 +14,7 @@ layout:
 
 # Common recoding issues in RStudio
 
-## 1.Recoding a categorical variable and a continuous variable requires slightly different code
+## 1. Recoding a categorical variable and a continuous variable requires slightly different code
 
 <figure><img src="../../../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
 
