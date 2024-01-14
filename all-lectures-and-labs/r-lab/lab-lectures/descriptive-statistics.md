@@ -34,4 +34,4 @@ layout:
 
 ## Video
 
-{% embed url="https://youtu.be/6Y3h35lezZY" %}
+{% embed url="https://youtu.be/2I12ixFqfMY" %}
