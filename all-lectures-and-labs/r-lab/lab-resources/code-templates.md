@@ -113,102 +113,102 @@ required package(s): library(sjmisc)
 
 ```r
 gss$new_variable_name_here <- rec(gss$original_variable_here, rec = 
-"number1, number2=1 [label1]; 
-number3, number4=2 [label2]", append = FALSE)
+"1,2=1 [label1]; 
+3,4=2 [label2]", append = FALSE)
 ```
 
 ### recoding cat3 (categorical to categorical with 3 responses)
 
 ```r
 gss$new_variable_name_here <- rec(gss$original_variable_here, rec = 
-"number1, number2=1 [label1]; 
-number3, number4=2 [label2];
-number5, number6=3 [label3]", append = FALSE)
+"1,2=1 [label1]; 
+3,4=2 [label2];
+5,6=3 [label3]", append = FALSE)
 ```
 
 ### recoding cat4 (categorical to categorical with 4 responses)
 
 ```r
 gss$new_variable_name_here <- rec(gss$original_variable_here, rec = 
-"number1, number2=1 [label1]; 
-number3, number4=2 [label2];
-number5, number6=3 [label3];
-number7, number8, number9=4 [label4]", append = FALSE)
+"1,2=1 [label1]; 
+3,4=2 [label2];
+5,6=3 [label3];
+7,8,9=4 [label4]", append = FALSE)
 ```
 
 ### recoding cat5 (categorical to categorical with 5 responses)
 
 ```r
 gss$new_variable_name_here <- rec(gss$original_variable_here, rec = 
-"number1, number2=1 [label1]; 
-number3, number4=2 [label2];
-number5, number6=3 [label3];
-number7, number8, number9=4 [label4];
-number10=5 [label5]", append = FALSE)
+"1,2=1 [label1]; 
+3,4=2 [label2];
+5,6=3 [label3];
+7,8=4 [label4];
+9=5 [label5]", append = FALSE)
 ```
 
 ### recoding cat6 (categorical to categorical with 6 responses)
 
 ```r
 gss$new_variable_name_here <- rec(gss$original_variable_here, rec = 
-"number1, number2=1 [label1]; 
-number3, number4=2 [label2];
-number5, number6=3 [label3];
-number7, number8, number9=4 [label4];
-number10=5 [label5];
-number11=6 [label6]", append = FALSE)
+"1,2=1 [label1]; 
+3,4=2 [label2];
+5,6=3 [label3];
+7,8=4 [label4];
+9,10,11=5 [label5];
+12,13,14=6 [label6]", append = FALSE)
 ```
 
 ### recoding cat7 (categorical to categorical with 7 responses)
 
 ```r
 gss$new_variable_name_here <- rec(gss$original_variable_here, rec = 
-"number1, number2=1 [label1]; 
-number3, number4=2 [label2];
-number5, number6=3 [label3];
-number7, number8, number9=4 [label4];
-number10=5 [label5];
-number11=6 [label6];
-number12=7 [label7]", append = FALSE)
+"7=1 [label1]; 
+6=2 [label2];
+5=3 [label3];
+4=4 [label4];
+3=5 [label5];
+2=6 [label6];
+1=7 [label7]", append = FALSE)
 ```
 
 ### recoding con2 (continuous to categorical with 2 responses)
 
 ```r
 gss$new_variable_name_here <- rec(gss$original_variable_here, rec = 
-"number1:number2=1 [label1]; 
-number3:number4=2 [label2]", append = FALSE)
+"0:40=1 [label1]; 
+41:100=2 [label2]", append = FALSE)
 ```
 
 ### recoding con3 (continuous to categorical with 3 responses)
 
 ```r
 gss$new_variable_name_here <- rec(gss$original_variable_here, rec = 
-"number1:number2=1 [label1];
-number3:number4=2 [label2]; 
-number5:number6=3 [label3]", append = FALSE)
+"1:10=1 [label1];
+11:20=2 [label2]; 
+21:50=3 [label3]", append = FALSE)
 ```
 
 ### recoding con4 (continuous to categorical with 4 responses)
 
 ```r
 gss$new_variable_name_here <- rec(gss$original_variable_here, rec = 
-"number1:number2=1 [label1];
-number3:number4=2 [label2]; 
-number5:number6=2 [label3]; 
-number7:number8=3 [label4]", append = FALSE)
+"0:15000=1 [label1];
+15001:25000=2 [label2]; 
+25001:45000=2 [label3]; 
+45001:90000=3 [label4]", append = FALSE)
 ```
 
 ### recoding con5+ (continuous to categorical with more than 4 responses)
 
 ```r
 gss$new_variable_name_here <- rec(gss$original_variable_here, rec = 
-"number1:number2=1 [label1];
-number3:number4=2 [label2]; 
-number5:number6=2 [label3]; 
-number7:number8=3 [label4]; 
-number9:number10=5 [label5]; 
-number11:number12=6 [label6]", append = FALSE)
+"1:10=1 [label1];
+11:20=2 [label2]; 
+21:30=2 [label3]; 
+31:40=3 [label4]; 
+41:50=5 [label5]; 
+51:60=6 [label6]", append = FALSE)
 ```
 
 ## computing
