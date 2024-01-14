@@ -111,11 +111,13 @@ required package(s): library(sjmisc)
 
 ### recoding cat2 (categorical to categorical with 2 responses)
 
+{% code fullWidth="false" %}
 ```r
 gss$new_variable_name_here <- rec(gss$original_variable_here, rec = 
 "1,2=1 [label1]; 
 3,4=2 [label2]", append = FALSE)
 ```
+{% endcode %}
 
 ### recoding cat3 (categorical to categorical with 3 responses)
 
