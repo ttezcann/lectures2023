@@ -41,6 +41,12 @@ Therefore, for example, we use the FRQ code to see the distribution.
 
 <figure><img src="../../../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
 
+Use the [Code templates](https://ttezcan.gitbook.io/lect/all-lectures-and-labs/r-lab/lab-resources/code-templates) page.
+
+Determine how many responses will you need in your new (recoded) variable. In the first example of the recoding lecture, we needed TWO (married and unmarried people) responses.
+
+<figure><img src="../../../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
+
 ## 5. Misplacing the original variable
 
 <figure><img src="../../../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
