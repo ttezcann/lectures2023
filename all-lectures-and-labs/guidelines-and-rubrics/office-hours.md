@@ -26,6 +26,10 @@ We can meet in two ways:
 
 &#x20;[https://csumb.zoom.us/j/7858714463](https://csumb.zoom.us/j/7858714463)   **\*Do not click this link if you didn't schedule a meeting.**
 
+| TUTH 2:00 - 2:15 pm @ Zoom | TUTH 2:30 - 2:45 pm @ Zoom |
+| -------------------------- | -------------------------- |
+| TUTH 2:15 - 2:30 pm @ Zoom | TUTH 2:45 - 3:00 pm @ Zoom |
+
 \
 (2) Before/after my classes (<mark style="color:red;">In-person</mark>)
 
