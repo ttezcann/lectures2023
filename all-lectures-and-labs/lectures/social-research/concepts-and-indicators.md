@@ -21,12 +21,10 @@ layout:
 ## Slides
 
 {% embed url="https://docs.google.com/presentation/d/1_ZgBK0WpQZajqMG0fz_U8jdtyL_LSTCR?rtpof=true&usp=drive_fs" %}
-[**Downloadable slides here**](https://docs.google.com/presentation/d/1\_ZgBK0WpQZajqMG0fz\_U8jdtyL\_LSTCR?rtpof=true\&usp=drive\_fs)
-{% endembed %}
 
 ## Assignment
 
-[Creating indicators](https://docs.google.com/document/d/1\_\_nbuEWz9sQGT0LMErQo0F-Jl7pwP4yF?rtpof=true\&usp=drive\_fs)
+[Creating indicators](https://docs.google.com/document/d/1z41qA3e25LsjZ2VKeqWfFEIqG2sa1JLv?rtpof=true\&usp=drive\_fs)
 
 ## Video
 
