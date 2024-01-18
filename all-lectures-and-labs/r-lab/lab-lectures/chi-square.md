@@ -24,13 +24,13 @@ layout:
 
 ## Slides
 
-{% embed url="https://docs.google.com/presentation/d/1s1Gpv0vyCNrZETRihoGXP8-pkWiGOzTJIv0tJ93tE6g?usp=drive_fs" %}
-[**Downloadable slides here**](https://docs.google.com/presentation/d/1s1Gpv0vyCNrZETRihoGXP8-pkWiGOzTJIv0tJ93tE6g?usp=drive\_fs)
+{% embed url="https://docs.google.com/presentation/d/11QlkxBoIM_-wIoBTLYtdXxaELvX664VD?rtpof=true&usp=drive_fs" %}
+[**Downloadable slides here**](https://docs.google.com/presentation/d/11QlkxBoIM\_-wIoBTLYtdXxaELvX664VD?rtpof=true\&usp=drive\_fs)
 {% endembed %}
 
 ## Lab assignment
 
-[Lab assignment](https://docs.google.com/document/d/1LvYYzVLK1AkLOYxW-ANevB1q9wCMeJQU4GKMra3h8xE?usp=drive\_fs)
+[Lab assignment](https://docs.google.com/document/d/11HPWcizkd\_-5Xn9oGYYLPkkyLk2CzxFB/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
 
 ## Video
 
