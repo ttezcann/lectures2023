@@ -20,13 +20,13 @@ No reading
 
 ## Slides
 
-{% embed url="https://docs.google.com/presentation/d/1aJU32YuyGb2VJSxvAfDqAszWLB87MHiCJZ3Vj6trggY/edit?usp=sharing" %}
-[**Downloadable slides here**](https://docs.google.com/presentation/d/1aJU32YuyGb2VJSxvAfDqAszWLB87MHiCJZ3Vj6trggY/edit?usp=sharing)
+{% embed url="https://docs.google.com/presentation/d/1qzQFzlr_vVoNN3sVKqummPYEt2inAxXN?rtpof=true&usp=drive_fs" %}
+[**Downloadable slides here**](https://docs.google.com/presentation/d/1qzQFzlr\_vVoNN3sVKqummPYEt2inAxXN?rtpof=true\&usp=drive\_fs)
 {% endembed %}
 
 ## Assignment
 
-[Choosing a presentation template](https://docs.google.com/document/d/1rX4BC1rh11vX2cZnQox1Vkfae8fCUvGNdCNKJ3f2TDI/edit?usp=sharing)
+[Choosing a presentation template](https://docs.google.com/document/d/1yqh\_9imw4qZAXau4b7FyVi4ewE2bPJiQ?rtpof=true\&usp=drive\_fs)
 
 ## Video
 
