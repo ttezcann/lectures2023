@@ -31,6 +31,7 @@
       * [Literature review II: citation chaining and discovery engine](all-lectures-and-labs/lectures/social-research/literature-review-ii-citation-chaining-and-discovery-engine.md)
       * [Introduction to survey methodology](all-lectures-and-labs/lectures/social-research/introduction-to-survey-methodology.md)
       * [Probability sampling methods](all-lectures-and-labs/lectures/social-research/probability-sampling-methods.md)
+      * [Non-probability sampling methods](all-lectures-and-labs/lectures/social-research/non-probability-sampling-methods.md)
       * [Asking questions](all-lectures-and-labs/lectures/social-research/asking-questions.md)
       * [Qualitative interviewing](all-lectures-and-labs/lectures/social-research/qualitative-interviewing.md)
       * [Self-completion questionnaires](all-lectures-and-labs/lectures/social-research/self-completion-questionnaires.md)
