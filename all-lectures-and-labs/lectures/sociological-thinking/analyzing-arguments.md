@@ -26,7 +26,7 @@ layout:
 
 ## Assignment
 
-[Making everyday arguments](https://docs.google.com/document/d/1gkTzIPQq0mH3hN6DK-\_KYB-\_-kH5R4gM?rtpof=true\&usp=drive\_fs)
+[Premises and conclusion](https://docs.google.com/document/d/1gkTzIPQq0mH3hN6DK-\_KYB-\_-kH5R4gM/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
 
 ## Video
 
