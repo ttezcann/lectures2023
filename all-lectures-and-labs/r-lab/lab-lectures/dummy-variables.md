@@ -30,7 +30,7 @@ layout:
 
 ## Lab assignment
 
-[Lab assignment](https://docs.google.com/document/d/1IBVeOSYBy3UtT4UywqnpQELWpPghT\_stQt8ctzMFiXU?usp=drive\_fs)
+[Lab assignment](https://docs.google.com/document/d/14FBUCAwOlsBc5oq3k4p4NT0s3RCg2EzH/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
 
 ## Video
 
