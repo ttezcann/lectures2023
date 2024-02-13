@@ -18,15 +18,15 @@ layout:
 
 [Check your macOS version](https://support.apple.com/en-us/HT201260)
 
-### Mac Users (macOS 10.15+)
+### Mac Users (macOS 12+)
 
-[1. Download R](https://cran.r-project.org/bin/macosx/base/R-4.2.1.pkg) (4.2.1)
+[1. Download R](https://cran.r-project.org/bin/macosx/base/R-4.2.3.pkg)[ ](https://cran.r-project.org/bin/macosx/base/R-4.2.3.pkg)(4.2.3)
 
-[2. Download RStudio](https://download1.rstudio.org/desktop/macos/RStudio-1.4.1717.dmg)
+[2. Download RStudio](https://download1.rstudio.org/electron/macos/RStudio-2023.12.1-402.dmg) (2023.12.1-402)
 
 ### Mac Users (macOS El Capitan and older)
 
-[1. Download R (3.6.3)](https://mirror.las.iastate.edu/CRAN/bin/macosx/R-3.6.3.nn.pkg)
+[1. Download R](https://cran-archive.r-project.org/bin/macosx/el-capitan/base/R-3.6.3.pkg) (3.6.3)
 
 [2. Download RStudio](https://download1.rstudio.org/desktop/macos/RStudio-1.4.1717.dmg)
 
