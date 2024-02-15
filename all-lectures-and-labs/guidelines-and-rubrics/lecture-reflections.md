@@ -112,7 +112,5 @@ When composing the lecture video reflections, students should achieve two primar
 
 Submissions followed the criteria above will get full credit for this part.
 
-Follow the following format in your submission **(Otherwise -10)**:
-
 
 
