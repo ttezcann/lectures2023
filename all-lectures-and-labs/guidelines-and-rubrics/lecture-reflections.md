@@ -26,7 +26,9 @@ layout:
 
 ### [Sample 3](https://docs.google.com/document/d/1fW7HttQdYYRcmjqbm0MxIftTS3rdwMhp/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
 
-###
+### [Sample 4](https://docs.google.com/document/d/1GLyqllWGoOCtsFUTpKQeJn4Kp10Fredg/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
+
+
 
 {% hint style="info" %}
 There are two guidelines here:&#x20;
