@@ -72,7 +72,7 @@ Descriptive code: descr(gss$<mark style="color:red;">hapindex</mark>, out = "v",
 [The marital status variable](#user-content-fn-5)[^5] shows that 41.43%[^6] of the respondents are married;[^7] 7.23% of the respondents are widowed; 17.23% of the respondents are divorced; 2.92% of the respondents are separated; 31.20% of the respondents are never married.
 {% endhint %}
 
-Slides: [descriptive statistics](https://docs.google.com/presentation/d/1ukk4bfb8eHoS2fezXlfgMbQgz91DGDuBJ5f5hX-1W3Q/edit?usp=sharing)
+Slides: [descriptive statistics](https://docs.google.com/presentation/d/1\_rePJrPIl7rwTEy3pfbrZopgWMFoamw0/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
 
 ***
 
@@ -83,13 +83,13 @@ Slides: [descriptive statistics](https://docs.google.com/presentation/d/1ukk4bfb
 <pre class="language-r"><code class="lang-r">descr(gss$<a data-footnote-ref href="#user-content-fn-10">age</a>, out = "v", show = "short")
 </code></pre>
 
-<figure><img src="https://lh4.googleusercontent.com/VyP_Y5PbQHUYcdaHudhITUxTdUnIHvZ299A_mfdhr9N4vYdfBd2ZWct-k6JisfExAA4oHf5s_tu-NRRpfmatrwnaN_WlZbLFMA0lpKITUjIhpjZFTgX0EnpnYFOQVwLO5j87gbwiIIaQA8li1bEZR6o" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-The average age[^11] of the GSS respondents is 48.97, with standard deviation 18.06.
+The age in years variable shows that the average age of the respondents is 49.18, with standard deviation 17.97.
 {% endhint %}
 
-Slides: [descriptive statistics](https://docs.google.com/presentation/d/1ukk4bfb8eHoS2fezXlfgMbQgz91DGDuBJ5f5hX-1W3Q/edit?usp=sharing)
+Slides: [descriptive statistics](https://docs.google.com/presentation/d/1\_rePJrPIl7rwTEy3pfbrZopgWMFoamw0/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
 
 ***
 
@@ -113,7 +113,7 @@ Sex has NO effect on the condition of health since the p value is HIGHER than 0.
 We can conclude that males and females have similar health conditions.
 {% endhint %}
 
-Slides: [chisquare](https://docs.google.com/presentation/d/1s1Gpv0vyCNrZETRihoGXP8-pkWiGOzTJIv0tJ93tE6g/edit#slide=id.p11)
+Slides: [chisquare](https://docs.google.com/presentation/d/11QlkxBoIM\_-wIoBTLYtdXxaELvX664VD/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
 
 ## Chi-square (example 2)
 
@@ -140,7 +140,7 @@ Age has an effect on the condition of health since the p value is LESS than 0.05
 We can conclude that age groups have substantially different health conditions.
 {% endhint %}
 
-Slides: [chisquare](https://docs.google.com/presentation/d/1s1Gpv0vyCNrZETRihoGXP8-pkWiGOzTJIv0tJ93tE6g/edit#slide=id.p11)
+Slides: [chisquare](https://docs.google.com/presentation/d/11QlkxBoIM\_-wIoBTLYtdXxaELvX664VD/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
 
 ***
 
@@ -164,7 +164,7 @@ The average income of males is $49,306, while the average income of females is $
 Income differs by sex in a statistically significant way since the p-value is LESS than 0.05
 {% endhint %}
 
-Slides: [chisquare](https://docs.google.com/presentation/d/1s1Gpv0vyCNrZETRihoGXP8-pkWiGOzTJIv0tJ93tE6g/edit#slide=id.p11)
+Slides: [ttest](https://docs.google.com/presentation/d/11hFYVZ3y8pig6n8SkDDnZYk\_AoqY2-t9/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
 
 ## T-test (example 2)
 
@@ -187,7 +187,7 @@ The average education of males is 14.08 year, while the average education of fem
 Education does not differ by sex in a statistically significant way since the p-value is HIGHER than 0.05
 {% endhint %}
 
-Slides: [chisquare](https://docs.google.com/presentation/d/1s1Gpv0vyCNrZETRihoGXP8-pkWiGOzTJIv0tJ93tE6g/edit#slide=id.p11)
+Slides: [ttest](https://docs.google.com/presentation/d/11hFYVZ3y8pig6n8SkDDnZYk\_AoqY2-t9/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
 
 ***
 
@@ -203,7 +203,7 @@ plot_frq(gss$marital, type = "bar", geom.colors = "#336699")
 Same as frequency table interpretation
 
 \
-[The marital status variable](#user-content-fn-12)[^12] shows that 41.43%[^13] of the respondents are married;[^14] 7.23% of the respondents are widowed; 17.23% of the respondents are divorced; 2.92% of the respondents are separated; 31.20% of the respondents are never married.
+[The marital status variable](#user-content-fn-11)[^11] shows that 41.43%[^12] of the respondents are married;[^13] 7.23% of the respondents are widowed; 17.23% of the respondents are divorced; 2.92% of the respondents are separated; 31.20% of the respondents are never married.
 {% endhint %}
 
 Slides: [visualization](https://docs.google.com/presentation/d/1j8vQxVYCuG0s96EtUgcvMJoB5jN3wgV5iS-xgMyZKtk/edit?usp=sharing)
@@ -593,10 +593,8 @@ The Tjur R-squared value indicates that 14.1% of the variation in being higher c
 
 [^10]: replace age with a new continuous variable.
 
-[^11]: Express which continuous variable you analyze.
+[^11]: use "what it measures" column of Variables in GSS page.
 
-[^12]: use "what it measures" column of Variables in GSS page.
+[^12]: Always use "valid.prc" (valid percent) column of the tables.
 
-[^13]: Always use "valid.prc" (valid percent) column of the tables.
-
-[^14]: use the response sets.
+[^13]: use the response sets.
