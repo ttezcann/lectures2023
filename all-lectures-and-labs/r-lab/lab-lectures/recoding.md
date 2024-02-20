@@ -14,6 +14,10 @@ layout:
 
 # Recoding
 
+## Reading
+
+No Reading. Only video for lecture reflections.
+
 ## R Script file
 
 [script\_recoding.R](https://drive.google.com/open?id=1SP0UVJM2YxTt-0DIszBmDNg82R0zjxPO\&usp=drive\_fs)
