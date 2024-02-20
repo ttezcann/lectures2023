@@ -26,7 +26,7 @@ A source is referenced in <mark style="color:red;">two parts</mark>:
 
 &#x20;<mark style="color:red;">- In-text citation:</mark> in your text at the point of use
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (48).png" alt=""><figcaption></figcaption></figure>
 
 ## Referencing site: zbib.org
 
@@ -34,12 +34,16 @@ A source is referenced in <mark style="color:red;">two parts</mark>:
 
 1\) Paste the article title and click “Cite”
 
-<figure><img src="https://lh6.googleusercontent.com/0f6fKZ_OKZDRyRUfNMD3gu48kEiWJUkH7UpMeM59hCpGIEgv-F15GHznjX-cQwnecESePRiZlJZX4TbwuPyfzA6-u2nzm7m9Q0Ozqk4CtPGNpi0gzLWCcog1FSvAuzbbkdCCA-B-LNDFtvuwCLAiTsQqFw=s2048" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
 
 2\) Check the journal name and make sure this is the correct article. If you are sure, click on the article title
 
-<figure><img src="https://lh3.googleusercontent.com/db81_5inFOxxzzgntu99M3xufW4qvrGzvwJgYoysJvYjQadSkpK-8Y6Dv-Vw4MQGBaaL4_DoxfQvZF-tTHT-ilUcwlhzw3QgID7lAyEOGbHJsY5bJt8WH5IEdGze6tAFAQHoR3vGgcMqdvByUzKOh22_HQ=s2048" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (50).png" alt=""><figcaption></figcaption></figure>
 
 3\) Click on the highlighted arrow and choose the citation system you need (APA, ASA, Chicago, etc.) Click on the “Copy to Clipboard” and the end-text citation is copied.
 
-<figure><img src="https://lh5.googleusercontent.com/Qc6qJ4Ud-WJdKwrHGyjKdI3xv9ZFCunNP2ztXxupWmZrU4phpOzEbguOP6T9Cw8wrNNug7OdAvnKLAombvD3PlxbXQ8gQ2hAwx_rgsAwNaxyTkGNGdGq4Hifx6mWdBSGHeD_ZBQ7DqD_Alt7ohuBZCl0pw=s2048" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
+
+If it does not work, paste DOI (Digital Object Identifier). This number starts with 10, and can be found in the link and the journal page.
+
+<figure><img src="../../.gitbook/assets/Screenshot_2024-02-20 09.12.27.png" alt=""><figcaption></figcaption></figure>
