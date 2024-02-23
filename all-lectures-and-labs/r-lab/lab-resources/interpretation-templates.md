@@ -76,7 +76,7 @@ Slides: [descriptive statistics](https://docs.google.com/presentation/d/1\_rePJr
 
 ***
 
-## Descriptive tables
+## Descriptive tables 1
 
 [Descriptive tables](#user-content-fn-8)[^8] are for [continuous variables](#user-content-fn-9)[^9].
 
@@ -90,6 +90,20 @@ The age in years variable shows that the average age of the respondents is 49.18
 {% endhint %}
 
 Slides: [descriptive statistics](https://docs.google.com/presentation/d/1\_rePJrPIl7rwTEy3pfbrZopgWMFoamw0/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
+
+## Descriptive tables 2 (for computed variables)
+
+```r
+descr(gss$hapindex, out = "v", show = "short")
+```
+
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+Indicate the possible highest score in your interpretation <mark style="color:red;">➜ "Out of 3", "Out of 5", etc.</mark>
+
+{% hint style="info" %}
+The happiness index score of the GSS respondents is 2.10 out of 3, with standard deviation 0.47.
+{% endhint %}
 
 ***
 
@@ -378,7 +392,7 @@ pairs.panels(gss[, c("sei10", "spsei10", "tvhours", "usetech", "age", "educ", "m
 ellipses=F, scale=F, show.points=F, stars=T, ci=T)
 ```
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Same interpretation as correlation analysis table and scatterplot graph
@@ -523,7 +537,7 @@ When reporting the coefficients of the dummy variables, ensure that the sentence
 
 ### Logistic regression analysis (with dummy variables)
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ```r
 frq(gss$class, out = "v")
