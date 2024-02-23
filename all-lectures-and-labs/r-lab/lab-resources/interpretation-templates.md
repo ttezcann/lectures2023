@@ -54,9 +54,9 @@ Descriptive code: descr(gss$<mark style="color:red;">hapindex</mark>, out = "v",
 
 ![](<../../../.gitbook/assets/image (34).png>)
 
-<mark style="color:green;">Correct:</mark> The average happiness index score of the respondents is 2.10 out of 3, with standard deviation 0.47
+<mark style="color:green;">Correct:</mark> The happiness index score of the GSS respondents is 2.10 out of 3, with standard deviation 0.47.
 
-<mark style="color:red;">Wrong:</mark> The average hapindex of the respondents is 2.10 out of 3, with standard deviation 0.47
+<mark style="color:red;">Wrong:</mark> The hapindex score of the GSS respondents is 2.10 out of 3, with standard deviation 0.47.
 {% endhint %}
 
 ## Frequency tables
@@ -99,7 +99,13 @@ descr(gss$hapindex, out = "v", show = "short")
 
 <figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-Indicate the possible highest score in your interpretation <mark style="color:red;">➜ "Out of 3", "Out of 5", etc.</mark>
+Indicate the highest possible score in your interpretation <mark style="color:red;">➜ "Out of 3", "Out of 5", etc.</mark>
+
+Indicate the full name of the index variable:
+
+<mark style="color:green;">Correct:</mark> The happiness index score of the GSS respondents is 2.10 out of 3, with standard deviation 0.47.
+
+<mark style="color:red;">Wrong:</mark> The hapindex score of the GSS respondents is 2.10 out of 3, with standard deviation 0.47.
 
 {% hint style="info" %}
 The happiness index score of the GSS respondents is 2.10 out of 3, with standard deviation 0.47.
