@@ -16,7 +16,7 @@ layout:
 
 ## Reading
 
-No reading
+[Searching for information](https://drive.google.com/file/d/1sUX4WP\_jBrIx85Y5HxIBg\_aVZI5CbO00/view?usp=sharing)
 
 ## Slides
 
