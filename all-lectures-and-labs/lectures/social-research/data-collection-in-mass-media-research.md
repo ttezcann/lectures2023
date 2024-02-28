@@ -16,7 +16,7 @@ layout:
 
 ## Reading
 
-No reading
+[Think before you collect: Setting up a data collection approach for social media studies](https://drive.google.com/open?id=1uiu0U3fERAG-Xr8K8-J2kFO0M4cB1RDm\&usp=drive\_fs)
 
 ## Slides
 
