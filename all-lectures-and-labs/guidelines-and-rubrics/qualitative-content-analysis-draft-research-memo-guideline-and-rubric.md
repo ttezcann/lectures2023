@@ -27,7 +27,7 @@ Open it and click File <mark style="color:red;">**->**</mark> Copy.
 The goal of writing a draft research memo is to&#x20;
 
 * develop a topic with a research question that can be answered with quantitative analysis methods, and&#x20;
-* explain in detail what literature and methods you would use to answer the research question.&#x20;
+* explain in detail what literature and methods you use to answer the research question.&#x20;
 
 {% hint style="info" %}
 Writing is easier as you read
@@ -44,8 +44,9 @@ In this stage of your research, you are to write a draft, not a final paper. Eve
 * **2.2. “The relationship between second independent variable and dependent variable” (You will name this subsection, for example Transnationalism and Return migration):** Review the specific relevant literature about the relationship between your second independent variable and dependent variable. Explain what you expect to find and your reasoning. End this subsection with your second hypothesis.
 * **2.3. “The relationship between third independent variable and dependent variable” (You will name this subsection, for example Children and Return migration):** Review the specific relevant literature about the relationship between your third independent variable and dependent variable. Explain what you expect to find and your reasoning. End this subsection with your third hypothesis.
 
-3. **Methodology:** Your content analysis should include mainstream or social media posts (NOT peer-reviewed journal articles for data analysis), newspaper article comment sections, any social media platforms, YouTube comment sections, or blogs, etc. Explain from which media platform you will get data. What are your data selection criteria? Paste at least 5 links of the data at the end of this section (Newspaper article, Facebook group, TikTok videos, Instagram posts, etc.)
-4. **References (Bibliography):** Cite a minimum of 6 sources (ONLY peer-reviewed journal articles) in APA style. Books, book chapters, or other sources, such as reports found on google or websites, are NOT acceptable.
+3. **Methodology:** Your content analysis should include mainstream or social media posts (NOT peer-reviewed journal articles for data analysis), newspaper article comment sections, any social media platforms, YouTube comment sections, or blogs, etc. Explain from which media platform you got data. What are your data selection criteria? Paste at least 5 links of the data at the end of this section (Newspaper article, Facebook group, TikTok videos, Instagram posts, etc.)
+4. **Results:** The standard approach to this section of a research paper is to present and describe the results in a systematic and detailed way. You will highlight and comment on the themes that emerge from the analysis. More elaborate commentary on the results will be provided in the final paper. Clearly state whether you confirm or reject each of your hypotheses. Discuss your initial, axial, and focused codes here, and organize your results based on the focused codes. Remember not to include all your results. You should present and discuss only those findings that relate to your hypotheses and accordingly your research question. Do not just summarize your content; you should direct the reader to the component or components of it that are especially striking from the point of view of your research aim. Try to ask yourself what story you want the content to convey and try to relay that story to your readers. Provide some quotations from the content you used.
+5. **References (Bibliography):** Cite a minimum of 6 sources (ONLY peer-reviewed journal articles) in APA style. Books, book chapters, or other sources, such as reports found on google or websites, are NOT acceptable.
 
 ## Template
 
@@ -59,45 +60,52 @@ As no two draft research memos are the same, grading will be a somewhat subjecti
 
 I will rate your draft research memos from these items and the sum will represent your draft research memo grade. The grading of each item will be based on how clearly and completely you address each question posed.
 
-I place no strict limits on the length of each section. Your goal is to specifically discuss and justify your proposed content analysis, which generally takes \~750-1,000 words of text (12-point Times New Roman font with 1” margins, (double or single spaced typed), plus references. If you do not meet the minimum word count (750 words), your grade will be adjusted proportionally.
+I place no strict limits on the length of each section. Your goal is to specifically discuss and justify your proposed content analysis, which generally takes 1,000 words of text (12-point Times New Roman font with 1” margins, (single spaced typed), excluding bibliography references. If you do not meet the minimum word count (1,000 words), your grade will be adjusted proportionally.
 
 ## Rubric
 
 <mark style="color:red;">Introduction and background</mark>
 
-1. Did you clearly show what you are investigating? (5 points)&#x20;
-2. Did you show why the topic is significant and matters? (5 points)
-3. Did you mention the target group that you are investigating and why this group? (Women of color, second-generation Salvadoran immigrants, etc.) (5 points)
-4. Did you clearly state your research question with its reasoning? (10 points)&#x20;
+1. Did you clearly show what you are investigating? (2 points)&#x20;
+2. Did you show why the topic is significant and matters? (2 points)
+3. Did you mention the target group that you are investigating and why this group? (Women of color, second-generation Salvadoran immigrants, etc.) (2 points)
+4. Did you clearly state your research question with its reasoning? (5 points)&#x20;
 
 <mark style="color:red;">Theoretical structure and hypotheses</mark>
 
-5. Did you broadly review the literature to articulate a theoretical basis for your hypotheses and a justification for your research question in Section 2? (7 points)&#x20;
-6. Did you clearly define your key concepts in section 2? (5 points)
+5. Did you broadly review the literature to articulate a theoretical basis for your hypotheses and a justification for your research question in Section 2? (4 points)&#x20;
+6. Did you clearly define your key concepts in section 2? (3 points)
 7. Did you review the specific literature (at least one citation for each subsection) based on your first independent variable and dependent variable, second independent variable and dependent variable, and third independent variable and dependent variable under the subsections 2.1., 2.2., and 2.3., respectively? (9 points)&#x20;
 8. Did you clearly state your three hypotheses and their reasoning under three subsections? (6 points)
 
 <mark style="color:red;">Methodology</mark>
 
-9. Did you discuss what content you will analyze? (5 points)
-10. Did you discuss your method of selecting (which keywords you will search, which criteria you will follow to find content) media sources? (8 points)
+9. Did you discuss what content you analyze? (3 points)
+10. Did you discuss your method of selecting (which keywords you will search, which criteria you  follow to find content) media sources? (5 points)
 11. Did you paste the links of your data sources? (5 points)
+
+<mark style="color:red;">Results</mark>
+
+12. Did you discuss your axial and focused codes? (5 points)
+13. Did you present and describe the results in a systematic and detailed way based on the focused codes? (5 points)
+14. Did you create tables and/or provide some quotations from the content you used? (6 points)
+15. &#x20;Did you clearly state whether you confirm or reject each of your hypotheses? (6 points)
 
 <mark style="color:red;">Bibliography</mark>
 
-12. Did you cite at least 6 peer-reviewed journal articles (both in-text and end-text)? (10 points)
-13. Consistent use of citation and reference format. (5 points)
+16. Did you cite at least 6 peer-reviewed journal articles (both in-text and end-text)? (12 points)
+17. Consistent use of citation and reference format. (5 points)
 
 <mark style="color:red;">Writing and Template</mark>
 
-14. Clarity of writing style. (5 points)
-15. Use of template, the logic of research memo organization, consistent font and font size, title, and clear use of headings. All instructions and sample sentences are deleted. (5 points)
+18. Clarity of writing style. (5 points)
+19. Use of template, the logic of research memo organization, consistent font and font size, title, and clear use of headings. All instructions and sample sentences are deleted. (5 points)
 
 <mark style="color:red;">Self-grade Sheet</mark>
 
-16. Self-grade sheet is completed. (5 points)
+20. &#x20;Self-grade sheet is completed. (5 points)
 
-If you do not meet the minimum word count (750 words), your grade will be adjusted proportionally&#x20;
+If you do not meet the minimum word count (1,000 words), your grade will be adjusted proportionally&#x20;
 
 ## Reminders
 
