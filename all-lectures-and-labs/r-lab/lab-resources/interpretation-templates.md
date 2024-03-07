@@ -126,11 +126,7 @@ Independent variable first (sex), dependent variable second (health)
 <figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Sex has NO effect on the condition of health since the p value is HIGHER than 0.05.&#x20;
-
-
-
-We can conclude that males and females have similar health conditions.
+Sex has NO effect on the condition of health since the p value is HIGHER than 0.05. We can conclude that males and females have similar health conditions.
 {% endhint %}
 
 Slides: [chisquare](https://docs.google.com/presentation/d/11QlkxBoIM\_-wIoBTLYtdXxaELvX664VD/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
@@ -154,10 +150,7 @@ Independent variable first (agenew), dependent variable second (health)
 <figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Age has an effect on the condition of health since the p value is LESS than 0.05.&#x20;
-
-\
-We can conclude that age groups have substantially different health conditions.
+Age has an effect on the condition of health since the p value is LESS than 0.05. We can conclude that age groups have substantially different health conditions.
 {% endhint %}
 
 Slides: [chisquare](https://docs.google.com/presentation/d/11QlkxBoIM\_-wIoBTLYtdXxaELvX664VD/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
