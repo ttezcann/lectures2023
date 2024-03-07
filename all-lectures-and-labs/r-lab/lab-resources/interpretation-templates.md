@@ -172,9 +172,7 @@ Dependent variable first (conrinc), independent variable second (sex)
 <figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-The average income of males is $49,306, while the average income of females is $35,277.
-
-Income differs by sex in a statistically significant way since the p-value is LESS than 0.05
+The average income of males is $49,306, while the average income of females is $35,277. Income differs by sex in a statistically significant way since the p-value is LESS than 0.05
 {% endhint %}
 
 Slides: [ttest](https://docs.google.com/presentation/d/11hFYVZ3y8pig6n8SkDDnZYk\_AoqY2-t9/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
@@ -194,10 +192,7 @@ Dependent variable first (educ), independent variable second (sex)
 <figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-The average education of males is 14.08 year, while the average education of females 14.15 year.
-
-\
-Education does not differ by sex in a statistically significant way since the p-value is HIGHER than 0.05
+The average education of males is 14.08 year, while the average education of females 14.15 year. Education does not differ by sex in a statistically significant way since the p-value is HIGHER than 0.05
 {% endhint %}
 
 Slides: [ttest](https://docs.google.com/presentation/d/11hFYVZ3y8pig6n8SkDDnZYk\_AoqY2-t9/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
