@@ -26,7 +26,7 @@ Open it and click File <mark style="color:red;">**->**</mark> Copy.
 
 The goal of writing a draft research memo is to&#x20;
 
-* develop a topic with a research question that can be answered with quantitative analysis methods, and&#x20;
+* develop a topic with a research question that can be answered with qualitative content analysis methods, and&#x20;
 * explain in detail what literature and methods you use to answer the research question.&#x20;
 
 {% hint style="info" %}
@@ -34,6 +34,18 @@ Writing is easier as you read
 {% endhint %}
 
 In this stage of your research, you are to write a draft, not a final paper. Everything you write for the draft or other assignments can be used for your final paper.
+
+The draft research memo is fundamentally structured around prior assignments, incorporating a mix of relevant copying and pasting, crafting transition sentences or paragraphs, and ensuring that all criteria outlined in the rubric are met.
+
+Those previous assignments are:&#x20;
+
+* \[DRM] Choosing annual review articles and determining research items&#x20;
+* \[DRM] Citation chaining and discovery engine
+* \[DRM] Basic content analysis&#x20;
+* \[DRM] Coding your own data for draft research paper&#x20;
+* \[DRM] Coding your own data for draft research paper 2
+
+Note: Submissions without data analysis that is generated in "Coding your own data for draft research memo" will automatically receive zero.
 
 ## Sections
 
