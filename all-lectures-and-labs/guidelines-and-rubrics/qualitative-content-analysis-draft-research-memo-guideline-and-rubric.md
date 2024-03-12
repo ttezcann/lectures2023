@@ -109,9 +109,11 @@ If you do not meet the minimum word count (1,000 words), your grade will be adju
 
 ## Reminders
 
-Reminder 1: Do not use direct quotes from the peer-reviewed articles (-10 points for each):&#x20;
+Reminder 1: Submissions without data analysis that is generated in "Coding your own data for draft research memo" will automatically receive zero.
 
-Reminder 2: When citing peer-reviewed articles, only provide the in-text citation within the text and the end-text citation under the references (bibliography), do not write the title of the article in the text.
+Reminder 2: Do not use direct quotes from the peer-reviewed articles (-10 points for each):&#x20;
+
+Reminder 3: When citing peer-reviewed articles, only provide the in-text citation within the text and the end-text citation under the references (bibliography), do not write the title of the article in the text.
 
 Should be:&#x20;
 
