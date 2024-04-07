@@ -98,7 +98,7 @@ The table below provides 87 Google Slides templates and 5 Infographic sets.
 
 <mark style="color:red;">Results slide</mark>
 
-22. Did you provide direct quotes for each focused code (theme) from the the data you analyzed? (9 points)
+22. Did you provide direct quotes for each focused code (theme) from the data you analyzed? (9 points)
 
 <mark style="color:red;">Discussion and conclusion slide</mark>
 
@@ -109,7 +109,7 @@ The table below provides 87 Google Slides templates and 5 Infographic sets.
 <mark style="color:red;">References slide</mark>
 
 26. Did you provide the end-text citations of all the peer-reviewed journal articles you cited in your presentation? (2 points)
-27. Did you use a consistent reference style? (APA, Chicago, ASA, etc.) (2 points)
+27. Did you use a consistent reference style? (APA) (2 points)
 28. Were the font, font size, text color, and case (no uppercase) consistent? (2 points)
 
 <mark style="color:red;">Thanks you and questions slide</mark>
