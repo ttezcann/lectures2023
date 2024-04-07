@@ -22,6 +22,10 @@ Open it and click File -> Copy.
 
 [Sample final research memo here](https://docs.google.com/document/d/1V3494CCjSAP0pcROGn-3D7SL6Isq0qK\_/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
 
+
+
+Note: Submissions without data analysis that is generated in "Coding your own data for draft research memo" will automatically receive zero.
+
 ## The goal
 
 The goal of writing a final research paper is to&#x20;
@@ -123,7 +127,6 @@ I will rate your research papers from these items and the sum will represent you
 
 23. Clarity of writing style. (4 points)
 24. Use of template, the logic of research memo organization, consistent font and font size, title, and clear use of headings. All instructions and sample sentences are deleted. (4 points)
-25. Did you save the Google doc in which you coded your data (showing highlighted codes and code table) in the Week 17 folder AND put the link of your coding file (Click Share on the top right corner and click “copy link”) under this section? **(Otherwise you will lose 50% of the grade)**
 
 <mark style="color:red;">Self-grade Sheet</mark>
 
