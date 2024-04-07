@@ -75,22 +75,22 @@ The table below provides 87 Google Slides templates and 5 Infographic sets.
 <mark style="color:red;">Introduction slide</mark>
 
 10. Did you describe/introduce the topic you worked on? (2 points)
-11. Did you mention why your research is important and what gaps it aims to fill? (2 points)
+11. Did you display why your research is important and what gaps it aims to fill? (2 points)
 12. Did you display and explain your “research question”? (4 points)
 
 <mark style="color:red;">Theoretical structure slide</mark>
 
-13. Did you clearly mention the previous research on the topic? (3 points)
+13. Did you  display the previous research on the topic? (3 points)
 14. Did you cite the previous research and/or concepts and theories appropriately within the slides? (3 points)
 15. Did you list and define the key concept(s)? (3 points)
 16. Did you display and explain your three (3) hypotheses? (6 points)
 
 <mark style="color:red;">Methods and sample slide</mark>
 
-17. Did you mention which methodology you use? Hint: it is “content analysis.” (1 point)
+17. Did you display which methodology you use? Hint: it is “content analysis.” (1 point)
 18. Did you introduce the data sources you analyzed? (3 points)
-19. Did you explain the data (sources) selection criteria (keywords searched)? (3 points)
-20. Did you mention how many initial, axial, and focused codes you employ? (2 points)
+19. Did you display the data (sources) selection criteria (keywords searched)? (3 points)
+20. Did you display how many initial, axial, and focused codes you employ? (2 points)
 
 <mark style="color:red;">Theme slide</mark>
 
@@ -102,9 +102,9 @@ The table below provides 87 Google Slides templates and 5 Infographic sets.
 
 <mark style="color:red;">Discussion and conclusion slide</mark>
 
-23. Did you clearly interpret your main findings? (2 points)
-24. Did you mention any new understanding or insights about the topic you worked on? (2 points)
-25. Did you mention the significance of the main findings? (2 points)
+23. Did you clearly interpret and display your main findings? (2 points)
+24. Did you display any new understanding or insights about the topic you worked on? (2 points)
+25. Did you display the significance of the main findings? (2 points)
 
 <mark style="color:red;">References slide</mark>
 
