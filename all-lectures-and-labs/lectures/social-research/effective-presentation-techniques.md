@@ -26,7 +26,7 @@ No reading
 
 ## Assignment
 
-[Choosing a presentation template](https://docs.google.com/document/d/1yqh\_9imw4qZAXau4b7FyVi4ewE2bPJiQ?rtpof=true\&usp=drive\_fs)
+[Presentation design (draft)](https://docs.google.com/document/d/1fTmvtKzNBjnGroSJUs1yHdVethGdufyw/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
 
 ## Video
 
