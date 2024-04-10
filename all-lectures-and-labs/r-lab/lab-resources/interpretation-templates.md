@@ -492,6 +492,8 @@ If 0.007 is the adjusted R-square, then move the dot two times to the right:
 0.172 <mark style="color:red;">➜</mark> 17.2%
 {% endhint %}
 
+Slides: [linear regression](https://docs.google.com/presentation/d/16v4ZKqgEw2Ah0i0g9jC8Ex1WY3rMvjPi/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
+
 ### Linear regression analysis (with dummy variables)
 
 <figure><img src="../../../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
@@ -529,6 +531,10 @@ When reporting the coefficients of the dummy variables, ensure that the sentence
 * <mark style="color:purple;">Being pretty happy</mark> increases income by $8,908 <mark style="color:orange;">compared to being not too happy</mark>.
 {% endhint %}
 
+Slides: [linear regression](https://docs.google.com/presentation/d/16v4ZKqgEw2Ah0i0g9jC8Ex1WY3rMvjPi/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
+
+Slides: [dummy variables](https://docs.google.com/presentation/d/1dJenkvbUDQUmX2HIrHWPK8-cYZ9VQQiqOTH2rJS83\_I/edit?usp=sharing)
+
 ### Logistic regression analysis (with dummy variables)
 
 <figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
@@ -560,6 +566,10 @@ A year increase in education increases the likelihood of being higher class (OR=
 \
 The Tjur R-squared value indicates that 14.1% of the variation in being higher class can be explained by education in years, being non-white and occupational prestige score.
 {% endhint %}
+
+Slides: [logistic regression](https://docs.google.com/presentation/d/1SU-hinA8IkjK5FSST6az104y-gQQIpU33i4nFxGKzhk/edit?usp=sharing)
+
+Slides: [dummy variables](https://docs.google.com/presentation/d/1dJenkvbUDQUmX2HIrHWPK8-cYZ9VQQiqOTH2rJS83\_I/edit?usp=sharing)
 
 [^1]: The “Frequencies” command counts up how many times categories of a variable appears.
 
