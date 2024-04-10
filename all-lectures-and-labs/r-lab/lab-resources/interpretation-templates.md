@@ -307,7 +307,7 @@ This correlation is positive and moderate since the r-value is 0.382 (between 0.
 This means that the socioeconomic index score of the respondents and the socioeconomic index score of the respondents’ spouses increase and decrease together.
 {% endhint %}
 
-Slides: [correlation](https://docs.google.com/presentation/d/18e7r4uN5SCZ71U\_st1rnGgmrThqXmY6HZuJB9jbcvpQ/edit?usp=sharing)
+Slides: [correlation](https://docs.google.com/presentation/d/12et6ZrFK7B6pE-Wmlz\_KVawjebAar9rC/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
 
 ***
 
@@ -342,7 +342,7 @@ There is no significant correlation between the age of the respondents and the y
 This means that there is the age of the respondents and the years of education do not increase and decrease together.
 {% endhint %}
 
-Slides: [correlation](https://docs.google.com/presentation/d/18e7r4uN5SCZ71U\_st1rnGgmrThqXmY6HZuJB9jbcvpQ/edit?usp=sharing)
+Slides: [correlation](https://docs.google.com/presentation/d/12et6ZrFK7B6pE-Wmlz\_KVawjebAar9rC/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
 
 ***
 
@@ -367,7 +367,7 @@ tab_corr (gss[, c("sei10", "spsei10", "tvhours", "usetech", "age", "educ", "mara
 Same interpretation as correlation analysis table and scatterplot graph
 {% endhint %}
 
-Slides: [correlation](https://docs.google.com/presentation/d/18e7r4uN5SCZ71U\_st1rnGgmrThqXmY6HZuJB9jbcvpQ/edit?usp=sharing)
+Slides: [correlation](https://docs.google.com/presentation/d/12et6ZrFK7B6pE-Wmlz\_KVawjebAar9rC/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
 
 ***
 
@@ -392,7 +392,7 @@ ellipses=F, scale=F, show.points=F, stars=T, ci=T)
 Same interpretation as correlation analysis table and scatterplot graph
 {% endhint %}
 
-Slides: [correlation](https://docs.google.com/presentation/d/18e7r4uN5SCZ71U\_st1rnGgmrThqXmY6HZuJB9jbcvpQ/edit?usp=sharing)
+Slides: [correlation](https://docs.google.com/presentation/d/12et6ZrFK7B6pE-Wmlz\_KVawjebAar9rC/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
 
 ***
 
@@ -419,7 +419,7 @@ addCoef.col = 'black', order = 'original', diag = FALSE)$corrPos
 Same interpretation as correlation analysis table and scatterplot graph
 {% endhint %}
 
-Slides: [correlation](https://docs.google.com/presentation/d/18e7r4uN5SCZ71U\_st1rnGgmrThqXmY6HZuJB9jbcvpQ/edit?usp=sharing)
+Slides: [correlation](https://docs.google.com/presentation/d/12et6ZrFK7B6pE-Wmlz\_KVawjebAar9rC/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
 
 ***
 
