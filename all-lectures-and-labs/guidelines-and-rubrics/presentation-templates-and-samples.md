@@ -53,8 +53,7 @@ The table below provides 87 Google Slides templates and 5 Infographic sets.
 
 <mark style="color:red;">Punctuality</mark>
 
-1. Did you arrive in the classroom 10 minutes early for your presentation day? (5 points)
-2. Did you submit your Google Slides link on time (a day before your presentation, 11:59 pm)? (10 points)
+1. Did you arrive in the classroom 10 minutes early for your presentation day? (15 points)
 
 <mark style="color:red;">Script and stopwatch</mark>
 
