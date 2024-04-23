@@ -39,5 +39,4 @@ On RStudio go to File ➜ Reopen with encoding ➜ Choose UTF-8
 * [Linear regression assumptions and diagnostics](https://drive.google.com/open?id=1-96PHHYux-ALVWfnfYYGmcQZx91h9743\&usp=drive\_fs)
 * [Regression examples](https://drive.google.com/file/d/16A0u7mj-b0mXKNTKsodCmYWF1h1YvwrB/view?usp=sharing)
 * [ESS data](https://drive.google.com/file/d/180417fazglgdwbYqFUHPy\_sf0enYMYfW/view?usp=sharing)
-
-[gss 2022 data](https://drive.google.com/file/d/11olzs5qua2SGHhDo0\_fqi4rj7InAL2Bx/view?usp=sharing)
+* [GSS 2022 data](https://drive.google.com/file/d/11olzs5qua2SGHhDo0\_fqi4rj7InAL2Bx/view?usp=sharing)
