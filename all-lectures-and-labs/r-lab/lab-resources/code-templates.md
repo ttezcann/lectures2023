@@ -34,10 +34,9 @@ required package(s): library(sjlabelled)
 
 ```r
 temp <- tempfile()
-download.file("https://gss.norc.org/Documents/stata/2022_stata.zip",temp)
-unzip(temp, files="2022/GSS2022.dta",exdir = "OrigData")
-unlink(temp);rm(temp)
-gss <-  haven::read_dta("OrigData/2022/GSS2022.dta")
+download.file("https://drive.google.com/uc?export=download&id=1mF7gMY4aU9amTgYLSVOyVQaHT_opDUbj",temp, mode = "wb")
+unzip(temp, files="OrigData/2022/GSS2022.dta",exdir = "OrigData")
+gss <- haven::read_dta("OrigData/OrigData/2022/GSS2022.dta")
 key <- as.data.frame(get_label(gss))
 ```
 
