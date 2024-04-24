@@ -40,7 +40,13 @@ Writing is easier as you read
 
 In this stage of your research, you finalize your research paper.
 
-Everything you wrote for the draft paper or other assignments can be used for your final paper
+Everything you wrote for the draft paper or other assignments can be used for your final paper.
+
+
+
+You will need to find the full PDF version of the articles. If you do not have access to them, please email me ([ttezcan@csumb.edu](mailto:ttezcan@csumb.edu)) with the title and the link of the articles. Make sure the link does NOT start with [https://csu-mb.primo.exlibrisgroup.com/](https://csu-mb.primo.exlibrisgroup.com/)
+
+<figure><img src="https://lh7-us.googleusercontent.com/yw8cRVgRZoA4OiwV77MotlTj6l3Y4hjkuUV9tU2hVR-5ZyuNFY_oevAtsy5_H-ylr2J2z8UHLJ_JaJK549ciSfEz9Nff0euoyDBi-CmvbcDbo6Dbv7jSXQEpfB9qheMvlZvr0R56c-oYnHNzwqTOpw" alt=""><figcaption></figcaption></figure>
 
 ## Sections
 
