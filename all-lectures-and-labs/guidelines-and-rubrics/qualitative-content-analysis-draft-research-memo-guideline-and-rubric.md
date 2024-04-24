@@ -47,6 +47,12 @@ Those previous assignments are:&#x20;
 
 Note: Submissions without data analysis that is generated in "Coding your own data for draft research memo" will automatically receive zero.
 
+
+
+You will need to find the full PDF version of the articles. If you do not have access to them, please email me ([ttezcan@csumb.edu](mailto:ttezcan@csumb.edu)) with the title and the link of the articles. Make sure the link does NOT start with [https://csu-mb.primo.exlibrisgroup.com/](https://csu-mb.primo.exlibrisgroup.com/)
+
+<figure><img src="https://lh7-us.googleusercontent.com/yw8cRVgRZoA4OiwV77MotlTj6l3Y4hjkuUV9tU2hVR-5ZyuNFY_oevAtsy5_H-ylr2J2z8UHLJ_JaJK549ciSfEz9Nff0euoyDBi-CmvbcDbo6Dbv7jSXQEpfB9qheMvlZvr0R56c-oYnHNzwqTOpw" alt=""><figcaption></figcaption></figure>
+
 ## Sections
 
 1. **Introduction and background:** Clearly state the topic. What are you investigating? Who is the target group to investigate? (Women of color, second-generation Salvadoran immigrants, etc.)? What is the significance of the topic? Why does it matter? Highlight the significance of the topic. Cite some of your sentences here. End this section with your research question.
