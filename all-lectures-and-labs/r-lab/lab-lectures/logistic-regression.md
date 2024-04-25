@@ -24,9 +24,9 @@ layout:
 
 ## Slides
 
-
-
 {% embed url="https://docs.google.com/presentation/d/14fc8Ah_rc1DwYrfIhLHDF5PTJZCtVWaj?rtpof=true&usp=drive_fs" %}
+[**Downloadable slides here**](https://docs.google.com/presentation/d/14fc8Ah\_rc1DwYrfIhLHDF5PTJZCtVWaj?rtpof=true\&usp=drive\_fs)
+{% endembed %}
 
 ## Lab assignment
 
