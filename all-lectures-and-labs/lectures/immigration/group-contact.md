@@ -16,9 +16,9 @@ layout:
 
 ## Reading
 
-[Intergroup contact as a tool for reducing, resolving, and preventing intergroup conflict](https://drive.google.com/open?id=1uBVuSR8f293t9ymCroEL\_wfK1thFBNqt\&authuser=ttezcan%40csumb.edu\&usp=drive\_fs)
+[Intergroup contact as a tool for reducing, resolving, and preventing intergroup conflict](https://drive.google.com/file/d/1NaKnmp6\_0SNyQ5VkdvKygkxUuLqpukuf/view?usp=sharing)
 
-[<mark style="color:orange;">**\[Optional\]**</mark> The Ties That Bind and Those That Don't: Toward Reconciling Group Threat and Contact Theories of Prejudice](https://drive.google.com/open?id=1\_UErTpLrEzc7mZk8E0H5\_bBKnBA5Kcld\&usp=drive\_fs)
+[<mark style="color:orange;">**\[Optional\]**</mark> The Ties That Bind and Those That Don't: Toward Reconciling Group Threat and Contact Theories of Prejudice](https://drive.google.com/open?id=1Nf\_MBtvmBJboD3tHqXcdDaHZdg71I7sv\&usp=drive\_fs)
 
 ## Slides
 
