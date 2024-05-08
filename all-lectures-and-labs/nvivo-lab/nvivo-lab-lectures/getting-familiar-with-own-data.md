@@ -24,8 +24,8 @@ layout:
 During this lecture, we'll utilize the data we collected during the class last week (online vs. in-person). We will follow the same procedure as last week.
 {% endhint %}
 
-{% embed url="https://docs.google.com/presentation/d/1YKujFlg8RMD-ylCBuT4U-mCSL2zmj_c1LPmVnhIEzac/edit?usp=sharing" %}
-[**Downloadable slides here**](https://docs.google.com/presentation/d/1YKujFlg8RMD-ylCBuT4U-mCSL2zmj\_c1LPmVnhIEzac/edit?usp=sharing)
+{% embed url="https://docs.google.com/presentation/d/17DimbManOsD2GreZ_3qIgaNUVKvsMWWG?rtpof=true&usp=drive_fs" %}
+[**Downloadable slides here**](https://docs.google.com/presentation/d/17DimbManOsD2GreZ\_3qIgaNUVKvsMWWG?rtpof=true\&usp=drive\_fs)
 {% endembed %}
 
 ## Lab assignment
