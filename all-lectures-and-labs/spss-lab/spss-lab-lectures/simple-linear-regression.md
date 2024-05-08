@@ -20,8 +20,8 @@ layout:
 
 ## Slides
 
-{% embed url="https://docs.google.com/presentation/d/19XDj_I7GtG3CcWgCegfhTAqMNdprO-kJ?rtpof=true&usp=drive_fs" %}
-[**Downloadable slides here**](https://docs.google.com/presentation/d/19XDj\_I7GtG3CcWgCegfhTAqMNdprO-kJ?rtpof=true\&usp=drive\_fs)
+{% embed url="https://docs.google.com/presentation/d/19kTxnBtExiv4CoiggKiYDGAK9gjLbjIu?rtpof=true&usp=drive_fs" %}
+[**Downloadable slides here**](https://docs.google.com/presentation/d/19kTxnBtExiv4CoiggKiYDGAK9gjLbjIu?rtpof=true\&usp=drive\_fs)
 {% endembed %}
 
 ## Lab assignment
