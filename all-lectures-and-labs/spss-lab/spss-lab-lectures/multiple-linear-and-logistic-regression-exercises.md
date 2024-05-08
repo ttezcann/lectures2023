@@ -26,8 +26,8 @@ layout:
 
 ## Slides
 
-{% embed url="https://docs.google.com/presentation/d/1na6UXWJ2DNmnoR3CziyRqVnYmowK_E7jYU61BD0imuc/edit?usp=sharing" %}
-[**Downloadable slides here**](https://docs.google.com/presentation/d/1na6UXWJ2DNmnoR3CziyRqVnYmowK\_E7jYU61BD0imuc/edit?usp=sharing)
+{% embed url="https://docs.google.com/presentation/d/1A49DE_l0TQZ6qqgOwt2Br79z8GPVQAQ0?rtpof=true&usp=drive_fs" %}
+[**Downloadable slides here**](https://docs.google.com/presentation/d/1A49DE\_l0TQZ6qqgOwt2Br79z8GPVQAQ0?rtpof=true\&usp=drive\_fs)
 {% endembed %}
 
 ## Video
