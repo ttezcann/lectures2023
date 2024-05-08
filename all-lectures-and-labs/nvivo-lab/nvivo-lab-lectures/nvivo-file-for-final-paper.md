@@ -14,8 +14,6 @@ layout:
 
 # NVIVO file for final paper
 
-##
-
 {% hint style="info" %}
 During this lecture, you will be preparing your NVIVO file for the final project. I will be answering your questions regarding importing data, coding, case classifications, and framework matrices.
 {% endhint %}
