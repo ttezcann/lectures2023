@@ -19,26 +19,14 @@ layout:
 3. Type your first and last name, CSUMB email address, and the meeting agenda in one sentence.
 4. Click Book.
 
-We can meet in two ways:
+We can meet online or by appointment&#x20;
 
 \
-(1) Regular office hours (Tuesday & Thursday 2 - 3pm, <mark style="color:red;">online</mark>)
+Regular office hours (Tuesday & Thursday 2 - 3pm, <mark style="color:red;">online</mark>)
 
 &#x20;[https://csumb.zoom.us/j/7858714463](https://csumb.zoom.us/j/7858714463)   **\*Do not click this link if you didn't schedule a meeting.**
 
-| TUTH 2:00 - 2:15 pm @ Zoom | TUTH 2:30 - 2:45 pm @ Zoom |
-| -------------------------- | -------------------------- |
-| TUTH 2:15 - 2:30 pm @ Zoom | TUTH 2:45 - 3:00 pm @ Zoom |
-
 \
-(2) Before/after my classes (<mark style="color:red;">In-person</mark>)
-
-| MW 11:45 - 12:00 pm @ Heron (104)  | TUTH 9:45 - 10:00 @ Business (235)  |
-| ---------------------------------- | ----------------------------------- |
-| MW 1:20 - 1:35 pm @ Heron (104)    | TUTH 11:20 - 11:35 @ Business (235) |
-| MW 1:45 - 2:00 pm @ Library (1173) | TUTH 11:45 - 12:00 @ Harbor (102)   |
-| MW 3:20 - 3:35 pm @ Library (1173) | TUTH  1:20 - 1:35 @ @ Harbor (102)  |
-
 **Video guidance on scheduling and canceling a meeting**
 
 {% embed url="https://youtu.be/NBgW6NCTDK0" %}
