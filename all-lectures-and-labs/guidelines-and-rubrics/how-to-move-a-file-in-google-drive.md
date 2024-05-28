@@ -12,11 +12,7 @@ layout:
     visible: false
 ---
 
-# How to submit an assignment
-
-### <mark style="color:orange;">**Video instructions**</mark>
-
-{% embed url="https://youtu.be/Rdt0PsleA7c" %}
+# How to move a file in Google Drive
 
 ### <mark style="color:orange;">**Textual instructions**</mark>
 

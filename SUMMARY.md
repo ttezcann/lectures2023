@@ -6,6 +6,7 @@
     * [Office hours](all-lectures-and-labs/guidelines-and-rubrics/office-hours.md)
     * [How to take a screenshot](all-lectures-and-labs/guidelines-and-rubrics/how-to-take-a-screenshot.md)
     * [How to submit an assignment](all-lectures-and-labs/guidelines-and-rubrics/how-to-submit-an-assignment.md)
+    * [How to move a file in Google Drive](all-lectures-and-labs/guidelines-and-rubrics/how-to-move-a-file-in-google-drive.md)
     * [Highlighting and commenting assignment instructions](all-lectures-and-labs/guidelines-and-rubrics/highlighting-and-commenting-assignment-instructions.md)
     * [How to collaborate on the same Google document](all-lectures-and-labs/guidelines-and-rubrics/how-to-collaborate-on-the-same-google-document.md)
     * [How to embed an image in Canvas](all-lectures-and-labs/guidelines-and-rubrics/how-to-embed-an-image-in-canvas.md)
