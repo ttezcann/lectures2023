@@ -14,9 +14,9 @@ layout:
 
 # Lecture reflections
 
-## Template
+## Where are the readings, slides, and lecture videos?
 
-[**\[Template is here\]**](https://docs.google.com/document/d/1I80pL9soAq\_4owA7nPxa5s\_iL8lQh\_DG/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
+[**\[See this guideline\]**](https://ttezcan.gitbook.io/lectures/all-lectures-and-labs/guidelines-and-rubrics/where-are-the-readings-slides-and-lecture-videos)
 
 ## Samples
 
