@@ -14,6 +14,8 @@ layout:
 
 # Highlighting and commenting assignment instructions
 
+When the lecture assignment has a <mark style="color:red;">\[Highlighting and Commenting]</mark> link at the very top, students must annotate the instructions following the guideline below before starting the assignment; otherwise, they will receive a -10 penalty.
+
 ## <mark style="color:orange;">Samples</mark>
 
 ### [Sample 1](https://docs.google.com/document/d/1qPHry76M5NxCfCcdGoTbN9LobWBaj64K/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
@@ -42,6 +44,8 @@ This task does not contribute directly to your grade, but failure to effectively
 
 The "highlighting and commenting" part of the assignments that appear to have been completed with minimal effort and superficially will lose up to 10 points. It is students' responsibility to demonstrate and convince the instructor that they have thoroughly read and understood the instructions. For instance, if there are explicit instructions to complete a particular section of the assignment and the submission does not comply, points will be deducted for failing to highlight and comment as required.
 
+Highlighting and commenting should be completed before starting the assignment. Any highlighting and commenting done after completing the sections of the assignment will not be counted, as it defeats the purpose.
+
 ## <mark style="color:orange;">How to highlight</mark>
 
 Highlight the part, click on the marker, and choose a color (from the third row, which are lighter)
@@ -53,5 +57,3 @@ Highlight the part, click on the marker, and choose a color (from the third row,
 Upon highlighting the part, a dialogue box will appear. Click on “Add comment” and type your comments.
 
 <figure><img src="https://lh7-us.googleusercontent.com/RAnXEBkyZjUWP3NCgpgIWrr_Ys_oC33UKY97d2fDoDrliSB1ZndLOa4NwuTO5sQpf-Dqz2M_xJm5eL7ZDJI1osBrnbSeye_0LjMKOIh4h6HtlRWpGmzpuVk4uO55Mwjs5tb_C2w9HJ6PG4YvFAb4OFi88liQLRb_BNLSQBpwXpp78ADONfJsyKrKlTQtGg" alt=""><figcaption></figcaption></figure>
-
-##
