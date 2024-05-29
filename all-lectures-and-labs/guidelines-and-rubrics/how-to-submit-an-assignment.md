@@ -23,9 +23,9 @@ layout:
 1. Make sure you are signed in and see your CSUMB Google profile on the top right:<img src="../../.gitbook/assets/Screenshot_2024-01-05 10.00.07.png" alt="" data-size="original">
 2. Click “File” <mark style="color:red;">➜</mark> “Make a copy.”
 3. Rename the file name. Delete the “Copy of” part. It must be “your last name and the name of the assignment.” For example, “Smith Google Drive assignment.” (otherwise -5)
-4. Put this file under your main Google Drive folder <mark style="color:red;">➜</mark> Relevant week subfolder (otherwise no credit) The assignment will be graded with 10% deduction when the file is moved to the relevant week's subfolder and "moved" is typed in the Canvas comment section of the assignment \[How to move a file].
+4. Put this file under your main Google Drive folder <mark style="color:red;">➜</mark> Relevant week subfolder (otherwise no credit) The assignment will be graded with 10% deduction when the file is moved to the relevant week's subfolder and "moved" is typed in the Canvas comment section of the assignment [\[How to move a file\]](https://ttezcan.gitbook.io/lectures/all-lectures-and-labs/guidelines-and-rubrics/how-to-move-a-file-in-google-drive).
 5. Type your responses in designated areas.
-6. Before the submission, make sure the file is under the relevant week subfolder. Otherwise, move it.
+6. Before the submission, make sure the file is under the relevant week subfolder. [Otherwise, move it](https://ttezcan.gitbook.io/lectures/all-lectures-and-labs/guidelines-and-rubrics/how-to-move-a-file-in-google-drive).
 7. To submit this assignment, click “Start Assignment” on Canvas <mark style="color:red;">➜</mark> Choose Google Drive (LTI 1.3) (Make sure you log in with your CSUMB credentials) <mark style="color:red;">➜</mark> “Select file” <mark style="color:red;">➜</mark> “MY DRIVE” <mark style="color:red;">➜</mark> Your class folder <mark style="color:red;">➜</mark> Relevant week <mark style="color:red;">➜</mark> Assignment file <mark style="color:red;">➜</mark> “Add” <mark style="color:red;">➜</mark> “Attach” <mark style="color:red;">➜</mark> “Submit Assignment”
 
 ### <mark style="color:orange;">I</mark><mark style="color:orange;">**nstructions with screenshots**</mark>
