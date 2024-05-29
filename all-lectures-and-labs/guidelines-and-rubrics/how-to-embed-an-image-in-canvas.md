@@ -14,4 +14,6 @@ layout:
 
 # How to embed an image in Canvas
 
-{% embed url="https://youtu.be/OnXbEfLDH3Y" %}
+
+
+{% embed url="https://youtu.be/DGEVqMmNKqI?si=snInozPxYmrcD_c9" %}
