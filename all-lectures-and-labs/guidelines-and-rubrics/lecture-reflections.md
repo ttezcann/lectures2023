@@ -28,7 +28,11 @@ layout:
 
 ### [Sample 4](https://docs.google.com/document/d/1GLyqllWGoOCtsFUTpKQeJn4Kp10Fredg/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
 
+For each lecture, students will submit a minimum 700 words of reflection.&#x20;
 
+Minimum 250 words will be about the assigned reading (reading reflection);&#x20;
+
+Minimum 150 words for the 1/3; minimum 150 words for the 2/3; and minimum 150 words for the rest of the lecture video (video reflection).
 
 {% hint style="info" %}
 There are two guidelines here:&#x20;
