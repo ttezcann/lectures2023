@@ -18,6 +18,7 @@
     * [How to use zbib.org for citations?](all-lectures-and-labs/guidelines-and-rubrics/how-to-use-zbib.org-for-citations.md)
     * [How to determine peer-reviewed journal articles?](all-lectures-and-labs/guidelines-and-rubrics/how-to-determine-peer-reviewed-journal-articles.md)
     * [How to take a screenshot](all-lectures-and-labs/guidelines-and-rubrics/how-to-take-a-screenshot.md)
+    * [How to use Google Calendar](all-lectures-and-labs/guidelines-and-rubrics/how-to-use-google-calendar.md)
     * [How to use RStudio Cloud](all-lectures-and-labs/guidelines-and-rubrics/how-to-use-rstudio-cloud.md)
     * [Presentation templates and samples](all-lectures-and-labs/guidelines-and-rubrics/presentation-templates-and-samples.md)
     * [Qualitative (Content analysis) DRAFT research memo guideline and rubric](all-lectures-and-labs/guidelines-and-rubrics/qualitative-content-analysis-draft-research-memo-guideline-and-rubric.md)
