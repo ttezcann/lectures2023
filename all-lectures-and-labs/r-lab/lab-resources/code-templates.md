@@ -14,22 +14,28 @@ layout:
 
 # Code templates
 
-## install packages
+## install and load multiple packages
 
 ```r
-install.packages("sjlabelled", dependencies = TRUE)
+packages <- c("corrplot", "dplyr", "ggplot2", "ggpubr", 
+              "Hmisc", "parameters", "performance", "psych", 
+              "sjlabelled", "sjmisc", "sjPlot")
+for (pkg in packages) {
+  if (!require(pkg, character.only = TRUE)) {
+    install.packages(pkg, dependencies = TRUE)
+    library(pkg, character.only = TRUE)}}
 ```
 
-## load packages
+## install and load a single package
 
 ```r
-library(sjlabelled)
+if (!require("PackageNameHere")) install.packages("PackageNameHere", dependencies = TRUE); library("PackageNameHere")
 ```
 
 ## load GSS
 
 {% hint style="warning" %}
-required package(s): library(sjlabelled)
+required package(s): "sjlabelled"
 {% endhint %}
 
 ```r
@@ -43,7 +49,7 @@ key <- as.data.frame(get_label(gss))
 ## frequency table (for categorical variables)
 
 {% hint style="warning" %}
-required package(s): library(sjmisc)
+required package(s): "sjmisc"
 {% endhint %}
 
 ```r
@@ -53,7 +59,7 @@ frq(gss$sex, out = "v")
 ## descriptive table (for continuous variables)
 
 {% hint style="warning" %}
-required package(s): library(sjmisc)
+required package(s): "sjmisc"
 {% endhint %}
 
 ```r
@@ -105,7 +111,7 @@ Running the code above will create a new variable, <mark style="color:red;">phye
 
 
 {% hint style="warning" %}
-required package(s): library(sjmisc)
+required package(s): "sjmisc"
 {% endhint %}
 
 ### recoding cat2 (categorical to categorical with 2 responses)
@@ -215,7 +221,7 @@ gss$new_variable_name_here <- rec(gss$original_variable_here, rec =
 ## computing
 
 {% hint style="warning" %}
-required package(s): library(dplyr)
+required package(s): "dplyr"
 {% endhint %}
 
 ### computing 1
@@ -316,7 +322,7 @@ mutate (sociallifeindex = mean (c(socrelnew,socommunnew,socfrendnew, socbarnew))
 ## chi square
 
 {% hint style="warning" %}
-required package(s): library(sjPlot)
+required package(s): "sjPlot"
 {% endhint %}
 
 ```r
@@ -326,7 +332,7 @@ sjt.xtab(gss$var1, gss$var2, show.row.prc = TRUE)
 ## ttest
 
 {% hint style="warning" %}
-required package(s): library(dplyr)   |   library(parameters)
+required package(s): "dplyr"   |   "parameters"
 {% endhint %}
 
 ```r
@@ -338,7 +344,7 @@ t.test(depvar ~ indepvar, data = gss) %>%
 ## bar graph (for categorical variables)
 
 {% hint style="warning" %}
-required package(s): library(sjPlot)
+required package(s): "sjPlot"
 {% endhint %}
 
 ```r
@@ -348,7 +354,7 @@ plot_frq(gss$marital, type = "bar", geom.colors = "#336699")
 ## histogram (for continuous variables)
 
 {% hint style="warning" %}
-required package(s): library(sjPlot)
+required package(s): "sjPlot"
 {% endhint %}
 
 ```r
@@ -358,7 +364,7 @@ plot_frq(gss$educ, type = "hist",show.mean = TRUE, show.mean.val = TRUE, normal.
 ## stacked bar graphs for multiple likert scales
 
 {% hint style="warning" %}
-required package(s): library(sjPlot)   |   library(ggplot2)
+required package(s): "sjPlot"  |   "ggplot2"
 {% endhint %}
 
 ```r
@@ -374,7 +380,7 @@ legend.text = element_text(size=14)) # change font size of legend
 ## stacked bar graphs for multiple likert scales (flip coordination
 
 {% hint style="warning" %}
-required package(s): library(sjPlot)   |   library(ggplot2)
+required package(s): "sjPlot"  |   "ggplot2"
 {% endhint %}
 
 ```r
@@ -390,7 +396,7 @@ legend.text = element_text(size=14)) # change font size of legend
 ## stacked bar graphs by different groups
 
 {% hint style="warning" %}
-required package(s): library(sjPlot)
+required package(s): "sjPlot"
 {% endhint %}
 
 ```r
@@ -400,7 +406,7 @@ plot_xtab(gss$var1, gss$var2, show.total=FALSE, show.n = FALSE)
 ## bar graphs between groups (margin=row)
 
 {% hint style="warning" %}
-required package(s): library(sjPlot)
+required package(s): "sjPlot"
 {% endhint %}
 
 ```r
@@ -410,7 +416,7 @@ plot_xtab(gss$var1, gss$var2, show.total=FALSE, show.n = FALSE, margin = "row")
 ## scatterplot with two variables
 
 {% hint style="warning" %}
-required package(s): library(sjPlot)
+required package(s): "sjPlot"
 {% endhint %}
 
 ```r
@@ -422,7 +428,7 @@ plot_scatter(gss, var1, var2, jitter = TRUE,
 ## scatterplot with two variables by groups
 
 {% hint style="warning" %}
-required package(s): library(sjPlot)
+required package(s): "sjPlot"
 {% endhint %}
 
 ```r
@@ -436,7 +442,7 @@ plot_scatter(gss, var1, var2, groupvar, jitter = TRUE,
 ### correlation analysis table
 
 {% hint style="warning" %}
-required package(s):  library(sjPlot)
+required package(s):  "sjPlot"
 {% endhint %}
 
 ```r
@@ -447,7 +453,7 @@ wrap.labels = 30, p.numeric = TRUE, triangle="lower", na.deletion = "pairwise")
 ### correlation scatterplot graph
 
 {% hint style="warning" %}
-required package(s): library(ggpubr)
+required package(s): "ggpubr"
 {% endhint %}
 
 ```r
@@ -460,7 +466,7 @@ scatterplot <- ggscatter(gss, x = "sei10", y = "spsei10",
 ### correlation matrix
 
 {% hint style="warning" %}
-required package(s): library(sjPlot)
+required package(s): "sjPlot"
 {% endhint %}
 
 ```r
@@ -471,7 +477,7 @@ tab_corr (gss[, c("sei10", "spsei10", "tvhours", "usetech", "age", "educ", "mara
 ### scatterplot matrix
 
 {% hint style="warning" %}
-required package(s): library(psych)
+required package(s): "psych"
 {% endhint %}
 
 ```r
@@ -482,7 +488,7 @@ ellipses=F, scale=F, show.points=F, stars=T, ci=T)
 ### correlogram
 
 {% hint style="warning" %}
-required package(s): library(corrplot)   |   library(Hmisc)
+required package(s): "corrplot"   |   "Hmisc"
 {% endhint %}
 
 ```r
@@ -497,7 +503,7 @@ addCoef.col = 'black', order = 'original', diag = FALSE)$corrPos
 ## regressions
 
 {% hint style="warning" %}
-required package(s): library(sjPlot)
+required package(s): "sjPlot"
 {% endhint %}
 
 ### linear regression
