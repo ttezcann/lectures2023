@@ -40,10 +40,6 @@ layout:
 
 <figure><img src="../../../.gitbook/assets/ss_2024-07-16 17.06.29.png" alt=""><figcaption></figcaption></figure>
 
-The process is also shown on the video below:
-
-{% embed url="https://youtu.be/G7SvmDZrpNE" %}
-
 <figure><img src="https://lh6.googleusercontent.com/YzfunXTpveQwVGbe0Ur82n3tiUMUdtKygCgvT19yLqhTDSQT7izjtzwu0HCmlAk9-vtGFTHO9_DsauG_CmnImV88k8rW2aQaGdpkYU4kjB3Fx1W7PDSu0FSRWAsiP5agEre2rhhRhffNNK3LEqfzYd0" alt=""><figcaption></figcaption></figure>
 
 
