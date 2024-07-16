@@ -36,13 +36,13 @@ There will be a **graded attendance quiz**. Make sure to bring an electronic dev
 
 [The syllabus is here](https://docs.google.com/document/d/1LLkKuRUJE81UnZ2JZk-UQ6rGD15mrpMD/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true), also under the "Resources" page of Canvas (The first module).
 
-Read the syllabus and bring me your questions.
+Read the syllabus before the first class and bring me your questions.
 
 ## <mark style="color:orange;">Assignments for the first class</mark>
 
 There are a couple of assignments associated with the first class.&#x20;
 
-Feel free to submit these assignments during the summer if you wish. I grade assignments in 48 hours.
+Feel free to submit these assignments during the summer if you wish. I will grade the assignments in 48 hours during the summer.
 
 You can find these assignments under the module named (Week 1).
 
@@ -75,19 +75,21 @@ Each lecture is accompanied by three assignments (indented items are assignments
 
 <figure><img src="../../.gitbook/assets/sbs321 class structure original.png" alt=""><figcaption></figcaption></figure>
 
-## <mark style="color:orange;">Where are the readings, slides, and lecture videos?</mark>
-
-
-
 Click on the lecture names to see the readings, slides, and lecture videos. See [\[Where are the readings, slides, and lecture videos?\]](https://ttezcan.gitbook.io/lectures/all-lectures-and-labs/guidelines-and-rubrics/where-are-the-readings-slides-and-lecture-videos)
+
+Note: Lab lectures are listed in Table 3 (Course schedule) in the syllabus, with topics beginning with “RStudio.” Students should arrive in the classroom <mark style="color:red;">at least 5 minutes early on lab days</mark> to:
+
+* log in to the lab computer,&#x20;
+* log in to RStudio Cloud (Posit), and
+* log in to Canvas.&#x20;
+* download the script file, and&#x20;
+* run the packages and data codes.
 
 ## <mark style="color:orange;">Assignments</mark>
 
-Quiz: Quizzes are taken in the class and cannot be taken outside the classroom.
-
-Lecture assignments: We'll start (and most of the time finish) these assignments during the class.
-
-Lecture reflection: Missed in-class quizzes can be compensated with a lecture reflection. Those who wish to improve specific in-class quiz grades can also submit lecture reflections.
+1. **Quizzes**: Taken in the class and cannot be taken outside the classroom.
+2. **Lecture assignments**: We'll start (and most of the time finish) these assignments during the class.
+3. **Lecture reflection**: No need to submit a lecture reflection if you attend the class. Missed in-class quizzes can be compensated with a [lecture reflection](https://ttezcan.gitbook.io/lectures/all-lectures-and-labs/guidelines-and-rubrics/lecture-reflections#video-reflection-guidelines). Those who wish to improve specific in-class quiz grades can also submit lecture reflections.
 
 ## <mark style="color:orange;">Assignment submissions</mark>
 
@@ -98,3 +100,16 @@ Lecture reflection: Missed in-class quizzes can be compensated with a lecture re
    2. If the name of the weekly subfolders or Google Doc assignments are incorrect. rename them: [\[How to rename a file and folder in Google Drive\]](https://ttezcan.gitbook.io/lectures/all-lectures-and-labs/guidelines-and-rubrics/how-to-rename-a-file-and-folder-in-google-drive)
 4. When the lecture assignment has a [\[Highlighting and Commenting\] ](https://ttezcan.gitbook.io/lectures/all-lectures-and-labs/guidelines-and-rubrics/highlighting-and-commenting-assignment-instructions)link at the very top, students must annotate the instructions following the [\[Highlighting and Commenting\] ](https://ttezcan.gitbook.io/lectures/all-lectures-and-labs/guidelines-and-rubrics/highlighting-and-commenting-assignment-instructions)guideline before starting the assignment; otherwise, they will receive a <mark style="color:red;">-10 penalty</mark>.
 5. When there is “WC” (Word count) under the responses, students must provide the word count of their responses; otherwise, they will receive a <mark style="color:red;">-5 penalty.</mark> Incorrect word counts also receive a <mark style="color:red;">-5 penalty</mark>.
+
+## <mark style="color:orange;">How to work for this class?</mark>
+
+1. Do the reading before coming to class.
+2. Overview the slides before coming to class.
+3. Watch the lab lectures before coming to a lab class if you feel struggled during one of the lab lectures.
+
+## <mark style="color:orange;">Deadlines</mark>
+
+<figure><img src="../../.gitbook/assets/image (63).png" alt=""><figcaption></figcaption></figure>
+
+1. After the deadline has passed, Canvas will automatically give a zero, but students are granted <mark style="color:red;">one (1) additional (flexibility) day</mark> to submit their work without a deduction.
+2. Once the assignment deadline and the flexibility day has passed, students are granted an additional two-day window to submit their work.  <mark style="color:red;">A 20% deduction</mark> will be applied for the first day of delay, and <mark style="color:red;">a 30% deduction</mark> in total for the second day of delay.
