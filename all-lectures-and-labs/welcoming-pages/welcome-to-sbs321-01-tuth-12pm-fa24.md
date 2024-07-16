@@ -103,9 +103,10 @@ Note: Lab lectures are listed in Table 3 (Course schedule) in the syllabus, with
 
 ## <mark style="color:orange;">How to work for this class?</mark>
 
-1. Do the reading before coming to class.
-2. Overview the slides before coming to class.
-3. Watch the lab lectures before coming to a lab class if you feel struggled during one of the lab lectures.
+1. Do the reading before coming to class.&#x20;
+2. Review the slides before coming to class.&#x20;
+3. Watch the lab lecture videos <mark style="color:red;">after class</mark> if you were late or struggled.&#x20;
+4. Watch the lab lectures videos <mark style="color:red;">before coming to a lab class</mark> if you struggled during the previous lab lectures.
 
 ## <mark style="color:orange;">Deadlines</mark>
 
