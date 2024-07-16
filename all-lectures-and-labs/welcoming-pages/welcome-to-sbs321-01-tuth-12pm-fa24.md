@@ -42,13 +42,20 @@ Read the syllabus and bring me your questions.
 
 There are a couple of assignments associated with the first class.&#x20;
 
+Feel free to submit these assignments during the summer if you wish. I grade assignments in 48 hours.
+
+You can find these assignments under the module named (Week 1).
+
 Assignments with a \[fw] code (except for the syllabus quiz) can be resubmitted unlimited times within the deadline period. Without getting full credit from the “Google Drive Assignment” (comes with unlimited attempts within the deadline), students cannot continue the course.
 
 * \[fw] Google Drive assignment (the assignment that must be submitted first) (due by 08/29 - 11:59 pm)
+  * There is a video instruction for this assignment.
   * This assignment needs to be submitted first. When graded, you will receive a notification email with feedback. Follow the feedback and resubmit it until you receive full credit within the deadline. Do not submit the rest of the assignments before getting full credit from this assignment.
 * \[fw] Canvas notification settings assignment
 * \[fw] Google Calendar assignment
+  * There is a video instruction for this assignment.
 * \[fw] RStudio lab assignment: account and packages
+  * There is a video instruction for this assignment.
 * \[fw] Syllabus quiz
   * No resubmission option. No time limit.
 * \[fw] Introduce yourself
