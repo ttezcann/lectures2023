@@ -16,7 +16,7 @@ layout:
 
 ## <mark style="color:orange;">Welcome!</mark>
 
-Welcome to SBS321 - Survey Research!
+Welcome to SOC399 - Contemporary Immigration!
 
 My name is Tolga Tezcan and I'm your instructor. [You can check me CV here](https://docs.google.com/document/d/16HdRvPXse\_88mQysbXL6SdoQP2MEhRmX/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true).
 
@@ -53,8 +53,6 @@ Assignments with a \[fw] code (except for the syllabus quiz) can be resubmitted 
   * This assignment needs to be submitted first. When graded, you will receive a notification email with feedback. Follow the feedback and resubmit it until you receive full credit within the deadline. Do not submit the rest of the assignments before getting full credit from this assignment.
 * \[fw] Canvas notification settings assignment  <mark style="color:red;">(due by 08/29 - 11:59 pm)</mark>
 * \[fw] Google Calendar assignment <mark style="color:red;">(due by 08/29 - 11:59 pm)</mark>
-  * There is a video instruction for this assignment.
-* \[fw] RStudio lab assignment: account and packages <mark style="color:red;">(due by 08/29 - 11:59 pm)</mark>
   * There is a video instruction for this assignment.
 * \[fw] Syllabus quiz <mark style="color:red;">(due by 08/29 - 11:59 pm)</mark>
   * No resubmission option. No time limit.
@@ -97,8 +95,7 @@ Click on the lecture names to see the readings, slides, and lecture videos. See 
 
 1. Do the reading before coming to class.&#x20;
 2. Review the slides before coming to class.&#x20;
-3. Watch the lab lecture videos <mark style="color:red;">after class</mark> if you were late or struggled.&#x20;
-4. Watch the lab lectures videos <mark style="color:red;">before coming to a lab class</mark> if you struggled during the previous lab lectures.
+3. Watch the  lecture videos <mark style="color:red;">after class</mark> if you were late or struggled.&#x20;
 
 ## <mark style="color:orange;">Deadlines</mark>
 
