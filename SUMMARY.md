@@ -147,3 +147,5 @@
       * [Framework matrices](all-lectures-and-labs/nvivo-lab/nvivo-lab-lectures/framework-matrices.md)
       * [Mind maps, concept maps, project maps](all-lectures-and-labs/nvivo-lab/nvivo-lab-lectures/mind-maps-concept-maps-project-maps.md)
       * [NVIVO file for final paper](all-lectures-and-labs/nvivo-lab/nvivo-lab-lectures/nvivo-file-for-final-paper.md)
+  * [Welcoming pages](all-lectures-and-labs/welcoming-pages/README.md)
+    * [Welcome to SBS321-1](all-lectures-and-labs/welcoming-pages/welcome-to-sbs321-1.md)
