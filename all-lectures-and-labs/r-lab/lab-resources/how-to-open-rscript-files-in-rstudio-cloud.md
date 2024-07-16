@@ -14,7 +14,11 @@ layout:
 
 # How to open rscript files in RStudio Cloud
 
-<mark style="color:orange;">The video guideline is at the bottom.</mark>&#x20;
+<mark style="color:orange;">Video guideline:</mark>
+
+{% embed url="https://youtu.be/G12HTq6zJ-g" %}
+
+<mark style="color:orange;">Textual guideline:</mark>&#x20;
 
 1. Make sure you have a RStudio Cloud account. Otherwise, get one and install all the packages. [See this guideline](https://ttezcan.gitbook.io/lectures/all-lectures-and-labs/r-lab/lab-resources/how-to-create-rstudio-cloud-account-and-installing-all-the-packages).
 2. Open [RStudio Cloud website](https://posit.cloud/) and log in.
