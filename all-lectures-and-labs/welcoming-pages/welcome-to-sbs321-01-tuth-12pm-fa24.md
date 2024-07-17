@@ -18,7 +18,7 @@ layout:
 
 Welcome to SBS321 - Survey Research!
 
-My name is Tolga Tezcan and I'm your instructor. [You can check me CV here](https://docs.google.com/document/d/16HdRvPXse\_88mQysbXL6SdoQP2MEhRmX/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true).
+My name is Tolga Tezcan, associate professor of sociology, and I'm your instructor. [You can check me CV here](https://docs.google.com/document/d/16HdRvPXse\_88mQysbXL6SdoQP2MEhRmX/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true).
 
 This page will make you familiar with the course, structure, what to expect, and some other important information.
 
