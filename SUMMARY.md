@@ -109,7 +109,7 @@
       * [Common mistakes and troubleshooting in RStudio](all-lectures-and-labs/r-lab/lab-resources/common-mistakes-and-troubleshooting-in-rstudio.md)
       * [Common recoding issues in RStudio](all-lectures-and-labs/r-lab/lab-resources/common-recoding-issues-in-rstudio.md)
       * [Common computing issues in RStudio](all-lectures-and-labs/r-lab/lab-resources/common-computing-issues-in-rstudio.md)
-      * [Downloading R and RStudio](all-lectures-and-labs/r-lab/lab-resources/downloading-r-and-rstudio.md)
+      * [How to use RStudio on a computer without using a browser](all-lectures-and-labs/r-lab/lab-resources/how-to-use-rstudio-on-a-computer-without-using-a-browser.md)
       * [How to create RStudio Cloud account and installing all the packages](all-lectures-and-labs/r-lab/lab-resources/how-to-use-rstudio-cloud.md)
       * [How to open R script files in RStudio Cloud](all-lectures-and-labs/r-lab/lab-resources/how-to-open-r-script-files-in-rstudio-cloud.md)
   * [SPSS lab](all-lectures-and-labs/spss-lab/README.md)
