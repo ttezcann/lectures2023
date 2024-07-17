@@ -38,7 +38,7 @@ layout:
 
 
 
-6. The file is upload and at the bottom of the "Files" list (see highlighted part #1). When you click on it, the descriptive R script file will open (see highlighted part #2).
+6. The file is uploaded and at the bottom of the "Files" list (see highlighted part #1). When you click on it, the descriptive R script file will open (see highlighted part #2).
 
 <figure><img src="../../../.gitbook/assets/ss_2024-07-16 17.00.10.png" alt=""><figcaption></figcaption></figure>
 
