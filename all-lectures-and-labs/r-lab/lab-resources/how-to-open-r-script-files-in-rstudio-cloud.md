@@ -26,15 +26,23 @@ layout:
    1. Go to Canvas <mark style="color:red;">➜</mark> Resources module page <mark style="color:red;">➜</mark> “Lab resources” <mark style="color:red;">➜</mark> “All R script files” <mark style="color:red;">➜</mark> Click on “Installing the packages” and download this file. [“All script files” is here](https://ttezcan.gitbook.io/lectures/all-lectures-and-labs/r-lab/lab-resources/all-r-script-files) for your convenience.
 4. If you need the "Descriptive Statistics" R script file. Click on it and download.
 
-<figure><img src="../../../.gitbook/assets/ss_2024-07-16 16.55.54.png" alt=""><figcaption></figcaption></figure>
+
+
+<figure><img src="../../../.gitbook/assets/ss_2024-07-16 16.55.54.png" alt="" width="375"><figcaption></figcaption></figure>
+
+
 
 5. On [RStudio Cloud website](https://posit.cloud/), click “Upload” (see highlighted part #2 below). Click “Choose File.” Find the R script file you just downloaded (script\_descriptive.R) in the previous step and click “Open.”
 
 <figure><img src="../../../.gitbook/assets/image (65).png" alt=""><figcaption></figcaption></figure>
 
+
+
 6. The file is upload and at the bottom of the "Files" list (see highlighted part #1). When you click on it, the descriptive R script file will open (see highlighted part #2).
 
 <figure><img src="../../../.gitbook/assets/ss_2024-07-16 17.00.10.png" alt=""><figcaption></figcaption></figure>
+
+
 
 7. When you make any changes, the font of the file name (shown in the highlighted part #2 above) will be red with an asterisk (\*) - (see the highlighted part #1 below). To save your progress, Click save (see the highlighted part #2 below)
 
