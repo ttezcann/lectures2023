@@ -84,6 +84,10 @@ Each lecture is accompanied by three assignments (indented items are assignments
 
 Click on the lecture names to see the readings, slides, and lecture videos. See [\[Where are the readings, slides, and lecture videos?\]](https://ttezcan.gitbook.io/lectures/all-lectures-and-labs/guidelines-and-rubrics/where-are-the-readings-slides-and-lecture-videos)
 
+The general format of the lectures is as follows, though note that adjustments may be made for certain specific lectures:
+
+<figure><img src="../../.gitbook/assets/image (66).png" alt=""><figcaption></figcaption></figure>
+
 Note: Lab lectures are listed in Table 3 (Course schedule) in the syllabus, with topics beginning with “RStudio.” Students should arrive in the classroom <mark style="color:red;">at least 5 minutes early on lab days</mark> to:
 
 * log in to the lab computer,&#x20;
@@ -112,7 +116,7 @@ Note: Lab lectures are listed in Table 3 (Course schedule) in the syllabus, with
 ## <mark style="color:orange;">What are the benefits of attending classes?</mark>
 
 * **Less work:** No need to write a 700-word lecture reflection to compensate for each missed in-class quiz.
-* **Better comprehension:** During the 30-40 minute lecture, you will take notes for in-class quizzes, helping you better understand the content (see “Maximizing learning within limited time” under the “Teaching and Learning Structure”).
+* **Better comprehension:** During the 30-40 minute lecture, you will take notes for in-class quizzes, helping you better understand the content (see “Maximizing learning within limited time” under the “Teaching and Learning Structure” in the syllabus).
 * **Immediate feedback:** After the in-class quiz and a 5-minute break, you will begin the assignment, and I will provide individual feedback right away and answer any questions.
 * **One-on-one meetings:** I always arrive 15 minutes early to the class and stay 15 minutes late. Schedule an appointment and ask me your questions before or after class, or during the break.
 * **Making friends and networking:** Over half of the assignments are done in groups (2-3 members, with different peers each class). This helps you make friends and look forward to seeing each other.
