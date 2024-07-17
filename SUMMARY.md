@@ -111,7 +111,7 @@
       * [Common computing issues in RStudio](all-lectures-and-labs/r-lab/lab-resources/common-computing-issues-in-rstudio.md)
       * [Downloading R and RStudio](all-lectures-and-labs/r-lab/lab-resources/downloading-r-and-rstudio.md)
       * [How to create RStudio Cloud account and installing all the packages](all-lectures-and-labs/r-lab/lab-resources/how-to-use-rstudio-cloud.md)
-      * [How to open rscript files in RStudio Cloud](all-lectures-and-labs/r-lab/lab-resources/how-to-open-rscript-files-in-rstudio-cloud.md)
+      * [How to open R script files in RStudio Cloud](all-lectures-and-labs/r-lab/lab-resources/how-to-open-r-script-files-in-rstudio-cloud.md)
   * [SPSS lab](all-lectures-and-labs/spss-lab/README.md)
     * [SPSS lab resources](all-lectures-and-labs/spss-lab/spss-lab-resources/README.md)
       * [All syntax and data files](all-lectures-and-labs/spss-lab/spss-lab-resources/all-syntax-and-data-files.md)
