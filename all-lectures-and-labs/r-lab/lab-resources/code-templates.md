@@ -17,9 +17,9 @@ layout:
 ## install and load multiple packages
 
 ```r
-packages <- c("corrplot", "dplyr", "ggplot2", "ggpubr", 
-              "Hmisc", "parameters", "performance", "psych", 
-              "sjlabelled", "sjmisc", "sjPlot")
+packages <- c("corrplot", "tidyverse", "ggpubr", 
+              "Hmisc", "parameters", "performance",
+              "psych", "sjlabelled", "sjmisc", "sjPlot")
 for (pkg in packages) {
   if (!require(pkg, character.only = TRUE)) {
     install.packages(pkg, dependencies = TRUE)
@@ -221,7 +221,7 @@ gss$new_variable_name_here <- rec(gss$original_variable_here, rec =
 ## computing
 
 {% hint style="warning" %}
-required package(s): "dplyr"
+required package(s): "tidyverse"
 {% endhint %}
 
 ### computing 1
@@ -332,7 +332,7 @@ sjt.xtab(gss$var1, gss$var2, show.row.prc = TRUE)
 ## ttest
 
 {% hint style="warning" %}
-required package(s): "dplyr"   |   "parameters"
+required package(s): "tidyverse"   |   "parameters"
 {% endhint %}
 
 ```r
@@ -364,7 +364,7 @@ plot_frq(gss$educ, type = "hist",show.mean = TRUE, show.mean.val = TRUE, normal.
 ## stacked bar graphs for multiple likert scales
 
 {% hint style="warning" %}
-required package(s): "sjPlot"  |   "ggplot2"
+required package(s): "sjPlot"  |   "tidyverse"
 {% endhint %}
 
 ```r
@@ -380,7 +380,7 @@ legend.text = element_text(size=14)) # change font size of legend
 ## stacked bar graphs for multiple likert scales (flip coordination
 
 {% hint style="warning" %}
-required package(s): "sjPlot"  |   "ggplot2"
+required package(s): "sjPlot"  |   "tidyverse"
 {% endhint %}
 
 ```r
