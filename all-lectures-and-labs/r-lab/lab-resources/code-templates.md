@@ -17,13 +17,16 @@ layout:
 ## install and load multiple packages
 
 ```r
-packages <- c("corrplot", "tidyverse", "ggpubr", 
+while (dev.cur() > 1) dev.off()
+packages <- c("corrplot", "tidyverse", "ggpubr",
               "Hmisc", "parameters", "performance",
-              "psych", "sjlabelled", "sjmisc", "sjPlot")
-for (pkg in packages) {
-  if (!require(pkg, character.only = TRUE)) {
-    install.packages(pkg, dependencies = TRUE)
-    library(pkg, character.only = TRUE)}}
+              "psych", "see", "sjlabelled", "sjmisc", "sjPlot")
+installed_packages <- rownames(installed.packages())
+for (pkg in packages) {if (!(pkg %in% installed_packages)) {
+  message(paste("Installing package:", pkg))
+  install.packages(pkg, dependencies = TRUE)} else {
+    message(paste("Package already installed:", pkg))}
+  library(pkg, character.only = TRUE)}
 ```
 
 ## install and load a single package
@@ -77,8 +80,8 @@ Imagine we want to use “the level of physical effort required at work” (<mar
 
 frq(gss$<mark style="color:orange;">phyeffrt</mark>, out = "v")
 
-\
-![](https://lh7-us.googleusercontent.com/48NuP2iAmjMh3rDSuVo-dP9gjMoYOFk7fV73EfyrlmNaGkg5H-7xjgyiJdsRUKMd4YssBOXZoz0A88Or6Po7LiCCYh1\_FTZ7FVoqZ7T\_DjrCWop9MamImTksXY8wPZmUBhjKibFDoaDX\_TUK1Y\_U4gs)
+![](../../../.gitbook/assets/image.png)\
+
 
 Higher values should indicate greater physical effort, but this isn't the case. Thus, we need to change the direction of the responses:
 
@@ -108,6 +111,8 @@ gss$<mark style="color:red;">phyeffrtnew</mark> <- rec(gss$<mark style="color:or
 Running the code above will create a new variable, <mark style="color:red;">phyeffrtnew</mark>, that we will use in our analysis.
 {% endhint %}
 
+<figure><img src="https://lh7-us.googleusercontent.com/48NuP2iAmjMh3rDSuVo-dP9gjMoYOFk7fV73EfyrlmNaGkg5H-7xjgyiJdsRUKMd4YssBOXZoz0A88Or6Po7LiCCYh1_FTZ7FVoqZ7T_DjrCWop9MamImTksXY8wPZmUBhjKibFDoaDX_TUK1Y_U4gs" alt=""><figcaption></figcaption></figure>
+
 
 
 {% hint style="warning" %}
@@ -115,6 +120,16 @@ required package(s): "sjmisc"
 {% endhint %}
 
 ### recoding cat2 (categorical to categorical with 2 responses)
+
+{% code fullWidth="false" %}
+```r
+gss$new_variable_name_here <- rec(gss$original_variable_here, rec = 
+"1=2 [label1]; 
+2=1 [label2]", append = FALSE)
+```
+{% endcode %}
+
+### recoding cat2 with merging (categorical to categorical with 2 responses)
 
 {% code fullWidth="false" %}
 ```r
@@ -128,12 +143,31 @@ gss$new_variable_name_here <- rec(gss$original_variable_here, rec =
 
 ```r
 gss$new_variable_name_here <- rec(gss$original_variable_here, rec = 
+"1=3 [label1]; 
+2=2 [label2];
+3=1 [label3]", append = FALSE)
+```
+
+### recoding cat3 with merging (categorical to categorical with 3 responses)
+
+```r
+gss$new_variable_name_here <- rec(gss$original_variable_here, rec = 
 "1,2=1 [label1]; 
 3,4=2 [label2];
 5,6=3 [label3]", append = FALSE)
 ```
 
 ### recoding cat4 (categorical to categorical with 4 responses)
+
+```r
+gss$new_variable_name_here <- rec(gss$original_variable_here, rec = 
+"1=4 [label1]; 
+2=3 [label2];
+3=2 [label3];
+4=1 [label4]", append = FALSE)
+```
+
+### recoding cat4 with merging (categorical to categorical with 4 responses)
 
 ```r
 gss$new_variable_name_here <- rec(gss$original_variable_here, rec = 
@@ -147,6 +181,17 @@ gss$new_variable_name_here <- rec(gss$original_variable_here, rec =
 
 ```r
 gss$new_variable_name_here <- rec(gss$original_variable_here, rec = 
+"1=5 [label1]; 
+2=4 [label2];
+3=3 [label3];
+4=2 [label4];
+5=1 [label5]", append = FALSE)
+```
+
+### recoding cat5 with merging (categorical to categorical with 5 responses)
+
+```r
+gss$new_variable_name_here <- rec(gss$original_variable_here, rec = 
 "1,2=1 [label1]; 
 3,4=2 [label2];
 5,6=3 [label3];
@@ -155,6 +200,18 @@ gss$new_variable_name_here <- rec(gss$original_variable_here, rec =
 ```
 
 ### recoding cat6 (categorical to categorical with 6 responses)
+
+```r
+gss$new_variable_name_here <- rec(gss$original_variable_here, rec = 
+"1=6 [label1]; 
+2=5 [label2];
+3=4 [label3];
+4=3 [label4];
+5=2 [label5];
+6=1 [label6]", append = FALSE)
+```
+
+### recoding cat6 with merging (categorical to categorical with 6 responses)
 
 ```r
 gss$new_variable_name_here <- rec(gss$original_variable_here, rec = 
@@ -177,6 +234,19 @@ gss$new_variable_name_here <- rec(gss$original_variable_here, rec =
 3=5 [label5];
 2=6 [label6];
 1=7 [label7]", append = FALSE)
+```
+
+### recoding cat7 with merging (categorical to categorical with 7 responses)
+
+```r
+gss$new_variable_name_here <- rec(gss$original_variable_here, rec = 
+"1,2=1 [label1]; 
+3,4,5=2 [label2];
+6,7,8=3 [label3];
+9,10=4 [label4];
+11,12=5 [label5];
+13,14,15=6 [label6];
+16,17,18=7 [label7]", append = FALSE)
 ```
 
 ### recoding con2 (continuous to categorical with 2 responses)
