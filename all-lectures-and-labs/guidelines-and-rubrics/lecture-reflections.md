@@ -14,49 +14,52 @@ layout:
 
 # Lecture reflections
 
-## Where are the readings, slides, and lecture videos?
+## <mark style="color:orange;">Synopsis</mark>
+
+Lecture reflections <mark style="color:red;">(700 words)</mark> are composed of two reflections in a single document:
+
+1. Reading reflection: addressing three parts <mark style="color:red;">(250 words)</mark>
+2. Lecture video reflection:  150 words for the 1/3; minimum 150 words for the 2/3; and minimum 150 words for the rest of the lecture video <mark style="color:red;">(450 words)</mark>
+
+## <mark style="color:orange;">Where are the readings, slides, and lecture videos?</mark>
 
 [**\[See this guideline\]**](https://ttezcan.gitbook.io/lectures/all-lectures-and-labs/guidelines-and-rubrics/where-are-the-readings-slides-and-lecture-videos)
 
-## Samples
+## <mark style="color:orange;">Samples</mark>
 
-### [Sample 1](https://docs.google.com/document/d/1f4sbOQL3O1OQD2RyqAdWzI67zWa5zE2t/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
+### [Sample 1](https://docs.google.com/document/d/1PSY4fTCCNZ1wXR51VYJCBGw9o5WPUIBF/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
 
-### [Sample 2](https://docs.google.com/document/d/1fOLQACwMEZ2H3lSTZ4Fez2aJ4w5rWLfr/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
+### [Sample 2](https://docs.google.com/document/d/1LmnsYbWCXPD6uulJ8z\_UF6CcBCHlfz32/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
 
-### [Sample 3](https://docs.google.com/document/d/1fW7HttQdYYRcmjqbm0MxIftTS3rdwMhp/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
+### [Sample 3](https://docs.google.com/document/d/1GWsVwn4Fy9-luWW34ke9l0SYyeXa5Ml-/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
 
-### [Sample 4](https://docs.google.com/document/d/1GLyqllWGoOCtsFUTpKQeJn4Kp10Fredg/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
-
-For each lecture, students will submit a minimum 700 words of reflection.&#x20;
-
-Minimum 250 words will be about the assigned reading (reading reflection);&#x20;
-
-Minimum 150 words for the 1/3; minimum 150 words for the 2/3; and minimum 150 words for the rest of the lecture video (video reflection).
+### [Sample 4](https://docs.google.com/document/d/1xypg3nEoUfNPom9BUJlAEWyzmejolYbk/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
 
 {% hint style="info" %}
-There are two guidelines here:&#x20;
+There are two guidelines below:&#x20;
 
 (1) Reading reflection &#x20;
 
 (2) Lecture video reflection
 {% endhint %}
 
-## Reading reflection guideline
+## <mark style="color:orange;">1) Reading reflection guideline</mark>
 
 Students will submit a reading reflection <mark style="color:red;">(250 words or more)</mark> on an assigned reading.
 
-After completing the reading, students write brief responses (i.e., at least several sentences) to two questions. While the first question asks for the main points of the reading, the second question needs students to focus on a specific issue in the reading. Then, students formulate a question about the specific issue that they discussed in the second question. Students should make sure to provide enough justification/ground in Question 2 for their question to provoke some discussion.
+After completing the reading, students write comprehensive responses for two questions (Question 1 and Question 2) . Then, they formulate a question about the specific issue that they discussed in the second question (Your Question).
+
+While the first question asks for the main points of the reading, the second question needs students to focus on a specific issue in the reading. Then, students formulate a question about the specific issue that they discussed in the second question. Students should make sure to provide enough justification/ground in Question 2 for their question to provoke some discussion.
 
 <mark style="color:orange;">**Question 1:**</mark> What is the main point of this reading? What is the main idea that the reading points out? Your response is not a summary of the readings, but an analysis of it in a way that creates new meaning for you **(15 points)**.
 
-<mark style="color:orange;">**Question 2:**</mark> What is the specific issue/topic you are most interested in presented in assigned reading for the lecture? Write a paragraph to teach this specific issue/topic to your peers and prepare to present it in class **(20 points)**.
+<mark style="color:orange;">**Question 2:**</mark> What is the specific issue/topic you are most interested in presented in assigned reading for the lecture? Write a paragraph to teach this specific issue/topic to your peers and prepare to present it in class. Type the specific issue in parenthesis first **(20 points)**.&#x20;
 
-<mark style="color:orange;">**Your Question:**</mark> The purpose of this section is to dive deeper into the specific topic or issue you discussed in Question 2, stimulating a rich discussion among your peers. Your question should be about the specific issue/topic you stated in “Question 2”, something you already know the answer to.&#x20;
+<mark style="color:orange;">**Your Question:**</mark> The purpose of this section is to dive deeper into the specific topic or issue you discussed in Question 2, stimulating a rich discussion among your peers. Your question should be about the specific issue/topic you stated in “Question 2”, something you already know the answer to  (**15 points)**.
 
-Your question should be comprehensive, requiring multiple follow-up questions. While the primary inquiry should be explicit, it should be detailed and complex enough to open avenues for extensive discussion. Your question should spark some discussion and you will be able to lead that discussion (**15 points)**.
+Your question should be comprehensive, requiring multiple follow-up questions. It should be detailed and complex enough to open avenues for extensive discussion. Your question should spark some discussion and you will be able to lead that discussion
 
-* **Complexity**: Instead of posing a single, broad question, present a primary question followed by 2-3 related follow-up questions. This layered approach will allow for more nuanced discussions.
+* **Complexity**: Instead of posing a single, broad question, present a primary question followed by 2-3 related follow-up questions.
 * **Specificity**: Avoid vague or over-generalized questions. They should relate directly and specifically to the topic you presented in Question 2.
 * **Depth**: Each question should invite in-depth analysis and reflection, rather than simple 'yes' or 'no' answers.
 * **Open-endedness**: While you should already know the answers to your questions, they should be crafted in such a way that they encourage diverse viewpoints and interpretations.
@@ -68,7 +71,7 @@ Your question should be comprehensive, requiring multiple follow-up questions. W
 * Students also need to put the word count (WC) at the end of the post: (WC: 262) **(Otherwise -5)**.
 {% endhint %}
 
-## Reading reflection rubric for grading
+### <mark style="color:orange;">Reading reflection rubric for grading</mark>
 
 Responses to questions clearly indicate careful reading and deep reflection.&#x20;
 
@@ -88,7 +91,7 @@ Questions with answers that are already on the reading like
 
 will result in <mark style="color:red;">zero points</mark>.
 
-## Video reflection guideline
+## <mark style="color:orange;">2) Video reflection guideline</mark>
 
 Upon completion of the reading reflection, students are required to submit a lecture video reflection of at least <mark style="color:red;">450 words</mark> on a designated lecture **(50 points)**.
 
@@ -102,13 +105,13 @@ For instance, in a 25-minute video, the divisions could be approximately 8 minut
 
 At the conclusion of each third (both the first and second), students should note the time code (in minute:second format) where the segment ends, e.g., (1) 07:23 and (2) 14:12.
 
-## Video reflection rubric for grading
+### <mark style="color:orange;">Video reflection rubric for grading</mark>
 
 When composing the lecture video reflections, students should achieve two primary objectives:
 
 * Demonstrate a comprehensive understanding of the lecture content,
   * For each segment of the video, identify the key concepts or theories presented.
-  * Provide an explanation of the identified concept or theory in your own words and understanding. Do not paraphrase what the slides or videos mention.
+  * Provide an explanation of the identified concept or theory in your own words and understanding. <mark style="color:red;">Do not paraphrase what the slides or videos mention</mark>.
   * Discuss its significance within the context of the lecture.
   * Reflect on why those concepts or theories is crucial to the overall understanding of the subject matter.
 * Persuasively assure the instructor that they have watched the entire video,
