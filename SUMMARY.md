@@ -23,8 +23,6 @@
     * [Presentation templates and samples](all-lectures-and-labs/guidelines-and-rubrics/presentation-templates-and-samples.md)
     * [Qualitative (Content analysis) DRAFT research memo guideline and rubric](all-lectures-and-labs/guidelines-and-rubrics/qualitative-content-analysis-draft-research-memo-guideline-and-rubric.md)
     * [Qualitative (Content analysis) FINAL research memo guideline and rubric](all-lectures-and-labs/guidelines-and-rubrics/qualitative-content-analysis-final-research-memo-guideline-and-rubric.md)
-    * [Statistical DRAFT research memo guideline and rubric](all-lectures-and-labs/guidelines-and-rubrics/statistical-draft-research-memo-guideline-and-rubric.md)
-    * [Statistical FINAL research memo guideline and rubric](all-lectures-and-labs/guidelines-and-rubrics/statistical-final-research-memo-guideline-and-rubric.md)
   * [Lectures](all-lectures-and-labs/lectures/README.md)
     * [Social research](all-lectures-and-labs/lectures/social-research/README.md)
       * [Social research: why and how](all-lectures-and-labs/lectures/social-research/social-research-why-and-how.md)
