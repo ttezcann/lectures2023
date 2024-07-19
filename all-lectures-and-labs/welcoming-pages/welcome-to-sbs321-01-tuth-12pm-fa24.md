@@ -154,3 +154,15 @@ Some exceptions:
    2. If no comment is made and the correct document is already in the Google Drive week folder at the time of grading, it will be graded with a <mark style="color:red;">10% deduction</mark>, using Google Doc Version History. Assignments revised or created after the due date do not qualify for this option.
 2. **Submission made but no document in the Google Drive weekly subfolder:**&#x20;
    1. If submission is made and there is no document in the weekly subfolder, zero will be given and I will contact the student. Upon notification, the student may move the file to the relevant week's subfolder and <mark style="color:red;">type "moved"</mark> in the Canvas comment section of the assignment. The assignment will then be graded with a <mark style="color:red;">10% deduction</mark>. Assignments revised or created after this communication do not qualify for this option.
+
+## <mark style="color:orange;">Late enrollment</mark>
+
+If you are enrolled late in this class, read the syllabus and the welcoming page that was sent through the announcement (check the very top of class Canvas page) immediately. Since you have missed some classes, you can submit lecture reflections to compensate for missed in-class quizzes.&#x20;
+
+Submitting lecture reflections for lab classes and lab assignments is mandatory. Otherwise, you will lose 1% for each missed lab class lecture reflection and lab assignment from your overall grade, in addition to receiving a zero for missed in-class quizzes and missed assignments.&#x20;
+
+As soon as you are enrolled, email me, and I will reasonably adjust the missed deadlines. Otherwise, you will lose 1% for each missed lab class lecture reflection from your overall grade, in addition to receiving a zero for missed in-class quizzes.
+
+Start with the assignments under Week 1 (with the “fw” codes) in the order seen on the Canvas module page, then lecture reflections and other assignments.
+
+\
