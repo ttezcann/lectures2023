@@ -16,7 +16,7 @@ layout:
 
 ## Reading
 
-No Reading. Only video for lecture reflections.
+[Occupational status of immigrants in cross-national perspective: A multilevel analysis of seventeen Western societies](https://drive.google.com/open?id=1fzzA19d2OhcxyW790nUxk02PRjy37eWW\&usp=drive\_fs)(pay specific attention to "Dependent and independent variables" ps. 153-155)
 
 ## R Script file
 
