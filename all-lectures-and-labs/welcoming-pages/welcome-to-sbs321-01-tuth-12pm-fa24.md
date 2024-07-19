@@ -159,9 +159,7 @@ Some exceptions:
 
 If you are enrolled late in this class, read the syllabus and the welcoming page that was sent through the announcement (check the very top of class Canvas page) immediately. Since you have missed some classes, you can submit lecture reflections to compensate for missed in-class quizzes.&#x20;
 
-Submitting lecture reflections for lab classes and lab assignments is mandatory. Otherwise, you will lose 1% for each missed lab class lecture reflection and lab assignment from your overall grade, in addition to receiving a zero for missed in-class quizzes and missed assignments.&#x20;
-
-As soon as you are enrolled, email me, and I will reasonably adjust the missed deadlines. Otherwise, you will lose 1% for each missed lab class lecture reflection from your overall grade, in addition to receiving a zero for missed in-class quizzes.
+Submitting lecture reflections for lab classes and lab assignments is mandatory. Otherwise, you will lose 1% for each missed lab class lecture reflection and lab assignment from your overall grade, in addition to receiving a zero for missed in-class quizzes and missed assignments. As soon as you are enrolled, email me, and I will reasonably adjust the missed deadlines.&#x20;
 
 Start with the assignments under Week 1 (with the “fw” codes) in the order seen on the Canvas module page, then lecture reflections and other assignments.
 
