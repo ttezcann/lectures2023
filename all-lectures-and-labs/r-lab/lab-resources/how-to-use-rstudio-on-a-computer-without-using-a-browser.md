@@ -20,10 +20,11 @@ Every time you log in to a lab computer, you have to run "install and load packa
 
 Because when you log out, lab computers revert to their factory settings and deletes the installed packages.
 
-1. First download the R Script file that you want to use.  [All R Script files here](https://ttezcan.gitbook.io/lectures/all-lectures-and-labs/r-lab/lab-resources/all-r-script-files).
-2. On RStudio, Click File <mark style="color:red;">➜</mark> Open File.
-3. Find the Script file that you just downloaded, and click Open.
-4. **DO NOT DOUBLE CLICK R SCRIPT FILES.** It may open R, instead of RStudio.
+1. First, download the R Script file that you want to use.  [All R Script files here](https://ttezcan.gitbook.io/lectures/all-lectures-and-labs/r-lab/lab-resources/all-r-script-files).
+2. Type "RStudio" on the search bar of the computer. Open RStudio.
+3. On RStudio, Click File <mark style="color:red;">➜</mark> Open File.
+4. Find the Script file that you just downloaded, and click Open.
+5. **DO NOT DOUBLE CLICK R SCRIPT FILES.** It may open R, instead of RStudio.
 
 <figure><img src="../../../.gitbook/assets/image (67).png" alt=""><figcaption></figcaption></figure>
 
