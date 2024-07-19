@@ -16,7 +16,9 @@ layout:
 
 ## Reading
 
-[Searching for information](https://drive.google.com/file/d/1sUX4WP\_jBrIx85Y5HxIBg\_aVZI5CbO00/view?usp=sharing)
+[Visual research discovery using Connected Papers: A use case of blockchain in libraries](https://drive.google.com/open?id=1fzHrLCH7gTgRB2SrUMPAokkHDqmiKj8Q\&usp=drive\_fs)
+
+<mark style="color:orange;">Optional:</mark> [Searching for information](https://drive.google.com/file/d/1sUX4WP\_jBrIx85Y5HxIBg\_aVZI5CbO00/view?usp=sharing)
 
 ## Slides
 
