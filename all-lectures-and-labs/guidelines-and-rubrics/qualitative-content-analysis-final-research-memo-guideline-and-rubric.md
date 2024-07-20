@@ -14,7 +14,9 @@ layout:
 
 # Qualitative (Content analysis) FINAL research memo guideline and rubric
 
-[Click here to see the template you will use.](https://docs.google.com/document/d/1uYjqQcxMg7\_ltCZtKSTmkl7utzzVrLYk?rtpof=true\&usp=drive\_fs)
+<figure><img src="../../.gitbook/assets/ss_2024-07-20 17.08.50 8 2.png" alt=""><figcaption></figcaption></figure>
+
+[Click here to see the template you will use](https://docs.google.com/document/d/1uYjqQcxMg7\_ltCZtKSTmkl7utzzVrLYk?rtpof=true\&usp=drive\_fs)
 
 Open it and click File -> Copy.
 
