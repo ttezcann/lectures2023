@@ -14,6 +14,8 @@ layout:
 
 # Qualitative (Content analysis) DRAFT research memo guideline and rubric
 
+<figure><img src="../../.gitbook/assets/ss_2024-07-20 17.08.50 7.png" alt=""><figcaption></figcaption></figure>
+
 [**Click here to see the template you will use.**](https://docs.google.com/document/d/1uNbySWvROGhAB13w69U4ZFMdBIO-k2RF?rtpof=true\&usp=drive\_fs)
 
 Open it and click File <mark style="color:red;">**->**</mark> Copy.
