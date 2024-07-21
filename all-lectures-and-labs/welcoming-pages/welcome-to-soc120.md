@@ -107,7 +107,7 @@ During the term, students will be conducting content analysis focusing on any su
 2. **\[PRES]** Presentation (10 points – 10%),&#x20;
 3. **\[FRM]** Final research memo (10 points – 10%).
 
-Assignments designed to assist students in preparing components of the research memo will be graded under the “Research Memo (30%)” item. These assignments are identified by the label “\[DRM]” (Draft Research Memo), “\[PRES]” (Presentation), or “\[FRM]” (Final Research Memo) at the beginning of their names.
+Assignments designed to assist students in preparing components of the research memo will be graded under the “Research Memo (30%)” item. These assignments are identified by the label “\[DRM]” (Draft Research Memo), “\[PRES]” (Presentation), or “\[FRM]” (Final Research Memo) in their names.
 
 <figure><img src="../../.gitbook/assets/image (69).png" alt=""><figcaption></figcaption></figure>
 
