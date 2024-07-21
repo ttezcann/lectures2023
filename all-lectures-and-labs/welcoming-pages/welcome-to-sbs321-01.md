@@ -66,6 +66,13 @@ Assignments with a \[fw] code (except for the syllabus quiz) can be resubmitted 
 * **\[fw] lecture reflection (first class)** <mark style="color:red;">(due by 08/29 - 11:59 pm)</mark>
   * You do not submit this if you attend the first class. You do not need to submit the rest of the lecture reflections through out the semester if you attend the classes.
 
+## <mark style="color:orange;">Deadlines</mark>
+
+<figure><img src="../../.gitbook/assets/image (63).png" alt=""><figcaption></figcaption></figure>
+
+1. After the deadline has passed, Canvas will automatically give a zero, but students are granted <mark style="color:red;">one (1) additional (flexibility) day</mark> to submit their work without a deduction.
+2. Once the assignment deadline and the flexibility day has passed, students are granted an additional two-day window to submit their work.  <mark style="color:red;">A 20% deduction</mark> will be applied for the first day of delay, and <mark style="color:red;">a 30% deduction</mark> in total for the second day of delay.
+
 ## <mark style="color:orange;">Class structure</mark> <a href="#class-structure" id="class-structure"></a>
 
 We have two lectures each week. The first class is lab, the second class is regular lecture.&#x20;
@@ -134,13 +141,6 @@ Note: Lab lectures are listed in Table 3 (Course schedule) in the syllabus, with
 4. Take notes during the class (paper-pen-method).
 5. Watch the lab lecture videos <mark style="color:red;">after class</mark> if you were late or struggled.&#x20;
 6. Watch the lab lectures videos <mark style="color:red;">before coming to a lab class</mark> if you struggled during the previous lab lectures.
-
-## <mark style="color:orange;">Deadlines</mark>
-
-<figure><img src="../../.gitbook/assets/image (63).png" alt=""><figcaption></figcaption></figure>
-
-1. After the deadline has passed, Canvas will automatically give a zero, but students are granted <mark style="color:red;">one (1) additional (flexibility) day</mark> to submit their work without a deduction.
-2. Once the assignment deadline and the flexibility day has passed, students are granted an additional two-day window to submit their work.  <mark style="color:red;">A 20% deduction</mark> will be applied for the first day of delay, and <mark style="color:red;">a 30% deduction</mark> in total for the second day of delay.
 
 ## <mark style="color:orange;">Incorrect submissions</mark>
 
