@@ -14,7 +14,7 @@ layout:
 
 # Welcome to SBS321-01
 
-<figure><img src="../../.gitbook/assets/image.png" alt="" width="352"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt="" width="528"><figcaption></figcaption></figure>
 
 ## <mark style="color:orange;">Welcome!</mark>
 
@@ -32,7 +32,7 @@ Read the syllabus before the first class and bring me your questions.
 
 ## <mark style="color:orange;">First meeting</mark>
 
-Our first meeting is held on 08/27 - Tuesday at 12 pm at [Heron Hall](https://goo.gl/maps/YgdtjK5542qNHV8Z9) - Room 160.
+Our first meeting is held on <mark style="color:red;">08/27</mark> - <mark style="color:red;">Tuesday at 12 pm</mark> at [Heron Hall](https://goo.gl/maps/YgdtjK5542qNHV8Z9) - Room 160.
 
 Please arrive the classroom at least 5 minutes early.
 
@@ -52,18 +52,18 @@ You can find these assignments under the module named (Week 1).
 
 Assignments with a \[fw] code (except for the syllabus quiz) can be resubmitted unlimited times within the deadline period.&#x20;
 
-* \[fw] Google Drive assignment (the assignment that must be submitted first) <mark style="color:red;">(due by 08/28 - 11:59 pm)</mark>
+* **\[fw] Google Drive assignment (the assignment that must be submitted first)** <mark style="color:red;">(due by 08/28 - 11:59 pm)</mark>
   * There is a video instruction for this assignment.
   * This assignment needs to be submitted first. When graded, you will receive a notification email with feedback. Follow the feedback and resubmit it until you receive full credit within the deadline. Without getting full credit from the “Google Drive Assignment” (comes with unlimited attempts within the deadline), students cannot continue the course. Do not submit the rest of the assignments before getting full credit from this assignment.
-* \[fw] Canvas notification settings assignment  <mark style="color:red;">(due by 08/29 - 11:59 pm)</mark>
-* \[fw] Google Calendar assignment <mark style="color:red;">(due by 08/29 - 11:59 pm)</mark>
+* **\[fw] Canvas notification settings assignment** <mark style="color:red;">(due by 08/29 - 11:54 pm)</mark>
+* **\[fw] Google Calendar assignment** <mark style="color:red;">(due by 08/29 - 11:55 pm)</mark>
   * There is a video instruction for this assignment.
-* \[fw] RStudio lab assignment: account and packages <mark style="color:red;">(due by 08/29 - 11:59 pm)</mark>
+* **\[fw] RStudio lab assignment: account and packages** <mark style="color:red;">(due by 08/29 - 11:56 pm)</mark>
   * There is a video instruction for this assignment.
-* \[fw] Syllabus quiz <mark style="color:red;">(due by 08/29 - 11:59 pm)</mark>
+* **\[fw] Syllabus quiz** <mark style="color:red;">(due by 08/29 - 11:57 pm)</mark>
   * No resubmission option. No time limit.
-* \[fw] Introduce yourself <mark style="color:red;">(due by 08/29 - 11:59 pm)</mark>
-* \[fw] lecture reflection (first class) <mark style="color:red;">(due by 08/29 - 11:59 pm)</mark>
+* **\[fw] Introduce yourself** <mark style="color:red;">(due by 08/29 - 11:58 pm)</mark>
+* **\[fw] lecture reflection (first class)** <mark style="color:red;">(due by 08/29 - 11:59 pm)</mark>
   * You do not submit this if you attend the first class. You do not need to submit the rest of the lecture reflections through out the semester if you attend the classes.
 
 ## <mark style="color:orange;">Class structure</mark> <a href="#class-structure" id="class-structure"></a>
@@ -101,6 +101,11 @@ Note: Lab lectures are listed in Table 3 (Course schedule) in the syllabus, with
 2. **Lecture assignments**: We'll start (and most of the time finish) these assignments during the class.
 3. **Lecture reflection**: No need to submit a lecture reflection if you attend the class.&#x20;
    1. Missed in-class quizzes can be compensated with a [lecture reflection](https://ttezcan.gitbook.io/lectures/all-lectures-and-labs/guidelines-and-rubrics/lecture-reflections#video-reflection-guidelines). Those who wish to improve specific in-class quiz grades can also submit lecture reflections.
+
+## <mark style="color:orange;">Exams</mark>
+
+1. Midterm (<mark style="color:red;">10/24 - 12pm</mark> @ classroom, in-person)
+2. Final exam (<mark style="color:red;">12/17 - 12pm</mark> @ classroom, in-person)
 
 ## <mark style="color:orange;">Assignment submissions</mark>
 
