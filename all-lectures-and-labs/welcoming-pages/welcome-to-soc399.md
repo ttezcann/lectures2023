@@ -103,11 +103,11 @@ The general format of the lectures is as follows, though note that adjustments m
 
 During the term, students will be conducting content analysis focusing on any subject from the syllabus and addressing their own research interests.
 
-1. &#x20;\[DRM] Draft research memo (10 points – 10%),&#x20;
-2. \[PRES] Presentation (10 points – 10%),&#x20;
-3. \[FRM] Final research memo (10 points – 10%).
+1. **\[DRM]** Draft research memo (10 points – 10%),&#x20;
+2. **\[PRES]** Presentation (10 points – 10%),&#x20;
+3. **\[FRM]** Final research memo (10 points – 10%).
 
-Assignments designed to assist students in preparing components of the research memo will be graded under the “Research Memo (30%)” item. These assignments are identified by the label “\[DRM]” (Draft Research Memo), “\[PRES]” (Presentation), or “\[FRM]” (Final Research Memo) at the beginning of their names.
+Assignments designed to assist students in preparing components of the research memo will be graded under the “Research Memo (30%)” item. These assignments are identified by the label “\[DRM]” (Draft Research Memo), “\[PRES]” (Presentation), or “\[FRM]” (Final Research Memo) in their names.
 
 <figure><img src="../../.gitbook/assets/image (69).png" alt=""><figcaption></figcaption></figure>
 
@@ -159,7 +159,7 @@ Some exceptions:
 
 If you are enrolled late in this class, read the syllabus and the welcoming page that was sent through the announcement (check the very top of class Canvas page) immediately. Since you have missed some classes, you can submit lecture reflections to compensate for missed in-class quizzes.&#x20;
 
-Submitting lecture reflections for lab classes and lab assignments is mandatory. Otherwise, you will lose 1% for each missed lab class lecture reflection and lab assignment from your overall grade, in addition to receiving a zero for missed in-class quizzes and missed assignments. As soon as you are enrolled, email me, and I will reasonably adjust the missed deadlines.&#x20;
+As soon as you are enrolled, email me, and I will reasonably adjust the missed deadlines.&#x20;
 
 Start with the assignments under Week 1 (with the “fw” codes) in the order seen on the Canvas module page, then lecture reflections and other assignments.
 
