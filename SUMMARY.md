@@ -147,5 +147,5 @@
       * [Mind maps, concept maps, project maps](all-lectures-and-labs/nvivo-lab/nvivo-lab-lectures/mind-maps-concept-maps-project-maps.md)
       * [NVIVO file for final paper](all-lectures-and-labs/nvivo-lab/nvivo-lab-lectures/nvivo-file-for-final-paper.md)
   * [Welcoming pages](all-lectures-and-labs/welcoming-pages/README.md)
-    * [Welcome to SBS321-01 TUTH 12pm FA24](all-lectures-and-labs/welcoming-pages/welcome-to-sbs321-01-tuth-12pm-fa24.md)
+    * [Welcome to SBS321-01](all-lectures-and-labs/welcoming-pages/welcome-to-sbs321-01.md)
     * [Welcome to SOC399](all-lectures-and-labs/welcoming-pages/welcome-to-soc399.md)

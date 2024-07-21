@@ -12,7 +12,9 @@ layout:
     visible: false
 ---
 
-# Welcome to SBS321-01 TUTH 12pm FA24
+# Welcome to SBS321-01
+
+<figure><img src="../../.gitbook/assets/image.png" alt="" width="352"><figcaption></figcaption></figure>
 
 ## <mark style="color:orange;">Welcome!</mark>
 
@@ -22,12 +24,11 @@ My name is Tolga Tezcan, associate professor of sociology, and I'm your instruct
 
 This page will make you familiar with the course, structure, what to expect, and some other important information.
 
-## <mark style="color:orange;">Office hours</mark>
+## <mark style="color:orange;">Syllabus</mark>
 
-1. Tuesdays and Thursdays, 2:00 – 3:00 pm at my office (CAHSS 2306) &&#x20;
-2. Before or after my classes
+[The syllabus is here](https://docs.google.com/document/d/1LLkKuRUJE81UnZ2JZk-UQ6rGD15mrpMD/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true), also under the "Resources" page of Canvas (The first module).
 
-[Schedule a meeting using this link](https://ttezcan.gitbook.io/lectures/all-lectures-and-labs/guidelines-and-rubrics/office-hours)
+Read the syllabus before the first class and bring me your questions.
 
 ## <mark style="color:orange;">First meeting</mark>
 
@@ -37,13 +38,9 @@ Please arrive the classroom at least 5 minutes early.
 
 I will explain the class structure, go over the syllabus in detail, and answer your questions.
 
-There will be a **graded attendance quiz**. Make sure to bring an electronic device to take the attendance quiz on Canvas. Ensure you have access to Canvas. If you cannot attend the first class, you have an opportunity to write 700 words lecture reflection to compensate for the missed points.
+There will be a **graded attendance quiz**. Make sure to bring an electronic device to take the attendance quiz on Canvas. Ensure you have access to Canvas.&#x20;
 
-## <mark style="color:orange;">Syllabus</mark>
-
-[The syllabus is here](https://docs.google.com/document/d/1LLkKuRUJE81UnZ2JZk-UQ6rGD15mrpMD/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true), also under the "Resources" page of Canvas (The first module).
-
-Read the syllabus before the first class and bring me your questions.
+If you cannot attend the first class, you have an opportunity to write 700 words lecture reflection to compensate for the missed points.
 
 ## <mark style="color:orange;">Assignments for the first class</mark>
 
@@ -75,14 +72,16 @@ We have two lectures each week. The first class is lab, the second class is regu
 
 Below is a sample overview, which includes two lectures:
 
-1. RStudio: Descriptive statistics
-2. Introduction to survey methodology
+1. RStudio: Descriptive statistics (lab lecture)
+2. Introduction to survey methodology (regular lecture)
 
 Each lecture is accompanied by three assignments (indented items are assignments associated with the specific lecture above):
 
 <figure><img src="../../.gitbook/assets/sbs321 class structure original.png" alt=""><figcaption></figcaption></figure>
 
 Click on the lecture names to see the readings, slides, and lecture videos. See [\[Where are the readings, slides, and lecture videos?\]](https://ttezcan.gitbook.io/lectures/all-lectures-and-labs/guidelines-and-rubrics/where-are-the-readings-slides-and-lecture-videos)
+
+## <mark style="color:orange;">General format of the lectures</mark>
 
 The general format of the lectures is as follows, though note that adjustments may be made for certain specific lectures:
 
@@ -162,5 +161,12 @@ If you are enrolled late in this class, read the syllabus and the welcoming page
 Submitting lecture reflections for lab classes and lab assignments is mandatory. Otherwise, you will lose 1% for each missed lab class lecture reflection and lab assignment from your overall grade, in addition to receiving a zero for missed in-class quizzes and missed assignments. As soon as you are enrolled, email me, and I will reasonably adjust the missed deadlines.&#x20;
 
 Start with the assignments under Week 1 (with the “fw” codes) in the order seen on the Canvas module page, then lecture reflections and other assignments.
+
+## <mark style="color:orange;">Office hours</mark>
+
+1. Tuesdays and Thursdays, 2:00 – 3:00 pm at my office (CAHSS 2306) &&#x20;
+2. Before or after my classes
+
+[Schedule a meeting using this link](https://ttezcan.gitbook.io/lectures/all-lectures-and-labs/guidelines-and-rubrics/office-hours)
 
 \
