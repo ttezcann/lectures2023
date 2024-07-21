@@ -148,4 +148,5 @@
       * [NVIVO file for final paper](all-lectures-and-labs/nvivo-lab/nvivo-lab-lectures/nvivo-file-for-final-paper.md)
   * [Welcoming pages](all-lectures-and-labs/welcoming-pages/README.md)
     * [Welcome to SBS321-01](all-lectures-and-labs/welcoming-pages/welcome-to-sbs321-01.md)
+    * [Welcome to SBS321-02](all-lectures-and-labs/welcoming-pages/welcome-to-sbs321-02.md)
     * [Welcome to SOC399](all-lectures-and-labs/welcoming-pages/welcome-to-soc399.md)
