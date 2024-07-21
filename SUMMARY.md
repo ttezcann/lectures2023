@@ -150,3 +150,4 @@
     * [Welcome to SBS321-01](all-lectures-and-labs/welcoming-pages/welcome-to-sbs321-01.md)
     * [Welcome to SBS321-02](all-lectures-and-labs/welcoming-pages/welcome-to-sbs321-02.md)
     * [Welcome to SOC399](all-lectures-and-labs/welcoming-pages/welcome-to-soc399.md)
+    * [Welcome to SOC120](all-lectures-and-labs/welcoming-pages/welcome-to-soc120.md)
