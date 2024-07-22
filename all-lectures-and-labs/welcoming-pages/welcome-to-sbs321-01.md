@@ -14,7 +14,7 @@ layout:
 
 # Welcome to SBS321-01
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt="" width="528"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt="" width="528"><figcaption></figcaption></figure>
 
 ## <mark style="color:orange;">Welcome!</mark>
 
