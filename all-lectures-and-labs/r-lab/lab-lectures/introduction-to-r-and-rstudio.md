@@ -18,7 +18,7 @@ layout:
 
 [Getting started with RStudio](https://drive.google.com/open?id=1-Re7ytjjVGaHEoUD0Fst2c6GAsA0YCGf\&usp=drive\_fs)
 
-<mark style="color:orange;">**\[Optional]**</mark> [Comparing four contemporary statistical software tools for introductory data science and statistics in the social sciences](https://drive.google.com/open?id=1z\_polsWq7UTcrwQ6wVTFhkOOs8x\_JsEn\&usp=drive\_fs)
+<mark style="color:orange;">**\[Optional]**</mark>[Comparing four contemporary statistical software tools for introductory data science and statistics in the social sciences](https://drive.google.com/open?id=1z\_polsWq7UTcrwQ6wVTFhkOOs8x\_JsEn\&usp=drive\_fs)
 
 ## R Script file
 
