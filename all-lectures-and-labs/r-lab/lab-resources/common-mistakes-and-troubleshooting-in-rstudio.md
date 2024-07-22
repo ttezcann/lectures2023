@@ -18,7 +18,7 @@ layout:
 
 We need specific packages to conduct our analyses. Running the "install and run packages" is always the first step.
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 We can check the installed packages under “Packages.” checkmark means that the specific packages are loaded for the session.
 
@@ -62,7 +62,7 @@ For multiple lines, we highlight the codes with mouse.
 
 Here's what happens if we don't:
 
-<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 It simply shows what we highlighted and run (check the console part), not the analysis (check the plots part).
 
@@ -76,7 +76,7 @@ Typing notes on our RScript file is encouraged. When we type a note, we must put
 
 While line 29 will work, line 27 won’t. Here RStudio warns us that there is something wrong. Look at the cross on line 27. When there is a red cross on the left side of the line number, there is something wrong with our codes.
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## <mark style="color:orange;">7. Not using a model code</mark>
 

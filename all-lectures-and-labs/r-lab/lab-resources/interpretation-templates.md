@@ -14,50 +14,23 @@ layout:
 
 # Interpretation templates
 
-{% hint style="info" %}
-Reminder:
+## <mark style="color:orange;">Reminder:</mark>
 
 Ensure that your interpretations are clear enough for someone to understand your report **without** referring to the tables.
 
-Use "[Variables in GSS](https://ttezcan.gitbook.io/lect/all-lectures-and-labs/r-lab/lab-resources/variables-in-gss-2022-uc)" document and check "What it measures" columns, read the questions, and the response sets.
+Use "[Variables in GSS](https://ttezcan.gitbook.io/lect/all-lectures-and-labs/r-lab/lab-resources/variables-in-gss-2022-uc)" document, read the full wording of the questions,  response sets, and use "What it measures" columns in your interpretations,&#x20;
 
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
+<mark style="color:green;">Correct:</mark> <mark style="color:orange;">The perceived discrimination at work because of age</mark> <mark style="color:orange;">variable</mark> shows that 7.93% of the respondents feel discriminated at work because of age and 92.07% do not.
 
-**Example 1:**
+<mark style="color:red;">Wrong:</mark> “The <mark style="color:orange;">wkageism</mark> shows that 7.93% of the respondents reported that they feel discriminated and 92.07% reported that they do not feel discriminated.
 
-Frequency code: frq(gss$<mark style="color:red;">wrkslf</mark>, out = "v")
+* Do not use variable names in the interpretation. Variable names are meant for coding purposes. There's no word called "wkageism." No one would understand what you mean.
 
-<img src="https://lh7-us.googleusercontent.com/3ndqYq-E4ooa2-Wwg1tOjxVRJSrg2oZtz_sO3ONxPyPFriLBw6BcXt4Q7aRxk2Y4ZBRTZxm4mCs_fvg3YlD7hNzKMWpBIMvrrp_1CORMAgfjvX_6P2C_9K7kUZkbfGZuXNQI4jtkekYcHIMQo-Vuc1w" alt="" data-size="original">
+<mark style="color:red;">Wrong:</mark> the <mark style="color:orange;">r feels discriminated because of age</mark> shows that 7.93% of the respondents reported that they feel discriminated and 92.07% reported that they do not feel discriminated.
 
-<mark style="color:green;">Correct:</mark> “The employment status variable shows that 11.54% of the respondents are self-employed and 88.46% of them work for someone else."
-
-<mark style="color:red;">Wrong:</mark> “The wrkslf shows that 11.54% of the respondents are self-employed and 88.46% of them are someone else."
-
-<mark style="color:red;">Wrong:</mark> the r self-emp or works for somebody shows that 11.54% of the respondents are self-employed and 88.46% of them are someone else."\
-
-
-**Example 2:**
-
-Descriptive code: descr(gss$<mark style="color:red;">educ</mark>, out = "v", show = "short")
-
-![](<../../../.gitbook/assets/image (35).png>)
-
-<mark style="color:green;">Correct:</mark> The education in years variable shows that the average years of schooling (or education) of the respondents is 14.11, with standard deviation 2.89.
-
-<mark style="color:red;">Wrong:</mark> The education is 14.11, with standard deviation 2.89.
-
-
-
-**Example 3:**
-
-Descriptive code: descr(gss$<mark style="color:red;">hapindex</mark>, out = "v", show = "short")
-
-![](<../../../.gitbook/assets/image (34).png>)
-
-<mark style="color:green;">Correct:</mark> The happiness index score of the GSS respondents is 2.10 out of 3, with standard deviation 0.47.
-
-<mark style="color:red;">Wrong:</mark> The hapindex score of the GSS respondents is 2.10 out of 3, with standard deviation 0.47.
-{% endhint %}
+* Do not use the text appears on the top of the table. No one would understand what you mean by "r" here
 
 ## Frequency tables
 
@@ -97,7 +70,7 @@ Slides: [descriptive statistics](https://docs.google.com/presentation/d/1\_rePJr
 descr(gss$hapindex, out = "v", show = "short")
 ```
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Indicate the highest possible score in your interpretation <mark style="color:red;">➜ "Out of 3", "Out of 5", etc.</mark>
 
@@ -386,7 +359,7 @@ pairs.panels(gss[, c("sei10", "spsei10", "tvhours", "usetech", "age", "educ", "m
 ellipses=F, scale=F, show.points=F, stars=T, ci=T)
 ```
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Same interpretation as correlation analysis table and scatterplot graph
@@ -537,7 +510,7 @@ Slides: [dummy variables](https://docs.google.com/presentation/d/1dJenkvbUDQUmX2
 
 ### Logistic regression analysis (with dummy variables)
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ```r
 frq(gss$class, out = "v")
