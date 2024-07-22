@@ -105,6 +105,7 @@
       * [Is my p-value less than 0.05?](all-lectures-and-labs/r-lab/lab-resources/is-my-p-value-less-than-0.05.md)
       * [Codebooks](all-lectures-and-labs/r-lab/lab-resources/codebooks.md)
       * [Common mistakes and troubleshooting in RStudio](all-lectures-and-labs/r-lab/lab-resources/common-mistakes-and-troubleshooting-in-rstudio.md)
+      * [Model codes](all-lectures-and-labs/r-lab/lab-resources/model-codes.md)
       * [Common recoding issues in RStudio](all-lectures-and-labs/r-lab/lab-resources/common-recoding-issues-in-rstudio.md)
       * [Common computing issues in RStudio](all-lectures-and-labs/r-lab/lab-resources/common-computing-issues-in-rstudio.md)
       * [How to use RStudio on a computer without using a browser](all-lectures-and-labs/r-lab/lab-resources/how-to-use-rstudio-on-a-computer-without-using-a-browser.md)
