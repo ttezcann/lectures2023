@@ -99,7 +99,7 @@ Independent variable first (sex), dependent variable second (health)
 <figure><img src="../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Sex has NO effect on the condition of health since the p value is HIGHER than 0.05. We can conclude that males and females have similar health conditions.
+Respondents' sex has NO effect on the condition of health since the p value is HIGHER than 0.05. We can conclude that males and females have similar health conditions.
 {% endhint %}
 
 Slides: [chisquare](https://docs.google.com/presentation/d/11QlkxBoIM\_-wIoBTLYtdXxaELvX664VD/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
@@ -123,7 +123,7 @@ Independent variable first (agenew), dependent variable second (health)
 <figure><img src="../../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Age has an effect on the condition of health since the p value is LESS than 0.05. We can conclude that age groups have substantially different health conditions.
+Age groups have an effect on the condition of health since the p value is LESS than 0.05. We can conclude that age groups have substantially different health conditions.
 {% endhint %}
 
 Slides: [chisquare](https://docs.google.com/presentation/d/11QlkxBoIM\_-wIoBTLYtdXxaELvX664VD/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
@@ -145,7 +145,7 @@ Dependent variable first (conrinc), independent variable second (sex)
 <figure><img src="../../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-The average income of males is $49,306, while the average income of females is $35,277. Income differs by sex in a statistically significant way since the p-value is LESS than 0.05
+The average personal income in dollars of males is $49,306, while the average personal income in dollars of females is $35,277. personal income in dollars differs by respondents' sex in a statistically significant way since the p-value is LESS than 0.05
 {% endhint %}
 
 Slides: [ttest](https://docs.google.com/presentation/d/11hFYVZ3y8pig6n8SkDDnZYk\_AoqY2-t9/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
@@ -165,7 +165,7 @@ Dependent variable first (educ), independent variable second (sex)
 <figure><img src="../../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-The average education of males is 14.08 year, while the average education of females 14.15 year. Education does not differ by sex in a statistically significant way since the p-value is HIGHER than 0.05
+The average education in years of males is 14.08 year, while the average education in years of females 14.15 year. Education in years does not differ by respondents' sex in a statistically significant way since the p-value is HIGHER than 0.05
 {% endhint %}
 
 Slides: [ttest](https://docs.google.com/presentation/d/11hFYVZ3y8pig6n8SkDDnZYk\_AoqY2-t9/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
@@ -200,7 +200,7 @@ plot_frq(gss$educ, type = "hist",show.mean = TRUE, show.mean.val = TRUE, normal.
 {% hint style="info" %}
 Same as descriptive table interpretation
 
-The education in years variable shows that the average years of schooling of the respondents is 14.11, with standard deviation 2.89.
+The education in years variable shows that the average education in years of the respondents is 14.11, with standard deviation 2.89.
 {% endhint %}
 
 Slides: [visualization](https://docs.google.com/presentation/d/1j8vQxVYCuG0s96EtUgcvMJoB5jN3wgV5iS-xgMyZKtk/edit?usp=sharing)
@@ -309,10 +309,10 @@ The order of the variables does not matter.
 <figure><img src="../../../.gitbook/assets/Screenshot_2023-10-27 17.15.25.png" alt="" width="540"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-There is no significant correlation between the age of the respondents and the years of education since the p-value is higher than .05.&#x20;
+There is no significant correlation between the age in years and education in years since the p-value is higher than .05.&#x20;
 
 \
-This means that there is the age of the respondents and the years of education do not increase and decrease together.
+This means that age in years and education in years do not increase and decrease together.
 {% endhint %}
 
 Slides: [correlation](https://docs.google.com/presentation/d/12et6ZrFK7B6pE-Wmlz\_KVawjebAar9rC/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
@@ -415,13 +415,13 @@ tab_model(model4, show.std = T, show.ci = F, collapse.se = T, p.style = "stars")
 <figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Age of the respondents, days of poor physical health past 30 days, and the years of education are statistically significant predictors of respondents’ income since the p values are less than 0.05. Respondent's confidence in the existence of God is not a statistically significant predictor of respondents income since the p value is greater than 0.05.
+Age in years, days of poor physical health past 30 days, and education in years are statistically significant predictors of personal income since the p values are less than 0.05. Confidence in the existence of God is not a statistically significant predictor of personal income since the p value is greater than 0.05.
 
-A year increase in age increases respondents’ income by $504. A day increase in poor physical health past 30 days decreases respondents’ income by $857. A year increase in the years of education increases respondents’ income by $4,845.&#x20;
+A year increase in age increases personal income by $504. A day increase in poor physical health past 30 days decreases personal income by $857. A year increase in the years of education increases personal income by $4,845.&#x20;
 
-The strongest predictor of respondents’ income is the years of education (std.Beta=0.34), then, then the age of the respondent (std.Beta=0.17), and then, the days of poor physical health past 30 days (std.Beta=-0.13).
+The strongest predictor of personal income is the education in years (std.Beta=0.34), then, then age in years (std.Beta=0.17), and then, the days of poor physical health past 30 days (std.Beta=-0.13).
 
-The adjusted R squared value indicates that 17.2% of the variation in respondents’ income can be explained by the years of education, age of the respondents, and days of poor physical health past 30 days.
+The adjusted R squared value indicates that 17.2% of the variation in personal income can be explained by education in years, age in years, and days of poor physical health past 30 days.
 {% endhint %}
 
 {% hint style="success" %}
@@ -439,14 +439,14 @@ When reporting the coefficients, ensure that the sentence includes the units of 
 * Independent variable (physhlth - <mark style="color:orange;">days</mark> of physical issues during the past 30 days - 0-30 days) &#x20;
 * Dependent variable (conrinc - personal income in <mark style="color:red;">dollars</mark> - $336 - $170,913)
 
-<mark style="color:orange;">A day</mark> increase in physical issues during the past 30 days decreases respondents’ income by <mark style="color:red;">$</mark><mark style="color:blue;">857</mark>.
+<mark style="color:orange;">A day</mark> increase in physical issues during the past 30 days decreases personal income by <mark style="color:red;">$</mark><mark style="color:blue;">857</mark>.
 
 
 
 * Independent variable (age - age in <mark style="color:orange;">years</mark> - 18-89 age)&#x20;
 * Dependent variable (polviews - conservatism <mark style="color:red;">level</mark> - 1: extremely liberal; 7: extremely conservative) &#x20;
 
-<mark style="color:orange;">A year</mark> increase in age increases respondents’ conservatism level by <mark style="color:purple;">2.45</mark> <mark style="color:red;">points</mark>.
+<mark style="color:orange;">A year</mark> increase in age increases conservatism level by <mark style="color:purple;">2.45</mark> <mark style="color:red;">points</mark>.
 {% endhint %}
 
 {% hint style="success" %}
