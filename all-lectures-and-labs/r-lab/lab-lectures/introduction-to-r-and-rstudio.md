@@ -32,9 +32,7 @@ layout:
 
 ## Lab assignments
 
-[Keyboard shortcut exercises](https://docs.google.com/document/d/1\_cTgEeD5vCoXj\_Yu9a4mt3VwjP1l16Au?rtpof=true\&usp=drive\_fs)
-
-[RStudio lab assignment installing a package](https://docs.google.com/document/d/1\_hyfKB7Y8ogVzizVac28oimQFjg3bDRi?rtpof=true\&usp=drive\_fs)
+[RStudio lab assignment: generating a table](https://docs.google.com/document/d/1ZBeemUHH2-tHewdXjoVfmKGRi\_iabTfL/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
 
 ## Video
 
