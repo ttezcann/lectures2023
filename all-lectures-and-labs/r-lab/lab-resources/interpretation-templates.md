@@ -97,7 +97,7 @@ Slides: [descriptive statistics](https://docs.google.com/presentation/d/1\_rePJr
 descr(gss$hapindex, out = "v", show = "short")
 ```
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Indicate the highest possible score in your interpretation <mark style="color:red;">➜ "Out of 3", "Out of 5", etc.</mark>
 
@@ -123,7 +123,7 @@ sjt.xtab(gss$sex, gss$health, show.row.prc = TRUE)
 
 Independent variable first (sex), dependent variable second (health)
 
-<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Sex has NO effect on the condition of health since the p value is HIGHER than 0.05. We can conclude that males and females have similar health conditions.
@@ -147,7 +147,7 @@ sjt.xtab(gss$agenew, gss$health, show.row.prc = TRUE)
 
 Independent variable first (agenew), dependent variable second (health)
 
-<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Age has an effect on the condition of health since the p value is LESS than 0.05. We can conclude that age groups have substantially different health conditions.
@@ -386,7 +386,7 @@ pairs.panels(gss[, c("sei10", "spsei10", "tvhours", "usetech", "age", "educ", "m
 ellipses=F, scale=F, show.points=F, stars=T, ci=T)
 ```
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Same interpretation as correlation analysis table and scatterplot graph
@@ -439,7 +439,7 @@ tab_model(model4, show.std = T, show.ci = F, collapse.se = T, p.style = "stars")
 
 &#x20;Dependent variable (conrinc) first, followed by independent variables separated by a plus (+).
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Age of the respondents, days of poor physical health past 30 days, and the years of education are statistically significant predictors of respondents’ income since the p values are less than 0.05. Respondent's confidence in the existence of God is not a statistically significant predictor of respondents income since the p value is greater than 0.05.
@@ -537,7 +537,7 @@ Slides: [dummy variables](https://docs.google.com/presentation/d/1dJenkvbUDQUmX2
 
 ### Logistic regression analysis (with dummy variables)
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ```r
 frq(gss$class, out = "v")

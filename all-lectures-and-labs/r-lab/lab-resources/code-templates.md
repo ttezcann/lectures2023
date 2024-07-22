@@ -80,7 +80,7 @@ Imagine we want to use “the level of physical effort required at work” (<mar
 
 frq(gss$<mark style="color:orange;">phyeffrt</mark>, out = "v")
 
-![](<../../../.gitbook/assets/image (2).png>)\
+![](<../../../.gitbook/assets/image (2) (1).png>)\
 
 
 Higher values should indicate greater physical effort, but this isn't the case. Thus, we need to change the direction of the responses:

@@ -14,7 +14,7 @@ layout:
 
 # Welcome to SOC120
 
-<figure><img src="../../.gitbook/assets/image.png" alt="" width="534"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6).png" alt="" width="534"><figcaption></figcaption></figure>
 
 ## <mark style="color:orange;">Welcome!</mark>
 
