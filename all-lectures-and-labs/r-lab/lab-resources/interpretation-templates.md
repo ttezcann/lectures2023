@@ -18,7 +18,9 @@ layout:
 
 Ensure that your interpretations are clear enough for someone to understand your report **without** referring to the tables.
 
-Use "[Variables in GSS](https://ttezcan.gitbook.io/lect/all-lectures-and-labs/r-lab/lab-resources/variables-in-gss-2022-uc)" document, read the full wording of the questions,  response sets, and use "What it measures" columns in your interpretations,&#x20;
+Use "[Variables in GSS](https://ttezcan.gitbook.io/lect/all-lectures-and-labs/r-lab/lab-resources/variables-in-gss-2022-uc)" document, read the full wording of the questions,  response sets, and use "What it measures" columns in your interpretations.
+
+**Example 1:**&#x20;
 
 <figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -30,7 +32,23 @@ Use "[Variables in GSS](https://ttezcan.gitbook.io/lect/all-lectures-and-labs/r-
 
 <mark style="color:red;">Wrong:</mark> the <mark style="color:orange;">r feels discriminated because of age</mark> shows that 7.93% of the respondents reported that they feel discriminated and 92.07% reported that they do not feel discriminated.
 
-* Do not use the text appears on the top of the table. No one would understand what you mean by "r" here
+* Do not use the text appears on the top of the table. No one would understand what you mean by "r" here.
+
+**Example 2:**&#x20;
+
+<figure><img src="../../../.gitbook/assets/image (79).png" alt=""><figcaption></figcaption></figure>
+
+<mark style="color:green;">Correct:</mark> <mark style="color:orange;">The internet use in hours variable</mark> shows the average hours that the respondents use the internet is 15.51, with standard deviation 19.48.
+
+<mark style="color:red;">Wrong:</mark> “The <mark style="color:orange;">wwwhr</mark> shows the average hours that the respondents use the internet is 15.51, with standard deviation 19.48.
+
+* Do not use variable names in the interpretation. Variable names are meant for coding purposes. There's no word called "wwwhr." No one would understand what you mean.
+
+<mark style="color:red;">Wrong:</mark> the <mark style="color:orange;">dd</mark> shows the average hours that the respondents use the internet is 15.51, with standard deviation 19.48.
+
+* Do not use the text appears in the table. No one would understand what you mean by "dd" here.
+
+***
 
 ## Frequency tables
 
