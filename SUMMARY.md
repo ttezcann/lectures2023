@@ -84,7 +84,7 @@
   * [R lab](all-lectures-and-labs/r-lab/README.md)
     * [Lab lectures](all-lectures-and-labs/r-lab/lab-lectures/README.md)
       * [Introduction to R and RStudio](all-lectures-and-labs/r-lab/lab-lectures/introduction-to-r-and-rstudio.md)
-      * [Introduction to scripting and dataset](all-lectures-and-labs/r-lab/lab-lectures/introduction-to-scripting-and-dataset.md)
+      * [Introduction to scripting](all-lectures-and-labs/r-lab/lab-lectures/introduction-to-scripting.md)
       * [Descriptive statistics](all-lectures-and-labs/r-lab/lab-lectures/descriptive-statistics.md)
       * [Recoding](all-lectures-and-labs/r-lab/lab-lectures/recoding.md)
       * [Computing](all-lectures-and-labs/r-lab/lab-lectures/computing.md)
