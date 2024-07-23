@@ -22,7 +22,7 @@ Use "[Variables in GSS](https://ttezcan.gitbook.io/lect/all-lectures-and-labs/r-
 
 **Example 1:**&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:green;">Correct:</mark> <mark style="color:orange;">The perceived discrimination at work because of age</mark> <mark style="color:orange;">variable</mark> shows that 7.93% of the respondents feel discriminated at work because of age and 92.07% do not.
 
@@ -88,7 +88,7 @@ Slides: [descriptive statistics](https://docs.google.com/presentation/d/1\_rePJr
 descr(gss$hapindex, out = "v", show = "short")
 ```
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Indicate the highest possible score in your interpretation <mark style="color:red;">➜ "Out of 3", "Out of 5", etc.</mark>
 
@@ -114,7 +114,7 @@ sjt.xtab(gss$sex, gss$health, show.row.prc = TRUE)
 
 Independent variable first (sex), dependent variable second (health)
 
-<figure><img src="../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Respondents' sex has NO effect on the condition of health since the p value is HIGHER than 0.05. We can conclude that males and females have similar health conditions.
@@ -377,7 +377,7 @@ pairs.panels(gss[, c("sei10", "spsei10", "tvhours", "usetech", "age", "educ", "m
 ellipses=F, scale=F, show.points=F, stars=T, ci=T)
 ```
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Same interpretation as correlation analysis table and scatterplot graph
@@ -430,7 +430,7 @@ tab_model(model4, show.std = T, show.ci = F, collapse.se = T, p.style = "stars")
 
 &#x20;Dependent variable (conrinc) first, followed by independent variables separated by a plus (+).
 
-<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Age in years, days of poor physical health past 30 days, and education in years are statistically significant predictors of personal income since the p values are less than 0.05. Confidence in the existence of God is not a statistically significant predictor of personal income since the p value is greater than 0.05.
@@ -528,7 +528,7 @@ Slides: [dummy variables](https://docs.google.com/presentation/d/1dJenkvbUDQUmX2
 
 ### Logistic regression analysis (with dummy variables)
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ```r
 frq(gss$class, out = "v")

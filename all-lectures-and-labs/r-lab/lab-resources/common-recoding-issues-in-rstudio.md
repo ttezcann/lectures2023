@@ -61,6 +61,6 @@ We have to “Load data” again, because we lost the values of the original var
 
 From [Common mistakes and troubleshooting in RStudio](https://ttezcan.gitbook.io/lect/all-lectures-and-labs/r-lab/lab-resources/common-mistakes-and-troubleshooting-in-rstudio)
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 \

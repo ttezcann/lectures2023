@@ -18,21 +18,21 @@ layout:
 
 We need specific packages to conduct our analyses. Running the "install and run packages" is always the first step.
 
-<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-We can check the installed packages under “Packages.” checkmark means that the specific packages are loaded for the session.
+We can check the installed packages under “Packages.” Checkmark means that the specific packages are loaded for the session.
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
-## <mark style="color:orange;">2. Not loading the dataset</mark>
+## <mark style="color:orange;">2. Not loading the data</mark>
 
-Every time we open RStudio, we must load the dataset.
+Every time we open RStudio, we must load the data.
 
 Even if we see "gss" under “Environment,” we should run "load data" code again. If we do not see "gss" under "Environment," our codes will not work.
 
-<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
-If the dataset is not loaded, we will get the following error (under the console):
+If the data is not loaded, we will get the following error (under the console):
 
 <figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
@@ -62,7 +62,7 @@ For multiple lines, we highlight the codes with mouse.
 
 Here's what happens if we don't:
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 It simply shows what we highlighted and run (check the console part), not the analysis (check the plots part).
 
@@ -76,16 +76,22 @@ Typing notes on our RScript file is encouraged. When we type a note, we must put
 
 While line 29 will work, line 27 won’t. Here RStudio warns us that there is something wrong. Look at the cross on line 27. When there is a red cross on the left side of the line number, there is something wrong with our codes.
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## <mark style="color:orange;">7. Not using a model code</mark>
 
-Whenever we run an analysis with a different variable, we simply copy the original code, paste under, change the variable name, and compare them. If our new codes do not work for some reason, we can easily compare them with the working codes. We call this “model” code.
+Whenever we run an analysis with a different variable, we  create a model code and a working code.
 
-Here the original variable was “sex”. We wanted to run the sample analysis for marital. If we don’t paste the working code for comparison, it’s likely that we may accidentally delete something extra. In this example, the comma was deleted.
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="https://lh5.googleusercontent.com/8FzDZFIPE3crXndqIywZ_1s9UD5I77dY1tPU0Xf1vwoRxG3AIlPIVdJw5a4_44iOt9qQCDbqAubR-Bw9E3ACoyOnMByZVJxwTusZh9eJ-K0DkH7f_pDoz76xLYauYGs6dmBQ4X2_lfali6whV6WnlQ" alt=""><figcaption></figcaption></figure>
+If we don’t use model code for comparison, it’s likely that we may accidentally delete something extra. In this example, the comma was deleted.
 
-Instead, we keep the “working” code and compare it with our new code. Here we see that the comma is missing in line 72.
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="https://lh4.googleusercontent.com/U0yDED2phXUKh8jLl-x-855f81a7BL1gVB36pNTsX3-62lMG5pFL4qDWv5w9lJDAV3VYfU5ZSbXFFzlAtfJueqpcX42XFp0FFF-0CVd5Vnu16_PRjVHI03KJuTXyAygK9I-qZ8NUvOKxGs45GrS3sA" alt=""><figcaption></figcaption></figure>
+Instead, we keep the use model code and compare it with our working code. Here we see that the comma is missing in line 79. Note that RStudio warns us that something is wrong with that red cross.
+
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+After seeing what is missing, we can fix the working code.
+
+<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
