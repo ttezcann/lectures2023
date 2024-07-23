@@ -32,7 +32,10 @@ layout:
 
 [RStudio lab assignment keyboard shortcuts, scripting and GSS variables](https://docs.google.com/document/d/1\_nM\_N35xnALjjEIgoDfvA68ai1iJMlk8/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
 
-## Video
+## Lecture video
 
 {% embed url="https://youtu.be/AF9s0SxQE-k" %}
 
+## Assignment video
+
+{% embed url="https://youtu.be/F5obiGEVXso" %}
