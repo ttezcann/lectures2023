@@ -28,8 +28,8 @@ On RStudio go to File ➜ Reopen with encoding ➜ Choose UTF-8
 
 ## Lecture scripts
 
-* [Introduction to R and RStudio](https://drive.google.com/file/d/1q-dd3TMfDi7mLMkr-UcdmAYhi71y0r5A/view?usp=sharing)
-* [Introduction to scripting and importing a dataset](https://drive.google.com/file/d/1ksWH9huWbEYaCsdgToB97rkiw4UPQmf1/view?usp=sharing)
+* [Introduction to RStudio](https://drive.google.com/file/d/1q-dd3TMfDi7mLMkr-UcdmAYhi71y0r5A/view?usp=sharing)
+* [Introduction to scripting](https://drive.google.com/file/d/1ksWH9huWbEYaCsdgToB97rkiw4UPQmf1/view?usp=sharing)
 * [Descriptive statistics](https://drive.google.com/file/d/1qIHculVRo3WjqhQc5W3bYjGJ6iL4F0xR/view?usp=sharing)
 * [Recoding](https://drive.google.com/file/d/1SP0UVJM2YxTt-0DIszBmDNg82R0zjxPO/view?usp=sharing)
 * [Computing](https://drive.google.com/file/d/1VYeQ6ts2fjYeTrN\_fMxW-6yGDn5c2wt1/view?usp=sharing)
