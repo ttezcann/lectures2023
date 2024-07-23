@@ -36,6 +36,6 @@ layout:
 
 {% embed url="https://youtu.be/AF9s0SxQE-k" %}
 
-## Assignment video
+## Lab assignment video
 
 {% embed url="https://youtu.be/F5obiGEVXso" %}
