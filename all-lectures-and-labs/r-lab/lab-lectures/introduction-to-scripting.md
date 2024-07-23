@@ -12,7 +12,7 @@ layout:
     visible: false
 ---
 
-# Introduction to scripting and dataset
+# Introduction to scripting
 
 ## Reading
 
@@ -34,5 +34,5 @@ layout:
 
 ## Video
 
-{% embed url="https://youtu.be/E7kSLMIw_Gw" %}
+{% embed url="https://youtu.be/AF9s0SxQE-k" %}
 
