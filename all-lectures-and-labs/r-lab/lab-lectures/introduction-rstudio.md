@@ -12,7 +12,7 @@ layout:
     visible: false
 ---
 
-# Introduction to R and RStudio
+# Introduction RStudio
 
 ## Reading
 
@@ -30,10 +30,14 @@ layout:
 [**Downloadable slides here**](https://docs.google.com/presentation/d/1\_ax3v8lEjDK96E5YNoASj8H\_afsD98p9/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
 {% endembed %}
 
-## Lab assignments
+## Lab assignment
 
 [RStudio lab assignment: generating a table](https://docs.google.com/document/d/1ZBeemUHH2-tHewdXjoVfmKGRi\_iabTfL/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
 
-## Video
+## Lecture video
 
 {% embed url="https://youtu.be/QafY31s2nKA" %}
+
+## Lab assignment video
+
+{% embed url="https://youtu.be/IbHeZoQZ_CM" %}

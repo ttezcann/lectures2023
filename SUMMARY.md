@@ -83,7 +83,7 @@
       * [Sociological perspectives on substance abuse](all-lectures-and-labs/lectures/sociological-thinking/sociological-perspectives-on-substance-abuse.md)
   * [R lab](all-lectures-and-labs/r-lab/README.md)
     * [Lab lectures](all-lectures-and-labs/r-lab/lab-lectures/README.md)
-      * [Introduction to R and RStudio](all-lectures-and-labs/r-lab/lab-lectures/introduction-to-r-and-rstudio.md)
+      * [Introduction RStudio](all-lectures-and-labs/r-lab/lab-lectures/introduction-rstudio.md)
       * [Introduction to scripting](all-lectures-and-labs/r-lab/lab-lectures/introduction-to-scripting.md)
       * [Descriptive statistics](all-lectures-and-labs/r-lab/lab-lectures/descriptive-statistics.md)
       * [Recoding](all-lectures-and-labs/r-lab/lab-lectures/recoding.md)
