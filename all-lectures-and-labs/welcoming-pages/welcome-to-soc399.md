@@ -14,7 +14,7 @@ layout:
 
 # Welcome to SOC399
 
-<figure><img src="../../.gitbook/assets/image (70).png" alt="" width="561"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (70).png" alt="" width="374"><figcaption></figcaption></figure>
 
 ## <mark style="color:orange;">Welcome!</mark>
 
