@@ -66,10 +66,19 @@ Assignments with a \[fw] code (except for the syllabus quiz) can be resubmitted 
 
 ## <mark style="color:orange;">Deadlines</mark>
 
-<figure><img src="../../.gitbook/assets/image (63).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 1. After the deadline has passed, Canvas will automatically give a zero, but students are granted <mark style="color:red;">one (1) additional (flexibility) day</mark> to submit their work without a deduction.
 2. Once the assignment deadline and the flexibility day has passed, students are granted an additional two-day window to submit their work.  <mark style="color:red;">A 20% deduction</mark> will be applied for the first day of delay, and <mark style="color:red;">a 30% deduction</mark> in total for the second day of delay.
+3.  #### <mark style="color:red;">\*</mark>After three days, the highest possible grade a student can receive for the assignments is 60%. To receive 60%;
+
+
+
+    #### Week 1 - Week 4 assignments must be submitted right after Week 4 (9/24 at 11:59pm)
+
+    #### Week 5 - Week 10 assignments must be submitted right after Week 10 (11/05 at 11:59pm)
+
+    Week 11 - Week 16 assignments must be submitted right after Week 16 (12/17 at 11:59pm)
 
 ## <mark style="color:orange;">Class structure</mark> <a href="#class-structure" id="class-structure"></a>
 
