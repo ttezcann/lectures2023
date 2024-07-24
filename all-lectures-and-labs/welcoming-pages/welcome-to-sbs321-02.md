@@ -48,7 +48,7 @@ There are a couple of assignments associated with the first class.&#x20;
 
 Feel free to submit these assignments during the summer if you wish. I will grade the assignments in 48 hours during the summer.
 
-You can find these assignments under the module named (Week 1).
+You can find these assignments under the module named "Week 1."
 
 Assignments with a \[fw] code (except for the syllabus quiz) can be resubmitted unlimited times within the deadline period.&#x20;
 
@@ -64,7 +64,7 @@ Assignments with a \[fw] code (except for the syllabus quiz) can be resubmitted 
   * No resubmission option. No time limit.
 * **\[fw] Introduce yourself** <mark style="color:red;">(due by 08/28 - 11:58 pm)</mark>
 * **\[fw] lecture reflection (first class)** <mark style="color:red;">(due by 08/28 - 11:59 pm)</mark>
-  * You do not submit this if you attend the first class. You do not need to submit the rest of the lecture reflections through out the semester if you attend the classes.
+  * You do not need to submit this if you attend the first class. You do not need to submit the rest of the lecture reflections through out the semester if you attend the classes.
 
 ## <mark style="color:orange;">Deadlines</mark>
 
