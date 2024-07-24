@@ -22,7 +22,7 @@ layout:
 
 Make sure you have a RStudio Cloud account. Otherwise, get one and install all the packages. [See this guideline](https://ttezcan.gitbook.io/lectures/all-lectures-and-labs/r-lab/lab-resources/how-to-create-rstudio-cloud-account-and-installing-all-the-packages).
 
-***
+
 
 ## <mark style="color:orange;">Textual guideline:</mark>&#x20;
 
@@ -33,11 +33,13 @@ Make sure you have a RStudio Cloud account. Otherwise, get one and install all t
 
 <figure><img src="../../../.gitbook/assets/ss_2024-07-16 16.55.54.png" alt="" width="375"><figcaption></figcaption></figure>
 
+
+
 3. **Uploading R script files 1:** On [RStudio Cloud website](https://posit.cloud/), click “Upload” (see highlighted part #2 below).&#x20;
 
 <figure><img src="../../../.gitbook/assets/image (65).png" alt=""><figcaption></figcaption></figure>
 
-***
+
 
 4. **Uploading R script files 2:** Click “Choose File.” Find the R script file you just downloaded (script\_descriptive.R) in the previous step, click “Open” and "OK."
 
