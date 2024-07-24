@@ -62,7 +62,7 @@ For multiple lines, we highlight the codes with mouse.
 
 Here's what happens if we don't:
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 It simply shows what we highlighted and run (check the console part), not the analysis (check the plots part).
 
@@ -86,7 +86,7 @@ Whenever we run an analysis with a different variable, we  create a model code a
 
 If we don’t use model code for comparison, it’s likely that we may accidentally delete something extra. In this example, the comma was deleted.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Instead, we keep the use model code and compare it with our working code. Here we see that the comma is missing in line 79. Note that RStudio warns us that something is wrong with that red cross.
 
