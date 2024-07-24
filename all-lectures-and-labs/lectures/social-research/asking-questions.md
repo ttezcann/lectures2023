@@ -26,8 +26,7 @@ layout:
 
 ## Assignment
 
-* [Asking questions](https://docs.google.com/document/d/1YmvUtPBtZB2GO9uz6OrbmSgBk7MCHs1f?rtpof=true\&usp=drive\_fs)
-* [Crafting questions](https://docs.google.com/document/d/1YmgoZoAk49eeUf-TI8R5oTSsLnwwYc1-?rtpof=true\&usp=drive\_fs)
+* [Crafting questions](https://docs.google.com/document/d/1YmvUtPBtZB2GO9uz6OrbmSgBk7MCHs1f/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
 
 ## Video
 
