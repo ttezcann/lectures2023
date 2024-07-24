@@ -69,7 +69,7 @@ Make sure you have a RStudio Cloud account. Otherwise, get one and install all t
 
 
 
-9.  **Using r script files - “working space” and outline view:** We do not edit or change anything on R script files except under “working space”(see highlighted part #1). Anything above the “working space” is teaching material!\
+9.  **Using R script files - “working space” and outline view:** We do not edit or change anything on R script files except under “working space”(see highlighted part #1). Anything above the “working space” is teaching material!\
 
 
     The codes for assignments will be put under the “working space”\
@@ -81,7 +81,7 @@ Make sure you have a RStudio Cloud account. Otherwise, get one and install all t
 
 
 
-10. **Saving the R script files:** When we make any changes, the font of the file name (shown in the highlighted part #2 above) will be red with an asterisk (\*) - (see the highlighted part #1 below). To save our progress, we click save (see the highlighted part #2 below)
+10. **Saving R script files:** When we make any changes, the font of the file name (shown in the highlighted part #2 above) will be red with an asterisk (\*) - (see the highlighted part #1 below). To save our progress, we click save (see the highlighted part #2 below)
 
 <figure><img src="../../../.gitbook/assets/ss_2024-07-16 17.06.29.png" alt=""><figcaption></figcaption></figure>
 
