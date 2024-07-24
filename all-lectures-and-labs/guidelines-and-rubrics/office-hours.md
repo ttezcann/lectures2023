@@ -12,15 +12,16 @@ layout:
     visible: false
 ---
 
-# Copy of Office hours
+# Office hours
 
 ## <mark style="color:orange;">**Scheduling a meeting**</mark>
 
-1. All office hours are <mark style="color:red;">in person</mark> and will be held in different rooms based on the day and time. Check the table below for specific room locations.
-2. [Click this link to schedule a meeting](https://calendar.app.google/e3D97y6FSsQMgcmK8)
-3. Choose a 15-min time slot. Book the next time slot if we need more than 15 minutes.
-4. Type your first and last name, CSUMB email address, and the meeting agenda in one sentence.
-5. Click Book.
+1. All office hours are <mark style="color:red;">in person</mark> and will be held in different rooms based on the day and time.
+2. Check the table below for specific room locations.
+3. [Click this link to schedule a meeting](https://calendar.app.google/e3D97y6FSsQMgcmK8)
+4. Choose a 15-min time slot. Book the next time slot if we need more than 15 minutes.
+5. Type your first and last name, CSUMB email address, and the meeting agenda in one sentence.
+6. Click Book.
 
 ## <mark style="color:orange;">**Cancelling a meeting**</mark>
 
