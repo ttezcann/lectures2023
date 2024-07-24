@@ -22,12 +22,14 @@ layout:
 4. Type your first and last name, CSUMB email address, and the meeting agenda in one sentence.
 5. Click Book.
 
-## <mark style="color:orange;">**Cancelling a scheduled meeting**</mark>
+## <mark style="color:orange;">**Cancelling a meeting**</mark>
 
 1. The event will appear on your Google Calendar when you click on "Book."
 2. Click on the event and "Cancel appointment"
 
 <figure><img src="../../.gitbook/assets/image (82).png" alt="" width="375"><figcaption></figcaption></figure>
+
+## <mark style="color:orange;">Office hours table (day, time, room)</mark>
 
 Office hours <mark style="color:red;">(in person)</mark> before/after classes and at my office<mark style="color:red;">\*</mark>
 
