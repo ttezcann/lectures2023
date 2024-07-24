@@ -98,7 +98,7 @@
       * [Linear regression assumptions and diagnostics](all-lectures-and-labs/r-lab/lab-lectures/linear-regression-assumptions-and-diagnostics.md)
     * [Lab resources](all-lectures-and-labs/r-lab/lab-resources/README.md)
       * [How to create RStudio Cloud account and installing all the packages](all-lectures-and-labs/r-lab/lab-resources/how-to-use-rstudio-cloud.md)
-      * [How to open R script files in RStudio Cloud](all-lectures-and-labs/r-lab/lab-resources/how-to-open-r-script-files-in-rstudio-cloud.md)
+      * [How to open and use R script files in RStudio Cloud](all-lectures-and-labs/r-lab/lab-resources/how-to-open-and-use-r-script-files-in-rstudio-cloud.md)
       * [All R script files](all-lectures-and-labs/r-lab/lab-resources/all-r-script-files.md)
       * [Variables in GSS](all-lectures-and-labs/r-lab/lab-resources/variables-in-gss.md)
       * [Code templates](all-lectures-and-labs/r-lab/lab-resources/code-templates.md)
