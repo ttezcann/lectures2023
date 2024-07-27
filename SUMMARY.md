@@ -101,7 +101,7 @@
       * [How to open and use R script files in RStudio Cloud](all-lectures-and-labs/r-lab/lab-resources/how-to-open-and-use-r-script-files-in-rstudio-cloud.md)
       * [All R script files](all-lectures-and-labs/r-lab/lab-resources/all-r-script-files.md)
       * [Variables in GSS](all-lectures-and-labs/r-lab/lab-resources/variables-in-gss.md)
-      * [Code templates](all-lectures-and-labs/r-lab/lab-resources/code-templates.md)
+      * [Model codes](all-lectures-and-labs/r-lab/lab-resources/model-codes.md)
       * [Interpretation templates](all-lectures-and-labs/r-lab/lab-resources/interpretation-templates.md)
       * [Common mistakes and troubleshooting in RStudio](all-lectures-and-labs/r-lab/lab-resources/common-mistakes-and-troubleshooting-in-rstudio.md)
       * [Common recoding issues in RStudio](all-lectures-and-labs/r-lab/lab-resources/common-recoding-issues-in-rstudio.md)

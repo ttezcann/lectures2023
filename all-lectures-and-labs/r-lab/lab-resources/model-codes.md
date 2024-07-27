@@ -12,7 +12,7 @@ layout:
     visible: false
 ---
 
-# Code templates
+# Model codes
 
 ## install and load multiple packages
 
@@ -56,7 +56,7 @@ required package(s): "sjmisc"
 {% endhint %}
 
 ```r
-frq(gss$sex, out = "v")
+frq(gss$variablenamehere, out = "v")
 ```
 
 ## descriptive table (for continuous variables)
@@ -66,7 +66,7 @@ required package(s): "sjmisc"
 {% endhint %}
 
 ```r
-descr(gss$age, out = "v", show = "short")
+descr(gss$variable_name_here, out = "v", show = "short")
 ```
 
 ## recodings
@@ -299,7 +299,7 @@ required package(s): "tidyverse"
 ```r
 gss <- gss %>%
   rowwise() %>% 
-  mutate (parentseducmean2 = mean (c(maeduc,paeduc)))
+  mutate (new_variable_name_here = mean (c(variable_name_1_here,variable_name_2_here)))
 ```
 
 ### computing 2 (with recoding)
@@ -396,7 +396,7 @@ required package(s): "sjPlot"
 {% endhint %}
 
 ```r
-sjt.xtab(gss$var1, gss$var2, show.row.prc = TRUE)
+sjt.xtab(gss$variable_name_1_here, gss$variable_name_2_here, show.row.prc = TRUE)
 ```
 
 ## ttest
@@ -406,7 +406,7 @@ required package(s): "tidyverse"   |   "parameters"
 {% endhint %}
 
 ```r
-t.test(depvar ~ indepvar, data = gss) %>% 
+t.test(dependent_variable_name_here ~ independent_variable_name_here, data = gss) %>% 
   parameters() %>% 
   display(format="html")
 ```
@@ -418,7 +418,7 @@ required package(s): "sjPlot"
 {% endhint %}
 
 ```r
-plot_frq(gss$marital, type = "bar", geom.colors = "#336699")
+plot_frq(gss$variable_name_here, type = "bar", geom.colors = "#336699")
 ```
 
 ## histogram (for continuous variables)
@@ -428,7 +428,7 @@ required package(s): "sjPlot"
 {% endhint %}
 
 ```r
-plot_frq(gss$educ, type = "hist",show.mean = TRUE, show.mean.val = TRUE, normal.curve = TRUE, show.sd = TRUE, normal.curve.color = "red")
+plot_frq(gss$variable_name_here, type = "hist",show.mean = TRUE, show.mean.val = TRUE, normal.curve = TRUE, show.sd = TRUE, normal.curve.color = "red")
 ```
 
 ## stacked bar graphs for multiple likert scales
