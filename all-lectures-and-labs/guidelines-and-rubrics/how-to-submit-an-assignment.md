@@ -85,3 +85,5 @@ Click "Attach."
 Click "Submit Assignment."
 
 <figure><img src="../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+
+{% embed url="https://drive.google.com/open?id=1qb1yTsVQiNHrlyUe3lhIG6yp6UQxgMb-&usp=drive_fs" %}
