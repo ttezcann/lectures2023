@@ -12,7 +12,7 @@ layout:
     visible: false
 ---
 
-# Model codes
+# Code templates
 
 ## install and load multiple packages
 
@@ -56,7 +56,7 @@ required package(s): "sjmisc"
 {% endhint %}
 
 ```r
-frq(gss$variablenamehere, out = "v")
+frq(gss$variable_here, out = "v")
 ```
 
 ## descriptive table (for continuous variables)
@@ -66,7 +66,7 @@ required package(s): "sjmisc"
 {% endhint %}
 
 ```r
-descr(gss$variable_name_here, out = "v", show = "short")
+descr(gss$variable_here, out = "v", show = "short")
 ```
 
 ## recodings
@@ -123,7 +123,7 @@ required package(s): "sjmisc"
 
 {% code fullWidth="false" %}
 ```r
-gss$new_variable_name_here <- rec(gss$original_variable_here, rec = 
+gss$new_variable_here <- rec(gss$original_variable_here, rec = 
 "1=2 [label1]; 
 2=1 [label2]", append = FALSE)
 ```
@@ -133,7 +133,7 @@ gss$new_variable_name_here <- rec(gss$original_variable_here, rec =
 
 {% code fullWidth="false" %}
 ```r
-gss$new_variable_name_here <- rec(gss$original_variable_here, rec = 
+gss$new_variable_here <- rec(gss$original_variable_here, rec = 
 "1,2=1 [label1]; 
 3,4=2 [label2]", append = FALSE)
 ```
@@ -142,7 +142,7 @@ gss$new_variable_name_here <- rec(gss$original_variable_here, rec =
 ### recoding cat3 (categorical to categorical with 3 responses)
 
 ```r
-gss$new_variable_name_here <- rec(gss$original_variable_here, rec = 
+gss$new_variable_here <- rec(gss$original_variable_here, rec = 
 "1=3 [label1]; 
 2=2 [label2];
 3=1 [label3]", append = FALSE)
@@ -151,7 +151,7 @@ gss$new_variable_name_here <- rec(gss$original_variable_here, rec =
 ### recoding cat3 with merging (categorical to categorical with 3 responses)
 
 ```r
-gss$new_variable_name_here <- rec(gss$original_variable_here, rec = 
+gss$new_variable_here <- rec(gss$original_variable_here, rec = 
 "1,2=1 [label1]; 
 3,4=2 [label2];
 5,6=3 [label3]", append = FALSE)
@@ -160,7 +160,7 @@ gss$new_variable_name_here <- rec(gss$original_variable_here, rec =
 ### recoding cat4 (categorical to categorical with 4 responses)
 
 ```r
-gss$new_variable_name_here <- rec(gss$original_variable_here, rec = 
+gss$new_variable_here <- rec(gss$original_variable_here, rec = 
 "1=4 [label1]; 
 2=3 [label2];
 3=2 [label3];
@@ -170,7 +170,7 @@ gss$new_variable_name_here <- rec(gss$original_variable_here, rec =
 ### recoding cat4 with merging (categorical to categorical with 4 responses)
 
 ```r
-gss$new_variable_name_here <- rec(gss$original_variable_here, rec = 
+gss$new_variable_here <- rec(gss$original_variable_here, rec = 
 "1,2=1 [label1]; 
 3,4=2 [label2];
 5,6=3 [label3];
@@ -180,7 +180,7 @@ gss$new_variable_name_here <- rec(gss$original_variable_here, rec =
 ### recoding cat5 (categorical to categorical with 5 responses)
 
 ```r
-gss$new_variable_name_here <- rec(gss$original_variable_here, rec = 
+gss$new_variable_here <- rec(gss$original_variable_here, rec = 
 "1=5 [label1]; 
 2=4 [label2];
 3=3 [label3];
@@ -191,7 +191,7 @@ gss$new_variable_name_here <- rec(gss$original_variable_here, rec =
 ### recoding cat5 with merging (categorical to categorical with 5 responses)
 
 ```r
-gss$new_variable_name_here <- rec(gss$original_variable_here, rec = 
+gss$new_variable_here <- rec(gss$original_variable_here, rec = 
 "1,2=1 [label1]; 
 3,4=2 [label2];
 5,6=3 [label3];
@@ -202,7 +202,7 @@ gss$new_variable_name_here <- rec(gss$original_variable_here, rec =
 ### recoding cat6 (categorical to categorical with 6 responses)
 
 ```r
-gss$new_variable_name_here <- rec(gss$original_variable_here, rec = 
+gss$new_variable_here <- rec(gss$original_variable_here, rec = 
 "1=6 [label1]; 
 2=5 [label2];
 3=4 [label3];
@@ -214,7 +214,7 @@ gss$new_variable_name_here <- rec(gss$original_variable_here, rec =
 ### recoding cat6 with merging (categorical to categorical with 6 responses)
 
 ```r
-gss$new_variable_name_here <- rec(gss$original_variable_here, rec = 
+gss$new_variable_here <- rec(gss$original_variable_here, rec = 
 "1,2=1 [label1]; 
 3,4=2 [label2];
 5,6=3 [label3];
@@ -226,7 +226,7 @@ gss$new_variable_name_here <- rec(gss$original_variable_here, rec =
 ### recoding cat7 (categorical to categorical with 7 responses)
 
 ```r
-gss$new_variable_name_here <- rec(gss$original_variable_here, rec = 
+gss$new_variable_here <- rec(gss$original_variable_here, rec = 
 "7=1 [label1]; 
 6=2 [label2];
 5=3 [label3];
@@ -239,7 +239,7 @@ gss$new_variable_name_here <- rec(gss$original_variable_here, rec =
 ### recoding cat7 with merging (categorical to categorical with 7 responses)
 
 ```r
-gss$new_variable_name_here <- rec(gss$original_variable_here, rec = 
+gss$new_variable_here <- rec(gss$original_variable_here, rec = 
 "1,2=1 [label1]; 
 3,4,5=2 [label2];
 6,7,8=3 [label3];
@@ -252,7 +252,7 @@ gss$new_variable_name_here <- rec(gss$original_variable_here, rec =
 ### recoding con2 (continuous to categorical with 2 responses)
 
 ```r
-gss$new_variable_name_here <- rec(gss$original_variable_here, rec = 
+gss$new_variable_here <- rec(gss$original_variable_here, rec = 
 "0:40=1 [label1]; 
 41:100=2 [label2]", append = FALSE)
 ```
@@ -260,7 +260,7 @@ gss$new_variable_name_here <- rec(gss$original_variable_here, rec =
 ### recoding con3 (continuous to categorical with 3 responses)
 
 ```r
-gss$new_variable_name_here <- rec(gss$original_variable_here, rec = 
+gss$new_variable_here <- rec(gss$original_variable_here, rec = 
 "1:10=1 [label1];
 11:20=2 [label2]; 
 21:50=3 [label3]", append = FALSE)
@@ -269,7 +269,7 @@ gss$new_variable_name_here <- rec(gss$original_variable_here, rec =
 ### recoding con4 (continuous to categorical with 4 responses)
 
 ```r
-gss$new_variable_name_here <- rec(gss$original_variable_here, rec = 
+gss$new_variable_here <- rec(gss$original_variable_here, rec = 
 "0:15000=1 [label1];
 15001:25000=2 [label2]; 
 25001:45000=2 [label3]; 
@@ -279,7 +279,7 @@ gss$new_variable_name_here <- rec(gss$original_variable_here, rec =
 ### recoding con5+ (continuous to categorical with more than 4 responses)
 
 ```r
-gss$new_variable_name_here <- rec(gss$original_variable_here, rec = 
+gss$new_variable_here <- rec(gss$original_variable_here, rec = 
 "1:10=1 [label1];
 11:20=2 [label2]; 
 21:30=2 [label3]; 
@@ -299,10 +299,10 @@ required package(s): "tidyverse"
 ```r
 gss <- gss %>%
   rowwise() %>% 
-  mutate (new_variable_name_here = mean (c(variable_name_1_here,variable_name_2_here)))
+  mutate (new_variable_here = mean (c(variable_1_here, variable_2_here, variable_3_here)))
 ```
 
-### computing 2 (with recoding)
+### computing 2 (with recoding) - sample 1
 
 ```r
 frq(gss$happy, out = "v")
@@ -334,7 +334,7 @@ gss <- gss %>%
   mutate (hapindex = mean (c(happynew,lifenew,satfinnew)))
 ```
 
-### computing 3 (with recoding)
+### computing 3 (with recoding) - sample 2
 
 ```r
 frq(gss$socrel, out = "v")
@@ -396,7 +396,7 @@ required package(s): "sjPlot"
 {% endhint %}
 
 ```r
-sjt.xtab(gss$variable_name_1_here, gss$variable_name_2_here, show.row.prc = TRUE)
+sjt.xtab(gss$variable_1_here, gss$variable_2_here, show.row.prc = TRUE)
 ```
 
 ## ttest
@@ -406,7 +406,7 @@ required package(s): "tidyverse"   |   "parameters"
 {% endhint %}
 
 ```r
-t.test(dependent_variable_name_here ~ independent_variable_name_here, data = gss) %>% 
+t.test(dependent_variable_here ~ independent_variable_here, data = gss) %>% 
   parameters() %>% 
   display(format="html")
 ```
@@ -418,7 +418,7 @@ required package(s): "sjPlot"
 {% endhint %}
 
 ```r
-plot_frq(gss$variable_name_here, type = "bar", geom.colors = "#336699")
+plot_frq(gss$variable_here, type = "bar", geom.colors = "#336699")
 ```
 
 ## histogram (for continuous variables)
@@ -428,7 +428,7 @@ required package(s): "sjPlot"
 {% endhint %}
 
 ```r
-plot_frq(gss$variable_name_here, type = "hist",show.mean = TRUE, show.mean.val = TRUE, normal.curve = TRUE, show.sd = TRUE, normal.curve.color = "red")
+plot_frq(gss$variable_here, type = "hist",show.mean = TRUE, show.mean.val = TRUE, normal.curve = TRUE, show.sd = TRUE, normal.curve.color = "red")
 ```
 
 ## stacked bar graphs for multiple likert scales
@@ -438,7 +438,7 @@ required package(s): "sjPlot"  |   "tidyverse"
 {% endhint %}
 
 ```r
-graph <- gss %>%  select (var1, var2, var3, var4, var5) %>%  
+graph <- gss %>%  select (variable_1_here, variable_2_here, variable_3_here, variable_4_here, variable_5_here) %>%  
 plot_stackfrq(sort.frq = "first.asc", coord.flip = TRUE, geom.colors = "Blues", show.total = FALSE,                
 title = "type graph title here")
 graph + theme(  axis.text.x = element_text(size=14), # change font size of x-axis labels  
@@ -454,7 +454,7 @@ required package(s): "sjPlot"  |   "tidyverse"
 {% endhint %}
 
 ```r
-graph <- gss %>%  select (var1, var2, var3, var4, var5) %>%  
+graph <- gss %>%  select (variable_1_here, variable_2_here, variable_3_here, variable_4_here, variable_5_here) %>%  
 plot_stackfrq(sort.frq = "first.asc", coord.flip = FALSE, geom.colors = "Blues", show.total = FALSE,                
 title = "type graph title here")
 graph + theme(  axis.text.x = element_text(size=14), # change font size of x-axis labels  
@@ -470,7 +470,7 @@ required package(s): "sjPlot"
 {% endhint %}
 
 ```r
-plot_xtab(gss$var1, gss$var2, show.total=FALSE, show.n = FALSE)
+plot_xtab(gss$variable_1_here, gss$variable_2_here, show.total=FALSE, show.n = FALSE)
 ```
 
 ## bar graphs between groups (margin=row)
@@ -480,7 +480,7 @@ required package(s): "sjPlot"
 {% endhint %}
 
 ```r
-plot_xtab(gss$var1, gss$var2, show.total=FALSE, show.n = FALSE, margin = "row")
+plot_xtab(gss$variable_1_here, gss$variable_2_here, show.total=FALSE, show.n = FALSE, margin = "row")
 ```
 
 ## scatterplot with two variables
@@ -490,7 +490,7 @@ required package(s): "sjPlot"
 {% endhint %}
 
 ```r
-plot_scatter(gss, var1, var2, jitter = TRUE,
+plot_scatter(gss, variable_1_here, variable_2_here, jitter = TRUE,
             fit.grps = lm, show.ci = TRUE, grid = TRUE,
              title = "type graph title here")
 ```
@@ -502,7 +502,7 @@ required package(s): "sjPlot"
 {% endhint %}
 
 ```r
-plot_scatter(gss, var1, var2, groupvar, jitter = TRUE,
+plot_scatter(gss, variable_1_here, variable_2_here, groupvar, jitter = TRUE,
             fit.grps = lm, show.ci = TRUE, grid = TRUE,
              title = "type graph title here")
 ```
@@ -516,7 +516,7 @@ required package(s):  "sjPlot"
 {% endhint %}
 
 ```r
-tab_corr (gss[, c("sei10", "spsei10")],
+tab_corr (gss[, c("variable_1_here", "variable_2_here")],
 wrap.labels = 30, p.numeric = TRUE, triangle="lower", na.deletion = "pairwise")
 ```
 
@@ -527,9 +527,9 @@ required package(s): "ggpubr"
 {% endhint %}
 
 ```r
-scatterplot <- ggscatter(gss, x = "sei10", y = "spsei10",
+scatterplot <- ggscatter(gss, x = "variable_1_here", y = "variable_1_here",
            add = "loess", conf.int = TRUE, color = "black", point=F,
-           xlab = "Socio-economic index score of the respondents", ylab = "Socio-economic index score of the respondents’ spouses")
+           xlab = "what it measures of variable_1", ylab = "what it measures of variable_2")
            scatterplot + stat_cor(p.accuracy = 0.001, r.accuracy = 0.01)
 ```
 
@@ -540,7 +540,7 @@ required package(s): "sjPlot"
 {% endhint %}
 
 ```r
-tab_corr (gss[, c("sei10", "spsei10", "tvhours", "usetech", "age", "educ", "marasiannew", "marhispnew")], 
+tab_corr (gss[, c("variable_1_here", "variable_2_here", "variable_3_here", "variable_4_here", "variable_5_here", "variable_6_here", "variable_7_here", "variable_8_here")], 
 wrap.labels = 30, p.numeric = TRUE, triangle="lower", na.deletion = "pairwise")
 ```
 
@@ -551,7 +551,7 @@ required package(s): "psych"
 {% endhint %}
 
 ```r
-pairs.panels(gss[, c("sei10", "spsei10", "tvhours", "usetech", "age", "educ", "marasiannew", "marhispnew")],
+pairs.panels(gss[, c("variable_1_here", "variable_2_here", "variable_3_here", "variable_4_here", "variable_5_here", "variable_6_here", "variable_7_here", "variable_8_here")],
 ellipses=F, scale=F, show.points=F, stars=T, ci=T)
 ```
 
@@ -562,7 +562,7 @@ required package(s): "corrplot"   |   "Hmisc"
 {% endhint %}
 
 ```r
-selectedvariables <- c("sei10", "spsei10", "tvhours", "usetech", "age", "educ", "marasiannew", "marhispnew")
+selectedvariables <- c("variable_1_here", "variable_2_here", "variable_3_here", "variable_4_here", "variable_5_here", "variable_6_here", "variable_7_here", "variable_8_here")
 testRes = cor.mtest(gss[, selectedvariables])
 gssrcorr = rcorr(as.matrix(gss[, selectedvariables]))
 gsscoeff = gssrcorr$r
@@ -579,13 +579,15 @@ required package(s): "sjPlot"
 ### linear regression
 
 ```r
-model4 <- lm(depvar ~ indepvar1 + indepvar2 + indepvar3 + indepvar4, data = gss)
+
+model4 <- lm(dependent_variable_here ~ indepvar1 + indepvar2 + indepvar3 + indepvar4, data = gss)
 tab_model(model4, show.std = T, show.ci = F, collapse.se = T, p.style = "stars")
 ```
 
 ### logistic regression
 
 ```r
+
 model4 <- glm(depvar ~ indepvar1 + indepvar2 + indepvar3 + indepvar4, data = gss, family = binomial(link="logit"))
 tab_model(model4, show.std = TRUE, show.ci = FALSE, collapse.se = TRUE, p.style = "stars")
 ```
