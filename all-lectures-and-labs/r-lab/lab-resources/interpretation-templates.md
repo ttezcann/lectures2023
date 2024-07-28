@@ -26,11 +26,11 @@ Use "[Variables in GSS](https://ttezcan.gitbook.io/lect/all-lectures-and-labs/r-
 
 <mark style="color:green;">Correct:</mark> <mark style="color:orange;">The perceived discrimination at work because of age</mark> <mark style="color:orange;">variable</mark> shows that 7.93% of the respondents feel discriminated at work because of age and 92.07% do not.
 
-<mark style="color:red;">Wrong:</mark> “The <mark style="color:orange;">wkageism</mark> shows that 7.93% of the respondents reported that they feel discriminated and 92.07% reported that they do not feel discriminated.
+<mark style="color:red;">Wrong:</mark> “The <mark style="color:orange;">wkageism</mark> shows that 7.93% of the respondents reported that they feel discriminated and 92.07% do not.
 
 * Do not use variable names in the interpretation. Variable names are meant for coding purposes. There's no word called "wkageism." No one would understand what you mean.
 
-<mark style="color:red;">Wrong:</mark> the <mark style="color:orange;">r feels discriminated because of age</mark> shows that 7.93% of the respondents reported that they feel discriminated and 92.07% reported that they do not feel discriminated.
+<mark style="color:red;">Wrong:</mark> the <mark style="color:orange;">r feels discriminated because of age</mark> shows that 7.93% of the respondents reported that they feel discriminated and 92.07% do not.
 
 * Do not use the text appears on the top of the table. No one would understand what you mean by "r" here.
 
@@ -60,7 +60,7 @@ Use "[Variables in GSS](https://ttezcan.gitbook.io/lect/all-lectures-and-labs/r-
 <figure><img src="../../../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-[The marital status variable](#user-content-fn-5)[^5] shows that 41.43%[^6] of the respondents are married;[^7] 7.23% of the respondents are widowed; 17.23% of the respondents are divorced; 2.92% of the respondents are separated; 31.20% of the respondents are never married.
+[The respondents' marital status variable](#user-content-fn-5)[^5] shows that 41.43%[^6] of the respondents are married;[^7] 7.23% of the respondents are widowed; 17.23% of the respondents are divorced; 2.92% of the respondents are separated; 31.20% of the respondents are never married.
 {% endhint %}
 
 Slides: [descriptive statistics](https://docs.google.com/presentation/d/1\_rePJrPIl7rwTEy3pfbrZopgWMFoamw0/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
@@ -76,9 +76,7 @@ Slides: [descriptive statistics](https://docs.google.com/presentation/d/1\_rePJr
 
 <figure><img src="../../../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
 
-{% hint style="info" %}
-The age in years variable shows that the average age of the respondents is 49.18, with standard deviation 17.97.
-{% endhint %}
+[The age in years variable](#user-content-fn-11)[^11] shows that the average age of the respondents is 49.18[^12], with standard deviation 17.97[^13].
 
 Slides: [descriptive statistics](https://docs.google.com/presentation/d/1\_rePJrPIl7rwTEy3pfbrZopgWMFoamw0/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
 
@@ -202,7 +200,7 @@ plot_frq(gss$marital, type = "bar", geom.colors = "#336699")
 Same as frequency table interpretation
 
 \
-[The marital status variable](#user-content-fn-11)[^11] shows that 41.43%[^12] of the respondents are married;[^13] 7.23% of the respondents are widowed; 17.23% of the respondents are divorced; 2.92% of the respondents are separated; 31.20% of the respondents are never married.
+[The marital status variable](#user-content-fn-14)[^14] shows that 41.43%[^15] of the respondents are married;[^16] 7.23% of the respondents are widowed; 17.23% of the respondents are divorced; 2.92% of the respondents are separated; 31.20% of the respondents are never married.
 {% endhint %}
 
 Slides: [visualization](https://docs.google.com/presentation/d/1j8vQxVYCuG0s96EtUgcvMJoB5jN3wgV5iS-xgMyZKtk/edit?usp=sharing)
@@ -590,7 +588,7 @@ Slides: [dummy variables](https://docs.google.com/presentation/d/1dJenkvbUDQUmX2
 
 [^6]: Always use "valid.prc" (valid percent) column of the tables.
 
-[^7]: use the response sets.
+[^7]: use the labels.
 
 [^8]: The “Descriptives” command is used to determine mean, standard deviation.
 
@@ -604,6 +602,12 @@ Slides: [dummy variables](https://docs.google.com/presentation/d/1dJenkvbUDQUmX2
 
 [^11]: use "what it measures" column of Variables in GSS page.
 
-[^12]: Always use "valid.prc" (valid percent) column of the tables.
+[^12]: Mean
 
-[^13]: use the response sets.
+[^13]: SD: standard deviation.
+
+[^14]: use "what it measures" column of Variables in GSS page.
+
+[^15]: Always use "valid.prc" (valid percent) column of the tables.
+
+[^16]: use the response sets.
