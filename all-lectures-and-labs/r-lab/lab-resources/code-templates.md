@@ -119,7 +119,7 @@ Running the code above will create a new variable, <mark style="color:red;">phye
 required package(s): "sjmisc"
 {% endhint %}
 
-### recoding cat2 (categorical to categorical with 2 responses)
+### recoding cat2 with changing direction (categorical to categorical with 2 values)
 
 {% code fullWidth="false" %}
 ```r
@@ -129,7 +129,7 @@ gss$new_variable_here <- rec(gss$original_variable_here, rec =
 ```
 {% endcode %}
 
-### recoding cat2 with merging (categorical to categorical with 2 responses)
+### recoding cat2 with merging (categorical to categorical with 2 values)
 
 {% code fullWidth="false" %}
 ```r
@@ -139,7 +139,7 @@ gss$new_variable_here <- rec(gss$original_variable_here, rec =
 ```
 {% endcode %}
 
-### recoding cat3 (categorical to categorical with 3 responses)
+### recoding cat3 with changing direction (categorical to categorical with 3 values)
 
 ```r
 gss$new_variable_here <- rec(gss$original_variable_here, rec = 
@@ -148,7 +148,7 @@ gss$new_variable_here <- rec(gss$original_variable_here, rec =
 3=1 [label3]", append = FALSE)
 ```
 
-### recoding cat3 with merging (categorical to categorical with 3 responses)
+### recoding cat3 with merging (categorical to categorical with 3 values)
 
 ```r
 gss$new_variable_here <- rec(gss$original_variable_here, rec = 
@@ -157,7 +157,7 @@ gss$new_variable_here <- rec(gss$original_variable_here, rec =
 5,6=3 [label3]", append = FALSE)
 ```
 
-### recoding cat4 (categorical to categorical with 4 responses)
+### recoding cat4 with changing direction (categorical to categorical with 4 values)
 
 ```r
 gss$new_variable_here <- rec(gss$original_variable_here, rec = 
@@ -167,7 +167,7 @@ gss$new_variable_here <- rec(gss$original_variable_here, rec =
 4=1 [label4]", append = FALSE)
 ```
 
-### recoding cat4 with merging (categorical to categorical with 4 responses)
+### recoding cat4 with merging (categorical to categorical with 4 values)
 
 ```r
 gss$new_variable_here <- rec(gss$original_variable_here, rec = 
@@ -177,7 +177,7 @@ gss$new_variable_here <- rec(gss$original_variable_here, rec =
 7,8,9=4 [label4]", append = FALSE)
 ```
 
-### recoding cat5 (categorical to categorical with 5 responses)
+### recoding cat5 with changing direction (categorical to categorical with 5 values)
 
 ```r
 gss$new_variable_here <- rec(gss$original_variable_here, rec = 
@@ -188,7 +188,7 @@ gss$new_variable_here <- rec(gss$original_variable_here, rec =
 5=1 [label5]", append = FALSE)
 ```
 
-### recoding cat5 with merging (categorical to categorical with 5 responses)
+### recoding cat5 with merging (categorical to categorical with 5 values)
 
 ```r
 gss$new_variable_here <- rec(gss$original_variable_here, rec = 
@@ -199,7 +199,7 @@ gss$new_variable_here <- rec(gss$original_variable_here, rec =
 9=5 [label5]", append = FALSE)
 ```
 
-### recoding cat6 (categorical to categorical with 6 responses)
+### recoding cat6 with changing direction (categorical to categorical with 6 values)
 
 ```r
 gss$new_variable_here <- rec(gss$original_variable_here, rec = 
@@ -211,7 +211,7 @@ gss$new_variable_here <- rec(gss$original_variable_here, rec =
 6=1 [label6]", append = FALSE)
 ```
 
-### recoding cat6 with merging (categorical to categorical with 6 responses)
+### recoding cat6 with merging (categorical to categorical with 6 values)
 
 ```r
 gss$new_variable_here <- rec(gss$original_variable_here, rec = 
@@ -223,7 +223,7 @@ gss$new_variable_here <- rec(gss$original_variable_here, rec =
 12,13,14=6 [label6]", append = FALSE)
 ```
 
-### recoding cat7 (categorical to categorical with 7 responses)
+### recoding cat7 with changing direction (categorical to categorical with 7 values)
 
 ```r
 gss$new_variable_here <- rec(gss$original_variable_here, rec = 
@@ -236,7 +236,7 @@ gss$new_variable_here <- rec(gss$original_variable_here, rec =
 1=7 [label7]", append = FALSE)
 ```
 
-### recoding cat7 with merging (categorical to categorical with 7 responses)
+### recoding cat7 with merging (categorical to categorical with 7 values)
 
 ```r
 gss$new_variable_here <- rec(gss$original_variable_here, rec = 
@@ -249,7 +249,7 @@ gss$new_variable_here <- rec(gss$original_variable_here, rec =
 16,17,18=7 [label7]", append = FALSE)
 ```
 
-### recoding con2 (continuous to categorical with 2 responses)
+### recoding con2 (continuous to categorical with 2 values)
 
 ```r
 gss$new_variable_here <- rec(gss$original_variable_here, rec = 
@@ -257,7 +257,7 @@ gss$new_variable_here <- rec(gss$original_variable_here, rec =
 41:100=2 [label2]", append = FALSE)
 ```
 
-### recoding con3 (continuous to categorical with 3 responses)
+### recoding con3 (continuous to categorical with 3 values)
 
 ```r
 gss$new_variable_here <- rec(gss$original_variable_here, rec = 
@@ -266,7 +266,7 @@ gss$new_variable_here <- rec(gss$original_variable_here, rec =
 21:50=3 [label3]", append = FALSE)
 ```
 
-### recoding con4 (continuous to categorical with 4 responses)
+### recoding con4 (continuous to categorical with 4 values)
 
 ```r
 gss$new_variable_here <- rec(gss$original_variable_here, rec = 
@@ -276,7 +276,7 @@ gss$new_variable_here <- rec(gss$original_variable_here, rec =
 45001:90000=3 [label4]", append = FALSE)
 ```
 
-### recoding con5+ (continuous to categorical with more than 4 responses)
+### recoding con5+ (continuous to categorical with more than 4 values)
 
 ```r
 gss$new_variable_here <- rec(gss$original_variable_here, rec = 
