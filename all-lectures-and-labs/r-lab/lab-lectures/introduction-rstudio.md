@@ -40,4 +40,4 @@ layout:
 
 ## Lab assignment video
 
-{% embed url="https://youtu.be/IbHeZoQZ_CM" %}
+{% embed url="https://drive.google.com/open?id=1v3jfwrnZvJ0eqDgi9wJ5f3uTa7QYN1Eq&usp=drive_fs" %}
