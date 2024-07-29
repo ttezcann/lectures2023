@@ -32,6 +32,9 @@ layout:
 
 [RStudio lab assignment descriptive statistics](https://docs.google.com/document/d/1\_yR0S9uqiJpD5GhtboMJEUjQQdVurKVs?rtpof=true\&usp=drive\_fs)
 
-## Video
+## Lecture video
 
-{% embed url="https://youtu.be/WMniv0uc3e8" %}
+{% embed url="https://drive.google.com/open?id=1v5dnAZHclxFwZ2YTRsY7WpYoL82TGRO0&usp=drive_fs" %}
+
+## Lab assignment video
+
