@@ -31,3 +31,7 @@ layout:
 ## Video
 
 {% embed url="https://youtu.be/uiPMKOpmNBk" %}
+
+
+
+{% embed url="https://drive.google.com/open?id=1tEjObbmijwKz0h7p2ZXK2ICjtAsDYRLD&usp=drive_fs" %}
