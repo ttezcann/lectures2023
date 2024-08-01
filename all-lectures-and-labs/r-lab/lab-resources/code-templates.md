@@ -69,51 +69,7 @@ required package(s): "sjmisc"
 descr(gss$variable_here, out = "v", show = "short")
 ```
 
-## recodings
-
-### RECODING EXAMPLE
-
-{% hint style="info" %}
-Imagine we want to use “the level of physical effort required at work” (<mark style="color:orange;">phyeffrt</mark>) variable in our analyses. First, check the frequency distribution to see what 1, 2. 3, etc., mean.
-
-**Code:**&#x20;
-
-frq(gss$<mark style="color:orange;">phyeffrt</mark>, out = "v")
-
-![](<../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png>)\
-
-
-Higher values should indicate greater physical effort, but this isn't the case. Thus, we need to change the direction of the responses:
-
-
-
-the new variable name comes first: <mark style="color:red;">phyeffrtnew</mark>
-
-the original variable name comes second: <mark style="color:orange;">phyeffrt</mark>
-
-
-
-**Code:**&#x20;
-
-gss$<mark style="color:red;">phyeffrtnew</mark> <- rec(gss$<mark style="color:orange;">phyeffrt</mark>, rec =&#x20;
-
-"1=5 \[very hard];&#x20;
-
-2=4 \[hard];
-
-3=3 \[somewhat hard];
-
-4=2 \[fairly light];
-
-5=1 \[very light]", append = FALSE)
-
-\
-Running the code above will create a new variable, <mark style="color:red;">phyeffrtnew</mark>, that we will use in our analysis.
-{% endhint %}
-
-<figure><img src="https://lh7-us.googleusercontent.com/48NuP2iAmjMh3rDSuVo-dP9gjMoYOFk7fV73EfyrlmNaGkg5H-7xjgyiJdsRUKMd4YssBOXZoz0A88Or6Po7LiCCYh1_FTZ7FVoqZ7T_DjrCWop9MamImTksXY8wPZmUBhjKibFDoaDX_TUK1Y_U4gs" alt=""><figcaption></figcaption></figure>
-
-
+## recoding
 
 {% hint style="warning" %}
 required package(s): "sjmisc"
@@ -247,13 +203,13 @@ gss$new_variable_here <- rec(gss$original_variable_here, rec =
 
 ```r
 gss$new_variable_here <- rec(gss$original_variable_here, rec = 
-"7=1 [label1]; 
-6=2 [label2];
-5=3 [label3];
+"1=7 [label1]; 
+2=6 [label2];
+3=5 [label3];
 4=4 [label4];
-3=5 [label5];
-2=6 [label6];
-1=7 [label7]", append = FALSE)
+5=3 [label5];
+6=2 [label6];
+7=1 [label7]", append = FALSE)
 ```
 
 ### (3) transforming continuous variables into groups (continuous to categorical)
