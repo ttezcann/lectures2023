@@ -38,3 +38,5 @@ layout:
 
 ## Lab assignment video
 
+{% embed url="https://drive.google.com/open?id=1BH4_6TE3IzmsHoNAl3MLJ8es_S8fmB2f&usp=drive_fs" %}
+
