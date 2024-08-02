@@ -32,6 +32,9 @@ layout:
 
 [Lab assignment](https://docs.google.com/document/d/1abWK6wDWOEvEL2dbt35z8QXNqjwBU\_FC?rtpof=true\&usp=drive\_fs)
 
-## Video
+## Lecture video
 
-{% embed url="https://youtu.be/ERp4m96JlDk" %}
+
+
+## Lab assignment video
+
