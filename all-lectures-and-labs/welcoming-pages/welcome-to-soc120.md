@@ -32,7 +32,7 @@ Read the syllabus before the first class and bring me your questions.
 
 ## <mark style="color:orange;">First meeting</mark>
 
-Our first meeting is held on <mark style="color:red;">08/26</mark> - <mark style="color:red;">Monday at 2 pm</mark> at [CAHSS](https://goo.gl/maps/hYxctdN9tuwBnjuT8)[Heron Hall](https://goo.gl/maps/YgdtjK5542qNHV8Z9) - 131
+Our first meeting is held on <mark style="color:red;">08/26</mark> - <mark style="color:red;">Monday at 2 pm</mark> at [Heron Hall](https://goo.gl/maps/YgdtjK5542qNHV8Z9) - 131
 
 Please arrive the classroom at least 5 minutes early.
 
