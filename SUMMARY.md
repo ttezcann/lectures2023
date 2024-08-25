@@ -5,7 +5,6 @@
     * [Lecture reflections](all-lectures-and-labs/guidelines-and-rubrics/lecture-reflections.md)
     * [Office hours](all-lectures-and-labs/guidelines-and-rubrics/office-hours.md)
     * [Where are the readings, slides, and lecture videos?](all-lectures-and-labs/guidelines-and-rubrics/where-are-the-readings-slides-and-lecture-videos.md)
-    * [Class structure, how to work, and what to be careful about (Summer term)](all-lectures-and-labs/guidelines-and-rubrics/class-structure-how-to-work-and-what-to-be-careful-about-summer-term.md)
     * [How to submit an assignment](all-lectures-and-labs/guidelines-and-rubrics/how-to-submit-an-assignment.md)
     * [How to move a file in Google Drive](all-lectures-and-labs/guidelines-and-rubrics/how-to-move-a-file-in-google-drive.md)
     * [How to rename a file and folder in Google Drive](all-lectures-and-labs/guidelines-and-rubrics/how-to-rename-a-file-and-folder-in-google-drive.md)
