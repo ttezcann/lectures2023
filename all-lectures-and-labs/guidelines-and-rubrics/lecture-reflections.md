@@ -33,7 +33,7 @@ Lecture reflections <mark style="color:red;">(700 words)</mark> are composed of 
 
 ### [Sample 3](https://docs.google.com/document/d/1fW7HttQdYYRcmjqbm0MxIftTS3rdwMhp?rtpof=true\&usp=drive\_fs)
 
-### [Sample 4](https://docs.google.com/document/d/1GLyqllWGoOCtsFUTpKQeJn4Kp10Fredg?rtpof=true\&usp=drive\_fs)
+### [Sample 4](https://docs.google.com/document/d/1LmnsYbWCXPD6uulJ8z\_UF6CcBCHlfz32?rtpof=true\&usp=drive\_fs)
 
 {% hint style="info" %}
 There are two guidelines below:&#x20;
