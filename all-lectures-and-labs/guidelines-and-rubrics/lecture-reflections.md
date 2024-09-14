@@ -27,13 +27,13 @@ Lecture reflections <mark style="color:red;">(700 words)</mark> are composed of 
 
 ## <mark style="color:orange;">Samples</mark>
 
-### [Sample 1](https://docs.google.com/document/d/1PSY4fTCCNZ1wXR51VYJCBGw9o5WPUIBF/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
+### [Sample 1](https://docs.google.com/document/d/1fOLQACwMEZ2H3lSTZ4Fez2aJ4w5rWLfr?rtpof=true\&usp=drive\_fs)
 
-### [Sample 2](https://docs.google.com/document/d/1LmnsYbWCXPD6uulJ8z\_UF6CcBCHlfz32/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
+### [Sample 2](https://docs.google.com/document/d/1f4sbOQL3O1OQD2RyqAdWzI67zWa5zE2t?rtpof=true\&usp=drive\_fs)
 
-### [Sample 3](https://docs.google.com/document/d/1GWsVwn4Fy9-luWW34ke9l0SYyeXa5Ml-/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
+### [Sample 3](https://docs.google.com/document/d/1fW7HttQdYYRcmjqbm0MxIftTS3rdwMhp?rtpof=true\&usp=drive\_fs)
 
-### [Sample 4](https://docs.google.com/document/d/1xypg3nEoUfNPom9BUJlAEWyzmejolYbk/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
+### [Sample 4](https://docs.google.com/document/d/1GLyqllWGoOCtsFUTpKQeJn4Kp10Fredg?rtpof=true\&usp=drive\_fs)
 
 {% hint style="info" %}
 There are two guidelines below:&#x20;
