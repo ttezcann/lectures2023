@@ -18,7 +18,7 @@ layout:
 
 Ensure that your interpretations are clear enough for someone to understand your report **without** referring to the tables.
 
-Use "[Variables in GSS](https://ttezcan.gitbook.io/lect/all-lectures-and-labs/r-lab/lab-resources/variables-in-gss-2022-uc)" document, read the full wording of the questions,  response sets, and use "What it measures" columns in your interpretations.
+Use "[Variables in GSS](https://ttezcan.gitbook.io/lect/all-lectures-and-labs/r-lab/lab-resources/variables-in-gss-2022-uc)" document, read the full wording of the questions, response sets, and use "What it measures" columns in your interpretations. You need to use "what it measures" column when interpreting analyses. After the "what it measures" column, add "variable" in your interpretation.
 
 **Example 1:**&#x20;
 
@@ -127,21 +127,21 @@ Slides: [chisquare](https://docs.google.com/presentation/d/11QlkxBoIM\_-wIoBTLYt
 We utilize crosstabs for chi-square analysis, which is used to discover if there is a relationship between two categorical variables (we check the p value). We refer to statistically significant as p < 0.05. The Chi-Square Test can only compare categorical variables.&#x20;
 
 ```r
-gss$agenew <- rec(gss$age, rec = 
+gss$agegroups <- rec(gss$age, rec = 
 "18:39=1 [18-39 age group];
 40:59=2 [40-59 age group]; 
 60:89=3 [60-89 age group]", append = FALSE)
 
 
-sjt.xtab(gss$agenew, gss$health, show.row.prc = TRUE)
+sjt.xtab(gss$agegroups, gss$health, show.row.prc = TRUE)
 ```
 
-Independent variable first (agenew), dependent variable second (health)
+Independent variable first (agegroups), dependent variable second (health)
 
 <figure><img src="../../../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Age groups have an effect on the condition of health since the p value is LESS than 0.05. We can conclude that age groups have substantially different health conditions.
+Age group has an effect on the condition of health since the p value is LESS than 0.05. We can conclude that 18-39 age group, 40-59 age group, and 60-89 age group have substantially different health conditions.
 {% endhint %}
 
 Slides: [chisquare](https://docs.google.com/presentation/d/11QlkxBoIM\_-wIoBTLYtdXxaELvX664VD/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
