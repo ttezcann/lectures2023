@@ -399,7 +399,7 @@ required package(s): "sjPlot"
 {% endhint %}
 
 ```r
-sjt.xtab(gss$variable_1_here, gss$variable_2_here, show.row.prc = TRUE)
+sjt.xtab(gss$independent_variable_here, gss$dependent_variable_here, show.row.prc = TRUE)
 ```
 
 ## ttest
