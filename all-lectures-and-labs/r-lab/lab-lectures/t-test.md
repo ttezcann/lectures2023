@@ -14,7 +14,7 @@ layout:
 
 # T-test
 
-## Reading
+Reading
 
 [T-tests](https://drive.google.com/open?id=1-RXHYALU8IVq5fBnROKSLyhqVjGnrSNv\&usp=drive\_fs)
 
@@ -32,6 +32,9 @@ layout:
 
 [Lab assignment](https://docs.google.com/document/d/11pwNxgNuQgV0JKWAVVqxd9i3gbAygqr0/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
 
-## Video
+## Lecture video
 
-{% embed url="https://youtu.be/BlLuvGiUyW4" %}
+{% embed url="https://drive.google.com/open?id=1ugjekLhn9Nx4aEGBDPI7D1kWius7ev59&usp=drive_fs" %}
+
+## Lab assignment video
+
