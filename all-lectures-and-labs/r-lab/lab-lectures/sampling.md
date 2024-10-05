@@ -34,7 +34,11 @@ layout:
 
 ## Video
 
-{% embed url="https://youtu.be/bfpTm1xEBfc" %}
+{% embed url="https://drive.google.com/file/d/15xPeLjBGnFvZuOVRRPjKsXIBPncA3hTh/view?usp=sharing" %}
 
 ## Lab assignment video
+
+{% embed url="https://drive.google.com/open?id=15xpKi2bpLpp0eMLZ6YZxAGsNKFrUXN3-&usp=drive_fs" %}
+
+
 
