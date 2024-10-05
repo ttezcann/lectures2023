@@ -38,3 +38,5 @@ Reading
 
 ## Lab assignment video
 
+{% embed url="https://drive.google.com/open?id=15y0oDa_VSKk0igiGs08993HZ3YJwuYIU&usp=drive_fs" %}
+
