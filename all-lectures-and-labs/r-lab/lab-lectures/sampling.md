@@ -35,3 +35,6 @@ layout:
 ## Video
 
 {% embed url="https://youtu.be/bfpTm1xEBfc" %}
+
+## Lab assignment video
+
