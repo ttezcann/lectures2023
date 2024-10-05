@@ -402,6 +402,36 @@ required package(s): "sjPlot"
 sjt.xtab(gss$independent_variable_here, gss$dependent_variable_here, show.row.prc = TRUE)
 ```
 
+## sampling: data creation for subsamples
+
+{% hint style="warning" %}
+required package(s): "sjPlot"
+{% endhint %}
+
+### non-random (last 100 cases)
+
+<pre class="language-r"><code class="lang-r">gsslast100 &#x3C;- gss[3445:3544,]
+
+# use "gsslast100" dataset instead of "gss" in the codes.
+# for example: descr(<a data-footnote-ref href="#user-content-fn-1">gsslast100</a>$variable_here, out = "v", show = "short")
+</code></pre>
+
+### 25% simple random sample
+
+<pre class="language-r"><code class="lang-r">gssrandom25per &#x3C;- gss[sample(1:nrow(gss), 886, replace=FALSE),]
+
+# use "gssrandom25per" dataset instead of "gss" in the codes.
+# for example: descr(<a data-footnote-ref href="#user-content-fn-2">gssrandom25per</a>$variable_here, out = "v", show = "short")
+</code></pre>
+
+### 10% systematic random sample
+
+<pre class="language-r"><code class="lang-r">gss10persystematic = gss[seq(1, nrow(gss), 10),]
+
+# use "gss10persystematic" dataset instead of "gss" in the codes.
+# for example: descr(<a data-footnote-ref href="#user-content-fn-3">gss10persystematic</a>$variable_here, out = "v", show = "short")
+</code></pre>
+
 ## ttest
 
 {% hint style="warning" %}
@@ -728,3 +758,9 @@ remove.packages ("package_you_want_to_remove")
 gss$sex<- set_labels(gss$sex,
 labels = c("male" = 1, "female" = 2))
 ```
+
+[^1]: this part has been changed
+
+[^2]: this part has been changed
+
+[^3]: this part has been changed
