@@ -27,8 +27,8 @@ layout:
 ## Assignment
 
 * [Representative research design](https://docs.google.com/document/d/1Y9jad-qKYEj5UfkFIK6G\_j\_7CxToU2CH?rtpof=true\&usp=drive\_fs)
-* Quiz. Check Canvas [(Sample design)](https://docs.google.com/document/d/1YAVajt-TuJGgQ-RVXZO3x\_4k4WKox2ck?rtpof=true\&usp=drive\_fs)
 
 ## Video
 
-{% embed url="https://youtu.be/UnGk_Ndj1ig" %}
+{% embed url="https://drive.google.com/open?id=15zoX2TcJyuu_J8FfHs7pyFMqQOxcrnm-&usp=drive_fs" %}
+
