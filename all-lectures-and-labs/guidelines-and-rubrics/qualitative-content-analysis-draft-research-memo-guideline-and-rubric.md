@@ -57,7 +57,7 @@ You will need to find the full PDF version of the articles. If you do not have a
 
 ## Sections
 
-1. **Introduction and background:** Clearly state the topic. What are you investigating? Who is the target group to investigate? (Women of color, second-generation Salvadoran immigrants, etc.)? What is the significance of the topic? Why does it matter? Highlight the significance of the topic. Cite some of your sentences here. End this section with your research question.
+1. **Introduction and background:** Clearly state the topic. What are you investigating? What is the significance of the topic? Why does it matter? Highlight the significance of the topic. Cite some of your sentences here. End this section with your research question.
 2. **Theoretical structure and hypotheses:** Review the relevant literature and construct relevant associations to your own research topic. Do not summarize others’ works like A claimed this, B asserted that! Analytically use and interpret them as long as they benefit your own research. Define the key concepts here. In your project, for instance, if you are working on return migration, explain and cite what return migration is. Under section 2, you will provide a broader explanation of the literature. You will be more specific under the subsections 2.1., 2.2., and 2.3.
 
 * **2.1. “The relationship between first independent variable and dependent variable” (You will name this subsection, for example Discrimination and Return migration):** Review the specific relevant literature about the relationship between your first independent variable and dependent variable. Explain what you expect to find and your reasoning. End this subsection with your first hypothesis.
@@ -88,14 +88,13 @@ I place no strict limits on the length of each section. Your goal is to specific
 
 1. Did you clearly show what you are investigating? (2 points)&#x20;
 2. Did you show why the topic is significant and matters? (2 points)
-3. Did you mention the target group that you are investigating and why this group? (Women of color, second-generation Salvadoran immigrants, etc.) (2 points)
-4. Did you clearly state your research question with its reasoning? (5 points)&#x20;
+3. Did you clearly state your research question with its reasoning? (4 points)&#x20;
 
 <mark style="color:red;">Theoretical structure and hypotheses</mark>
 
 5. Did you broadly review the literature to articulate a theoretical basis for your hypotheses and a justification for your research question in Section 2? (4 points)&#x20;
 6. Did you clearly define your key concepts in section 2? (3 points)
-7. Did you review the specific literature (at least one citation for each subsection) based on your first independent variable and dependent variable, second independent variable and dependent variable, and third independent variable and dependent variable under the subsections 2.1., 2.2., and 2.3., respectively? (9 points)&#x20;
+7. Did you review the specific literature (at least one citation for each subsection) based on your first independent variable and dependent variable, second independent variable and dependent variable, and third independent variable and dependent variable under the subsections 2.1., 2.2., and 2.3., respectively? (12 points)&#x20;
 8. Did you clearly state your three hypotheses and their reasoning under three subsections? (6 points)
 
 <mark style="color:red;">Methodology</mark>
