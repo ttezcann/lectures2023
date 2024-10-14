@@ -92,37 +92,37 @@ I place no strict limits on the length of each section. Your goal is to specific
 
 <mark style="color:red;">Theoretical structure and hypotheses</mark>
 
-5. Did you broadly review the literature to articulate a theoretical basis for your hypotheses and a justification for your research question in Section 2? (4 points)&#x20;
-6. Did you clearly define your key concepts in section 2? (3 points)
-7. Did you review the specific literature (at least one citation for each subsection) based on your first independent variable and dependent variable, second independent variable and dependent variable, and third independent variable and dependent variable under the subsections 2.1., 2.2., and 2.3., respectively? (12 points)&#x20;
-8. Did you clearly state your three hypotheses and their reasoning under three subsections? (6 points)
+4. Did you broadly review the literature to articulate a theoretical basis for your hypotheses and a justification for your research question in Section 2? (4 points)&#x20;
+5. Did you clearly define your key concepts in section 2? (3 points)
+6. Did you review the specific literature (at least one citation for each subsection) based on your first independent variable and dependent variable, second independent variable and dependent variable, and third independent variable and dependent variable under the subsections 2.1., 2.2., and 2.3., respectively? (12 points)&#x20;
+7. Did you clearly state your three hypotheses and their reasoning under three subsections? (6 points)
 
 <mark style="color:red;">Methodology</mark>
 
-9. Did you discuss what content you analyze? (3 points)
-10. Did you discuss your method of selecting (which keywords you will search, which criteria you  follow to find content) media sources? (5 points)
-11. Did you paste the links of your data sources? (5 points)
+8. Did you discuss what content you analyze? (3 points)
+9. Did you discuss your method of selecting (which keywords you will search, which criteria you  follow to find content) media sources? (5 points)
+10. Did you paste the links of your data sources? (5 points)
 
 <mark style="color:red;">Results</mark>
 
-12. Did you discuss your axial and focused codes? (5 points)
-13. Did you present and describe the results in a systematic and detailed way based on the focused codes? (5 points)
-14. Did you create tables and/or provide some quotations from the content you used? (6 points)
-15. &#x20;Did you clearly state whether you confirm or reject each of your hypotheses? (6 points)
+11. Did you discuss your axial and focused codes? (5 points)
+12. Did you present and describe the results in a systematic and detailed way based on the focused codes? (5 points)
+13. Did you create tables and/or provide some quotations from the content you used? (6 points)
+14. &#x20;Did you clearly state whether you confirm or reject each of your hypotheses? (6 points)
 
 <mark style="color:red;">Bibliography</mark>
 
-16. Did you cite at least 6 peer-reviewed journal articles (both in-text and end-text)? (12 points)
-17. Consistent use of citation and reference format. (5 points)
+15. Did you cite at least 6 peer-reviewed journal articles (both in-text and end-text)? (12 points)
+16. Consistent use of citation and reference format. (5 points)
 
 <mark style="color:red;">Writing and Template</mark>
 
-18. Clarity of writing style. (5 points)
-19. Use of template, the logic of research memo organization, consistent font and font size, title, and clear use of headings. All instructions and sample sentences are deleted. (5 points)
+17. Clarity of writing style. (5 points)
+18. Use of template, the logic of research memo organization, consistent font and font size, title, and clear use of headings. All instructions and sample sentences are deleted. (5 points)
 
 <mark style="color:red;">Self-grade Sheet</mark>
 
-20. &#x20;Self-grade sheet is completed. (5 points)
+19. Self-grade sheet is completed. (5 points)
 
 If you do not meet the minimum word count (1,000 words), your grade will be adjusted proportionally&#x20;
 
