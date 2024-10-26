@@ -444,7 +444,9 @@ t.test(dependent_variable_here ~ independent_variable_here, data = gss) %>%
   display(format="html")
 ```
 
-## bar graph (for categorical variables)
+## visualization
+
+### bar graph (for categorical variables)
 
 {% hint style="warning" %}
 required package(s): "sjPlot"
@@ -454,7 +456,7 @@ required package(s): "sjPlot"
 plot_frq(gss$variable_here, type = "bar", geom.colors = "#336699")
 ```
 
-## histogram (for continuous variables)
+### histogram (for continuous variables)
 
 {% hint style="warning" %}
 required package(s): "sjPlot"
@@ -464,7 +466,7 @@ required package(s): "sjPlot"
 plot_frq(gss$variable_here, type = "hist",show.mean = TRUE, show.mean.val = TRUE, normal.curve = TRUE, show.sd = TRUE, normal.curve.color = "red")
 ```
 
-## stacked bar graphs for multiple likert scales
+### stacked bar graphs for multiple variables
 
 {% hint style="warning" %}
 required package(s): "sjPlot"  |   "tidyverse"
@@ -480,7 +482,7 @@ plot.title=element_text(size=20), # change font size of plot title
 legend.text = element_text(size=14)) # change font size of legend
 ```
 
-## stacked bar graphs for multiple likert scales (flip coordination
+### stacked bar graphs for multiple variables (flip coordination)
 
 {% hint style="warning" %}
 required package(s): "sjPlot"  |   "tidyverse"
@@ -496,7 +498,7 @@ plot.title=element_text(size=20), # change font size of plot title
 legend.text = element_text(size=14)) # change font size of legend
 ```
 
-## stacked bar graphs by different groups
+### stacked bar graphs by different groups
 
 {% hint style="warning" %}
 required package(s): "sjPlot"
@@ -506,7 +508,7 @@ required package(s): "sjPlot"
 plot_xtab(gss$variable_1_here, gss$variable_2_here, show.total=FALSE, show.n = FALSE)
 ```
 
-## bar graphs between groups (margin=row)
+### bar graphs between groups (margin=row)
 
 {% hint style="warning" %}
 required package(s): "sjPlot"
@@ -516,7 +518,7 @@ required package(s): "sjPlot"
 plot_xtab(gss$variable_1_here, gss$variable_2_here, show.total=FALSE, show.n = FALSE, margin = "row")
 ```
 
-## scatterplot with two variables
+### scatterplot with two variables
 
 {% hint style="warning" %}
 required package(s): "sjPlot"
@@ -528,7 +530,7 @@ plot_scatter(gss, variable_1_here, variable_2_here, jitter = TRUE,
              title = "type graph title here")
 ```
 
-## scatterplot with two variables by groups
+### scatterplot with two variables by groups
 
 {% hint style="warning" %}
 required package(s): "sjPlot"
