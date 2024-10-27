@@ -463,7 +463,10 @@ required package(s): "sjPlot"
 {% endhint %}
 
 ```r
-plot_frq(gss$variable_here, type = "hist",show.mean = TRUE, show.mean.val = TRUE, normal.curve = TRUE, show.sd = TRUE, normal.curve.color = "red")
+plot_frq(gss$educ, type = "hist", 
+         geom.colors = "#336699",
+         normal.curve = TRUE,
+         normal.curve.color = "#9b2226")
 ```
 
 ### stacked bar graphs for multiple variables
