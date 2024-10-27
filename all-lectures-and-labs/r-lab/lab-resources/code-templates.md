@@ -518,7 +518,7 @@ required package(s): "sjPlot"
 plot_xtab(gss$variable_1_here, gss$variable_2_here, show.total=FALSE, show.n = FALSE, margin = "row")
 ```
 
-### scatterplot with two variables
+### scatterplot with two continuous variables
 
 {% hint style="warning" %}
 required package(s): "sjPlot"
@@ -530,14 +530,14 @@ plot_scatter(gss, variable_1_here, variable_2_here, jitter = TRUE,
              title = "type graph title here")
 ```
 
-### scatterplot with two variables by groups
+### scatterplot with two continuous variables by groups
 
 {% hint style="warning" %}
 required package(s): "sjPlot"
 {% endhint %}
 
 ```r
-plot_scatter(gss, variable_1_here, variable_2_here, groupvar, jitter = TRUE,
+plot_scatter(gss, variable_1_here, variable_2_here, categoricalvariable_here, jitter = TRUE,
             fit.grps = lm, show.ci = TRUE, grid = TRUE,
              title = "type graph title here")
 ```
