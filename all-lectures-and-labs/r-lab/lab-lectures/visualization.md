@@ -32,6 +32,11 @@ layout:
 
 [Lab assignment](https://docs.google.com/document/d/12BEFWXTQAEF0HAyGdqKT8Tjnj2SXdMvw/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
 
-## Video
+## Lecture video
 
 {% embed url="https://youtu.be/WRUBbnUW8hg" %}
+
+## Sample lab assignment video
+
+{% embed url="https://drive.google.com/open?id=1OwZ8hMxRY5taJNCF5i9B6snJu_QTkgP_&usp=drive_fs" %}
+
