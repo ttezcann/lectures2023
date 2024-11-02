@@ -16,7 +16,7 @@ layout:
 
 ## <mark style="color:orange;">1. Recoding a categorical variable and a continuous variable requires slightly different code</mark>
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -26,7 +26,7 @@ When we want to display, for example, the frequency distribution of a recoded (n
 
 This is because, for our analysis, the original variable is no longer relevant. We recoded the original variable and created a new one for our analysis needs.
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 
 
@@ -38,7 +38,7 @@ It becomes <mark style="color:red;">CATEGORICAL</mark> because we have merged th
 
 Therefore, for example, we use the <mark style="color:red;">FRQ</mark> code to see the frequency distribution.
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 
 
@@ -50,15 +50,15 @@ Therefore, for example, we use the <mark style="color:red;">FRQ</mark> code to s
 
 Use the [Code templates](https://ttezcan.gitbook.io/lect/all-lectures-and-labs/r-lab/lab-resources/code-templates) page and [Model codes](https://ttezcan.gitbook.io/lectures/all-lectures-and-labs/r-lab/lab-resources/model-codes)
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
 ## <mark style="color:orange;">5. Misplacing the original variable</mark>
 
-<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -70,6 +70,6 @@ We have to “Load GSS” again, because we lost the values of the original vari
 
 From [Common mistakes and troubleshooting in RStudio](https://ttezcan.gitbook.io/lect/all-lectures-and-labs/r-lab/lab-resources/common-mistakes-and-troubleshooting-in-rstudio):
 
-<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 \

@@ -22,7 +22,7 @@ Use "[Variables in GSS](https://ttezcan.gitbook.io/lect/all-lectures-and-labs/r-
 
 **Example 1:**&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:green;">Correct:</mark> <mark style="color:orange;">The perceived discrimination at work because of age</mark> <mark style="color:orange;">variable</mark> shows that 7.93% of the respondents feel discriminated at work because of age and 92.07% do not.
 
@@ -88,7 +88,7 @@ Slides: [descriptive statistics](https://docs.google.com/presentation/d/1\_rePJr
 descr(gss$hapindex, out = "v", show = "short")
 ```
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Indicate the highest possible score in your interpretation <mark style="color:red;">➜ "Out of 3", "Out of 5", etc.</mark>
 
@@ -114,7 +114,7 @@ sjt.xtab(gss$sex, gss$health, show.row.prc = TRUE)
 
 Independent variable first (sex), dependent variable second (health)
 
-<figure><img src="../../../.gitbook/assets/image (5) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Respondents' sex has NO effect on the condition of health since the p value is HIGHER than 0.05. We can conclude that males and females have similar health conditions.
@@ -138,7 +138,7 @@ sjt.xtab(gss$agegroups, gss$health, show.row.prc = TRUE)
 
 Independent variable first (agegroups), dependent variable second (health)
 
-<figure><img src="../../../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Age group has an effect on the condition of health since the p value is LESS than 0.05. We can conclude that 18-39 age group, 40-59 age group, and 60-89 age group have substantially different health conditions.
@@ -160,7 +160,7 @@ t.test(conrinc ~ sex, data = gss) %>%
 
 Dependent variable first (conrinc), independent variable second (sex)
 
-<figure><img src="../../../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 The average personal income in dollars of males is $49,306, while the average personal income in dollars of females is $35,277. personal income in dollars differs by respondents' sex in a statistically significant way since the p-value is LESS than 0.05
@@ -180,7 +180,7 @@ t.test(educ ~ sex, data = gss) %>%
 
 Dependent variable first (educ), independent variable second (sex)
 
-<figure><img src="../../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 The average education in years of males is 14.08 year, while the average education in years of females 14.15 year. Education in years does not differ by respondents' sex in a statistically significant way since the p-value is HIGHER than 0.05
@@ -271,29 +271,33 @@ Slides: [visualization](https://docs.google.com/presentation/d/1j8vQxVYCuG0s96Et
 
 ***
 
-## Correlation analysis table
+## Correlation analyses
+
+### Correlation analysis structure
 
 Correlation analysis examines the linear relationship of two continuous variables.
 
 IF the p-value is statistically significant (<0.05);
 
-* .1 < | r | < .3 … weak correlation
-* .3 < | r | < .5 … moderate correlation
-* .5 < | r | ………. strong correlation
+* less than |0.3| … weak correlation
+* 0.3 < | r | < 0.5 … moderate correlation
+* greater than 0.5 ………. strong correlation
+
+The order of the variables does not matter.
+
+### (1) Correlation analysis table (significant positive)
 
 ```r
 tab_corr (gss[, c("sei10", "spsei10")],
 wrap.labels = 30, p.numeric = TRUE, triangle="lower", na.deletion = "pairwise")
 ```
 
-The order of the variables does not matter.
-
-<figure><img src="../../../.gitbook/assets/image (29).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image.png" alt="" width="563"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 There is a significant correlation between the socioeconomic index score of the respondents and the socioeconomic index score of the respondents’ spouses since the p-value is less than .05.&#x20;
 
-This correlation is positive and moderate since the r-value is 0.382 (between 0.3 and 0.5).
+This correlation is positive and moderate since the r-value is 0.404 (between 0.3 and 0.5).
 
 This means that the socioeconomic index score of the respondents and the socioeconomic index score of the respondents’ spouses increase and decrease together.
 {% endhint %}
@@ -302,100 +306,119 @@ Slides: [correlation](https://docs.google.com/presentation/d/12et6ZrFK7B6pE-Wmlz
 
 ***
 
-## Correlation analyses
-
-### Correlation scatterplot graph
-
-Correlation analysis examines the linear relationship of two continuous variables.
-
-IF the p-value is statistically significant (<0.05);
-
-* .0 < | r | < .3 … weak correlation
-* .3 < | r | < .5 … moderate correlation
-* .5 < | r | ………. strong correlation
+### (1) Correlation analysis table (significant negative)
 
 ```r
-scatterplot <- ggscatter(gss, x = "sei10", y = "spsei10",
-add = "loess", conf.int = TRUE, color = "black", point=F,
-xlab = "Socio-economic index score of the respondents", 
-ylab = "Socio-economic index score of the respondents’ spouses")
-scatterplot + stat_cor(p.accuracy = 0.001, r.accuracy = 0.01)
+tab_corr (gss[, c("tvhours", "usetech")],
+wrap.labels = 30, p.numeric = TRUE, triangle="lower", na.deletion = "pairwise")
 ```
 
-The order of the variables does not matter.
-
-<figure><img src="../../../.gitbook/assets/Screenshot_2023-10-27 17.15.25.png" alt="" width="540"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-There is no significant correlation between the age in years and education in years since the p-value is higher than .05.&#x20;
+There is a significant correlation between television screen time and percentage of time use at work using electronic technologies since the p-value is less than .05.&#x20;
 
-\
-This means that age in years and education in years do not increase and decrease together.
+This correlation is negative and weak since the r-value is -0.111 (less than |0.3|).
+
+This means that as the television screen time increases, the percentage of time use at work using electronic technologies decreases, and vice versa.
+{% endhint %}
+
+### (1) Correlation analysis table (insignificant)
+
+```r
+tab_corr (gss[, c("age", "educ")], 
+          wrap.labels = 30, p.numeric = TRUE, triangle="lower", na.deletion = "pairwise")
+```
+
+<figure><img src="../../../.gitbook/assets/image (2).png" alt="" width="563"><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+There is no significant correlation between the age of the respondents and the years of education since the p-value is higher than .05.&#x20;
+
+This means that the age of the respondents and the years of education do not increase and decrease together.
+{% endhint %}
+
+### (2) Correlation scatterplot graph
+
+xlab: "what it measures column" of variable 1 (x)
+
+ylab:  "what it measures column" of variable 2 (y)
+
+```r
+scatterplot <- ggscatter(gss, x = "tvhours", y = "usetech", 
+          add = "loess", conf.int = TRUE, color = "black", point=F,
+          xlab = "Television screen time", ylab = "Percentage of time use at work using electronic technologies")
+scatterplot + stat_cor(p.accuracy = 0.001, r.accuracy = 0.01)
+```
+
+<figure><img src="../../../.gitbook/assets/image (4).png" alt="" width="563"><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+Same interpretation as correlation analysis table:\
+
+
+There is a significant correlation between television screen time and percentage of time use at work using electronic technologies since the p-value is less than .05.&#x20;
+
+This correlation is negative and weak since the r-value is -0.11 (less than |0.3|).
+
+This means that as the television screen time increases, the percentage of time use at work using electronic technologies decreases, and vice versa.
 {% endhint %}
 
 Slides: [correlation](https://docs.google.com/presentation/d/12et6ZrFK7B6pE-Wmlz\_KVawjebAar9rC/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
 
 ***
 
-### Correlation matrix
+### (3) Correlation matrix
 
 Correlation matrix examines the linear relationship of multiple continuous variables.
-
-IF the p-value is statistically significant (<0.05);
-
-* .0 < | r | < .3 … weak correlation
-* .3 < | r | < .5 … moderate correlation
-* .5 < | r | ………. strong correlation
 
 ```r
 tab_corr (gss[, c("sei10", "spsei10", "tvhours", "usetech", "age", "educ", "marasiannew", "marhispnew")], 
 wrap.labels = 30, p.numeric = TRUE, triangle="lower", na.deletion = "pairwise")
 ```
 
-<figure><img src="https://lh7-us.googleusercontent.com/tjwUYS-W7rqOGOfKlzHdCGnQEcxL0epZgyHfZeT-YL6918WAR4XlME8SbSPNHGJP9bzJK4cyb4kO9OitFe-CTbgmTXF_3T7NayXK4pH-FJvWEKiEvW3y14zjp79N8kfRBT3M7BOxYQYrMQ1LEMeVaKvzGA=s2048" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5).png" alt="" width="563"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Same interpretation as correlation analysis table and scatterplot graph
+Same interpretation as correlation analysis table and scatterplot graph:
+
+There is no significant correlation between the age of the respondents and the percentage of time use at work using electronic technologies since the p-value is higher than .05.&#x20;
+
+This means that the age of the respondents and the percentage of time use at work using electronic technologies do not increase and decrease together.
 {% endhint %}
 
 Slides: [correlation](https://docs.google.com/presentation/d/12et6ZrFK7B6pE-Wmlz\_KVawjebAar9rC/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
 
 ***
 
-### Scatterplot matrix
+### (4) Scatterplot matrix
 
 Scatterplot matrix examines the linear relationship of multiple continuous variables.
-
-IF the p-value is statistically significant (<0.05);
-
-* .0 < | r | < .3 … weak correlation
-* .3 < | r | < .5 … moderate correlation
-* .5 < | r | ………. strong correlation
 
 ```r
 pairs.panels(gss[, c("sei10", "spsei10", "tvhours", "usetech", "age", "educ", "marasiannew", "marhispnew")],
 ellipses=F, scale=F, show.points=F, stars=T, ci=T)
 ```
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6).png" alt="" width="563"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Same interpretation as correlation analysis table and scatterplot graph
+Same interpretation as correlation analysis table and scatterplot graph:
+
+There is a significant correlation between television screen time and the age of the respondents since the p-value is less than .05.&#x20;
+
+This correlation is positive and weak since the r-value is 0.24 (less than |0.3|).
+
+This means that television screen time and the age of the respondents increase and decrease together.
 {% endhint %}
 
 Slides: [correlation](https://docs.google.com/presentation/d/12et6ZrFK7B6pE-Wmlz\_KVawjebAar9rC/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
 
 ***
 
-### Correlogram&#x20;
+### (5) Correlogram&#x20;
 
 Correlogram examines the linear relationship of multiple continuous variables.
-
-IF the p-value is statistically significant (<0.05);
-
-* .0 < | r | < .3 … weak correlation
-* .3 < | r | < .5 … moderate correlation
-* .5 < | r | ………. strong correlation
 
 ```r
 selectedvariables <- c("sei10", "spsei10", "tvhours", "usetech", "age", "educ", "marasiannew", "marhispnew")
@@ -404,10 +427,16 @@ selectedvariables <- c("sei10", "spsei10", "tvhours", "usetech", "age", "educ", 
 addCoef.col = 'black', order = 'original', diag = FALSE)$corrPos
 ```
 
-<figure><img src="https://lh7-us.googleusercontent.com/aEPzIPrFoAyyNBCewhk-nZjZV-9BQ8Y1StIBP-_i6BrHK1U0BM1EGBQDAqUOg6T_0QTy_GXv4JiVo-k4OserXlHSGyN2avps_8e6Qyy8q782JYT5f8JbduWFyFmXAGPeDwX2_wgi96HPEgac8OgFYlr8aA=s2048" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7).png" alt="" width="563"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Same interpretation as correlation analysis table and scatterplot graph
+Same interpretation as correlation analysis table and scatterplot graph:
+
+There is a significant correlation between television screen time and socio-economic index score of the respondents since the p-value is less than .05.&#x20;
+
+This correlation is negative and weak since the r-value is -0.15 (less than |0.3|).
+
+This means that as the socio-economic index score of the respondents increases, the television screen time decreases, and vice versa.
 {% endhint %}
 
 Slides: [correlation](https://docs.google.com/presentation/d/12et6ZrFK7B6pE-Wmlz\_KVawjebAar9rC/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
@@ -430,7 +459,7 @@ tab_model(model4, show.std = T, show.ci = F, collapse.se = T, p.style = "stars")
 
 &#x20;Dependent variable (conrinc) first, followed by independent variables separated by a plus (+).
 
-<figure><img src="../../../.gitbook/assets/image (4) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Age in years, days of poor physical health past 30 days, and education in years are statistically significant predictors of personal income since the p values are less than 0.05. Confidence in the existence of God is not a statistically significant predictor of personal income since the p value is greater than 0.05.
@@ -528,7 +557,7 @@ Slides: [dummy variables](https://docs.google.com/presentation/d/1dJenkvbUDQUmX2
 
 ### Logistic regression analysis (with dummy variables)
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ```r
 frq(gss$class, out = "v")
