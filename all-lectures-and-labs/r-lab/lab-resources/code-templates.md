@@ -547,7 +547,19 @@ plot_scatter(gss, variable_1_here, variable_2_here, categoricalvariable_here, ji
 
 ## correlation analysis
 
-### correlation analysis table
+### correlation analysis structure
+
+Correlation analysis examines the linear relationship of two continuous variables.
+
+IF the p-value is statistically significant (<0.05);
+
+* less than |0.3| … weak correlation
+* 0.3 < | r | < 0.5 … moderate correlation
+* greater than 0.5 ………. strong correlation
+
+The order of the variables does not matter.
+
+### (1) correlation analysis table
 
 {% hint style="warning" %}
 required package(s):  "sjPlot"
@@ -558,49 +570,53 @@ tab_corr (gss[, c("variable_1_here", "variable_2_here")],
 wrap.labels = 30, p.numeric = TRUE, triangle="lower", na.deletion = "pairwise")
 ```
 
-### correlation scatterplot graph
+### (2) correlation scatterplot graph
+
+xlab: "what it measures column" of variable 1 (x)
+
+ylab: "what it measures column" of variable 2 (y)
 
 {% hint style="warning" %}
 required package(s): "ggpubr"
 {% endhint %}
 
 ```r
-scatterplot <- ggscatter(gss, x = "variable_1_here", y = "variable_1_here",
+scatterplot <- ggscatter(gss, x = "variable_1_here", y = "variable_2_here",
            add = "loess", conf.int = TRUE, color = "black", point=F,
            xlab = "what it measures of variable_1", ylab = "what it measures of variable_2")
            scatterplot + stat_cor(p.accuracy = 0.001, r.accuracy = 0.01)
 ```
 
-### correlation matrix
+### (3) correlation matrix
 
 {% hint style="warning" %}
 required package(s): "sjPlot"
 {% endhint %}
 
 ```r
-tab_corr (gss[, c("variable_1_here", "variable_2_here", "variable_3_here", "variable_4_here", "variable_5_here", "variable_6_here", "variable_7_here", "variable_8_here")], 
+tab_corr (gss[, c("variable_1_here", "variable_2_here", "variable_3_here", "variable_4_here", "variable_5_here")], 
 wrap.labels = 30, p.numeric = TRUE, triangle="lower", na.deletion = "pairwise")
 ```
 
-### scatterplot matrix
+### (4) scatterplot matrix
 
 {% hint style="warning" %}
 required package(s): "psych"
 {% endhint %}
 
 ```r
-pairs.panels(gss[, c("variable_1_here", "variable_2_here", "variable_3_here", "variable_4_here", "variable_5_here", "variable_6_here", "variable_7_here", "variable_8_here")],
+pairs.panels(gss[, c("variable_1_here", "variable_2_here", "variable_3_here", "variable_4_here", "variable_5_here")],
 ellipses=F, scale=F, show.points=F, stars=T, ci=T)
 ```
 
-### correlogram
+### (5) correlogram
 
 {% hint style="warning" %}
 required package(s): "corrplot"   |   "Hmisc"
 {% endhint %}
 
 ```r
-selectedvariables <- c("variable_1_here", "variable_2_here", "variable_3_here", "variable_4_here", "variable_5_here", "variable_6_here", "variable_7_here", "variable_8_here")
+selectedvariables <- c("variable_1_here", "variable_2_here", "variable_3_here", "variable_4_here", "variable_5_here")
 testRes = cor.mtest(gss[, selectedvariables])
 gssrcorr = rcorr(as.matrix(gss[, selectedvariables]))
 gsscoeff = gssrcorr$r
