@@ -32,6 +32,12 @@ layout:
 
 [Lab assignment](https://docs.google.com/document/d/12dlYx20pg2QrS7TpDG9P0otBnPe3YiKz/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
 
-## Video
+## Lecture video
 
 {% embed url="https://youtu.be/i9htnAxtoK4" %}
+
+## Sample lab assignment video
+
+[sample lab assignment google doc](https://docs.google.com/document/d/1zx\_HZpcD4wHcV70jgGKs2XTHI08Ndu\_b/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
+
+{% embed url="https://drive.google.com/open?id=1juCPIzwAFRcRxl2FPl-Zl3oVkCDnCsdq&usp=drive_fs" %}
