@@ -40,4 +40,7 @@ layout:
 
 [sample lab assignment google doc](https://docs.google.com/document/d/1ajX4ou8l1TyWwFr6e-KESzkLgeCzyKuB?rtpof=true\&usp=drive\_fs)
 
-{% embed url="https://drive.google.com/open?id=1jvxOHQVWbARraibIJJxuE5S3xIsZ2aZo&usp=drive_fs" %}
+{% embed url="https://drive.google.com/file/d/1jvxOHQVWbARraibIJJxuE5S3xIsZ2aZo/view?usp=drive_link" %}
+
+
+
