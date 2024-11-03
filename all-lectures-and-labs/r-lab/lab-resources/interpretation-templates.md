@@ -443,9 +443,7 @@ Slides: [correlation](https://docs.google.com/presentation/d/12et6ZrFK7B6pE-Wmlz
 
 ***
 
-## Regression analyses
-
-### Linear regression analysis
+## Linear regression analysis
 
 In regression, we explain the effects of independent variables on the dependent variable by estimating how changes in the independent variables are associated with changes in the dependent variable.
 
@@ -471,15 +469,35 @@ The strongest predictor of personal income is the education in years (std.Beta=0
 The adjusted R squared value indicates that 17.2% of the variation in personal income can be explained by education in years, age in years, and days of poor physical health past 30 days.
 {% endhint %}
 
+### Linear regression analysis interpretation breakdown
+
 {% hint style="success" %}
-When reporting the coefficients, ensure that the sentence includes the units of both the independent and the dependent variable.
+**First paragraph:** \[The significance levels] Mention which variables (“what it measures”) are statistically significant, and which variables are statistically insignificant. Variables with at least one asterisk (\*) are statistically significant.
+
+_Age of the respondents, days of poor physical health past 30 days, and the years of education are statistically significant predictors of respondents’ income since the p values are less than 0.05. Respondent's confidence in the existence of God is not a statistically significant predictor of respondents’ income since the p value is greater than 0.05._
 
 
 
-* Independent variable (rank - social ranking <mark style="color:orange;">level</mark> - 10: top; 1: bottom)
-* Dependent variable (educ - education in <mark style="color:red;">years</mark> - 0-20 years)&#x20;
+**Second paragraph:** \[The explanation of coefficients (Estimates column)] Mention how independent variables increase or decrease the value of the dependent variable, using the “Estimates” column. When reporting the estimates (coefficients), ensure that the sentence includes the units (one unit, score, year, dollars, etc.) of both the independent and the dependent variable.
 
-<mark style="color:orange;">A one unit</mark> increase in social ranking level increases respondents’ education by <mark style="color:blue;">3.19</mark> <mark style="color:red;">years</mark>.
+_A year increase in age increases respondents’ income by $504. A day increase in poor physical health past 30 days decreases respondents’ income by $857. A year increase in the years of education increases respondents’ income by $4,845._&#x20;
+
+
+
+**Third  paragraph:** \[The explanation of standardized betas (std.Beta column)] Mention the strongest predictors (variables) of the dependent variable using the “std.Beta” (standardized beta) column in order. Only mention the statistically significant ones. “std.Beta” is an absolute number, which means -.56 is stronger than .45.
+
+_The strongest predictor of respondents’ income is the years of education (std.Beta=0.34), followed by the age of the respondent (std.Beta=0.17), and the days of poor physical health past 30 days (std.Beta=-0.13)._\
+
+
+**Fourth paragraph:** \[The explanation of R-squared] Report the adjusted R-squared value as a percentage with the statistically significant variables.
+
+_The adjusted R-squared value indicates that 17.2% of the variation in respondents’ income can be explained by the years of education, age of the respondents, and days of poor physical health past 30 days._
+{% endhint %}
+
+#### Reporting of estimates (coefficients)
+
+{% hint style="info" %}
+When reporting the estimates (coefficients), ensure that the sentence includes the units (one unit, score, year, dollars, etc.) of both the independent and the dependent variable.
 
 
 
@@ -494,9 +512,21 @@ When reporting the coefficients, ensure that the sentence includes the units of 
 * Dependent variable (polviews - conservatism <mark style="color:red;">level</mark> - 1: extremely liberal; 7: extremely conservative) &#x20;
 
 <mark style="color:orange;">A year</mark> increase in age increases conservatism level by <mark style="color:purple;">2.45</mark> <mark style="color:red;">points</mark>.
+
+
+
+* Independent variable (rank - social ranking <mark style="color:orange;">level</mark> - 10: top; 1: bottom)
+* Dependent variable (educ - education in <mark style="color:red;">years</mark> - 0-20 years)&#x20;
+
+<mark style="color:orange;">A one unit</mark> increase in social ranking level increases respondents’ education by <mark style="color:blue;">3.19</mark> <mark style="color:red;">years</mark>.
 {% endhint %}
 
+#### Reporting of adjusted R-squared
+
 {% hint style="success" %}
+The adjusted R-squared shows whether adding additional independent variables improve a regression model or not.
+
+\
 The adjusted R-squared should be reported as a percentage.
 
 Here's a shortcut for converting a number with decimals to a percentage:&#x20;
