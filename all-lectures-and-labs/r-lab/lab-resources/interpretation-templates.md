@@ -457,16 +457,16 @@ tab_model(model4, show.std = T, show.ci = F, collapse.se = T, p.style = "stars")
 
 &#x20;Dependent variable (conrinc) first, followed by independent variables separated by a plus (+).
 
-<figure><img src="../../../.gitbook/assets/image (4) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Age in years, days of poor physical health past 30 days, and education in years are statistically significant predictors of personal income since the p values are less than 0.05. Confidence in the existence of God is not a statistically significant predictor of personal income since the p value is greater than 0.05.
+Respondents’ age, days of poor physical health past 30 days, and respondents' education in years are statistically significant predictors of respondents’ personal income since the p values are less than 0.05. Respondent's confidence in the existence of God is not a statistically significant predictor of respondents’ personal income since the p value is greater than 0.05.
 
-A year increase in age increases personal income by $504. A day increase in poor physical health past 30 days decreases personal income by $857. A year increase in the years of education increases personal income by $4,845.&#x20;
+A year increase in respondents’ age increases respondents’ personal income by $504. A day increase in poor physical health past 30 days decreases respondents’ personal income by $857. A year increase in the respondents’ education  increases respondents’ personal income by $4,845.&#x20;
 
-The strongest predictor of personal income is the education in years (std.Beta=0.34), then, then age in years (std.Beta=0.17), and then, the days of poor physical health past 30 days (std.Beta=-0.13).
+The strongest predictor of respondents’ personal income is the respondents' education in years (std.Beta=0.34), followed by respondents’ age (std.Beta=0.17), and the days of poor physical health past 30 days (std.Beta=-0.13).
 
-The adjusted R squared value indicates that 17.2% of the variation in personal income can be explained by education in years, age in years, and days of poor physical health past 30 days.
+The adjusted R squared value indicates that 17.2% of the variation in respondents’ personal income can be explained by the respondents’ age, days of poor physical health past 30 days, and respondents' education in years.
 {% endhint %}
 
 ### Linear regression analysis interpretation breakdown
@@ -474,24 +474,24 @@ The adjusted R squared value indicates that 17.2% of the variation in personal i
 {% hint style="success" %}
 **First paragraph:** \[The significance levels] Mention which variables (“what it measures”) are statistically significant, and which variables are statistically insignificant. Variables with at least one asterisk (\*) are statistically significant.
 
-_Age of the respondents, days of poor physical health past 30 days, and the years of education are statistically significant predictors of respondents’ income since the p values are less than 0.05. Respondent's confidence in the existence of God is not a statistically significant predictor of respondents’ income since the p value is greater than 0.05._
-
+_Respondents’ age, days of poor physical health past 30 days, and respondents' education in years are statistically significant predictors of respondents’ personal income since the p values are less than 0.05. Respondent's confidence in the existence of God is not a statistically significant predictor of respondents’ personal income since the p value is greater than 0.05._\
 
 
 **Second paragraph:** \[The explanation of coefficients (Estimates column)] Mention how independent variables increase or decrease the value of the dependent variable, using the “Estimates” column. When reporting the estimates (coefficients), ensure that the sentence includes the units (one unit, score, year, dollars, etc.) of both the independent and the dependent variable.
 
-_A year increase in age increases respondents’ income by $504. A day increase in poor physical health past 30 days decreases respondents’ income by $857. A year increase in the years of education increases respondents’ income by $4,845._&#x20;
+_A year increase in respondents’ age increases respondents’ personal income by $504. A day increase in poor physical health past 30 days decreases respondents’ personal income by $857. A year increase in the respondents’ education  increases respondents’ personal income by $4,845._&#x20;
 
 
 
-**Third  paragraph:** \[The explanation of standardized betas (std.Beta column)] Mention the strongest predictors (variables) of the dependent variable using the “std.Beta” (standardized beta) column in order. Only mention the statistically significant ones. “std.Beta” is an absolute number, which means -.56 is stronger than .45.
+**Third paragraph:** \[The explanation of standardized betas (std.Beta column)] Mention the strongest predictors (variables) of the dependent variable using the “std.Beta” (standardized beta) column in order. Only mention the statistically significant ones. “std.Beta” is an absolute number, which means -.56 is stronger than .45.
 
-_The strongest predictor of respondents’ income is the years of education (std.Beta=0.34), followed by the age of the respondent (std.Beta=0.17), and the days of poor physical health past 30 days (std.Beta=-0.13)._\
+The strongest predictor of respondents’ personal income is the respondents' education in years (std.Beta=0.34), followed by respondents’ age (std.Beta=0.17), and the days of poor physical health past 30 days (std.Beta=-0.13).
+
 
 
 **Fourth paragraph:** \[The explanation of R-squared] Report the adjusted R-squared value as a percentage with the statistically significant variables.
 
-_The adjusted R-squared value indicates that 17.2% of the variation in respondents’ income can be explained by the years of education, age of the respondents, and days of poor physical health past 30 days._
+_The adjusted R squared value indicates that 17.2% of the variation in respondents’ personal income can be explained by the respondents’ age, days of poor physical health past 30 days, and respondents' education in years._
 {% endhint %}
 
 #### Reporting of estimates (coefficients)
@@ -544,6 +544,8 @@ If 0.007 is the adjusted R-square, then move the dot two times to the right:
 
 Slides: [linear regression](https://docs.google.com/presentation/d/16v4ZKqgEw2Ah0i0g9jC8Ex1WY3rMvjPi/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
 
+***
+
 ### Linear regression analysis (with dummy variables)
 
 <figure><img src="../../../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
@@ -558,32 +560,40 @@ tab_model(model6, show.std = T, show.ci = F, collapse.se = T, p.style = "stars")
 {% hint style="info" %}
 Age of the respondents, days of poor physical health past 30 days, the years of education, being male, being very happy, and being pretty happy are statistically significant predictors of respondents’ income since the p values are less than 0.05. Respondent's confidence in the existence of God is not a statistically significant predictor of respondents’ income since the p value is greater than 0.05.
 
+A year increase in age increases respondents’ income by $489. A day increase in poor physical health past 30 days decreases respondents’ income by $654. A year increase in the years of education increases respondents’ income by $5,185. Being male increases income by $15,624 compared to being female. Being very happy increases income by $15,779 compared to being not too happy. Being pretty happy increases income by $8,908 compared to being not too happy.&#x20;
 
-
-A year increase in age increases respondents’ income by $489. A day increase in poor physical health past 30 days decreases respondents’ income by $654. A year increase in the years of education increases respondents’ income by $5,185. Being male increases income by $15,624 compared to being female. Being very happy increases income by $15,779 compared to being not too happy. Being pretty happy increases income by $8,908 compared to being not too happy. \
-
-
-The strongest predictor of respondents’ income is the years of education (std.Beta=0.36), followed by being male (std.Beta=0.19), the age of the respondent (std.Beta=0.17), being very happy (std.Beta=0.16), being pretty happy (std.Beta=0.11), and the days of poor physical health past 30 days (std.Beta=-0.10).\
-
+The strongest predictor of respondents’ income is the years of education (std.Beta=0.36), followed by being male (std.Beta=0.19), the age of the respondent (std.Beta=0.17), being very happy (std.Beta=0.16), being pretty happy (std.Beta=0.11), and the days of poor physical health past 30 days (std.Beta=-0.10).
 
 The adjusted R squared value indicates that 22.2% of the variation in respondents’ income can be explained by the years of education, age of the respondents, and days of poor physical health past 30 days, being male, being very happy, and being pretty happy.
 {% endhint %}
 
-
+#### Reporting of dummy variable estimates (coefficients)
 
 {% hint style="success" %}
-When reporting the coefficients of the dummy variables, ensure that the sentence includes "being" and the omitted (comparison category) dummy variable:
+When reporting the coefficients of the dummy variables, ensure that the sentence includes "being" or "having" and the omitted (comparison category) dummy variable:
 
 
 
 * <mark style="color:purple;">Being male</mark> increases income by $15,624 <mark style="color:orange;">compared to being female</mark>.&#x20;
 * <mark style="color:purple;">Being very happy</mark> increases income by $15,779 <mark style="color:orange;">compared to being not too happy</mark>.&#x20;
 * <mark style="color:purple;">Being pretty happy</mark> increases income by $8,908 <mark style="color:orange;">compared to being not too happy</mark>.
+
+
+
+* <mark style="color:purple;">Having a house</mark> increases life satisfaction by 3.2 points  <mark style="color:orange;">compared to renting a house</mark>.
+
+OR
+
+* <mark style="color:purple;">Owning a house</mark> increases life satisfaction by 3.2 points  <mark style="color:orange;">compared to renting a house</mark>.
+
+
 {% endhint %}
 
 Slides: [linear regression](https://docs.google.com/presentation/d/16v4ZKqgEw2Ah0i0g9jC8Ex1WY3rMvjPi/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
 
 Slides: [dummy variables](https://docs.google.com/presentation/d/1dJenkvbUDQUmX2HIrHWPK8-cYZ9VQQiqOTH2rJS83\_I/edit?usp=sharing)
+
+***
 
 ### Logistic regression analysis (with dummy variables)
 
