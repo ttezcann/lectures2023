@@ -110,6 +110,7 @@
       * [Is my p-value less than 0.05?](all-lectures-and-labs/r-lab/lab-resources/is-my-p-value-less-than-0.05.md)
       * [Codebooks](all-lectures-and-labs/r-lab/lab-resources/codebooks.md)
       * [How to use RStudio on a computer without using a browser](all-lectures-and-labs/r-lab/lab-resources/how-to-use-rstudio-on-a-computer-without-using-a-browser.md)
+      * [Flashcards](all-lectures-and-labs/r-lab/lab-resources/flashcards.md)
   * [SPSS lab](all-lectures-and-labs/spss-lab/README.md)
     * [SPSS lab resources](all-lectures-and-labs/spss-lab/spss-lab-resources/README.md)
       * [All syntax and data files](all-lectures-and-labs/spss-lab/spss-lab-resources/all-syntax-and-data-files.md)
