@@ -14,6 +14,45 @@ layout:
 
 # Flashcards
 
+<details>
+
+<summary>1. How to create RStudio Cloud account and installing all the packages</summary>
+
+Follow the procedures described in the [RStudio lab assignment: account and packages assignment instructions](https://docs.google.com/document/d/1P0gpXCsAk03u9fSdHNdMpO43TCbHUoJT/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true).
+
+The process is also shown on the video below:
+
+### <mark style="color:orange;">1.1. How to check how many hours left?</mark>
+
+An RStudio Cloud free account allows you 25 hours of connect time per month. Every second the RStudio Cloud is open counts towards this allocated time.&#x20;
+
+Therefore, whenever you are not running code or generating analyses, close the RStudio Cloud browser
+
+Click on your name (see highlighted part #1). The highlighted part #2 shows the time period (e.g., "I will have 25 more hours on Aug 8, 2024"). The highlighted part #3 shows how many hours you have spent.
+
+<img src="../../../.gitbook/assets/image (86).png" alt="" data-size="original">
+
+### <mark style="color:orange;">1.2. What to do if you exceed 25 hours per month?</mark>
+
+25 hours of connect time is enough for this class. If you exceed this limit, open another free account using a different email address. Follow the procedures described in the [RStudio lab assignment: account and packages assignment instructions](https://docs.google.com/document/d/1P0gpXCsAk03u9fSdHNdMpO43TCbHUoJT/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true).
+
+### <mark style="color:orange;">1.3. What to do if you want your new free account to be identical (files, packages, etc.) to the previous account where you exceeded the time limit?</mark>
+
+1. Go to the previous account where you exceeded the time limit.
+2. Click "Export" (see the highlighted part)
+
+<img src="../../../.gitbook/assets/image (87).png" alt="" data-size="original">
+
+3. Click "Download"
+
+<img src="../../../.gitbook/assets/image (88).png" alt="" data-size="original">
+
+4. It will download a zip file.
+5. Go to your new account.
+6. Upload that zip file just like you upload a R script file.
+
+</details>
+
 ## <mark style="color:orange;">1. How to create RStudio Cloud account and installing all the packages</mark>
 
 Follow the procedures described in the [RStudio lab assignment: account and packages assignment instructions](https://docs.google.com/document/d/1P0gpXCsAk03u9fSdHNdMpO43TCbHUoJT/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true).
@@ -76,7 +115,7 @@ Make sure you have a RStudio Cloud account. Otherwise, get one and install all t
 
 4. **Uploading R script files 2:** Click “Choose File.” Find the R script file you just downloaded (script\_descriptive.R) in the previous step, click “Open” and "OK."
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 5. **Opening R script files:** The file is uploaded and at the bottom of the "Files" list (see highlighted part #1). When you click on it, the descriptive R script file will open (see highlighted part #2).
 
@@ -84,11 +123,11 @@ Make sure you have a RStudio Cloud account. Otherwise, get one and install all t
 
 6. **Installing and loading packages:** Whenever we open RStudio, we highlight all the lines under the “Install and load packages” (see highlighted part #1) and click run (see highlighted part #2).
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 7. **Loading data:** When the process of installing and loading packages is completed, we highlight all the lines under the “Load data” (see highlighted part #1) and click “Run” (see highlighted part #2).  When you see “gss” and “key” (see highlighted part #3), it means we successfully installed and loaded the packages, and loaded the GSS data.
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 8. **Running the analysis codes:** We highlight the codes (see highlighted part #1) and click “Run” (see highlighted part #2). Clicking “Run” generates the analysis (see highlighted part #3).
 
@@ -154,9 +193,9 @@ If this happens, we should first rename the current R script file because re-upl
 
 Whenever we run an analysis with a different variable, we create a model code and a working code.
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 This is a view from the [Code templates](https://ttezcan.gitbook.io/lect/all-lectures-and-labs/r-lab/lab-resources/code-templates) page. Triple click the code and copy, or click "Copy" (see the highlighted part).
 
@@ -164,7 +203,7 @@ This is a view from the [Code templates](https://ttezcan.gitbook.io/lect/all-lec
 
 If we don’t use model code for comparison, it is likely that we accidentally delete something extra. In this example, the comma was deleted.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt="" width="273"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="273"><figcaption></figcaption></figure>
 
 Instead, we keep the use model code and compare it with our working code. Here we clearly see that the comma is missing in line 79. Note that RStudio warns us that something is wrong with that red cross.
 
@@ -192,7 +231,7 @@ For multiple lines, we highlight the codes with mouse.
 
 Here's what happens if we don't:
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 It simply shows what we highlighted and run (check the console part), not the analysis (check the plots part).
 
@@ -206,7 +245,7 @@ Typing notes on our R script files is encouraged. When we type a note, we must p
 
 While line 29 will work, line 27 won’t. Here RStudio warns us that there is something wrong. Look at the red cross on line 27. When there is a red cross on the left side of the line number, there is something wrong with our codes.
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## <mark style="color:orange;">10. Not changing the original values of the dataset (how to work)</mark>
 
@@ -218,33 +257,85 @@ When this happens, we go to the very top of the R script file and load the data 
 
 ***
 
-## 11. Use the new (recoded) variables in computation code
+## <mark style="color:orange;">11. Recoding a categorical variable and a continuous variable requires slightly different code (recoding)</mark>
 
-<figure><img src="../../../.gitbook/assets/image (53).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
-## 12. Computed variables are always continuous
+## <mark style="color:orange;">12. Use the recoded (new) variable in analyses (recoding)</mark>
 
-When we compute variables and create an index, the new (computed) variable is continuous.
+When we want to display, for example, the frequency distribution of a recoded (new) variable, we must use the recoded (new) variable’s name in the frequency code.
 
-It becomes CONTINUOUS because we have created a score, and we treat it as a real number.
+This is because, for our analysis, the original variable is no longer relevant. We recoded the original variable and created a new one for our analysis needs.
 
-Therefore, we use the DESCR code to see the distribution (mean and standard deviation)
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (54).png" alt="" width="563"><figcaption></figcaption></figure>
+## <mark style="color:orange;">13. Recoded variables are always categorical  (recoding)</mark>
 
 When we recode a continuous variable, the new (recoded) variable is no longer continuous.
 
-It becomes CATEGORICAL because we have merged the real numbers, and they no longer remain as real numbers.\
-Therefore, for example, we use the FRQ code to see the distribution.
+It becomes <mark style="color:red;">CATEGORICAL</mark> because we have merged the real numbers, and they no longer remain as real numbers.
 
-<figure><img src="../../../.gitbook/assets/image (42).png" alt="" width="563"><figcaption></figcaption></figure>
+Therefore, for example, we use the <mark style="color:red;">FRQ</mark> code to see the frequency distribution.
 
-## 3. Not using a model code
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
-Use the [Code templates](https://ttezcan.gitbook.io/lect/all-lectures-and-labs/r-lab/lab-resources/code-templates) page.
+## <mark style="color:orange;">14. Not using a model code  (recoding)</mark>
 
-<figure><img src="../../../.gitbook/assets/image (55).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (43).png" alt="" width="563"><figcaption></figcaption></figure>
+
+Use the [Code templates](https://ttezcan.gitbook.io/lect/all-lectures-and-labs/r-lab/lab-resources/code-templates) page and Model codes:
+
+<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+
+## <mark style="color:orange;">15. Misplacing the original variable (recoding)</mark>
+
+<figure><img src="../../../.gitbook/assets/image (5) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+
+## <mark style="color:orange;">16.</mark> <mark style="color:orange;">Load GSS data again if variables are misplaced in the codes and have thus overwritten the original values (recoding)</mark>
+
+If misplacing the original variable (Common recoding issues (5))…&#x20;
+
+We have to “Load GSS” again, because we lost the values of the original variable and we need a fresh data.
+
+<figure><img src="../../../.gitbook/assets/image (1).png" alt="" width="563"><figcaption></figcaption></figure>
+
+<details>
+
+<summary>dsadas</summary>
+
+## dsadasd
 
 
+
+</details>
+
+<details>
+
+<summary></summary>
+
+
+
+</details>
+
+\
+
+
+{% stepper %}
+{% step %}
+### csadasd
+
+dasdasd
+{% endstep %}
+
+{% step %}
+### dasdas
+
+dasdas
+
+
+{% endstep %}
+{% endstepper %}
 
 \
