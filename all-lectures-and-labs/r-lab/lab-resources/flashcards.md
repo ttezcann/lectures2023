@@ -81,7 +81,7 @@ The process is also shown on the video below:
 
 <figure><img src="../../../.gitbook/assets/image (87).png" alt=""><figcaption></figcaption></figure>
 
-## <mark style="color:orange;">1. How to create RStudio Cloud account and installing all the packages</mark>
+## <mark style="color:orange;">zzz1. How to create RStudio Cloud account and installing all the packages</mark>
 
 Follow the procedures described in the [RStudio lab assignment: account and packages assignment instructions](https://docs.google.com/document/d/1P0gpXCsAk03u9fSdHNdMpO43TCbHUoJT/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true).
 
