@@ -494,7 +494,7 @@ The strongest predictor of respondents’ personal income is the respondents' ed
 _The adjusted R squared value indicates that 17.2% of the variation in respondents’ personal income can be explained by the respondents’ age, days of poor physical health past 30 days, and respondents' education in years._
 {% endhint %}
 
-#### Reporting of estimates (coefficients)
+### Reporting of estimates (coefficients)
 
 {% hint style="info" %}
 When reporting the estimates (coefficients), ensure that the sentence includes the units (one unit, score, year, dollars, etc.) of both the independent and the dependent variable.
@@ -521,7 +521,7 @@ When reporting the estimates (coefficients), ensure that the sentence includes t
 <mark style="color:orange;">A one unit</mark> increase in social ranking level increases respondents’ education by <mark style="color:blue;">3.19</mark> <mark style="color:red;">years</mark>.
 {% endhint %}
 
-#### Reporting of adjusted R-squared
+### Reporting of adjusted R-squared
 
 {% hint style="success" %}
 The adjusted R-squared shows whether adding additional independent variables improve a regression model or not.
@@ -546,7 +546,7 @@ Slides: [linear regression](https://docs.google.com/presentation/d/16v4ZKqgEw2Ah
 
 ***
 
-### Linear regression analysis (with dummy variables)
+## Linear regression analysis (with dummy variables)
 
 <figure><img src="../../../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
 
@@ -567,7 +567,7 @@ The strongest predictor of respondents’ income is the years of education (std.
 The adjusted R squared value indicates that 22.2% of the variation in respondents’ income can be explained by the years of education, age of the respondents, and days of poor physical health past 30 days, being male, being very happy, and being pretty happy.
 {% endhint %}
 
-#### Reporting of dummy variable estimates (coefficients)
+### Reporting of dummy variable estimates (coefficients)
 
 {% hint style="success" %}
 When reporting the coefficients of the dummy variables, ensure that the sentence includes "being" or "having" and the omitted (comparison category) dummy variable:
@@ -595,7 +595,7 @@ Slides: [dummy variables](https://docs.google.com/presentation/d/1dJenkvbUDQUmX2
 
 ***
 
-### Logistic regression analysis (with dummy variables)
+## Logistic regression analysis (with dummy variables)
 
 <figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
