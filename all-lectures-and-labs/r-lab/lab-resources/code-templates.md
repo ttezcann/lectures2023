@@ -624,27 +624,77 @@ corrplot(gsscoeff, p.mat = testRes$p, method = 'pie', type = 'lower', insig='bla
 addCoef.col = 'black', order = 'original', diag = FALSE)$corrPos
 ```
 
-## regressions
+## linear regression
 
 {% hint style="warning" %}
 required package(s): "sjPlot"
 {% endhint %}
 
-### linear regression
+### (1) linear regression with 1 independent variable
 
 ```r
+model1 <- lm(depvar ~ indepvar1, data = gss)
+tab_model(model1, show.std = T, show.ci = F, collapse.se = T, p.style = "stars")
+```
 
-model4 <- lm(dependent_variable_here ~ indepvar1 + indepvar2 + indepvar3 + indepvar4, data = gss)
+### (2) linear regression with 2 independent variables
+
+```r
+model2 <- lm(depvar ~ indepvar1 + indepvar2, data = gss)
+tab_model(model2, show.std = T, show.ci = F, collapse.se = T, p.style = "stars")
+```
+
+### (3) linear regression with 3 independent variables
+
+```r
+model3 <- lm(depvar ~ indepvar1 + indepvar2 + indepvar3, data = gss)
+tab_model(model3, show.std = T, show.ci = F, collapse.se = T, p.style = "stars")
+```
+
+### (4) linear regression with 4 independent variables
+
+```r
+model4 <- lm(depvar ~ indepvar1 + indepvar2 + indepvar3 + indepvar4, data = gss)
 tab_model(model4, show.std = T, show.ci = F, collapse.se = T, p.style = "stars")
 ```
 
-### logistic regression
+{% hint style="info" %}
+add more independent variables with a plus (+)
+{% endhint %}
+
+## logistic regression
+
+### (1) logistic regression with 1 independent variable
 
 ```r
-
-model4 <- glm(depvar ~ indepvar1 + indepvar2 + indepvar3 + indepvar4, data = gss, family = binomial(link="logit"))
+model1 <- glm(dummydepvar ~ indepvar1, data = gss, family = binomial(link="logit"))
 tab_model(model4, show.std = TRUE, show.ci = FALSE, collapse.se = TRUE, p.style = "stars")
 ```
+
+### (2) logistic regression with 2 independent variables
+
+```r
+model2 <- glm(dummydepvar ~ indepvar1 + indepvar2, data = gss, family = binomial(link="logit"))
+tab_model(model4, show.std = TRUE, show.ci = FALSE, collapse.se = TRUE, p.style = "stars")
+```
+
+### (3) logistic regression with 3 independent variables
+
+```r
+model3 <- glm(dummydepvar ~ indepvar1 + indepvar2 + indepvar3, data = gss, family = binomial(link="logit"))
+tab_model(model4, show.std = TRUE, show.ci = FALSE, collapse.se = TRUE, p.style = "stars")
+```
+
+### (4) logistic regression with 4 independent variables
+
+```r
+model4 <- glm(dummydepvar ~ indepvar1 + indepvar2 + indepvar3 + indepvar4, data = gss, family = binomial(link="logit"))
+tab_model(model4, show.std = TRUE, show.ci = FALSE, collapse.se = TRUE, p.style = "stars")
+```
+
+{% hint style="info" %}
+add more independent variables with a plus (+)
+{% endhint %}
 
 ## dummy variables
 
