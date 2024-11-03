@@ -22,6 +22,8 @@ Follow the procedures described in the [RStudio lab assignment: account and pack
 
 The process is also shown on the video below:
 
+
+
 ### <mark style="color:orange;">1.1. How to check how many hours left?</mark>
 
 An RStudio Cloud free account allows you 25 hours of connect time per month. Every second the RStudio Cloud is open counts towards this allocated time.&#x20;
@@ -41,17 +43,43 @@ Click on your name (see highlighted part #1). The highlighted part #2 shows the 
 1. Go to the previous account where you exceeded the time limit.
 2. Click "Export" (see the highlighted part)
 
-<img src="../../../.gitbook/assets/image (87).png" alt="" data-size="original">
+
 
 3. Click "Download"
 
-<img src="../../../.gitbook/assets/image (88).png" alt="" data-size="original">
+
 
 4. It will download a zip file.
 5. Go to your new account.
 6. Upload that zip file just like you upload a R script file.
 
 </details>
+
+{% stepper %}
+{% step %}
+## How to create RStudio Cloud account and installing all the packages
+
+Follow the procedures described in the [RStudio lab assignment: account and packages assignment instructions](https://docs.google.com/document/d/1P0gpXCsAk03u9fSdHNdMpO43TCbHUoJT/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true).
+
+The process is also shown on the video below:
+
+{% embed url="https://www.youtube.com/watch?v=G7SvmDZrpNE" %}
+{% endstep %}
+
+{% step %}
+## How to open and use R script files in RStudio Cloud
+
+
+{% endstep %}
+
+{% step %}
+###
+
+
+{% endstep %}
+{% endstepper %}
+
+<figure><img src="../../../.gitbook/assets/image (87).png" alt=""><figcaption></figcaption></figure>
 
 ## <mark style="color:orange;">1. How to create RStudio Cloud account and installing all the packages</mark>
 
