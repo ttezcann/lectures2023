@@ -216,17 +216,13 @@ When this happens, we go to the very top of the R script file and load the data 
 
 <figure><img src="../../../.gitbook/assets/ss_2024-07-22 11.20.29.png" alt="" width="563"><figcaption></figcaption></figure>
 
+***
 
+## 11. Use the new (recoded) variables in computation code
 
+<figure><img src="../../../.gitbook/assets/image (53).png" alt="" width="563"><figcaption></figcaption></figure>
 
-
-
-
-## Not using the new (recoded) variables in computation code
-
-<figure><img src="../../../.gitbook/assets/image (53).png" alt=""><figcaption></figcaption></figure>
-
-## 2. Computed variables are always continuous
+## 12. Computed variables are always continuous
 
 When we compute variables and create an index, the new (computed) variable is continuous.
 
@@ -234,14 +230,14 @@ It becomes CONTINUOUS because we have created a score, and we treat it as a real
 
 Therefore, we use the DESCR code to see the distribution (mean and standard deviation)
 
-<figure><img src="../../../.gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (54).png" alt="" width="563"><figcaption></figcaption></figure>
 
 When we recode a continuous variable, the new (recoded) variable is no longer continuous.
 
 It becomes CATEGORICAL because we have merged the real numbers, and they no longer remain as real numbers.\
 Therefore, for example, we use the FRQ code to see the distribution.
 
-<figure><img src="../../../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (42).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## 3. Not using a model code
 
