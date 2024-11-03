@@ -16,11 +16,13 @@ layout:
 
 ## 1) How to create RStudio Cloud account and installing all the packages
 
-Follow the procedures described in the [RStudio lab assignment: account and packages assignment instructions](https://docs.google.com/document/d/1P0gpXCsAk03u9fSdHNdMpO43TCbHUoJT/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true).
-
-The process is also shown on the video below:
+### Video guideline:
 
 {% embed url="https://www.youtube.com/watch?v=G7SvmDZrpNE" %}
+
+### Textual guideline:
+
+Follow the procedures described in the [RStudio lab assignment: account and packages assignment instructions](https://docs.google.com/document/d/1P0gpXCsAk03u9fSdHNdMpO43TCbHUoJT/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true).
 
 ***
 
@@ -105,7 +107,9 @@ If the data is not loaded, we will get the following error (under the console):
 
 For troubleshooting, make sure to run "install and run packages" codes and "load data" codes in order.
 
-## <mark style="color:orange;">5. Working in the "Working space" (how to work)</mark>
+***
+
+## 5) Working in the "Working space" (how to work)
 
 We do not edit or change anything on R script files except under “working space”(see highlighted part #1). Anything above the “working space” is teaching material!
 
@@ -121,7 +125,9 @@ If this happens, we should first rename the current R script file because re-upl
 
 <figure><img src="../../../.gitbook/assets/ss_2024-07-24 14.55.33.png" alt="" width="375"><figcaption></figcaption></figure>
 
-## <mark style="color:orange;">6. Using a model code (how to work)</mark>
+***
+
+## 6) Using a model code (how to work)
 
 Whenever we run an analysis with a different variable, we create a model code and a working code.
 
@@ -145,7 +151,7 @@ After identifying what is missing, we can fix the working code. Once the working
 
 <figure><img src="../../../.gitbook/assets/image (4) (1) (1) (1).png" alt="" width="320"><figcaption></figcaption></figure>
 
-## <mark style="color:orange;">7. Not typing variable names (how to work)</mark>
+## 7) Pasting variable names (how to work)
 
 We **NEVER** type variable names! It is very common to miswrite codes, forget commas, etc. We always copy the variable names (from the code templates page or assignments), and paste into our codes.
 
@@ -153,7 +159,9 @@ There is no variable called “maritaal”, but “marital.” RStudio warns us 
 
 <figure><img src="../../../.gitbook/assets/image (8) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
-## <mark style="color:orange;">8. Highlighting all the lines when running codes (how to work)</mark>
+***
+
+## 8) Highlighting all the lines when running codes (how to work)
 
 We need to highlight all the lines and click “Run.”
 
@@ -171,7 +179,9 @@ Instead, we should have highlighted all the line:
 
 <figure><img src="../../../.gitbook/assets/ss_2024-07-22 11.41.45.png" alt="" width="563"><figcaption></figcaption></figure>
 
-## <mark style="color:orange;">9. Putting hashtags (#) for our notes (how to work)</mark>
+***
+
+## 9) Putting hashtags (#) for our notes (how to work)
 
 Typing notes on our R script files is encouraged. When we type a note, we must put a hashtag (#) first (we can put # anywhere we want). Not putting a hashtag (#) will confuse RStudio.
 
@@ -179,7 +189,9 @@ While line 29 will work, line 27 won’t. Here RStudio warns us that there is so
 
 <figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
-## <mark style="color:orange;">10. Not changing the original values of the dataset (how to work)</mark>
+***
+
+## 10) Not changing the original values of the dataset (how to work)
 
 We **never** save our data, but our R script files. From time to time, we may accidentally change the values of original variables (especially when we recode variables).&#x20;
 
@@ -189,11 +201,15 @@ When this happens, we go to the very top of the R script file and load the data 
 
 ***
 
-## <mark style="color:orange;">11. Recoding a categorical variable and a continuous variable requires slightly different code (recoding)</mark>
+## 11) Different recoding codes for different variables (recoding)
+
+Recoding a categorical variable and a continuous variable requires slightly different codes
 
 <figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
-## <mark style="color:orange;">12. Use the recoded (new) variable in analyses (recoding)</mark>
+***
+
+## 12) Use the recoded (new) variable in analyses (recoding)
 
 When we want to display, for example, the frequency distribution of a recoded (new) variable, we must use the recoded (new) variable’s name in the frequency code.
 
@@ -201,7 +217,9 @@ This is because, for our analysis, the original variable is no longer relevant. 
 
 <figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
-## <mark style="color:orange;">13. Recoded variables are always categorical  (recoding)</mark>
+***
+
+## 13) Recoded variables are always categorical (recoding)
 
 When we recode a continuous variable, the new (recoded) variable is no longer continuous.
 
@@ -211,7 +229,9 @@ Therefore, for example, we use the <mark style="color:red;">FRQ</mark> code to s
 
 <figure><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
-## <mark style="color:orange;">14. Not using a model code  (recoding)</mark>
+***
+
+## 14) Not using a model code  (recoding)
 
 <figure><img src="../../../.gitbook/assets/image (43).png" alt="" width="563"><figcaption></figcaption></figure>
 
@@ -221,53 +241,20 @@ Use the [Code templates](https://ttezcan.gitbook.io/lect/all-lectures-and-labs/r
 
 <figure><img src="../../../.gitbook/assets/image (4) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
-## <mark style="color:orange;">15. Misplacing the original variable (recoding)</mark>
+***
+
+## 15) Pasting the original variable to the correct place (recoding)
 
 <figure><img src="../../../.gitbook/assets/image (5) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
-## <mark style="color:orange;">16.</mark> <mark style="color:orange;">Load GSS data again if variables are misplaced in the codes and have thus overwritten the original values (recoding)</mark>
+***
 
-If misplacing the original variable (Common recoding issues (5))…&#x20;
+## 16) Load GSS data again if variables are misplaced in the codes and have thus overwritten the original values (recoding)
 
-We have to “Load GSS” again, because we lost the values of the original variable and we need a fresh data.
+If variables are misplaced in the codes and have overwritten the original values, we have to “Load GSS” again, because we lost the values of the original variable and we need a fresh data.
 
 <figure><img src="../../../.gitbook/assets/image (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
-<details>
-
-<summary>dsadas</summary>
-
-## dsadasd
-
-
-
-</details>
-
-<details>
-
-<summary></summary>
-
-
-
-</details>
-
-\
-
-
-{% stepper %}
-{% step %}
-### csadasd
-
-dasdasd
-{% endstep %}
-
-{% step %}
-### dasdas
-
-dasdas
-
-
-{% endstep %}
-{% endstepper %}
+***
 
 \
