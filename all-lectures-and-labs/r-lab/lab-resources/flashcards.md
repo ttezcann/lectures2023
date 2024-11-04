@@ -18,7 +18,9 @@ layout:
 Maximize your browser window to display the outline on the right side for easier navigation.
 {% endhint %}
 
-## 1) How to create RStudio Cloud account and installing all the packages
+## 1)&#x20;
+
+## How to create RStudio Cloud account and installing all the packages
 
 ### Video guideline:
 
@@ -30,7 +32,9 @@ Follow the procedures described in the [RStudio lab assignment: account and pack
 
 ***
 
-## 2) How to open and use R script files in RStudio Cloud
+## 2)&#x20;
+
+## How to open and use R script files in RStudio Cloud
 
 ### Video guideline:
 
@@ -87,7 +91,9 @@ Make sure you have a RStudio Cloud account. Otherwise, get one and install all t
 
 ***
 
-## 3) Installing and loading packages (how to work)
+## 3)&#x20;
+
+## Installing and loading packages (how to work)
 
 We need specific packages to conduct our analyses. Running the "install and run packages" is always the first step.
 
@@ -99,7 +105,9 @@ We can check the installed packages under “Packages.” Checkmark means that t
 
 For troubleshooting, make sure to run "install and run packages" codes, wait until the “STOP” sign in the console disappears, no more code is running in the console, and see "Package already installed: _package name_" (under the console in red font, see the first figure).
 
-## 4) Loading the data (how to work)
+## 4)&#x20;
+
+## Loading the data (how to work)
 
 Every time we open RStudio, we must load the data. Even if we see "gss" under “Environment,” we should run "load data" code again. If we do not see "gss" under "Environment," our codes will not work.
 
@@ -113,7 +121,9 @@ For troubleshooting, make sure to run "install and run packages" codes and "load
 
 ***
 
-## 5) Working in the "Working space" (how to work)
+## 5)&#x20;
+
+## Working in the "Working space" (how to work)
 
 We do not edit or change anything on R script files except under “working space”(see highlighted part #1). Anything above the “working space” is teaching material!
 
@@ -131,7 +141,9 @@ If this happens, we should first rename the current R script file because re-upl
 
 ***
 
-## 6) Using a model code (how to work)
+## 6)&#x20;
+
+## Using a model code (how to work)
 
 Whenever we run an analysis with a different variable, we create a model code and a working code.
 
@@ -155,7 +167,9 @@ After identifying what is missing, we can fix the working code. Once the working
 
 <figure><img src="../../../.gitbook/assets/image (4) (1) (1) (1).png" alt="" width="320"><figcaption></figcaption></figure>
 
-## 7) Pasting variable names (how to work)
+## 7)&#x20;
+
+## Pasting variable names (how to work)
 
 We **NEVER** type variable names! It is very common to miswrite codes, forget commas, etc. We always copy the variable names (from the code templates page or assignments), and paste into our codes.
 
@@ -165,7 +179,9 @@ There is no variable called “maritaal”, but “marital.” RStudio warns us 
 
 ***
 
-## 8) Highlighting all the lines when running codes (how to work)
+## 8)&#x20;
+
+## Highlighting all the lines when running codes (how to work)
 
 We need to highlight all the lines and click “Run.”
 
@@ -185,7 +201,9 @@ Instead, we should have highlighted all the line:
 
 ***
 
-## 9) Putting hashtags (#) for our notes (how to work)
+## 9)&#x20;
+
+## Putting hashtags (#) for our notes (how to work)
 
 Typing notes on our R script files is encouraged. When we type a note, we must put a hashtag (#) first (we can put # anywhere we want). Not putting a hashtag (#) will confuse RStudio.
 
@@ -195,7 +213,9 @@ While line 29 will work, line 27 won’t. Here RStudio warns us that there is so
 
 ***
 
-## 10) Not changing the original values of the dataset (how to work)
+## 10)&#x20;
+
+## Not changing the original values of the dataset (how to work)
 
 We **never** save our data, but our R script files. From time to time, we may accidentally change the values of original variables (especially when we recode variables).&#x20;
 
@@ -205,25 +225,33 @@ When this happens, we go to the very top of the R script file and load the data 
 
 ***
 
-## 11) Using keyboard shortcuts (how to work)
+## 11)&#x20;
+
+## Using keyboard shortcuts (how to work)
 
 <figure><img src="../../../.gitbook/assets/image (91).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ***
 
-## 12) Keyboard shortcuts: hand and finger positions (how to work)
+## 12)&#x20;
+
+## Keyboard shortcuts: hand and finger positions (how to work)
 
 <figure><img src="../../../.gitbook/assets/image (92).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ***
 
-## 13) Using mouse shortcuts
+## 13)&#x20;
+
+## Using mouse shortcuts
 
 <figure><img src="../../../.gitbook/assets/image (93).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ***
 
-## 14) Different recoding codes for different variables (recoding)
+## 14)&#x20;
+
+## Different recoding codes for different variables (recoding)
 
 Recoding a categorical variable and a continuous variable requires slightly different codes
 
@@ -231,7 +259,9 @@ Recoding a categorical variable and a continuous variable requires slightly diff
 
 ***
 
-## 15) Use the recoded (new) variable in analyses (recoding)
+## 15)&#x20;
+
+## Use the recoded (new) variable in analyses (recoding)
 
 When we want to display, for example, the frequency distribution of a recoded (new) variable, we must use the recoded (new) variable’s name in the frequency code.
 
@@ -241,7 +271,9 @@ This is because, for our analysis, the original variable is no longer relevant. 
 
 ***
 
-## 16) Recoded variables are always categorical (recoding)
+## 16)&#x20;
+
+## Recoded variables are always categorical (recoding)
 
 When we recode a continuous variable, the new (recoded) variable is no longer continuous.
 
@@ -253,7 +285,9 @@ Therefore, for example, we use the <mark style="color:red;">FRQ</mark> code to s
 
 ***
 
-## 17) Not using a model code  (recoding)
+## 17)&#x20;
+
+## Not using a model code  (recoding)
 
 <figure><img src="../../../.gitbook/assets/image (43).png" alt="" width="563"><figcaption></figcaption></figure>
 
@@ -265,13 +299,17 @@ Use the [Code templates](https://ttezcan.gitbook.io/lect/all-lectures-and-labs/r
 
 ***
 
-## 18) Pasting the original variable to the correct place (recoding)
+## 18)&#x20;
+
+## Pasting the original variable to the correct place (recoding)
 
 <figure><img src="../../../.gitbook/assets/image (5) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ***
 
-## 19) Load GSS data again if variables are misplaced in the codes and have thus overwritten the original values (recoding)
+## 19)&#x20;
+
+## Load GSS data again if variables are misplaced in the codes and have thus overwritten the original values (recoding)
 
 If variables are misplaced in the codes and have overwritten the original values, we have to “Load GSS” again, because we lost the values of the original variable and we need a fresh data.
 
@@ -279,13 +317,17 @@ If variables are misplaced in the codes and have overwritten the original values
 
 ***
 
-## 20)  Use the new (recoded) variables in computation code
+## 20) &#x20;
+
+## Use the new (recoded) variables in computation code
 
 <figure><img src="../../../.gitbook/assets/image (53).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
-## 21) Computed variables are always continuous
+## 21)&#x20;
+
+## Computed variables are always continuous
 
 When we compute variables and create an index, the new (computed) variable is continuous.
 
@@ -302,7 +344,9 @@ Therefore, for example, we use the FRQ code to see the distribution.
 
 <figure><img src="../../../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
 
-## 22) Is my p-value less than 0.05?
+## 22)&#x20;
+
+## Is my p-value less than 0.05?
 
 ### Statistical significance
 
@@ -318,7 +362,9 @@ We refer to statistical significance as <mark style="color:red;">p < 0.05</mark>
 
 ***
 
-## 23) Data terminologies
+## 23)&#x20;
+
+## Data terminologies
 
 <mark style="color:red;">Questionnaire:</mark> A set of written questions used for collecting information from respondents.
 
@@ -348,14 +394,18 @@ We refer to statistical significance as <mark style="color:red;">p < 0.05</mark>
 
 ***
 
-## 24) GSS codebooks
+## 24)&#x20;
+
+## GSS codebooks
 
 * [GSS 2022 Codebook website](https://gssdataexplorer.norc.org/variables/vfilter)
 * [GSS 2022 Codebook pdf file](https://drive.google.com/open?id=1\_-FMP3vDlPOiD1\_KKkZjEIy3KNnnYOSP\&usp=drive\_fs)
 
 ***
 
-## 25) How to check how many hours left in RStudio Cloud?
+## 25)&#x20;
+
+## How to check how many hours left in RStudio Cloud?
 
 An RStudio Cloud free account allows you 25 hours of connect time per month. Every second the RStudio Cloud is open counts towards this allocated time.&#x20;
 
@@ -367,13 +417,17 @@ Click on your name (see highlighted part #1). The highlighted part #2 shows the 
 
 ***
 
-## 26) What to do if you exceed 25 hours per month?
+## 26)&#x20;
+
+## What to do if you exceed 25 hours per month?
 
 25 hours of connect time is enough for this class. If you exceed this limit, open another free account using a different email address. Follow the procedures described in the [RStudio lab assignment: account and packages assignment instructions](https://docs.google.com/document/d/1P0gpXCsAk03u9fSdHNdMpO43TCbHUoJT/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true).
 
 ***
 
-## 27) What to do if you want your new free account to be identical (files, packages, etc.) to the previous account where you exceeded the time limit?
+## 27)&#x20;
+
+## What to do if you want your new free account to be identical (files, packages, etc.) to the previous account where you exceeded the time limit?
 
 1. Go to the previous account where you exceeded the time limit.
 2. Click "Export" (see the highlighted part)
@@ -390,7 +444,9 @@ Click on your name (see highlighted part #1). The highlighted part #2 shows the 
 
 ***
 
-## 28) Using RStudio on a university lab computer
+## 28)&#x20;
+
+## Using RStudio on a university lab computer
 
 Every time you log in to a lab computer, you have to run "install and load packages" codes.
 
@@ -406,7 +462,9 @@ Because when you log out, lab computers revert to their factory settings and del
 
 ***
 
-## 29) Downloading R and RStudio to a personal computer
+## 29)&#x20;
+
+## Downloading R and RStudio to a personal computer
 
 You can download R and RStudio to your personal computer.  "Install and load packages" codes will install the packages once, but every time you open RStudio on your personal computer, you should run "Install and load packages" again.
 
