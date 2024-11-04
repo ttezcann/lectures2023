@@ -14,6 +14,10 @@ layout:
 
 # Flashcards
 
+{% hint style="info" %}
+Maximize your browser window to display the outline on the right side for easier navigation.
+{% endhint %}
+
 ## 1) How to create RStudio Cloud account and installing all the packages
 
 ### Video guideline:
@@ -257,4 +261,117 @@ If variables are misplaced in the codes and have overwritten the original values
 
 ***
 
-\
+## 17)  Use the new (recoded) variables in computation code
+
+<figure><img src="../../../.gitbook/assets/image (53).png" alt=""><figcaption></figcaption></figure>
+
+***
+
+## 18) Computed variables are always continuous
+
+When we compute variables and create an index, the new (computed) variable is continuous.
+
+It becomes CONTINUOUS because we have created a score, and we treat it as a real number.
+
+Therefore, we use the DESCR code to see the distribution (mean and standard deviation)
+
+<figure><img src="../../../.gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>
+
+When we recode a continuous variable, the new (recoded) variable is no longer continuous.
+
+It becomes CATEGORICAL because we have merged the real numbers, and they no longer remain as real numbers.\
+Therefore, for example, we use the FRQ code to see the distribution.
+
+<figure><img src="../../../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
+
+## 19) Is my p-value less than 0.05?
+
+### Statistical significance
+
+Statistical significance is a measure of whether your research findings are meaningful. In other words, if the independent variable causes a change in the dependent variable in a statistically significant way.
+
+The lower the p-value, the greater the statistical significance of the observed difference.
+
+We refer to statistical significance as <mark style="color:red;">p < 0.05</mark>
+
+### Use the following website
+
+{% embed url="http://www.whichnumberislarger.com/" %}
+
+***
+
+## 20) Data terminologies
+
+<mark style="color:red;">Questionnaire:</mark> A set of written questions used for collecting information from respondents.
+
+<mark style="color:red;">Respondents:</mark> Individuals who respond to the questions in a questionnaire.
+
+<mark style="color:red;">Dataset:</mark> The information collected from respondents. The numbers to be analyzed.
+
+<mark style="color:red;">Full wording of question:</mark> The exact text of a question as it appears in the questionnaire.
+
+<mark style="color:red;">Variable name:</mark> Unique words assigned to each question. We use variable names in data analysis software.
+
+<mark style="color:red;">Values:</mark> Numbers such as 1, 2, 3, etc., that appear in the dataset representing specific responses.
+
+<mark style="color:red;">Labels:</mark> What those values (numbers) mean, e.g., 1: yes, 2: no, etc.
+
+<mark style="color:red;">Response set:</mark> The combination of values and their corresponding labels.
+
+<figure><img src="../../../.gitbook/assets/image (75).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/image (74).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/ss_2024-07-22 13.10.11.png" alt=""><figcaption></figcaption></figure>
+
+[\[Variables in GSS\]](https://ttezcan.gitbook.io/lectures/all-lectures-and-labs/r-lab/lab-resources/variables-in-gss)
+
+<figure><img src="../../../.gitbook/assets/image (76).png" alt=""><figcaption></figcaption></figure>
+
+***
+
+## 21) GSS codebooks
+
+* [GSS 2022 Codebook website](https://gssdataexplorer.norc.org/variables/vfilter)
+* [GSS 2022 Codebook pdf file](https://drive.google.com/open?id=1\_-FMP3vDlPOiD1\_KKkZjEIy3KNnnYOSP\&usp=drive\_fs)
+
+***
+
+### 22) How to check how many hours left in RStudio Cloud?
+
+An RStudio Cloud free account allows you 25 hours of connect time per month. Every second the RStudio Cloud is open counts towards this allocated time.&#x20;
+
+Therefore, whenever you are not running code or generating analyses, close the RStudio Cloud browser
+
+Click on your name (see highlighted part #1). The highlighted part #2 shows the time period (e.g., "I will have 25 more hours on Aug 8, 2024"). The highlighted part #3 shows how many hours you have spent.
+
+<figure><img src="../../../.gitbook/assets/image (90).png" alt="" width="563"><figcaption></figcaption></figure>
+
+***
+
+## 23) What to do if you exceed 25 hours per month?
+
+25 hours of connect time is enough for this class. If you exceed this limit, open another free account using a different email address. Follow the procedures described in the [RStudio lab assignment: account and packages assignment instructions](https://docs.google.com/document/d/1P0gpXCsAk03u9fSdHNdMpO43TCbHUoJT/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true).
+
+***
+
+## 24) What to do if you want your new free account to be identical (files, packages, etc.) to the previous account where you exceeded the time limit?
+
+1. Go to the previous account where you exceeded the time limit.
+2. Click "Export" (see the highlighted part)
+
+<figure><img src="../../../.gitbook/assets/ss_2024-07-19 14.24.08.png" alt="" width="563"><figcaption></figcaption></figure>
+
+3. Click "Download"
+
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+
+4. It will download a zip file.
+5. Go to your new account.
+6. Upload that zip file just like you upload a R script file.
+
+***
+
+
+
+### &#x20; 
