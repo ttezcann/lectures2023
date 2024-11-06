@@ -419,6 +419,20 @@ Click on your name (see highlighted part #1). The highlighted part #2 shows the 
 
 ## 26)&#x20;
 
+## What to do if RStudio Cloud crashes?
+
+This may happen if your RStudio Cloud session consumes too much ram.
+
+1.  Save your unsaved RScript file.
+
+    **Saving R script files:** When we make any changes, the font of the file name (shown in the highlighted part #2 above) will be red with an asterisk (\*) - (see the highlighted part #1 below). To save our progress, we click save (see the highlighted part #2 below)
+
+<figure><img src="../../../.gitbook/assets/ss_2024-07-16 17.06.29.png" alt="" width="563"><figcaption></figcaption></figure>
+
+2. Click the three dots next to the gear. Click "Relaunch Project."
+
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-11-06 at 12.10.57 PM.png" alt=""><figcaption></figcaption></figure>
+
 ## What to do if you exceed 25 hours per month?
 
 25 hours of connect time is enough for this class. If you exceed this limit, open another free account using a different email address. Follow the procedures described in the [RStudio lab assignment: account and packages assignment instructions](https://docs.google.com/document/d/1P0gpXCsAk03u9fSdHNdMpO43TCbHUoJT/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true).
