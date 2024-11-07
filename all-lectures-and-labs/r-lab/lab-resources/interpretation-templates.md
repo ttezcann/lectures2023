@@ -280,8 +280,8 @@ Correlation analysis examines the linear relationship of two continuous variable
 IF the p-value is statistically significant (<0.05);
 
 * less than |0.3| … weak correlation
-* 0.3 < | r | < 0.5 … moderate correlation
-* greater than 0.5 ………. strong correlation
+* |0.3| < | r | < |0.5| … moderate correlation
+* greater than |0.5| ………. strong correlation
 
 The order of the variables does not matter.
 
