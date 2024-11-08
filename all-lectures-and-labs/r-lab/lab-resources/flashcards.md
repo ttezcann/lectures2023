@@ -18,7 +18,37 @@ layout:
 Maximize your browser window to display the outline on the right side for easier navigation.
 {% endhint %}
 
-## 1)&#x20;
+<details>
+
+<summary>1) How to create RStudio Cloud account and installing all the packages</summary>
+
+### video guideline:
+
+[https://www.youtube.com/watch?v=G7SvmDZrpNE](https://www.youtube.com/watch?v=G7SvmDZrpNE)
+
+
+
+</details>
+
+{% stepper %}
+{% step %}
+## How to create RStudio Cloud account and installing all the packages
+
+video guideline:
+
+{% embed url="https://www.youtube.com/watch?v=G7SvmDZrpNE" %}
+
+
+{% endstep %}
+
+{% step %}
+###
+
+
+{% endstep %}
+{% endstepper %}
+
+## 1)
 
 ## How to create RStudio Cloud account and installing all the packages
 
