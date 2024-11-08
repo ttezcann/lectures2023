@@ -24,7 +24,7 @@ Maximize your browser window to display the outline on the right side for easier
 
 ### Setup
 
-How to create RStudio Cloud account and installing all the packages
+[How to create RStudio Cloud account and installing all the packages](https://ttezcan.gitbook.io/lectures/all-lectures-and-labs/r-lab/lab-resources/flashcards#how-to-create-rstudio-cloud-account-and-installing-all-the-packages-2)
 
 
 
