@@ -12,13 +12,13 @@ layout:
     visible: false
 ---
 
-# Flashcards
+# Copy of Flashcards
 
-{% hint style="success" %}
+{% hint style="info" %}
 Maximize your browser window to display the outline on the right side for easier navigation.
 {% endhint %}
 
-## Setup
+## Setup: Account and RScript files
 
 <details>
 
@@ -89,177 +89,7 @@ Textual guideline:&#x20;
 
 ## How to work
 
-<details>
 
-<summary>Installing and loading packages</summary>
-
-We need specific packages to conduct our analyses. Running the "install and run packages" is always the first step.
-
-<img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original">
-
-We can check the installed packages under “Packages.” Checkmark means that the specific packages are loaded for the session. If there is no checkmark, we have the package but it was not loaded.
-
-<img src="../../../.gitbook/assets/image (4) (1) (1) (1) (1).png" alt="" data-size="original">
-
-For troubleshooting, make sure to run "install and run packages" codes, wait until the “STOP” sign in the console disappears, no more code is running in the console, and see "Package already installed: _package name_" (under the console in red font, see the first figure).
-
-</details>
-
-<details>
-
-<summary>Loading data</summary>
-
-Every time we open RStudio, we must load the data. Even if we see "gss" under “Environment,” we should run "load data" code again. If we do not see "gss" under "Environment," our codes will not work.
-
-<img src="../../../.gitbook/assets/image (5) (1) (1) (1) (1).png" alt="" data-size="original">
-
-If the data is not loaded, we will get the following error (under the console):
-
-<img src="../../../.gitbook/assets/image (6) (1) (1).png" alt="" data-size="original">
-
-For troubleshooting, make sure to run "install and run packages" codes and "load data" codes in order.
-
-</details>
-
-<details>
-
-<summary>Working in the "Working space"</summary>
-
-We do not edit or change anything on R script files except under “working space”(see highlighted part #1). Anything above the “working space” is teaching material!
-
-The codes for assignments will be put under the “working space”
-
-For easy navigation click “Outline” (see highlighted part #2) to see the headings and subheadings.
-
-<img src="../../../.gitbook/assets/image (83).png" alt="" data-size="original">
-
-If we accidentally delete something from the R script file (above the working space), we can undo the changes using ctrl + Z for Windows or command + Z for macOS. If we lose track of the changes or cannot undo them, we simply re-upload the original R script file.
-
-If this happens, we should first rename the current R script file because re-uploading the file will overwrite it and we lose our previous progress. Based on the sample below, we can rename the file to 'script\_scripting\_previous.R' (make sure not to delete the ".R" file extension at the end). Click "check box" (see highlighted part #1) and click "Rename" (see highlighted part #2)&#x20;
-
-<img src="../../../.gitbook/assets/ss_2024-07-24 14.55.33.png" alt="" data-size="original">
-
-</details>
-
-<details>
-
-<summary>Using a model code</summary>
-
-Whenever we run an analysis with a different variable, we create a model code and a working code.
-
-<img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt="" data-size="original">
-
-<img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt="" data-size="original">
-
-This is a view from the [Code templates](https://ttezcan.gitbook.io/lect/all-lectures-and-labs/r-lab/lab-resources/code-templates) page. Triple click the code and copy, or click "Copy" (see the highlighted part).
-
-<img src="../../../.gitbook/assets/image (89).png" alt="" data-size="original">
-
-If we don’t use model code for comparison, it is likely that we accidentally delete something extra. In this example, the comma was deleted.
-
-<img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original">
-
-Instead, we keep the use model code and compare it with our working code. Here we clearly see that the comma is missing in line 79. Note that RStudio warns us that something is wrong with that red cross.
-
-<img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt="" data-size="original">
-
-After identifying what is missing, we can fix the working code. Once the working code functions correctly, we can delete the model code.
-
-<img src="../../../.gitbook/assets/image (4) (1) (1) (1).png" alt="" data-size="original">
-
-</details>
-
-<details>
-
-<summary>Pasting variable names</summary>
-
-We **NEVER** type variable names! It is very common to miswrite codes, forget commas, etc. We always copy the variable names (from the code templates page or assignments), and paste into our codes.
-
-There is no variable called “maritaal”, but “marital.” RStudio warns us that “maritaal” is “unknown.” We copy and paste variable names to avoid this possibility.
-
-<img src="../../../.gitbook/assets/image (8) (1).png" alt="" data-size="original">
-
-</details>
-
-<details>
-
-<summary>Highlighting all the lines when running codes</summary>
-
-We need to highlight all the lines and click “Run.”
-
-For single lines, we triple click (clicking three times _really_ fast).
-
-For multiple lines, we highlight the codes with mouse.
-
-Here's what happens if we don't:
-
-<img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original">
-
-It simply shows what we highlighted and run (check the console part), not the analysis (check the plots part).
-
-Instead, we should have highlighted all the line:
-
-<img src="../../../.gitbook/assets/ss_2024-07-22 11.41.45.png" alt="" data-size="original">
-
-</details>
-
-<details>
-
-<summary>Putting hashtags (#) for our notes </summary>
-
-Typing notes on our R script files is encouraged. When we type a note, we must put a hashtag (#) first (we can put # anywhere we want). Not putting a hashtag (#) will confuse RStudio.
-
-While line 29 will work, line 27 won’t. Here RStudio warns us that there is something wrong. Look at the red cross on line 27. When there is a red cross on the left side of the line number, there is something wrong with our codes.
-
-<img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original">
-
-</details>
-
-<details>
-
-<summary>Not changing the original values of the dataset</summary>
-
-We **never** save our data, but our R script files. From time to time, we may accidentally change the values of original variables (especially when we recode variables).&#x20;
-
-When this happens, we go to the very top of the R script file and load the data again. If we created new variables previously, we will need to run those codes under our working space again in order since it will be a fresh data.
-
-<img src="../../../.gitbook/assets/ss_2024-07-22 11.20.29.png" alt="" data-size="original">
-
-</details>
-
-## Keyboard and mouse shortcuts
-
-<details>
-
-<summary>Using keyboard shortcuts</summary>
-
-![](../../../.gitbook/assets/image.png)
-
-</details>
-
-<details>
-
-<summary>Keyboard shortcuts: hand and finger positions</summary>
-
-![](<../../../.gitbook/assets/image (1).png>)
-
-</details>
-
-<details>
-
-<summary>Using mouse shortcuts</summary>
-
-![](<../../../.gitbook/assets/image (2).png>)
-
-</details>
-
-<details>
-
-<summary></summary>
-
-
-
-</details>
 
 {% stepper %}
 {% step %}
