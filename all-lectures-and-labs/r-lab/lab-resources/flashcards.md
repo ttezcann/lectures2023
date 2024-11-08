@@ -18,6 +18,18 @@ layout:
 Maximize your browser window to display the outline on the right side for easier navigation.
 {% endhint %}
 
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td></td><td>kjkjk</td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></tbody></table>
+
+## Table of content
+
+### Setup
+
+How to create RStudio Cloud account and installing all the packages
+
+
+
+
+
 ## Setup
 
 <details>
