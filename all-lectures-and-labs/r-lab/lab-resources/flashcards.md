@@ -440,11 +440,11 @@ Because when you log out, lab computers revert to their factory settings and del
 
 ***
 
-### Downloading R and RStudio to a personal computer
+#### Downloading R and RStudio to a personal computer
 
 You can download R and RStudio to your personal computer.  "Install and load packages" codes will install the packages once, but every time you open RStudio on your personal computer, you should run "Install and load packages" again.
 
-### Mac users
+#### Mac users
 
 [Check your macOS version](https://support.apple.com/en-us/HT201260)
 
@@ -472,7 +472,7 @@ macOS may want you to allow it to download. Open System Preferences, navigate to
 
 {% embed url="https://www.youtube.com/watch?v=f7cnHWQDQ-U" %}
 
-### Windows Users
+#### Windows Users
 
 1\. [Download R](https://cran.r-project.org/bin/windows/base/R-4.4.1-win.exe) (4.4.1)
 
