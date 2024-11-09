@@ -128,7 +128,7 @@ I will rate your research papers from these items and the sum will represent you
 
 <mark style="color:red;">References</mark>
 
-21. Did you cite at least 15 peer-reviewed journal articles (both in-text and end-text)? (15 points)
+21. Did you cite at least 12 peer-reviewed journal articles (both in-text and end-text)? (15 points)
 22. Consistent use of citation and reference format (4 points).
 
 <mark style="color:red;">Writing and Template</mark>
