@@ -570,15 +570,20 @@ The adjusted R squared value indicates that 22.2% of the variation in respondent
 ### Reporting of dummy variable estimates (coefficients)
 
 {% hint style="success" %}
-When reporting the coefficients of the dummy variables, ensure that the sentence includes "being" or "having" and the omitted (comparison category) dummy variable:
+When reporting the coefficients of dummy variables, ensure that the sentence includes "being" or "having," as well as the omitted (comparison) dummy variable.&#x20;
 
+This is because creating dummy variables essentially means creating new variables, which changes the information they measure (aka "what it measures").&#x20;
 
+For example, if you create "male" and "female" dummy variables based on the "respondents' sex" variable, the "male" dummy variable now measures "being male," and the "female" dummy variable now measures "being female."
 
 * <mark style="color:purple;">Being male</mark> increases income by $15,624 <mark style="color:orange;">compared to being female</mark>.&#x20;
+
+If you create "veryhappy," "prettyhappy," and "nottoohappy" dummy variables based on the "happiness level" variable, the "veryhappy" dummy variable now measures "being very happy," the "prettyhappy" dummy variable measures "being pretty happy," and the "nottoohappy" dummy variable measures "being not too happy."
+
 * <mark style="color:purple;">Being very happy</mark> increases income by $15,779 <mark style="color:orange;">compared to being not too happy</mark>.&#x20;
 * <mark style="color:purple;">Being pretty happy</mark> increases income by $8,908 <mark style="color:orange;">compared to being not too happy</mark>.
 
-
+If you create "ownhouse" and "renthouse" dummy variables based on the "home ownership" variable, the "ownhouse" dummy variable now measures "having a house" (or "owning a house"), and the "renthouse" dummy variable measures "renting a house."
 
 * <mark style="color:purple;">Having a house</mark> increases life satisfaction by 3.2 points  <mark style="color:orange;">compared to renting a house</mark>.
 
