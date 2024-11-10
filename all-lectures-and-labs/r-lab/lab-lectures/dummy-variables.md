@@ -24,8 +24,6 @@ layout:
 
 ## Slides
 
-
-
 {% embed url="https://docs.google.com/presentation/d/14DvMvFfpo0zkmWruZhdPP7KSxzAQ0ViG/edit?ouid=100179871492576617561&rtpof=true&sd=true&usp=sharing" %}
 [**Downloadable slides here**](https://docs.google.com/presentation/d/14DvMvFfpo0zkmWruZhdPP7KSxzAQ0ViG/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
 {% endembed %}
@@ -34,6 +32,16 @@ layout:
 
 [Lab assignment](https://docs.google.com/document/d/14FBUCAwOlsBc5oq3k4p4NT0s3RCg2EzH/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
 
-## Video
+## Lecture video
 
 {% embed url="https://youtu.be/4ajIGLwu0Xk?si=09B01_5pxkzUuVRP" %}
+
+## Sample lab assignment video <a href="#sample-lab-assignment-video" id="sample-lab-assignment-video"></a>
+
+[sample lab assignment google doc](https://docs.google.com/document/d/1V-FicIfqEGZZvaZMUAlwe7rDS0crTjQZ/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
+
+{% embed url="https://drive.google.com/open?id=1wLTRSSSjlD0k0N8NKH_noaQirP3wXKve&usp=drive_fs" %}
+
+
+
+\
