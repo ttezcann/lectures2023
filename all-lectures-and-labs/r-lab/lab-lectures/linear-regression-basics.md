@@ -22,6 +22,10 @@ layout:
 
 [script\_linearregression\_basics.R](https://drive.google.com/open?id=1pB0o81aUJpBetvYpmmj2SE0QPgwpJQ51\&usp=drive\_fs)
 
+## Sample regression estimations
+
+[regression estimations](https://docs.google.com/spreadsheets/d/1322q6oVt5OwSW2e1coGopkGu8wvqMsDL/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true) ➜ File ➜ Make a copy&#x20;
+
 ## Slides
 
 {% embed url="https://docs.google.com/presentation/d/16v4ZKqgEw2Ah0i0g9jC8Ex1WY3rMvjPi?rtpof=true&usp=drive_fs" %}
