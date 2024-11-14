@@ -26,8 +26,7 @@ layout:
 
 ## Assignment
 
-* [Instructions](https://docs.google.com/document/d/1ZgEUBBeyIBRs\_VN62BnR37EaFHJvoza7/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
-* [Submission form](https://docs.google.com/document/d/1ZcPxNfYU9xirNoAyqRw5-vbK-IdAc4\_h/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
+* [Instructions](https://docs.google.com/document/d/1ZcPxNfYU9xirNoAyqRw5-vbK-IdAc4\_h/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
 
 ## Video
 
