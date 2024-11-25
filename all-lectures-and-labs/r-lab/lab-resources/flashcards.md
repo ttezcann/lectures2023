@@ -57,7 +57,7 @@ Make sure you have a RStudio Cloud account. Otherwise, get one and install all t
 
 4. **Uploading R script files 2:** Click “Choose File.” Find the R script file you just downloaded (script\_descriptive.R) in the previous step, click “Open” and "OK."
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 5. **Opening R script files:** The file is uploaded and at the bottom of the "Files" list (see highlighted part #1). When you click on it, the descriptive R script file will open (see highlighted part #2).
 
@@ -65,11 +65,11 @@ Make sure you have a RStudio Cloud account. Otherwise, get one and install all t
 
 6. **Installing and loading packages:** Whenever we open RStudio, we highlight all the lines under the “Install and load packages” (see highlighted part #1) and click run (see highlighted part #2).
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 7. **Loading data:** When the process of installing and loading packages is completed, we highlight all the lines under the “Load data” (see highlighted part #1) and click “Run” (see highlighted part #2).  When you see “gss” and “key” (see highlighted part #3), it means we successfully installed and loaded the packages, and loaded the GSS data.
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 8. **Running the analysis codes:** We highlight the codes (see highlighted part #1) and click “Run” (see highlighted part #2). Clicking “Run” generates the analysis (see highlighted part #3).
 
@@ -149,9 +149,9 @@ The lab assignments will ask you to paste the code for specific questions. Write
 
 Whenever we run an analysis with a different variable, we create a model code and a working code.
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 This is a view from the [Code templates](https://ttezcan.gitbook.io/lect/all-lectures-and-labs/r-lab/lab-resources/code-templates) page. Triple click the code and copy, or click "Copy" (see the highlighted part).
 
@@ -159,7 +159,7 @@ This is a view from the [Code templates](https://ttezcan.gitbook.io/lect/all-lec
 
 If we don’t use model code for comparison, it is likely that we accidentally delete something extra. In this example, the comma was deleted.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="273"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="273"><figcaption></figcaption></figure>
 
 Instead, we keep the use model code and compare it with our working code. Here we clearly see that the comma is missing in line 79. Note that RStudio warns us that something is wrong with that red cross.
 
@@ -191,7 +191,7 @@ For multiple lines, we highlight the codes with mouse.
 
 Here's what happens if we don't:
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 It simply shows what we highlighted and run (check the console part), not the analysis (check the plots part).
 
@@ -207,7 +207,7 @@ Typing notes on our R script files is encouraged. When we type a note, we must p
 
 While line 29 will work, line 27 won’t. Here RStudio warns us that there is something wrong. Look at the red cross on line 27. When there is a red cross on the left side of the line number, there is something wrong with our codes.
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ***
 
@@ -257,7 +257,7 @@ When we want to display, for example, the frequency distribution of a recoded (n
 
 This is because, for our analysis, the original variable is no longer relevant. We recoded the original variable and created a new one for our analysis needs.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ***
 
@@ -269,7 +269,7 @@ It becomes <mark style="color:red;">CATEGORICAL</mark> because we have merged th
 
 Therefore, for example, we use the <mark style="color:red;">FRQ</mark> code to see the frequency distribution.
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ***
 
@@ -295,7 +295,7 @@ Use the [Code templates](https://ttezcan.gitbook.io/lect/all-lectures-and-labs/r
 
 If variables are misplaced in the codes and have overwritten the original values, we have to “Load GSS” again, because we lost the values of the original variable and we need a fresh data.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ***
 
@@ -375,7 +375,7 @@ We refer to statistical significance as <mark style="color:red;">p < 0.05</mark>
 ### 3. GSS codebooks
 
 * [GSS 2022 Codebook website](https://gssdataexplorer.norc.org/variables/vfilter)
-* [GSS 2022 Codebook pdf file](https://drive.google.com/open?id=1\_-FMP3vDlPOiD1\_KKkZjEIy3KNnnYOSP\&usp=drive\_fs)
+* [GSS 2022 Codebook pdf file](https://drive.google.com/open?id=1_-FMP3vDlPOiD1_KKkZjEIy3KNnnYOSP\&usp=drive_fs)
 
 ***
 
@@ -422,7 +422,7 @@ This may happen if your RStudio Cloud session consumes too much ram.
 
 3. Click "Download"
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 4. It will download a zip file.
 5. Go to your new account.
@@ -462,7 +462,7 @@ You can download R and RStudio to your personal computer.  "Install and load pac
 
 #### Mac Users (macOS 12+) and older Intel Macs:
 
-1\. [Download R ](https://cran.r-project.org/bin/macosx/big-sur-x86\_64/base/R-4.4.1-x86\_64.pkg)(4.4.1)
+1\. [Download R ](https://cran.r-project.org/bin/macosx/big-sur-x86_64/base/R-4.4.1-x86_64.pkg)(4.4.1)
 
 2\. [Download RStudio ](https://download1.rstudio.org/electron/macos/RStudio-2024.04.2-764.dmg)(2024.04.2+764)
 

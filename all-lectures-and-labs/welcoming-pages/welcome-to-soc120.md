@@ -20,13 +20,13 @@ layout:
 
 Welcome to SOC120 - Thinking Sociologically!
 
-My name is Tolga Tezcan, associate professor of sociology, and I'm your instructor. [You can check my CV here](https://docs.google.com/document/d/16HdRvPXse\_88mQysbXL6SdoQP2MEhRmX/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true).
+My name is Tolga Tezcan, associate professor of sociology, and I'm your instructor. [You can check my CV here](https://docs.google.com/document/d/16HdRvPXse_88mQysbXL6SdoQP2MEhRmX/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true).
 
 This page will make you familiar with the course, structure, what to expect, and some other important information.
 
 ## <mark style="color:orange;">Syllabus</mark>
 
-[The syllabus is here](https://docs.google.com/document/d/1JLnX1pb4TBc\_GKwAMISYzYRnGAjPGhzn/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true), also under the "Resources" page of Canvas (The first module).
+[The syllabus is here](https://docs.google.com/document/d/1JLnX1pb4TBc_GKwAMISYzYRnGAjPGhzn/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true), also under the "Resources" page of Canvas (The first module).
 
 Read the syllabus before the first class and bring me your questions.
 
@@ -66,7 +66,7 @@ Assignments with a \[fw] code (except for the syllabus quiz) can be resubmitted 
 
 ## <mark style="color:orange;">Deadlines</mark>
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. After the deadline has passed, Canvas will automatically give a zero, but students are granted <mark style="color:red;">one (1) additional (flexibility) day</mark> to submit their work without a deduction.
 2. Once the assignment deadline and the flexibility day has passed, students are granted an additional two-day window to submit their work.  <mark style="color:red;">A 20% deduction</mark> will be applied for the first day of delay, and <mark style="color:red;">a 30% deduction</mark> in total for the second day of delay.

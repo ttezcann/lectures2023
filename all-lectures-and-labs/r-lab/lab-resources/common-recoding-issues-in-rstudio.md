@@ -26,7 +26,7 @@ When we want to display, for example, the frequency distribution of a recoded (n
 
 This is because, for our analysis, the original variable is no longer relevant. We recoded the original variable and created a new one for our analysis needs.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 
 
@@ -38,7 +38,7 @@ It becomes <mark style="color:red;">CATEGORICAL</mark> because we have merged th
 
 Therefore, for example, we use the <mark style="color:red;">FRQ</mark> code to see the frequency distribution.
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 
 

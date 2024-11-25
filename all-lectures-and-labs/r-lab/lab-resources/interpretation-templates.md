@@ -22,7 +22,7 @@ Use "[Variables in GSS](https://ttezcan.gitbook.io/lect/all-lectures-and-labs/r-
 
 **Example 1:**&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:green;">Correct:</mark> <mark style="color:orange;">The perceived discrimination at work because of age</mark> <mark style="color:orange;">variable</mark> shows that 7.93% of the respondents feel discriminated at work because of age and 92.07% do not.
 
@@ -63,7 +63,7 @@ Use "[Variables in GSS](https://ttezcan.gitbook.io/lect/all-lectures-and-labs/r-
 [The respondents' marital status variable](#user-content-fn-5)[^5] shows that 41.43%[^6] of the respondents are married;[^7] 7.23% of the respondents are widowed; 17.23% of the respondents are divorced; 2.92% of the respondents are separated; 31.20% of the respondents are never married.
 {% endhint %}
 
-Slides: [descriptive statistics](https://docs.google.com/presentation/d/1\_rePJrPIl7rwTEy3pfbrZopgWMFoamw0/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
+Slides: [descriptive statistics](https://docs.google.com/presentation/d/1_rePJrPIl7rwTEy3pfbrZopgWMFoamw0/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
 
 ***
 
@@ -80,7 +80,7 @@ Slides: [descriptive statistics](https://docs.google.com/presentation/d/1\_rePJr
 [The age in years variable](#user-content-fn-11)[^11] shows that the average age of the respondents is 49.18[^12], with standard deviation 17.97[^13].
 {% endhint %}
 
-Slides: [descriptive statistics](https://docs.google.com/presentation/d/1\_rePJrPIl7rwTEy3pfbrZopgWMFoamw0/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
+Slides: [descriptive statistics](https://docs.google.com/presentation/d/1_rePJrPIl7rwTEy3pfbrZopgWMFoamw0/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
 
 ## Descriptive tables 2 (for computed variables)
 
@@ -88,7 +88,7 @@ Slides: [descriptive statistics](https://docs.google.com/presentation/d/1\_rePJr
 descr(gss$hapindex, out = "v", show = "short")
 ```
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Indicate the highest possible score in your interpretation <mark style="color:red;">➜ "Out of 3", "Out of 5", etc.</mark>
 
@@ -120,7 +120,7 @@ Independent variable first (sex), dependent variable second (health)
 Respondents' sex has NO effect on the condition of health since the p value is HIGHER than 0.05. We can conclude that males and females have similar health conditions.
 {% endhint %}
 
-Slides: [chisquare](https://docs.google.com/presentation/d/11QlkxBoIM\_-wIoBTLYtdXxaELvX664VD/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
+Slides: [chisquare](https://docs.google.com/presentation/d/11QlkxBoIM_-wIoBTLYtdXxaELvX664VD/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
 
 ## Chi-square (example 2)
 
@@ -144,7 +144,7 @@ Independent variable first (agegroups), dependent variable second (health)
 Age group has an effect on the condition of health since the p value is LESS than 0.05. We can conclude that 18-39 age group, 40-59 age group, and 60-89 age group have substantially different health conditions.
 {% endhint %}
 
-Slides: [chisquare](https://docs.google.com/presentation/d/11QlkxBoIM\_-wIoBTLYtdXxaELvX664VD/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
+Slides: [chisquare](https://docs.google.com/presentation/d/11QlkxBoIM_-wIoBTLYtdXxaELvX664VD/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
 
 ***
 
@@ -166,7 +166,7 @@ Dependent variable first (conrinc), independent variable second (sex)
 The average personal income in dollars of males is $49,306, while the average personal income in dollars of females is $35,277. personal income in dollars differs by respondents' sex in a statistically significant way since the p-value is LESS than 0.05
 {% endhint %}
 
-Slides: [ttest](https://docs.google.com/presentation/d/11hFYVZ3y8pig6n8SkDDnZYk\_AoqY2-t9/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
+Slides: [ttest](https://docs.google.com/presentation/d/11hFYVZ3y8pig6n8SkDDnZYk_AoqY2-t9/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
 
 ## T-test (example 2)
 
@@ -186,7 +186,7 @@ Dependent variable first (educ), independent variable second (sex)
 The average education in years of males is 14.08 year, while the average education in years of females 14.15 year. Education in years does not differ by respondents' sex in a statistically significant way since the p-value is HIGHER than 0.05
 {% endhint %}
 
-Slides: [ttest](https://docs.google.com/presentation/d/11hFYVZ3y8pig6n8SkDDnZYk\_AoqY2-t9/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
+Slides: [ttest](https://docs.google.com/presentation/d/11hFYVZ3y8pig6n8SkDDnZYk_AoqY2-t9/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
 
 ***
 
@@ -292,7 +292,7 @@ tab_corr (gss[, c("sei10", "spsei10")],
 wrap.labels = 30, p.numeric = TRUE, triangle="lower", na.deletion = "pairwise")
 ```
 
-<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 There is a significant correlation between the socioeconomic index score of the respondents and the socioeconomic index score of the respondents’ spouses since the p-value is less than .05.&#x20;
@@ -302,7 +302,7 @@ This correlation is positive and moderate since the r-value is 0.404 (between 0.
 This means that the socioeconomic index score of the respondents and the socioeconomic index score of the respondents’ spouses increase and decrease together.
 {% endhint %}
 
-Slides: [correlation](https://docs.google.com/presentation/d/12et6ZrFK7B6pE-Wmlz\_KVawjebAar9rC/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
+Slides: [correlation](https://docs.google.com/presentation/d/12et6ZrFK7B6pE-Wmlz_KVawjebAar9rC/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
 
 ***
 
@@ -313,7 +313,7 @@ tab_corr (gss[, c("tvhours", "usetech")],
 wrap.labels = 30, p.numeric = TRUE, triangle="lower", na.deletion = "pairwise")
 ```
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 There is a significant correlation between television screen time and percentage of time use at work using electronic technologies since the p-value is less than .05.&#x20;
@@ -330,7 +330,7 @@ tab_corr (gss[, c("age", "educ")],
           wrap.labels = 30, p.numeric = TRUE, triangle="lower", na.deletion = "pairwise")
 ```
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 There is no significant correlation between the age of the respondents and the years of education since the p-value is higher than .05.&#x20;
@@ -364,7 +364,7 @@ This correlation is negative and weak since the r-value is -0.11 (less than |0.3
 This means that as the television screen time increases, the percentage of time use at work using electronic technologies decreases, and vice versa.
 {% endhint %}
 
-Slides: [correlation](https://docs.google.com/presentation/d/12et6ZrFK7B6pE-Wmlz\_KVawjebAar9rC/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
+Slides: [correlation](https://docs.google.com/presentation/d/12et6ZrFK7B6pE-Wmlz_KVawjebAar9rC/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
 
 ***
 
@@ -387,7 +387,7 @@ There is no significant correlation between the age of the respondents and the p
 This means that the age of the respondents and the percentage of time use at work using electronic technologies do not increase and decrease together.
 {% endhint %}
 
-Slides: [correlation](https://docs.google.com/presentation/d/12et6ZrFK7B6pE-Wmlz\_KVawjebAar9rC/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
+Slides: [correlation](https://docs.google.com/presentation/d/12et6ZrFK7B6pE-Wmlz_KVawjebAar9rC/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
 
 ***
 
@@ -412,7 +412,7 @@ This correlation is positive and weak since the r-value is 0.24 (less than |0.3|
 This means that television screen time and the age of the respondents increase and decrease together.
 {% endhint %}
 
-Slides: [correlation](https://docs.google.com/presentation/d/12et6ZrFK7B6pE-Wmlz\_KVawjebAar9rC/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
+Slides: [correlation](https://docs.google.com/presentation/d/12et6ZrFK7B6pE-Wmlz_KVawjebAar9rC/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
 
 ***
 
@@ -439,7 +439,7 @@ This correlation is negative and weak since the r-value is -0.15 (less than |0.3
 This means that as the socio-economic index score of the respondents increases, the television screen time decreases, and vice versa.
 {% endhint %}
 
-Slides: [correlation](https://docs.google.com/presentation/d/12et6ZrFK7B6pE-Wmlz\_KVawjebAar9rC/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
+Slides: [correlation](https://docs.google.com/presentation/d/12et6ZrFK7B6pE-Wmlz_KVawjebAar9rC/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
 
 ***
 
@@ -596,13 +596,13 @@ OR
 
 Slides: [linear regression](https://docs.google.com/presentation/d/16v4ZKqgEw2Ah0i0g9jC8Ex1WY3rMvjPi/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
 
-Slides: [dummy variables](https://docs.google.com/presentation/d/1dJenkvbUDQUmX2HIrHWPK8-cYZ9VQQiqOTH2rJS83\_I/edit?usp=sharing)
+Slides: [dummy variables](https://docs.google.com/presentation/d/1dJenkvbUDQUmX2HIrHWPK8-cYZ9VQQiqOTH2rJS83_I/edit?usp=sharing)
 
 ***
 
 ## Logistic regression analysis (with dummy variables)
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image.png" alt="" width="515"><figcaption></figcaption></figure>
 
 ```r
 frq(gss$class, out = "v")
@@ -610,31 +610,127 @@ frq(gss$class, out = "v")
 gss$higherclass <- ifelse(gss$class == 3 | gss$class == 4, 1, 0)
 gss$lowerclass <- ifelse(gss$class == 1 | gss$class == 2, 1, 0)
 
+frq(gss$wrkslf, out = "v")
+
+gss$selfemployed <- ifelse(gss$wrkslf == 1, 1, 0)
+gss$workforsomeoneelse <- ifelse(gss$wrkslf == 2, 1, 0)
+
 frq(gss$race, out = "v")
 
 gss$white <- ifelse(gss$race == 1, 1, 0)
 gss$nonwhite <- ifelse(gss$race == 2 | gss$race == 3, 1, 0)
 
-model4 <- glm(higherclass ~ educ + nonwhite + prestg10, data = gss, family = binomial(link="logit"))
-tab_model(model4, show.std = TRUE, show.ci = FALSE, collapse.se = TRUE, p.style = "stars")
+model1 <- glm(higherclass ~ selfemployed + educ + nonwhite, data = gss, family = binomial(link="logit"))
+tab_model(model1, show.std = TRUE, show.ci = FALSE, collapse.se = TRUE, p.style = "stars")
 ```
 
+{% hint style="info" %}
+Education in years and being non-white are significant predictors of being higher class since the p values are less than 0.05. Being self-employed  is not a significant predictor of being higher class since the p value is less than 0.05.&#x20;
 
+A year increase in education increases the likelihood of being higher class by 1.30 times. Being non-white decreases the likelihood of being higher class by 1.66 times compared to being white.
+
+The strongest predictor of being higher class is education in years (std.Beta=2.10), followed by being non-white (std.Beta=1.25).
+
+The Tjur R-squared value indicates that 12.3% of the variation in being higher class can be explained by education in years and being non-white.
+{% endhint %}
+
+### Logistic regression analysis interpretation breakdown
 
 {% hint style="info" %}
-Education in years, being non-white and occupational prestige score are significant predictors of being higher class since the p values are less than 0.05.&#x20;
+**First paragraph:** \[The significance levels] Mention which variables (“what it measures”) are statistically significant, and which variables are statistically insignificant. Variables with at least one asterisk (\*) are statistically significant
+
+_Education in years and being non-white are significant predictors of being higher class since the p values are less than 0.05. Being self-employed  is not a significant predictor of being higher class since the p value is less than 0.05._&#x20;
+
+**Second paragraph:** \[The explanation of odd ratios] Mention how independent variables increase or decrease the probability of the dependent variable happening, using the “Odd ratios” column. When reporting the Odd ratios, ensure that the sentence includes the units (one unit, score, year, dollars, etc.) of the continuous independent variables. When reporting the Odd ratios of the dummy independent variables, ensure that the sentence mentions the comparison category. When reporting the negative Odd ratios of the dummy independent variables, make sure to divide 1 by the Odd ratios
+
+_A year increase in education increases the likelihood of being higher class by 1.30 times. Being non-white decreases the likelihood of being higher class by 1.66 times compared to being white._
+
+**Third paragraph:** \[The explanation of standardized betas (std.Beta column)] Mention the strongest predictors (variables) of the dependent variable using the “std.Beta” (standardized beta) column in order. When reporting the negative standardized betas of the dummy independent variables, make sure to divide 1 by the standardized betas
+
+_The strongest predictor of being higher class is education in years (std.Beta=2.10), followed by being non-white (std.Beta=1.25)._
+
+**Fourth paragraph:**
+
+_The Tjur R-squared value indicates that 12.3% of the variation in being higher class can be explained by education in years and being non-white._
+{% endhint %}
+
+### Reporting the Odd Ratios of continuous and dummy independent variables
+
+{% hint style="info" %}
+When reporting the odd ratios of continuous independent variables ensure that the sentence includes the units (one unit, score, year, dollars, etc.) of the independent variable. The sentence should end with <mark style="color:red;">times.</mark>
+
+* Independent variable (age - age in <mark style="color:orange;">years</mark> - 18-89 age)&#x20;
+* Dependent variable (higherclass - being higher class)
+
+<mark style="color:orange;">A year</mark> increase in age increases the probability of being higher class by <mark style="color:purple;">1.15</mark> <mark style="color:red;">times</mark>.
 
 
 
-A year increase in education increases the likelihood of being higher class (OR=1.23; std.Beta=1.81). Being non-white decreases the likelihood of being higher class compared to being white (OR=0.62; std.Beta=0.81). One unit increase in occupational prestige score increases the likelihood of being higher class (OR=1.02; std.Beta=1.38).
+* Independent variable (rank - social ranking <mark style="color:orange;">level</mark> - 10: top; 1: bottom)
+* Dependent variable (higherclass - being higher class)
+
+<mark style="color:orange;">A one unit</mark> increase in social ranking level increases the probability of being higher class by <mark style="color:purple;">2.89</mark> <mark style="color:red;">times</mark>.
+
+
+
+When reporting the odd ratios of dummy independent variables, ensure that the sentence includes "being" or "having," as well as the omitted (comparison) dummy variable.&#x20;
+
+This is because creating dummy variables essentially means creating new variables, which changes the information they measure (aka "what it measures").&#x20;
+
+For example, if you create "white" and "non-white" dummy variables based on the "respondents' race" variable, the "white" dummy variable now measures "being white," and the "non-white" dummy variable now measures "being non-white."
+
+* <mark style="color:purple;">Being white</mark> increases the probability of being higher class by <mark style="color:purple;">1.66</mark> <mark style="color:red;">times</mark> <mark style="color:orange;">compared to being non-white</mark>.&#x20;
+{% endhint %}
+
+### Reporting the negative odd ratios and Std.Betas
+
+If the odd ratio is less than 1, it is negative
+
+Negative Odds Ratio =&#x20;
+
+1➗ Odd Ratio
+
+* Type “calculator” on Google
+* Divide 1 by the Odd Ratio
+
+1➗ 0.60 = 1.66
+
+If the odd ratio is less than 1, the standardized beta is also negative:
+
+Negative Std.Beta =
+
+* Divide 1 by the Std.Beta
+
+1➗ Std.Beta
+
+1➗ 0.80 = 1.25
+
+<figure><img src="../../../.gitbook/assets/image (1).png" alt="" width="563"><figcaption></figcaption></figure>
+
+### Reporting of Tjur R-Squared
+
+{% hint style="success" %}
+The Tjur R-Squared shows whether adding additional independent variables improve a logistic regression model or not.
 
 \
-The Tjur R-squared value indicates that 14.1% of the variation in being higher class can be explained by education in years, being non-white and occupational prestige score.
+The Tjur R-Squared  should be reported as a percentage.
+
+Here's a shortcut for converting a number with decimals to a percentage:&#x20;
+
+
+
+If 0.007 is the Tjur R-Squared, then move the dot two times to the right:
+
+0.007 <mark style="color:red;">➜</mark>  0.7%
+
+0.079 <mark style="color:red;">➜</mark> 7.9%
+
+0.172 <mark style="color:red;">➜</mark> 17.2%
 {% endhint %}
 
 Slides: [logistic regression](https://docs.google.com/presentation/d/1SU-hinA8IkjK5FSST6az104y-gQQIpU33i4nFxGKzhk/edit?usp=sharing)
 
-Slides: [dummy variables](https://docs.google.com/presentation/d/1dJenkvbUDQUmX2HIrHWPK8-cYZ9VQQiqOTH2rJS83\_I/edit?usp=sharing)
+Slides: [dummy variables](https://docs.google.com/presentation/d/1dJenkvbUDQUmX2HIrHWPK8-cYZ9VQQiqOTH2rJS83_I/edit?usp=sharing)
 
 [^1]: The “Frequencies” command counts up how many times categories of a variable appears.
 
