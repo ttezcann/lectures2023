@@ -94,7 +94,7 @@
       * [Linear regression basics](all-lectures-and-labs/r-lab/lab-lectures/linear-regression-basics.md)
       * [Dummy variables](all-lectures-and-labs/r-lab/lab-lectures/dummy-variables.md)
       * [Logistic regression](all-lectures-and-labs/r-lab/lab-lectures/logistic-regression.md)
-      * [Linear regression assumptions and diagnostics](all-lectures-and-labs/r-lab/lab-lectures/linear-regression-assumptions-and-diagnostics.md)
+      * [Regression assumptions and diagnostics](all-lectures-and-labs/r-lab/lab-lectures/regression-assumptions-and-diagnostics.md)
     * [Lab resources](all-lectures-and-labs/r-lab/lab-resources/README.md)
       * [How to create RStudio Cloud account and installing all the packages](all-lectures-and-labs/r-lab/lab-resources/how-to-use-rstudio-cloud.md)
       * [How to open and use R script files in RStudio Cloud](all-lectures-and-labs/r-lab/lab-resources/how-to-open-and-use-r-script-files-in-rstudio-cloud.md)
