@@ -747,12 +747,22 @@ gss$var2newname <- ifelse(gss$var1 == 2, 1, 0)
 gss$var3newname <- ifelse(gss$var1 == 3, 1, 0)
 ```
 
-### dummy variable: nominal/ordinal 2 (merging categories)
+### dummy variable: nominal/ordinal 1 (merging categories)
 
 ```r
 gss$var1newname <- ifelse(gss$var1 == 1, 1, 0)
 gss$var2newname <- ifelse(gss$var1 == 2 | gss$var1 == 3 | gss$var1 == 4, 1, 0)
 gss$var3newname <- ifelse(gss$var1 == 5, 1, 0)
+```
+
+### dummy variable: nominal/ordinal 2 (merging categories)
+
+```r
+gss$var1newname <- ifelse(gss$var1 == 1 | gss$var1 == 2, 1, 0)
+gss$var1newname <- ifelse(gss$var1 == 3 | gss$var1 == 4, 1, 0)
+gss$var1newname <- ifelse(gss$var1 == 5 | gss$var1 == 6 | gss$var1 == 7, 1, 0)
+gss$var1newname <- ifelse(gss$var1 == 8 | gss$var1 == 9 | gss$var1 == 10 | gss$var1 == 11, 1, 0)
+gss$var1newname <- ifelse(gss$var1 == 12 | gss$var1 == 13 | gss$var1 == 14 | gss$var1 == 15 | gss$var1 == 16, 1, 0)
 ```
 
 ### dummy variable: continuous
