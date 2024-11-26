@@ -627,7 +627,7 @@ tab_model(model1, show.std = TRUE, show.ci = FALSE, collapse.se = TRUE, p.style 
 {% hint style="info" %}
 Education in years and being non-white are significant predictors of being higher class since the p values are less than 0.05. Being self-employed  is not a significant predictor of being higher class since the p value is less than 0.05.&#x20;
 
-A year increase in education increases the likelihood of being higher class by 1.30 times. Being non-white decreases the likelihood of being higher class by 1.66 times compared to being white.
+A year increase in education increases the probability of being higher class by 1.30 times. Being non-white decreases the probability of being higher class by 1.66 times compared to being white.
 
 The strongest predictor of being higher class is education in years (std.Beta=2.10), followed by being non-white (std.Beta=1.25).
 
@@ -643,7 +643,7 @@ _Education in years and being non-white are significant predictors of being high
 
 **Second paragraph:** \[The explanation of odd ratios] Mention how independent variables increase or decrease the probability of the dependent variable happening, using the “Odd ratios” column. When reporting the Odd ratios, ensure that the sentence includes the units (one unit, score, year, dollars, etc.) of the continuous independent variables. When reporting the Odd ratios of the dummy independent variables, ensure that the sentence mentions the comparison category. When reporting the negative Odd ratios of the dummy independent variables, make sure to divide 1 by the Odd ratios
 
-_A year increase in education increases the likelihood of being higher class by 1.30 times. Being non-white decreases the likelihood of being higher class by 1.66 times compared to being white._
+_A year increase in education increases the probability of being higher class by 1.30 times. Being non-white decreases the probability of being higher class by 1.66 times compared to being white._
 
 **Third paragraph:** \[The explanation of standardized betas (std.Beta column)] Mention the strongest predictors (variables) of the dependent variable using the “std.Beta” (standardized beta) column in order. When reporting the negative standardized betas of the dummy independent variables, make sure to divide 1 by the standardized betas
 
