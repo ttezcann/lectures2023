@@ -24,7 +24,7 @@ On RStudio go to File ➜ Reopen with encoding ➜ Choose UTF-8
 
 
 
-* [Installing the packages](https://drive.google.com/file/d/1dSgvAslE39sRxC\_E08aHIffPipT9um8U/view?usp=sharing)
+* [Installing the packages](https://drive.google.com/file/d/1dSgvAslE39sRxC_E08aHIffPipT9um8U/view?usp=sharing)
 
 ## Lecture scripts
 
@@ -32,20 +32,25 @@ On RStudio go to File ➜ Reopen with encoding ➜ Choose UTF-8
 * [Introduction to scripting](https://drive.google.com/file/d/1ksWH9huWbEYaCsdgToB97rkiw4UPQmf1/view?usp=sharing)
 * [Descriptive statistics](https://drive.google.com/file/d/1qIHculVRo3WjqhQc5W3bYjGJ6iL4F0xR/view?usp=sharing)
 * [Recoding](https://drive.google.com/file/d/1SP0UVJM2YxTt-0DIszBmDNg82R0zjxPO/view?usp=sharing)
-* [Computing](https://drive.google.com/file/d/1VYeQ6ts2fjYeTrN\_fMxW-6yGDn5c2wt1/view?usp=sharing)
+* [Computing](https://drive.google.com/file/d/1VYeQ6ts2fjYeTrN_fMxW-6yGDn5c2wt1/view?usp=sharing)
 * [Chi-square](https://drive.google.com/file/d/1CjOawdrardp48XweOo1ALyZ4Hnl9RYaP/view?usp=sharing)
 * [Sampling](https://drive.google.com/file/d/1DsmU1KFkjlHTkeJrVGc47IWS0vQ5OC9Z/view?usp=sharing)
 * [T-test](https://drive.google.com/file/d/1-MALgYPrMhTOMJuSlvI782b09JSrhp0C/view?usp=sharing)
-* [Visualization](https://drive.google.com/file/d/1L1tOtO6DigVmWPvrjGgdYK\_zd6-piBUb/view?usp=sharing)
+* [Visualization](https://drive.google.com/file/d/1L1tOtO6DigVmWPvrjGgdYK_zd6-piBUb/view?usp=sharing)
 * [Correlation](https://drive.google.com/file/d/1fzydcKVHKVhEp-E3TVSSs0rdpXDQiKWO/view?usp=sharing)
 * [Linear regressio](https://drive.google.com/file/d/1pB0o81aUJpBetvYpmmj2SE0QPgwpJQ51/view?usp=sharing)[n basics](https://drive.google.com/file/d/1pB0o81aUJpBetvYpmmj2SE0QPgwpJQ51/view?usp=sharing)
-* [Dummy variables](https://drive.google.com/file/d/1Q151VBvC3s0SG1R8P9Yb\_0xGSku\_8hkj/view?usp=sharing)
-* [Linear regression assumptions and diagnostics](https://drive.google.com/open?id=1-96PHHYux-ALVWfnfYYGmcQZx91h9743\&usp=drive\_fs)
+* [Dummy variables](https://drive.google.com/file/d/1Q151VBvC3s0SG1R8P9Yb_0xGSku_8hkj/view?usp=sharing)
 * [Logistic regression](https://drive.google.com/file/d/1qC4Rt2CXs6quJEtTtZxkhV27xHXWUJkD/view?usp=sharing)
+* Modeling exercises
+  * [Modeling exercises 1 ](https://drive.google.com/open?id=1_hwhZ5Ayd9IYCtthpHfrS9MddEnHGrCg\&usp=drive_fs)(SBS321 section 1: Tuesday & Thursday 12pm)
+    * the script file will be accessible after the lecture break
+  * [Modeling exercises 2](https://drive.google.com/open?id=1al9H_HicR5JtFz_CHi66908yeNVpvTM1\&usp=drive_fs) (SBS321 section 2: Monday & Wednesday 10am)
+    * the script file will be accessible after the lecture break
+* [Regression assumptions and diagnostics](https://drive.google.com/open?id=1-96PHHYux-ALVWfnfYYGmcQZx91h9743\&usp=drive_fs)
 
 
 
 * [Regression examples](https://drive.google.com/file/d/16A0u7mj-b0mXKNTKsodCmYWF1h1YvwrB/view?usp=sharing)
-* [ESS data](https://drive.google.com/file/d/180417fazglgdwbYqFUHPy\_sf0enYMYfW/view?usp=sharing)
-* [GSS 2022 data](https://drive.google.com/file/d/11olzs5qua2SGHhDo0\_fqi4rj7InAL2Bx/view?usp=sharing)
+* [ESS data](https://drive.google.com/file/d/180417fazglgdwbYqFUHPy_sf0enYMYfW/view?usp=sharing)
+* [GSS 2022 data](https://drive.google.com/file/d/11olzs5qua2SGHhDo0_fqi4rj7InAL2Bx/view?usp=sharing)
 
