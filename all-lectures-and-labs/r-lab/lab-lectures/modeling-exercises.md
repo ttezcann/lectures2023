@@ -16,7 +16,7 @@ layout:
 
 ## Reading
 
-[A Second Chance to Get Causal Inference Right A Classification of Data Science Tasks](https://drive.google.com/file/d/1FAbNAqXvEe7llEcbTP5bXRhJGEUi0yLC/view?usp=sharing)
+[Understanding logistic regression analysis](https://drive.google.com/open?id=1avS7fM-15CZl8Qy1nOv2fcxE0aDE0_xn\&usp=drive_fs)
 
 ## R Script file
 
