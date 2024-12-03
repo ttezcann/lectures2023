@@ -625,7 +625,7 @@ tab_model(model1, show.std = TRUE, show.ci = FALSE, collapse.se = TRUE, p.style 
 ```
 
 {% hint style="info" %}
-Education in years and being non-white are significant predictors of being higher class since the p values are less than 0.05. Being self-employed  is not a significant predictor of being higher class since the p value is less than 0.05.&#x20;
+Education in years and being non-white are significant predictors of being higher class since the p values are less than 0.05. Being self-employed  is not a significant predictor of being higher class since the p value is greater than 0.05.&#x20;
 
 A year increase in education increases the probability of being higher class by 1.30 times. Being non-white decreases the probability of being higher class by 1.66 times compared to being white.
 
@@ -639,7 +639,7 @@ The Tjur R-squared value indicates that 12.3% of the variation in being higher c
 {% hint style="info" %}
 **First paragraph:** \[The significance levels] Mention which variables (“what it measures”) are statistically significant, and which variables are statistically insignificant. Variables with at least one asterisk (\*) are statistically significant
 
-_Education in years and being non-white are significant predictors of being higher class since the p values are less than 0.05. Being self-employed  is not a significant predictor of being higher class since the p value is less than 0.05._&#x20;
+_Education in years and being non-white are significant predictors of being higher class since the p values are less than 0.05. Being self-employed  is not a significant predictor of being higher class since the p value is_ greater _than 0.05._&#x20;
 
 **Second paragraph:** \[The explanation of odd ratios] Mention how independent variables increase or decrease the probability of the dependent variable happening, using the “Odd ratios” column. When reporting the Odd ratios, ensure that the sentence includes the units (one unit, score, year, dollars, etc.) of the continuous independent variables. When reporting the Odd ratios of the dummy independent variables, ensure that the sentence mentions the comparison category. When reporting the negative Odd ratios of the dummy independent variables, make sure to divide 1 by the Odd ratios
 
