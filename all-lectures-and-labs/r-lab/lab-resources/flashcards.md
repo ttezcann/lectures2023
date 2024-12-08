@@ -22,7 +22,9 @@ Maximize your browser window to display the outline on the right side for easier
 
 ## A. Setup
 
-### 1. How to create RStudio Cloud account and installing all the packages
+## 1.&#x20;
+
+### How to create RStudio Cloud account and installing all the packages
 
 #### Video guideline:
 
