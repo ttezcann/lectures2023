@@ -16,13 +16,13 @@ layout:
 
 <figure><img src="../../.gitbook/assets/ss_2024-07-20 17.08.50 8 2.png" alt=""><figcaption></figcaption></figure>
 
-[Click here to see the template you will use](https://docs.google.com/document/d/1uYjqQcxMg7\_ltCZtKSTmkl7utzzVrLYk?rtpof=true\&usp=drive\_fs)
+[Click here to see the template you will use](https://docs.google.com/document/d/1uYjqQcxMg7_ltCZtKSTmkl7utzzVrLYk?rtpof=true\&usp=drive_fs)
 
 Open it and click File -> Copy.
 
 ## Sample final research memo
 
-[Sample final research memo here](https://docs.google.com/document/d/1V3494CCjSAP0pcROGn-3D7SL6Isq0qK\_/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
+[Sample final research memo here](https://docs.google.com/document/d/1V3494CCjSAP0pcROGn-3D7SL6Isq0qK_/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
 
 
 
@@ -63,14 +63,14 @@ You will need to find the full PDF version of the articles. If you do not have a
 4. **Methodology:** In the Methodology section, give an account of how you carried out your research. An experienced researcher should be able to repeat the research and reproduce the results based on this section. Your content analysis should include online newspaper articles, newspaper article comment sections, any social media platforms, YouTube comment sections, blogs, etc. Explain from which media platform you utilized data. What were your data selection criteria? What were the main biases? Describe all your methodological choices. Paste links of the data at the end of this section (Newspaper article, Facebook group, TikTok videos, etc.)
 5. **Results:** The standard approach to this section of a research paper is to present and describe the results in a systematic and detailed way. You will highlight and comment on the themes that emerge from the analysis. More elaborate commentary on the results is restricted to the Discussion and Conclusion section.Clearly state whether you confirm or reject each of your hypotheses. Discuss your initial, axial, and focused codes here, and organize your results based on the focused codes. Remember not to include all your results. You should present and discuss only those findings that relate to your hypotheses and accordingly your research question. Do not just summarize your content; you should direct the reader to the component or components of it that are especially striking from the point of view of your research aim. Try to ask yourself what story you want the content to convey and try to relay that story to your readers. You can create tables and provide some quotations from the content you used.
 6. **Discussion and conclusion:** In the Discussion and Conclusion section, you reflect on the implications of your results for the hypothesis that has driven your research. In other words, how do your results illuminate your hypotheses? The discussion will revolve around whether the hypotheses have been confirmed or not, and, if not, you might speculate about some possible reasons for and the implications of their refutation. You might suggest some ways in which your findings have implications for theories relating to your area of interest. It is valuable to propose areas of further research that are suggested by your findings. Discuss the limitation(s) of this research.
-7. **References (Bibliography):** Cite a minimum of 15 sources (ONLY peer-reviewed journal articles) in APA style. Books, book chapters, or other sources, such as reports found on google or websites, are NOT acceptable.
+7. **References (Bibliography):** Cite a minimum of 12 sources (ONLY peer-reviewed journal articles) in APA style. Books, book chapters, or other sources, such as reports found on google or websites, are NOT acceptable.
 8. **Data sources links:** Paste the links of the data sources (Newspaper articles, Youtube videos, etc.)
 9. **Coding file:** Paste the Google Drive link of your coding file. On Google Drive, right-click on your coding file. Choose “Get link” and “Copy link.” Make sure “anyone with the link” is selected. If I do not have access to this document, you will receive zero for this section.
 10. &#x20;**Self-grade sheet**
 
 ## Template
 
-[Click here to see the template you will use.](https://docs.google.com/document/d/1nwLeaCX5ymmPzQ0NMOv5jTBcfxuJ5MUG\_0xd5bZsxIw/edit?usp=sharing)
+[Click here to see the template you will use.](https://docs.google.com/document/d/1nwLeaCX5ymmPzQ0NMOv5jTBcfxuJ5MUG_0xd5bZsxIw/edit?usp=sharing)
 
 Open it and click File -> Copy.
 
