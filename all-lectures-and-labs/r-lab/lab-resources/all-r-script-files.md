@@ -46,7 +46,7 @@ On RStudio go to File ➜ Reopen with encoding ➜ Choose UTF-8
     * the script file will be accessible after the lecture break
   * [Modeling exercises 2](https://drive.google.com/open?id=1al9H_HicR5JtFz_CHi66908yeNVpvTM1\&usp=drive_fs) (SBS321 section 2: Monday & Wednesday 10am)
     * the script file will be accessible after the lecture break
-* [Regression assumptions and diagnostics](https://drive.google.com/open?id=1-96PHHYux-ALVWfnfYYGmcQZx91h9743\&usp=drive_fs)
+* [Regression assumptions and diagnostics](https://drive.google.com/open?id=1aVjJH18rv5qKdgTuA34ey95WDY8axAuQ\&usp=drive_fs)
 
 
 
