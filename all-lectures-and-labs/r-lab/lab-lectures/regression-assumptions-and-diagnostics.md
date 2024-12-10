@@ -20,7 +20,7 @@ layout:
 
 ## R Script file
 
-[script\_regression\_assumptions\_diagnostics.R](https://drive.google.com/file/d/1-96PHHYux-ALVWfnfYYGmcQZx91h9743/view?usp=sharing)
+[script\_regression\_assumptions\_diagnostics.R](https://drive.google.com/open?id=1aVjJH18rv5qKdgTuA34ey95WDY8axAuQ\&usp=drive_fs)
 
 ## Slides
 
