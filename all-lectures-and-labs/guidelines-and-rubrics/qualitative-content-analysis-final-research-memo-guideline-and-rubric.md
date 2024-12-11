@@ -28,6 +28,10 @@ Open it and click File -> Copy.
 
 Note: Submissions without data analysis that is generated in "Coding your own data for draft research memo" will automatically receive zero.
 
+## Word count
+
+2,500-3,000 words of text, plus bibliography.
+
 ## The goal
 
 The goal of writing a final research paper is to&#x20;
