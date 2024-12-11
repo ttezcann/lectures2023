@@ -16,13 +16,17 @@ layout:
 
 <figure><img src="../../.gitbook/assets/ss_2024-07-20 17.08.50 7.png" alt=""><figcaption></figcaption></figure>
 
-[**Click here to see the template you will use.**](https://docs.google.com/document/d/1uNbySWvROGhAB13w69U4ZFMdBIO-k2RF?rtpof=true\&usp=drive\_fs)
+[**Click here to see the template you will use.**](https://docs.google.com/document/d/1uNbySWvROGhAB13w69U4ZFMdBIO-k2RF?rtpof=true\&usp=drive_fs)
 
 Open it and click File <mark style="color:red;">**->**</mark> Copy.
 
 ## Sample draft research memo
 
-[Sample draft research memo here](https://docs.google.com/document/d/1ztZ\_YJSLWejYitRIhZiJVfkFGMkeU965?rtpof=true\&usp=drive\_fs)
+[Sample draft research memo here](https://docs.google.com/document/d/1ztZ_YJSLWejYitRIhZiJVfkFGMkeU965?rtpof=true\&usp=drive_fs)
+
+## Word count
+
+Minimum 1,000 words of text excluding bibliography.
 
 ## The goal
 
