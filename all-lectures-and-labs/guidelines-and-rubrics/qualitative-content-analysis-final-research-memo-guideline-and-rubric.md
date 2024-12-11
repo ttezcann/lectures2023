@@ -30,7 +30,7 @@ Note: Submissions without data analysis that is generated in "Coding your own da
 
 ## Word count
 
-2,500-3,000 words of text, plus bibliography.
+Minimum 2,500 words of text excluding bibliography.
 
 ## The goal
 
