@@ -74,7 +74,7 @@ You will need to find the full PDF version of the articles. If you do not have a
 
 ## Template
 
-[Click here to see the template you will use.](https://docs.google.com/document/d/1nwLeaCX5ymmPzQ0NMOv5jTBcfxuJ5MUG_0xd5bZsxIw/edit?usp=sharing)
+[Click here to see the template you will use.](https://docs.google.com/document/d/1uYjqQcxMg7_ltCZtKSTmkl7utzzVrLYk/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
 
 Open it and click File -> Copy.
 
