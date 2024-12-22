@@ -16,7 +16,7 @@ layout:
 
 ## <mark style="color:orange;">Synopsis</mark>
 
-When the lecture assignment has a <mark style="color:red;">\[Highlighting and Commenting]</mark> link at the very top, students must annotate the instructions following the guideline below before starting the assignment. Failure to do so will result in a <mark style="color:red;">-10 penalty</mark>.
+Students are encouraged to annotate the instructions following the guideline below before starting the assignment. Highlighting and commenting assignment instructions is optional.
 
 {% hint style="info" %}
 When someone else reads students' comments, they should be able to understand the overall purpose of the assignment and the detailed steps involved.
@@ -40,7 +40,7 @@ All the instructions in an assignment are subject to this procedure.&#x20;
 Do not highlight and comment on your own answers.
 
 {% hint style="info" %}
-Highlighting and commenting should be completed before starting the assignment. Any highlighting and commenting done after completing the sections of the assignment will not be counted, <mark style="color:red;">as it defeats the purpose</mark>.
+Highlighting and commenting should be completed before starting the assignment. Any highlighting and commenting done after completing the sections of the assignment <mark style="color:red;">defeats the purpose</mark>.
 {% endhint %}
 
 ## <mark style="color:orange;">Samples</mark>
@@ -53,9 +53,9 @@ Highlighting and commenting should be completed before starting the assignment. 
 
 ### 2. Step-by-step&#x20;
 
-#### [Sample 3](https://docs.google.com/document/d/1kmMEiGQDtZFmSiCW\_nvS3EaYGgPV5Mka/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
+#### [Sample 3](https://docs.google.com/document/d/1kmMEiGQDtZFmSiCW_nvS3EaYGgPV5Mka/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
 
-#### [Sample ](https://docs.google.com/document/d/1kmMEiGQDtZFmSiCW\_nvS3EaYGgPV5Mka/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)4
+#### [Sample ](https://docs.google.com/document/d/1kmMEiGQDtZFmSiCW_nvS3EaYGgPV5Mka/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)4
 
 ## <mark style="color:orange;">**Instructions**</mark>
 
@@ -70,14 +70,6 @@ Use highlighting and commenting to actively engage with and understand the assig
 3. <mark style="color:orange;">**Review and Reflect:**</mark> After highlighting and commenting, take a moment to review what you have highlighted and commented. This is a good time to ask yourself if the highlighted and commented parts clearly <mark style="color:red;">outline what the assignment entails and what is expected of you</mark>.
 4. <mark style="color:orange;">**Avoid Over-Highlighting whole sections:**</mark> Do not highlight entire paragraphs or pages. The goal is to pinpoint the most important information, not to colorize large sections of text.
 5. <mark style="color:orange;">**Focus on why you are doing this:**</mark> Highlighting and commenting are not just about marking or commenting text — it's about actively engaging with and understanding your assignment. Use it as a tool to enhance your focus and comprehension.
-
-### <mark style="color:orange;">**Rubric**</mark>
-
-This task does not contribute directly to your grade, but failure to effectively highlight and comment as per these guidelines <mark style="color:red;">**may result in a loss of up to 10 points**</mark>. Although all assignments come with clear tasks and are objectively graded, this is the part that will be graded in a semi-subjective way.
-
-The "highlighting and commenting" part of the assignments that appear to have been completed with minimal effort and superficially will lose up to 10 points.&#x20;
-
-It is students' responsibility to demonstrate and convince the instructor that they have thoroughly read and understood the instructions. For instance, if there are explicit instructions to complete a particular section of the assignment and the submission does not comply, points will be deducted for failing to highlight and comment as required.
 
 ## <mark style="color:orange;">How to highlight</mark>
 
