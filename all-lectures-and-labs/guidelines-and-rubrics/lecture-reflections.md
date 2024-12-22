@@ -16,7 +16,7 @@ layout:
 
 ## <mark style="color:orange;">Lecture reflection templates</mark>
 
-Use the lecture reflection template. The lecture reflection templates are at the bottom of this page.
+Use the lecture reflection template files, which are at the bottom of this page.
 
 ## <mark style="color:orange;">Submission</mark>
 
@@ -137,6 +137,8 @@ Submissions followed the criteria above will get full credit for this part.
 
 ## <mark style="color:orange;">Lecture reflection template files</mark>
 
+templates are in alphabetical order:
+
 [abc's of a research project](https://docs.google.com/document/d/11_BypYl5N1eMg7ppG9YCzfZFX8MD9lnO?rtpof=true\&usp=drive_fs)
 
 [analyzing arguments](https://docs.google.com/document/d/1-YOqe2V9Buh7BhkiKsOtV7G4FoEk9YWz?rtpof=true\&usp=drive_fs)
@@ -145,103 +147,103 @@ Submissions followed the criteria above will get full credit for this part.
 
 [common errors of perspective in sociological thinking](https://docs.google.com/document/d/1-awrSyfFT0TuwlqdSUUxkcHW7lDBfdkE?rtpof=true\&usp=drive_fs)
 
-[cf\_contemporary factors influencing critical thinking](https://docs.google.com/document/d/1-dFNKbiLU8LA7Xg_bQRC8CqSCgQuNfal?rtpof=true\&usp=drive_fs)
+[contemporary factors influencing critical thinking](https://docs.google.com/document/d/1-dFNKbiLU8LA7Xg_bQRC8CqSCgQuNfal?rtpof=true\&usp=drive_fs)
 
-[child\_children of immigrants](https://docs.google.com/document/d/10YxtcOxGvb404O5i-lUKk4i69hEuyJM-?rtpof=true\&usp=drive_fs)
+[children of immigrants](https://docs.google.com/document/d/10YxtcOxGvb404O5i-lUKk4i69hEuyJM-?rtpof=true\&usp=drive_fs)
 
-[claim\_claims and evidence](https://docs.google.com/document/d/1-T4kf59vOyxzGQTJvK_xr1ILGLw8Q6Wr?rtpof=true\&usp=drive_fs)
+[claims and evidence](https://docs.google.com/document/d/1-T4kf59vOyxzGQTJvK_xr1ILGLw8Q6Wr?rtpof=true\&usp=drive_fs)
 
-[cod\_content analysis and coding](https://docs.google.com/document/d/1QpORx5cCMF9dCxW9ksaOr2bVC6bGSx-I?rtpof=true\&usp=drive_fs)
+[content analysis and coding](https://docs.google.com/document/d/1QpORx5cCMF9dCxW9ksaOr2bVC6bGSx-I?rtpof=true\&usp=drive_fs)
 
-[conind\_concepts and indicators](https://docs.google.com/document/d/15fZPEDqDEjJ1nleK47kqQeQqFVAGn2NT?rtpof=true\&usp=drive_fs)
+[concepts and indicators](https://docs.google.com/document/d/15fZPEDqDEjJ1nleK47kqQeQqFVAGn2NT?rtpof=true\&usp=drive_fs)
 
-[cons\_conspiracy theories](https://docs.google.com/document/d/1-tfBXSU4hoQOZXRZB40VsCPGh9tZhOZi?rtpof=true\&usp=drive_fs)
+[conspiracy theories](https://docs.google.com/document/d/1-tfBXSU4hoQOZXRZB40VsCPGh9tZhOZi?rtpof=true\&usp=drive_fs)
 
-[crt\_critical thinking](https://docs.google.com/document/d/1-QvgphnFSDIcU5mtJgi4l1TDoXzuB0nT?rtpof=true\&usp=drive_fs)
+[critical thinking](https://docs.google.com/document/d/1-QvgphnFSDIcU5mtJgi4l1TDoXzuB0nT?rtpof=true\&usp=drive_fs)
 
-[datasmr\_data collection in mass media research](https://docs.google.com/document/d/11j_t_l0f1ktn_PK8-VDIaxjf369ik49s?rtpof=true\&usp=drive_fs)
+[data collection in mass media research](https://docs.google.com/document/d/11j_t_l0f1ktn_PK8-VDIaxjf369ik49s?rtpof=true\&usp=drive_fs)
 
-[dev1\_deviance I the role of deviance](https://docs.google.com/document/d/1y4XrCQN3cU5U50nWYyKC2KljiwmTazFM?rtpof=true\&usp=drive_fs)
+[deviance I the role of deviance](https://docs.google.com/document/d/1y4XrCQN3cU5U50nWYyKC2KljiwmTazFM?rtpof=true\&usp=drive_fs)
 
-[dev2\_deviance II explaining deviance](https://docs.google.com/document/d/1g8gn6md7fTga-aJt7coD-xR4qlBi27NQ?rtpof=true\&usp=drive_fs)
+[deviance II explaining deviance](https://docs.google.com/document/d/1g8gn6md7fTga-aJt7coD-xR4qlBi27NQ?rtpof=true\&usp=drive_fs)
 
-[eprestech\_effective presentations](https://docs.google.com/document/d/11uAiomNGC6554iB8lcOOOwid2WjAIGBZ?rtpof=true\&usp=drive_fs)
+[effective presentations](https://docs.google.com/document/d/11uAiomNGC6554iB8lcOOOwid2WjAIGBZ?rtpof=true\&usp=drive_fs)
 
-[eth\_ethical reasoning](https://docs.google.com/document/d/1-zAij4DG__HhwOxXuf2A7T26g0-lxFaz?rtpof=true\&usp=drive_fs)
+[ethical reasoning](https://docs.google.com/document/d/1-zAij4DG__HhwOxXuf2A7T26g0-lxFaz?rtpof=true\&usp=drive_fs)
 
-[evarg\_everyday arguments](https://docs.google.com/document/d/1-VNY-fUFnWatmwoMJUEcutC5RcdZWKL0?rtpof=true\&usp=drive_fs)
+[everyday arguments](https://docs.google.com/document/d/1-VNY-fUFnWatmwoMJUEcutC5RcdZWKL0?rtpof=true\&usp=drive_fs)
 
-[focus\_focus groups](https://docs.google.com/document/d/1qEyF-MZ482JtGnsEYaRyHsLLdaBS9tQI?rtpof=true\&usp=drive_fs)
+[focus groups](https://docs.google.com/document/d/1qEyF-MZ482JtGnsEYaRyHsLLdaBS9tQI?rtpof=true\&usp=drive_fs)
 
-[gconf\_group conflict](https://docs.google.com/document/d/10QoZikufcgTzCVqGBBk22ua9fTEq3y_V?rtpof=true\&usp=drive_fs)
+[group conflict](https://docs.google.com/document/d/10QoZikufcgTzCVqGBBk22ua9fTEq3y_V?rtpof=true\&usp=drive_fs)
 
-[gcont\_group contact](https://docs.google.com/document/d/10LAWllQn-dgtUAZhAZvRSfzQ-JW9v1-K?rtpof=true\&usp=drive_fs)
+[group contact](https://docs.google.com/document/d/10LAWllQn-dgtUAZhAZvRSfzQ-JW9v1-K?rtpof=true\&usp=drive_fs)
 
-[grandp\_grandparental involvement](https://docs.google.com/document/d/11JBz95F2YuPEPUHibG_sqyOdbGjZ2xRT?rtpof=true\&usp=drive_fs)
+[grandparental involvement](https://docs.google.com/document/d/11JBz95F2YuPEPUHibG_sqyOdbGjZ2xRT?rtpof=true\&usp=drive_fs)
 
-[iat\_introduction to assimilation theories](https://docs.google.com/document/d/1082WJqKBH3xRWp1WlhyrGbieRZxGXnbe?rtpof=true\&usp=drive_fs)
+[introduction to assimilation theories](https://docs.google.com/document/d/1082WJqKBH3xRWp1WlhyrGbieRZxGXnbe?rtpof=true\&usp=drive_fs)
 
-icrim\_immigration and crime
+[immigration and crime](https://docs.google.com/document/d/11P8wBhUKRmnrMUtwPAWEaiqKQQwggApF?rtpof=true\&usp=drive_fs)
 
-ingen\_intergenerational relationships
+[intergenerational relationships](https://docs.google.com/document/d/11Iy3pb8jkNhar05Z4t6MO0fGEGN8Wwho?rtpof=true\&usp=drive_fs)
 
-intdata\_introduction to datasets
+[introduction to datasets](https://docs.google.com/document/d/1ZjeWOm7fu6Y0MpszuwfdDdKS9wQwr8JC?rtpof=true\&usp=drive_fs)
 
-intsur\_introduction to survey methodology
+[introduction to survey methodology](https://docs.google.com/document/d/1u7988o1R9i6RxFKRmj0kol62aBWnt7Y-/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
 
-lit1\_literature review I annual review articles and citations
+[literature review I annual review articles and citations](https://docs.google.com/document/d/11ajKKC_KGOvCycNWUeBerYT98IEvohq7?rtpof=true\&usp=drive_fs)
 
-lit2\_literature review II discovery engine
+[literature review II discovery engine](https://docs.google.com/document/d/11f7IfNc7OdaGpo-jVb9G12DFhd59tPVz?rtpof=true\&usp=drive_fs)
 
-marm\_marriage migration and religiosity
+[marriage migration and religiosity](https://docs.google.com/document/d/11TqnFCKzfskIJbrK6SSlP7Vvp6BLS2yK?rtpof=true\&usp=drive_fs)
 
-mignetw\_migrant networks
+[migrant networks](https://docs.google.com/document/d/11GX8aVgY6o21tIILoXPAfnt2N30FERv0?rtpof=true\&usp=drive_fs)
 
-misdis\_misdisinformation
+[misinformation and disinformation](https://docs.google.com/document/d/1-iZIVGUcDRTymiZIbsxqKM0ylqssC5Fv?rtpof=true\&usp=drive_fs)
 
-msmr\_mass and social media research
+[mass and social media research](https://docs.google.com/document/d/11h0Eru1_F3fmqWS9LzsJeDltRHphTJcK?rtpof=true\&usp=drive_fs)
 
-nf\_network-based factors influencing critical thinking
+[network-based factors influencing critical thinking](https://docs.google.com/document/d/1-gngN1HjxZelhUKk8-o4ldTUCJj9xnI_?rtpof=true\&usp=drive_fs)
 
-nonprob\_nonprobability sampling
+[nonprobability sampling](https://docs.google.com/document/d/1KQ1WfRx_lBHyBaoPVbFyw-aFLFewMiQA?rtpof=true\&usp=drive_fs)
 
-nsa\_new and segmented assimilation
+[new and segmented assimilation](https://docs.google.com/document/d/10GpCZiExJDnodxbe3bwQhMMx4xKXEX9F?rtpof=true\&usp=drive_fs)
 
-presentation sessions
+[presentation sessions](https://docs.google.com/document/d/1VRN85pTlTBh-4x_UN0WLjXvdqvxXg5sC?rtpof=true\&usp=drive_fs)
 
-prob\_probability sampling methods
+[probability sampling methods](https://docs.google.com/document/d/1xP-swM4iK8yUqWIqaW3cF3IL1WS3LZg-?rtpof=true\&usp=drive_fs)
 
-prop\_propaganda
+[propaganda](https://docs.google.com/document/d/1-m3zJsLz5JDIqFX9wQSpjHHMDxgHeIV4?rtpof=true\&usp=drive_fs)
 
-qualint\_qualitative interviewing
+[qualitative interviewing](https://docs.google.com/document/d/1U7Y3kHd1yYuaC4nUti1LhukQFhfgaeHy?rtpof=true\&usp=drive_fs)
 
-reseth\_research ethics
+[research ethics](https://docs.google.com/document/d/1QETf-eJa7MOg9gG7vJB24t8j5PCJ3wgy?rtpof=true\&usp=drive_fs)
 
-rm\_return migration
+[return migration](https://docs.google.com/document/d/11PjQVf3yU0OgqYNHDNJ23qKzv5pDpmj5?rtpof=true\&usp=drive_fs)
 
-selfcomp\_selfcompletion questionnaires
+[selfcompletion questionnaires](https://docs.google.com/document/d/1pGQ9FeaaKb3J3xlomPMuqVuRvIJ5GnIJ?rtpof=true\&usp=drive_fs)
 
-seye\_the sociological eye
+[the sociological eye](https://docs.google.com/document/d/1-6o9nt6Xskj-8L7c63x0jJhsOype6sbC?rtpof=true\&usp=drive_fs)
 
-sfact\_scientific sociology, social facts
+[scientific sociology, social facts](https://docs.google.com/document/d/1-N-FhY9ZblIuhyLRbkAycaVtDDBpGSYQ?rtpof=true\&usp=drive_fs)
 
-socbord\_the sociology of border
+[the sociology of border](https://docs.google.com/document/d/11xhoANlh2eXu-C8ecWJeKiTAHEYTiqyX?rtpof=true\&usp=drive_fs)
 
-social class and inequality
+[social class and inequality](https://docs.google.com/document/d/1nFy1NgldT0JSG9nLzmeCm_0KM7oMG6SO?rtpof=true\&usp=drive_fs)
 
-sociden\_social identity of immigrants
+[social identity of immigrants](https://docs.google.com/document/d/11CxZEPCwYDv2BDDogLdPPtMnqBnxM8nF?rtpof=true\&usp=drive_fs)
 
-sociological perspectives on substance abuse
+[sociological perspectives on substance abuse](https://docs.google.com/document/d/1J6dwUfQxMVE0er4SrZ-5A_mNP4HajmIO?rtpof=true\&usp=drive_fs)
 
-spov\_sociology of poverty
+[sociology of poverty](https://docs.google.com/document/d/11O3Fqq96s7mohgVW4UvObaitJewYaSSG?rtpof=true\&usp=drive_fs)
 
-srwh\_social research why and how
+[social research why and how](https://docs.google.com/document/d/11WXSR6mXhh_qCJ_jx4F3cfN1_b-3WRG6?rtpof=true\&usp=drive_fs)
 
-stef\_sociological, theoretical, and empirical foundations
+[sociological, theoretical, and empirical foundations](https://docs.google.com/document/d/1-NXL7kFWG0pKPNnM0I9HZhkYVFJobHPV?rtpof=true\&usp=drive_fs)
 
-strc\_social structure
+[social structure](https://docs.google.com/document/d/1-PRA6bDBkX22e316lCp3D0bCUpBqBBQy?rtpof=true\&usp=drive_fs)
 
-who\_who does migrate
+[who does migrate](https://docs.google.com/document/d/10-a97eE1PQq32981H9iWrnpb_nEGooVy?rtpof=true\&usp=drive_fs)
 
-why\_why do people migrate
+[why do people migrate](https://docs.google.com/document/d/1-zmrvPclH0IEJ-LjVKTHm0tI84XrxmdN?rtpof=true\&usp=drive_fs)
 
