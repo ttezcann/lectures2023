@@ -3,7 +3,7 @@
 * [All lectures and labs](README.md)
   * [Guidelines and rubrics](all-lectures-and-labs/guidelines-and-rubrics/README.md)
     * [Lecture reflections](all-lectures-and-labs/guidelines-and-rubrics/lecture-reflections/README.md)
-      * [Copy of Lecture reflections](all-lectures-and-labs/guidelines-and-rubrics/lecture-reflections/copy-of-lecture-reflections.md)
+      * [Lecture reflection templates](all-lectures-and-labs/guidelines-and-rubrics/lecture-reflections/lecture-reflection-templates.md)
     * [Office hours](all-lectures-and-labs/guidelines-and-rubrics/office-hours.md)
     * [Where are the readings, slides, and lecture videos?](all-lectures-and-labs/guidelines-and-rubrics/where-are-the-readings-slides-and-lecture-videos.md)
     * [How to submit an assignment](all-lectures-and-labs/guidelines-and-rubrics/how-to-submit-an-assignment.md)
