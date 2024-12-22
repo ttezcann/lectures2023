@@ -14,6 +14,18 @@ layout:
 
 # Lecture reflections
 
+## <mark style="color:orange;">Lecture reflection templates</mark>
+
+Use the lecture reflection template. The lecture reflection templates are at the bottom of this page.
+
+## <mark style="color:orange;">Submission</mark>
+
+Submit the copied version of the specific lecture reflection template to "Lecture reflection submission" link on Canvas (located in the "Resources" module, which is the first module).
+
+## <mark style="color:orange;">Deadline</mark>
+
+The deadline for the lecture reflection is the same as that of the lecture's assignment.  Review the 'Late/Missed/Incorrect Work' section of the syllabus.
+
 ## <mark style="color:orange;">Synopsis</mark>
 
 Lecture reflections <mark style="color:red;">(700 words)</mark> are composed of two reflections in a single document:
@@ -27,13 +39,13 @@ Lecture reflections <mark style="color:red;">(700 words)</mark> are composed of 
 
 ## <mark style="color:orange;">Samples</mark>
 
-### [Sample 1](https://docs.google.com/document/d/1fOLQACwMEZ2H3lSTZ4Fez2aJ4w5rWLfr?rtpof=true\&usp=drive\_fs)
+### [Sample 1](https://docs.google.com/document/d/1fOLQACwMEZ2H3lSTZ4Fez2aJ4w5rWLfr?rtpof=true\&usp=drive_fs)
 
-### [Sample 2](https://docs.google.com/document/d/1f4sbOQL3O1OQD2RyqAdWzI67zWa5zE2t?rtpof=true\&usp=drive\_fs)
+### [Sample 2](https://docs.google.com/document/d/1f4sbOQL3O1OQD2RyqAdWzI67zWa5zE2t?rtpof=true\&usp=drive_fs)
 
-### [Sample 3](https://docs.google.com/document/d/1fW7HttQdYYRcmjqbm0MxIftTS3rdwMhp?rtpof=true\&usp=drive\_fs)
+### [Sample 3](https://docs.google.com/document/d/1fW7HttQdYYRcmjqbm0MxIftTS3rdwMhp?rtpof=true\&usp=drive_fs)
 
-### [Sample 4](https://docs.google.com/document/d/1LmnsYbWCXPD6uulJ8z\_UF6CcBCHlfz32?rtpof=true\&usp=drive\_fs)
+### [Sample 4](https://docs.google.com/document/d/1LmnsYbWCXPD6uulJ8z_UF6CcBCHlfz32?rtpof=true\&usp=drive_fs)
 
 {% hint style="info" %}
 There are two guidelines below:&#x20;
@@ -66,9 +78,9 @@ Your question should be comprehensive, requiring multiple follow-up questions. I
 * **NO policy-oriented questions:**  Policy-oriented questions, such as <mark style="color:red;">**“what can we (or society, governments, etc.) do to help,”**</mark> while significant in their own right, are not acceptable in this course as they often assume the existence of certain societal patterns without a prior rigorous understanding and analysis. We must first focus on acquiring an in-depth understanding of societal structures, interactions, and patterns to form well-informed inquiries before we delve into policy considerations or suggestions.
 
 {% hint style="danger" %}
-* Students should not provide direct quotes from the readings, but explain them in your own words **(Otherwise -10 per direct quote)**.
-* Students should not mention the title of the reading **(Otherwise -10)**. For example, “The article of The Past, Present, and Future of Research in Distance Education: Results of a Content Analysis concentrates on….” Instead, type “the reading,” “the article,” etc.
-* Students also need to put the word count (WC) at the end of the post: (WC: 262) **(Otherwise -5)**.
+- Students should not provide direct quotes from the readings, but explain them in your own words **(Otherwise -10 per direct quote)**.
+- Students should not mention the title of the reading **(Otherwise -10)**. For example, “The article of The Past, Present, and Future of Research in Distance Education: Results of a Content Analysis concentrates on….” Instead, type “the reading,” “the article,” etc.
+- Students also need to put the word count (WC) at the end of the post: (WC: 262) **(Otherwise -5)**.
 {% endhint %}
 
 ### <mark style="color:orange;">Reading reflection rubric for grading</mark>
@@ -122,4 +134,56 @@ When composing the lecture video reflections, students should achieve two primar
 Submissions followed the criteria above will get full credit for this part.
 
 
+
+## <mark style="color:orange;">Lecture reflection template files</mark>
+
+[abc's of a research project](https://docs.google.com/document/d/11_BypYl5N1eMg7ppG9YCzfZFX8MD9lnO?rtpof=true\&usp=drive_fs)
+
+[analyzing arguments](https://docs.google.com/document/d/1-YOqe2V9Buh7BhkiKsOtV7G4FoEk9YWz?rtpof=true\&usp=drive_fs)
+
+[asking questions](https://docs.google.com/document/d/1Q1AQ2izEQp_hO2hbJB6M8MKnzc8UvrGw?rtpof=true\&usp=drive_fs)
+
+[common errors of perspective in sociological thinking](https://docs.google.com/document/d/1-awrSyfFT0TuwlqdSUUxkcHW7lDBfdkE?rtpof=true\&usp=drive_fs)
+
+cf\_contemporary factors influencing critical thinking
+
+child\_children of immigrants
+
+claim\_claims and evidence
+
+cod\_content analysis and coding
+
+conind\_concepts and indicators
+
+cons\_conspiracy theories
+
+crt\_critical thinking
+
+datasmr\_data collection in mass media research
+
+dev1\_deviance I the role of deviance
+
+dev2\_deviance II explaining deviance
+
+eprestech\_effective presentations
+
+eth\_ethical reasoning
+
+evarg\_everyday arguments
+
+focus\_focus groups
+
+gconf\_group conflict
+
+gcont\_group contact
+
+grandp\_grandparental involvement
+
+iat\_introduction to assimilation theories
+
+icrim\_immigration and crime
+
+ingen\_intergenerational relationships
+
+intdata\_introduction to datasets
 
