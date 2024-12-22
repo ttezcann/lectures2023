@@ -24,7 +24,7 @@ Submit the copied version of the specific lecture reflection template to "Lectur
 
 ## <mark style="color:orange;">Deadline</mark>
 
-The deadline for the lecture reflection is the same as that of the lecture's assignment.  Review the 'Late/Missed/Incorrect Work' section of the syllabus.
+The deadline for the lecture reflection is the same as that of the lecture's assignment. Review the 'Late/Missed/Incorrect Work' section of the syllabus.
 
 ## <mark style="color:orange;">Synopsis</mark>
 
@@ -145,45 +145,103 @@ Submissions followed the criteria above will get full credit for this part.
 
 [common errors of perspective in sociological thinking](https://docs.google.com/document/d/1-awrSyfFT0TuwlqdSUUxkcHW7lDBfdkE?rtpof=true\&usp=drive_fs)
 
-cf\_contemporary factors influencing critical thinking
+[cf\_contemporary factors influencing critical thinking](https://docs.google.com/document/d/1-dFNKbiLU8LA7Xg_bQRC8CqSCgQuNfal?rtpof=true\&usp=drive_fs)
 
-child\_children of immigrants
+[child\_children of immigrants](https://docs.google.com/document/d/10YxtcOxGvb404O5i-lUKk4i69hEuyJM-?rtpof=true\&usp=drive_fs)
 
-claim\_claims and evidence
+[claim\_claims and evidence](https://docs.google.com/document/d/1-T4kf59vOyxzGQTJvK_xr1ILGLw8Q6Wr?rtpof=true\&usp=drive_fs)
 
-cod\_content analysis and coding
+[cod\_content analysis and coding](https://docs.google.com/document/d/1QpORx5cCMF9dCxW9ksaOr2bVC6bGSx-I?rtpof=true\&usp=drive_fs)
 
-conind\_concepts and indicators
+[conind\_concepts and indicators](https://docs.google.com/document/d/15fZPEDqDEjJ1nleK47kqQeQqFVAGn2NT?rtpof=true\&usp=drive_fs)
 
-cons\_conspiracy theories
+[cons\_conspiracy theories](https://docs.google.com/document/d/1-tfBXSU4hoQOZXRZB40VsCPGh9tZhOZi?rtpof=true\&usp=drive_fs)
 
-crt\_critical thinking
+[crt\_critical thinking](https://docs.google.com/document/d/1-QvgphnFSDIcU5mtJgi4l1TDoXzuB0nT?rtpof=true\&usp=drive_fs)
 
-datasmr\_data collection in mass media research
+[datasmr\_data collection in mass media research](https://docs.google.com/document/d/11j_t_l0f1ktn_PK8-VDIaxjf369ik49s?rtpof=true\&usp=drive_fs)
 
-dev1\_deviance I the role of deviance
+[dev1\_deviance I the role of deviance](https://docs.google.com/document/d/1y4XrCQN3cU5U50nWYyKC2KljiwmTazFM?rtpof=true\&usp=drive_fs)
 
-dev2\_deviance II explaining deviance
+[dev2\_deviance II explaining deviance](https://docs.google.com/document/d/1g8gn6md7fTga-aJt7coD-xR4qlBi27NQ?rtpof=true\&usp=drive_fs)
 
-eprestech\_effective presentations
+[eprestech\_effective presentations](https://docs.google.com/document/d/11uAiomNGC6554iB8lcOOOwid2WjAIGBZ?rtpof=true\&usp=drive_fs)
 
-eth\_ethical reasoning
+[eth\_ethical reasoning](https://docs.google.com/document/d/1-zAij4DG__HhwOxXuf2A7T26g0-lxFaz?rtpof=true\&usp=drive_fs)
 
-evarg\_everyday arguments
+[evarg\_everyday arguments](https://docs.google.com/document/d/1-VNY-fUFnWatmwoMJUEcutC5RcdZWKL0?rtpof=true\&usp=drive_fs)
 
-focus\_focus groups
+[focus\_focus groups](https://docs.google.com/document/d/1qEyF-MZ482JtGnsEYaRyHsLLdaBS9tQI?rtpof=true\&usp=drive_fs)
 
-gconf\_group conflict
+[gconf\_group conflict](https://docs.google.com/document/d/10QoZikufcgTzCVqGBBk22ua9fTEq3y_V?rtpof=true\&usp=drive_fs)
 
-gcont\_group contact
+[gcont\_group contact](https://docs.google.com/document/d/10LAWllQn-dgtUAZhAZvRSfzQ-JW9v1-K?rtpof=true\&usp=drive_fs)
 
-grandp\_grandparental involvement
+[grandp\_grandparental involvement](https://docs.google.com/document/d/11JBz95F2YuPEPUHibG_sqyOdbGjZ2xRT?rtpof=true\&usp=drive_fs)
 
-iat\_introduction to assimilation theories
+[iat\_introduction to assimilation theories](https://docs.google.com/document/d/1082WJqKBH3xRWp1WlhyrGbieRZxGXnbe?rtpof=true\&usp=drive_fs)
 
 icrim\_immigration and crime
 
 ingen\_intergenerational relationships
 
 intdata\_introduction to datasets
+
+intsur\_introduction to survey methodology
+
+lit1\_literature review I annual review articles and citations
+
+lit2\_literature review II discovery engine
+
+marm\_marriage migration and religiosity
+
+mignetw\_migrant networks
+
+misdis\_misdisinformation
+
+msmr\_mass and social media research
+
+nf\_network-based factors influencing critical thinking
+
+nonprob\_nonprobability sampling
+
+nsa\_new and segmented assimilation
+
+presentation sessions
+
+prob\_probability sampling methods
+
+prop\_propaganda
+
+qualint\_qualitative interviewing
+
+reseth\_research ethics
+
+rm\_return migration
+
+selfcomp\_selfcompletion questionnaires
+
+seye\_the sociological eye
+
+sfact\_scientific sociology, social facts
+
+socbord\_the sociology of border
+
+social class and inequality
+
+sociden\_social identity of immigrants
+
+sociological perspectives on substance abuse
+
+spov\_sociology of poverty
+
+srwh\_social research why and how
+
+stef\_sociological, theoretical, and empirical foundations
+
+strc\_social structure
+
+who\_who does migrate
+
+why\_why do people migrate
 
