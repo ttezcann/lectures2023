@@ -137,7 +137,13 @@ Submissions followed the criteria above will get full credit for this part.
 
 ## <mark style="color:orange;">Lecture reflection template files</mark>
 
-templates are in alphabetical order:
+[**first class**](https://docs.google.com/document/d/1ZmOIzfc4xMHIWr6gyFPM_BmekeBeodoe/edit)
+
+[**last class**](https://docs.google.com/document/d/1-plyfPG5JBafttIIA6bNMkF6TU8q1_1r/edit)
+
+
+
+**other templates are in alphabetical order:**
 
 [abc's of a research project](https://docs.google.com/document/d/11_BypYl5N1eMg7ppG9YCzfZFX8MD9lnO?rtpof=true\&usp=drive_fs)
 
