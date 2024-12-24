@@ -21,13 +21,17 @@ layout:
 ## Slides
 
 {% embed url="https://docs.google.com/presentation/d/1e7l-lBs_on_v8KejxhIJ2-U9OwLyapg0?rtpof=true&usp=drive_fs" %}
-[**Downloadable slides here**](https://docs.google.com/presentation/d/1e7l-lBs\_on\_v8KejxhIJ2-U9OwLyapg0?rtpof=true\&usp=drive\_fs)
+[**Downloadable slides here**](https://docs.google.com/presentation/d/1e7l-lBs_on_v8KejxhIJ2-U9OwLyapg0?rtpof=true\&usp=drive_fs)
 {% endembed %}
 
 ## Assignment
 
-[Immigration and crime exercise](https://docs.google.com/document/d/1e9rog1nHUaAx8vxs89fM59wDhiaGi5lw?rtpof=true\&usp=drive\_fs)
+[Immigration and crime exercise](https://docs.google.com/document/d/1e9rog1nHUaAx8vxs89fM59wDhiaGi5lw?rtpof=true\&usp=drive_fs)
 
 ## Video
 
 {% embed url="https://youtu.be/kwF0BP4Zpq8" %}
+
+## Lecture reflection
+
+[Lecture reflection template](https://docs.google.com/document/d/11P8wBhUKRmnrMUtwPAWEaiqKQQwggApF?rtpof=true\&usp=drive_fs)
