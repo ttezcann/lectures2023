@@ -54,3 +54,7 @@ We'll collect our own data during the lecture and run logistic regression analys
 ## Sample lab assignment video
 
 We'll collect our own data during the lecture and run logistic regression analyses, therefore there's no sample lab assignment video. Refer to logistic regression sample lab assignment google doc and video.
+
+## Lecture reflection
+
+[Lecture reflection template](https://docs.google.com/document/d/1Zlirg4bQIfhP5gAasR1nJYrKZYKQa2mw?rtpof=true\&usp=drive_fs)

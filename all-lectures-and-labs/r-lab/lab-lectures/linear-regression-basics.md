@@ -50,4 +50,4 @@ layout:
 
 ## Lecture reflection
 
-Lecture reflection template
+[Lecture reflection template](https://docs.google.com/document/d/1ZissAeyTzkw_fpN3L0pFPG9F8c_iLc_1?rtpof=true\&usp=drive_fs)

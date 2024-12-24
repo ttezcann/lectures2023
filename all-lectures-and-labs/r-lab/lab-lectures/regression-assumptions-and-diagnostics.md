@@ -39,3 +39,7 @@ layout:
 ## Sample lab assignment video
 
 For the lab assignment, you will run the exact same codes provided in the script file without making any changes. The lecture video serves as the lab assignment video
+
+## Lecture reflection
+
+[Lecture reflection template](https://docs.google.com/document/d/1ZjMh-EMs8Dnjw268RLCvrhBEK0iQt7l9?rtpof=true\&usp=drive_fs)
