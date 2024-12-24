@@ -41,6 +41,7 @@
       * [Content analysis and coding with Google Docs](all-lectures-and-labs/lectures/social-research/content-analysis-and-coding-with-google-docs.md)
       * [Effective presentation techniques](all-lectures-and-labs/lectures/social-research/effective-presentation-techniques.md)
       * [Concepts and indicators](all-lectures-and-labs/lectures/social-research/concepts-and-indicators.md)
+      * [Presentations 1](all-lectures-and-labs/lectures/social-research/presentations-1.md)
     * [Immigration](all-lectures-and-labs/lectures/immigration/README.md)
       * [Why do people migrate?](all-lectures-and-labs/lectures/immigration/why-do-people-migrate.md)
       * [Who does migrate?](all-lectures-and-labs/lectures/immigration/who-does-migrate.md)
