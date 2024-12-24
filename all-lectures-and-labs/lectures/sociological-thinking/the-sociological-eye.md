@@ -16,7 +16,7 @@ layout:
 
 ## Reading
 
-[The sociological imagination](https://drive.google.com/file/d/113WEZbjnuSpN-yI-m96Ofs9\_znzwHc7C/view?usp=sharing)
+[The sociological imagination](https://drive.google.com/file/d/113WEZbjnuSpN-yI-m96Ofs9_znzwHc7C/view?usp=sharing)
 
 ## Slides
 
@@ -26,8 +26,12 @@ layout:
 
 ## Assignment
 
-[Participant observation exercise: practicing sociological imagination](https://docs.google.com/document/d/1f0dQ756G824EYOTAV6CPgm8EIO5zK9cJ?rtpof=true\&usp=drive\_fs)
+[Participant observation exercise: practicing sociological imagination](https://docs.google.com/document/d/1f0dQ756G824EYOTAV6CPgm8EIO5zK9cJ?rtpof=true\&usp=drive_fs)
 
 ## Video
 
 {% embed url="https://youtu.be/DZd0V87i_cM" %}
+
+## Lecture reflection
+
+[Lecture reflection template](https://docs.google.com/document/d/1-6o9nt6Xskj-8L7c63x0jJhsOype6sbC?rtpof=true\&usp=drive_fs)
