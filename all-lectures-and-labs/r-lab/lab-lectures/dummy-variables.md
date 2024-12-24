@@ -16,11 +16,11 @@ layout:
 
 ## Reading
 
-[Regression analysis with dummy variables](https://drive.google.com/file/d/1XVY6DkY5qRWzOT1gGY\_M9sXW1fy7YbK8/view?usp=sharing)
+[Regression analysis with dummy variables](https://drive.google.com/file/d/1XVY6DkY5qRWzOT1gGY_M9sXW1fy7YbK8/view?usp=sharing)
 
 ## R Script file
 
-[script\_dummy.R](https://drive.google.com/open?id=1Q151VBvC3s0SG1R8P9Yb\_0xGSku\_8hkj\&usp=drive\_fs)
+[script\_dummy.R](https://drive.google.com/open?id=1Q151VBvC3s0SG1R8P9Yb_0xGSku_8hkj\&usp=drive_fs)
 
 ## Slides
 
@@ -41,6 +41,12 @@ layout:
 [sample lab assignment google doc](https://docs.google.com/document/d/1V-FicIfqEGZZvaZMUAlwe7rDS0crTjQZ/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
 
 {% embed url="https://drive.google.com/open?id=1wLTRSSSjlD0k0N8NKH_noaQirP3wXKve&usp=drive_fs" %}
+
+## Lecture reflection
+
+Lecture reflection template
+
+
 
 
 

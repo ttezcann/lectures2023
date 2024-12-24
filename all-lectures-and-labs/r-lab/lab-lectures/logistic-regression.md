@@ -42,3 +42,6 @@ layout:
 
 {% embed url="https://drive.google.com/open?id=1_QpNbTa98Bw9ch7esnCS6vBTWM1XJ5D8&usp=drive_fs" %}
 
+## Lecture reflection
+
+Lecture reflection template

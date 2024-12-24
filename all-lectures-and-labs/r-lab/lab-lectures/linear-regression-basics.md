@@ -20,7 +20,7 @@ layout:
 
 ## R Script file
 
-[script\_linearregression\_basics.R](https://drive.google.com/open?id=1pB0o81aUJpBetvYpmmj2SE0QPgwpJQ51\&usp=drive\_fs)
+[script\_linearregression\_basics.R](https://drive.google.com/open?id=1pB0o81aUJpBetvYpmmj2SE0QPgwpJQ51\&usp=drive_fs)
 
 ## Sample regression estimations
 
@@ -29,7 +29,7 @@ layout:
 ## Slides
 
 {% embed url="https://docs.google.com/presentation/d/16v4ZKqgEw2Ah0i0g9jC8Ex1WY3rMvjPi?rtpof=true&usp=drive_fs" %}
-[**Downloadable slides here**](https://docs.google.com/presentation/d/16v4ZKqgEw2Ah0i0g9jC8Ex1WY3rMvjPi?rtpof=true\&usp=drive\_fs)
+[**Downloadable slides here**](https://docs.google.com/presentation/d/16v4ZKqgEw2Ah0i0g9jC8Ex1WY3rMvjPi?rtpof=true\&usp=drive_fs)
 {% endembed %}
 
 ## Lab assignment
@@ -42,9 +42,12 @@ layout:
 
 ## Sample lab assignment video
 
-[sample lab assignment google doc](https://docs.google.com/document/d/1ajX4ou8l1TyWwFr6e-KESzkLgeCzyKuB?rtpof=true\&usp=drive\_fs)
+[sample lab assignment google doc](https://docs.google.com/document/d/1ajX4ou8l1TyWwFr6e-KESzkLgeCzyKuB?rtpof=true\&usp=drive_fs)
 
 {% embed url="https://drive.google.com/file/d/1jvxOHQVWbARraibIJJxuE5S3xIsZ2aZo/view?usp=drive_link" %}
 
 
 
+## Lecture reflection
+
+Lecture reflection template

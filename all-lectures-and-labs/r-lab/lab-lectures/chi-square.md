@@ -16,21 +16,21 @@ layout:
 
 ## Reading
 
-[Inferential statistics and chi-square reading](https://drive.google.com/open?id=1-PbcGjr9TGm-9y8Y5-NfsIZr06lRRRr-\&usp=drive\_fs)
+[Inferential statistics and chi-square reading](https://drive.google.com/open?id=1-PbcGjr9TGm-9y8Y5-NfsIZr06lRRRr-\&usp=drive_fs)
 
 ## R Script file
 
-[script\_chisquare.R](https://drive.google.com/open?id=1CjOawdrardp48XweOo1ALyZ4Hnl9RYaP\&usp=drive\_fs)
+[script\_chisquare.R](https://drive.google.com/open?id=1CjOawdrardp48XweOo1ALyZ4Hnl9RYaP\&usp=drive_fs)
 
 ## Slides
 
 {% embed url="https://docs.google.com/presentation/d/11QlkxBoIM_-wIoBTLYtdXxaELvX664VD?rtpof=true&usp=drive_fs" %}
-[**Downloadable slides here**](https://docs.google.com/presentation/d/11QlkxBoIM\_-wIoBTLYtdXxaELvX664VD?rtpof=true\&usp=drive\_fs)
+[**Downloadable slides here**](https://docs.google.com/presentation/d/11QlkxBoIM_-wIoBTLYtdXxaELvX664VD?rtpof=true\&usp=drive_fs)
 {% endembed %}
 
 ## Lab assignment
 
-[Lab assignment](https://docs.google.com/document/d/11HPWcizkd\_-5Xn9oGYYLPkkyLk2CzxFB/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
+[Lab assignment](https://docs.google.com/document/d/11HPWcizkd_-5Xn9oGYYLPkkyLk2CzxFB/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
 
 ## Lecture video
 
@@ -39,3 +39,7 @@ layout:
 ## Lecture assignment video
 
 {% embed url="https://drive.google.com/file/d/1ukE4QvB_d70-OLr2h_lRDKq7g-xMyNjy/view?usp=drive_link" %}
+
+## Lecture reflection
+
+[Lecture reflection template](https://docs.google.com/document/d/1ZiDCND_FaJgPr-BSUpnEeWy3qwayL8x8?rtpof=true\&usp=drive_fs)

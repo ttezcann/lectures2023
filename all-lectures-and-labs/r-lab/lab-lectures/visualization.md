@@ -20,12 +20,12 @@ layout:
 
 ## R Script file
 
-[script\_visualization.R](https://drive.google.com/open?id=1L1tOtO6DigVmWPvrjGgdYK\_zd6-piBUb\&usp=drive\_fs)
+[script\_visualization.R](https://drive.google.com/open?id=1L1tOtO6DigVmWPvrjGgdYK_zd6-piBUb\&usp=drive_fs)
 
 ## Slides
 
 {% embed url="https://docs.google.com/presentation/d/126xQYF33gGKVA_nXDQaGpPy10zXbIDyz?rtpof=true&usp=drive_fs" %}
-[**Downloadable slides here**](https://docs.google.com/presentation/d/126xQYF33gGKVA\_nXDQaGpPy10zXbIDyz?rtpof=true\&usp=drive\_fs)
+[**Downloadable slides here**](https://docs.google.com/presentation/d/126xQYF33gGKVA_nXDQaGpPy10zXbIDyz?rtpof=true\&usp=drive_fs)
 {% endembed %}
 
 ## Lab assignment
@@ -38,7 +38,10 @@ layout:
 
 ## Sample lab assignment video
 
-[sample lab assignment google doc](https://docs.google.com/document/d/18TpgwaABb1w56fsl\_rghBeZx8eER3mxc?rtpof=true\&usp=drive\_fs)
+[sample lab assignment google doc](https://docs.google.com/document/d/18TpgwaABb1w56fsl_rghBeZx8eER3mxc?rtpof=true\&usp=drive_fs)
 
 {% embed url="https://drive.google.com/open?id=1OwZ8hMxRY5taJNCF5i9B6snJu_QTkgP_&usp=drive_fs" %}
 
+## Lecture reflection
+
+[Lecture reflection template](https://docs.google.com/document/d/1ZiTgEYzQmqbdG-J5-8Qz5knG2vkeemy2?rtpof=true\&usp=drive_fs)

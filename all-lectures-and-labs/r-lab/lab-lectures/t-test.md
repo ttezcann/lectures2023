@@ -16,16 +16,16 @@ layout:
 
 Reading
 
-[T-tests](https://drive.google.com/open?id=1-RXHYALU8IVq5fBnROKSLyhqVjGnrSNv\&usp=drive\_fs)
+[T-tests](https://drive.google.com/open?id=1-RXHYALU8IVq5fBnROKSLyhqVjGnrSNv\&usp=drive_fs)
 
 ## R Script file
 
-[script\_ttest.R](https://drive.google.com/open?id=1-MALgYPrMhTOMJuSlvI782b09JSrhp0C\&usp=drive\_fs)
+[script\_ttest.R](https://drive.google.com/open?id=1-MALgYPrMhTOMJuSlvI782b09JSrhp0C\&usp=drive_fs)
 
 ## Slides
 
 {% embed url="https://docs.google.com/presentation/d/11hFYVZ3y8pig6n8SkDDnZYk_AoqY2-t9?rtpof=true&usp=drive_fs" %}
-[**Downloadable slides here**](https://docs.google.com/presentation/d/11hFYVZ3y8pig6n8SkDDnZYk\_AoqY2-t9?rtpof=true\&usp=drive\_fs)
+[**Downloadable slides here**](https://docs.google.com/presentation/d/11hFYVZ3y8pig6n8SkDDnZYk_AoqY2-t9?rtpof=true\&usp=drive_fs)
 {% endembed %}
 
 ## Lab assignment
@@ -40,3 +40,6 @@ Reading
 
 {% embed url="https://drive.google.com/open?id=15y0oDa_VSKk0igiGs08993HZ3YJwuYIU&usp=drive_fs" %}
 
+## Lecture reflection
+
+[Lecture reflection template](https://docs.google.com/document/d/1ZiJcRsvOLroO54VQDN1P7V2rOk8BAfLf?rtpof=true\&usp=drive_fs)
