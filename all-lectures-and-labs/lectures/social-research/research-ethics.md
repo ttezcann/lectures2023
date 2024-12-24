@@ -28,10 +28,14 @@ layout:
 
 IRB vs researchers
 
-[Instructions](https://docs.google.com/document/d/1YSlTVZbSqkTVa6\_llS-nSwT9q3kWP8W0?rtpof=true\&usp=drive\_fs)
+[Instructions](https://docs.google.com/document/d/1YSlTVZbSqkTVa6_llS-nSwT9q3kWP8W0?rtpof=true\&usp=drive_fs)
 
-[Submission form](https://docs.google.com/document/d/1YbFOW\_dq45g7e0NLaYOjJqGNIsJkvfr\_?rtpof=true\&usp=drive\_fs)
+[Submission form](https://docs.google.com/document/d/1YbFOW_dq45g7e0NLaYOjJqGNIsJkvfr_?rtpof=true\&usp=drive_fs)
 
 ## Video
 
 {% embed url="https://youtu.be/PMf-HdJT6po?si=YgTx7SRdmJq5pd06" %}
+
+## Lecture reflection
+
+[Lecture reflection template](https://docs.google.com/document/d/1QETf-eJa7MOg9gG7vJB24t8j5PCJ3wgy?rtpof=true\&usp=drive_fs)

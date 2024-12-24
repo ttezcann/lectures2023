@@ -16,7 +16,7 @@ layout:
 
 ## Reading
 
-[Self-completion questionnaires](https://drive.google.com/file/d/1O1q1s-oPDDUWuZcu6F\_dbL\_kcCG22gkq/view?usp=sharing)
+[Self-completion questionnaires](https://drive.google.com/file/d/1O1q1s-oPDDUWuZcu6F_dbL_kcCG22gkq/view?usp=sharing)
 
 ## Slides
 
@@ -26,8 +26,12 @@ layout:
 
 ## Assignment
 
-* [Instructions](https://docs.google.com/document/d/1ZcPxNfYU9xirNoAyqRw5-vbK-IdAc4\_h/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
+* [Instructions](https://docs.google.com/document/d/1ZcPxNfYU9xirNoAyqRw5-vbK-IdAc4_h/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
 
 ## Video
 
 {% embed url="https://youtu.be/lvA76Q7SV2s" %}
+
+## Lecture reflection
+
+[Lecture reflection template](https://docs.google.com/document/d/1pGQ9FeaaKb3J3xlomPMuqVuRvIJ5GnIJ?rtpof=true\&usp=drive_fs)

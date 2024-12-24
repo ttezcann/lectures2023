@@ -21,7 +21,7 @@ No reading
 ## Slides
 
 {% embed url="https://docs.google.com/presentation/d/1qzQFzlr_vVoNN3sVKqummPYEt2inAxXN?rtpof=true&usp=drive_fs" %}
-[**Downloadable slides here**](https://docs.google.com/presentation/d/1qzQFzlr\_vVoNN3sVKqummPYEt2inAxXN?rtpof=true\&usp=drive\_fs)
+[**Downloadable slides here**](https://docs.google.com/presentation/d/1qzQFzlr_vVoNN3sVKqummPYEt2inAxXN?rtpof=true\&usp=drive_fs)
 {% endembed %}
 
 ## Assignment
@@ -31,3 +31,7 @@ No reading
 ## Video
 
 {% embed url="https://youtu.be/YCULgV4bs-A" %}
+
+## Lecture reflection
+
+[Lecture reflection template](https://docs.google.com/document/d/11uAiomNGC6554iB8lcOOOwid2WjAIGBZ?rtpof=true\&usp=drive_fs)

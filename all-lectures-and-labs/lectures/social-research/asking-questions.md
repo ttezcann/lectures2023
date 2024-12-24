@@ -16,12 +16,12 @@ layout:
 
 ## Reading
 
-[Asking questions](https://drive.google.com/file/d/1vaOXzMw4dzGbw0\_el9kW3Z59GW0rw-RC/view?usp=sharing)
+[Asking questions](https://drive.google.com/file/d/1vaOXzMw4dzGbw0_el9kW3Z59GW0rw-RC/view?usp=sharing)
 
 ## Slides
 
 {% embed url="https://docs.google.com/presentation/d/1YbQ4LfbJF5UYtguQFNB4WFCyorgV00pq?rtpof=true&usp=drive_fs" %}
-[**Downloadable slides here**](https://docs.google.com/presentation/d/1YbQ4LfbJF5UYtguQFNB4WFCyorgV00pq?rtpof=true\&usp=drive\_fs)
+[**Downloadable slides here**](https://docs.google.com/presentation/d/1YbQ4LfbJF5UYtguQFNB4WFCyorgV00pq?rtpof=true\&usp=drive_fs)
 {% endembed %}
 
 ## Assignment
@@ -31,3 +31,7 @@ layout:
 ## Video
 
 {% embed url="https://youtu.be/Npz4KbX32d0" %}
+
+## Lecture reflection
+
+[Lecture reflection template](https://docs.google.com/document/d/1Q1AQ2izEQp_hO2hbJB6M8MKnzc8UvrGw?rtpof=true\&usp=drive_fs)

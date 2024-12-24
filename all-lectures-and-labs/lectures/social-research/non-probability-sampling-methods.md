@@ -16,7 +16,7 @@ layout:
 
 ## Reading
 
-[Non-probability sampling](https://drive.google.com/open?id=1aGH4f2tALbs02luktW6y7qb2ZG1rw\_QI\&usp=drive\_fs)
+[Non-probability sampling](https://drive.google.com/open?id=1aGH4f2tALbs02luktW6y7qb2ZG1rw_QI\&usp=drive_fs)
 
 ## Slides
 
@@ -31,3 +31,7 @@ layout:
 ## Video
 
 {% embed url="https://youtu.be/FwCL71qA9YQ" %}
+
+## Lecture reflection
+
+[Lecture reflection template](https://docs.google.com/document/d/1KQ1WfRx_lBHyBaoPVbFyw-aFLFewMiQA?rtpof=true\&usp=drive_fs)

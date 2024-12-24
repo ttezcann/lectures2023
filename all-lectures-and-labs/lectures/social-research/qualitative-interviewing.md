@@ -26,8 +26,12 @@ layout:
 
 ## Assignment
 
-[Qualitative interviewing exercise](https://docs.google.com/document/d/1ZD5bMZNAfpmlsuKTktSqOvlpBZ9tuYsH?rtpof=true\&usp=drive\_fs)
+[Qualitative interviewing exercise](https://docs.google.com/document/d/1ZD5bMZNAfpmlsuKTktSqOvlpBZ9tuYsH?rtpof=true\&usp=drive_fs)
 
 ## Video
 
 {% embed url="https://youtu.be/vF2chJNb_lk" %}
+
+## Lecture reflection
+
+[Lecture reflection template](https://docs.google.com/document/d/1U7Y3kHd1yYuaC4nUti1LhukQFhfgaeHy?rtpof=true\&usp=drive_fs)

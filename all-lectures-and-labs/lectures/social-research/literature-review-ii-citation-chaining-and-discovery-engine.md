@@ -16,9 +16,9 @@ layout:
 
 ## Reading
 
-[Visual research discovery using Connected Papers: A use case of blockchain in libraries](https://drive.google.com/open?id=1fzHrLCH7gTgRB2SrUMPAokkHDqmiKj8Q\&usp=drive\_fs)
+[Visual research discovery using Connected Papers: A use case of blockchain in libraries](https://drive.google.com/open?id=1fzHrLCH7gTgRB2SrUMPAokkHDqmiKj8Q\&usp=drive_fs)
 
-<mark style="color:orange;">Optional:</mark> [Searching for information](https://drive.google.com/file/d/1sUX4WP\_jBrIx85Y5HxIBg\_aVZI5CbO00/view?usp=sharing)
+<mark style="color:orange;">Optional:</mark> [Searching for information](https://drive.google.com/file/d/1sUX4WP_jBrIx85Y5HxIBg_aVZI5CbO00/view?usp=sharing)
 
 ## Slides
 
@@ -28,9 +28,12 @@ layout:
 
 ## Assignment
 
-[Citation chaining and discovery engine](https://docs.google.com/document/d/1XtyA14W9timoYDiN\_d3D3CpaD3JJexRr?rtpof=true\&usp=drive\_fs)
+[Citation chaining and discovery engine](https://docs.google.com/document/d/1XtyA14W9timoYDiN_d3D3CpaD3JJexRr?rtpof=true\&usp=drive_fs)
 
 ## Video
 
 {% embed url="https://youtu.be/Pg5D8nPQUuI" %}
 
+## Lecture reflection
+
+[Lecture reflection template](https://docs.google.com/document/d/11f7IfNc7OdaGpo-jVb9G12DFhd59tPVz?rtpof=true\&usp=drive_fs)
