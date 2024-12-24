@@ -22,13 +22,17 @@ layout:
 ## Slides
 
 {% embed url="https://docs.google.com/presentation/d/1bsqj59Dx1n5ZyvR-8u37_l8kuXRb3inr?rtpof=true&usp=drive_fs" %}
-[**Downloadable slides here**](https://docs.google.com/presentation/d/1bsqj59Dx1n5ZyvR-8u37\_l8kuXRb3inr?rtpof=true\&usp=drive\_fs)
+[**Downloadable slides here**](https://docs.google.com/presentation/d/1bsqj59Dx1n5ZyvR-8u37_l8kuXRb3inr?rtpof=true\&usp=drive_fs)
 {% endembed %}
 
 ## Assignment
 
-[Researching assimilation](https://docs.google.com/document/d/1bovBiJkFnmykfRCyvD\_zgLf8jrO5gODR?rtpof=true\&usp=drive\_fs)
+[Researching assimilation](https://docs.google.com/document/d/1bovBiJkFnmykfRCyvD_zgLf8jrO5gODR?rtpof=true\&usp=drive_fs)
 
 ## Video
 
 {% embed url="https://youtu.be/FOKE5dzJEGQ" %}
+
+## Lecture reflection
+
+[Lecture reflection template](https://docs.google.com/document/d/1082WJqKBH3xRWp1WlhyrGbieRZxGXnbe?rtpof=true\&usp=drive_fs)
