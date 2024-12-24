@@ -24,4 +24,4 @@ layout:
 
 ## Lecture reflection
 
-[Lecture reflection template](https://docs.google.com/document/d/1VRN85pTlTBh-4x_UN0WLjXvdqvxXg5sC/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
+[Lecture reflection template](https://docs.google.com/document/d/1VSE1jgdolezR_IidG25YynAIsjXScg-k/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
