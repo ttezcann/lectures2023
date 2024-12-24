@@ -21,13 +21,17 @@ layout:
 ## Slides
 
 {% embed url="https://docs.google.com/presentation/d/1jxG4AVIx0S2ulmVOH2CB01BZct5ORLE2?rtpof=true&usp=drive_fs" %}
-[**Downloadable slides here**](https://docs.google.com/presentation/d/1jxG4AVIx0S2ulmVOH2CB01BZct5ORLE2?rtpof=true\&usp=drive\_fs)
+[**Downloadable slides here**](https://docs.google.com/presentation/d/1jxG4AVIx0S2ulmVOH2CB01BZct5ORLE2?rtpof=true\&usp=drive_fs)
 {% endembed %}
 
 ## Assignment
 
-[Story of addiction](https://docs.google.com/document/d/1k1E3X5gfkFcJJYBEaGitXVTTudOzQDBC?rtpof=true\&usp=drive\_fs)
+[Story of addiction](https://docs.google.com/document/d/1k1E3X5gfkFcJJYBEaGitXVTTudOzQDBC?rtpof=true\&usp=drive_fs)
 
 ## Video
 
 {% embed url="https://youtu.be/KtY2MJ2HyXg" %}
+
+## Lecture reflection
+
+[Lecture reflection template](https://docs.google.com/document/d/1J6dwUfQxMVE0er4SrZ-5A_mNP4HajmIO?rtpof=true\&usp=drive_fs)

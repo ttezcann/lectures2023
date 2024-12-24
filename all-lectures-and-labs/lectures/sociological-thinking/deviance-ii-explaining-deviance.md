@@ -16,12 +16,12 @@ layout:
 
 ## Reading
 
-[Deviance and social control](https://drive.google.com/open?id=1sTMHvG44okMyJIMEqiep1i9Obudjhv2G\&usp=drive\_fs)
+[Deviance and social control](https://drive.google.com/open?id=1sTMHvG44okMyJIMEqiep1i9Obudjhv2G\&usp=drive_fs)
 
 ## Slides
 
 {% embed url="https://docs.google.com/presentation/d/1jIHK6xfGchuk4MOr_e5eRQ92SFrWBJla?rtpof=true&usp=drive_fs" %}
-[**Downloadable slides here**](https://docs.google.com/presentation/d/1jIHK6xfGchuk4MOr\_e5eRQ92SFrWBJla?rtpof=true\&usp=drive\_fs)
+[**Downloadable slides here**](https://docs.google.com/presentation/d/1jIHK6xfGchuk4MOr_e5eRQ92SFrWBJla?rtpof=true\&usp=drive_fs)
 {% endembed %}
 
 ## Assignment
@@ -32,3 +32,6 @@ layout:
 
 {% embed url="https://youtu.be/HTqH2gVbDb4" %}
 
+## Lecture reflection
+
+[Lecture reflection template](https://docs.google.com/document/d/1g8gn6md7fTga-aJt7coD-xR4qlBi27NQ?rtpof=true\&usp=drive_fs)
