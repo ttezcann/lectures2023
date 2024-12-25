@@ -32,7 +32,7 @@ Read the syllabus before the first class and bring me your questions.
 
 ## <mark style="color:orange;">First meeting</mark>
 
-Our first meeting is held on <mark style="color:red;">08/27</mark> - <mark style="color:red;">Tuesday at 10 am</mark> at [CAHSS](https://goo.gl/maps/hYxctdN9tuwBnjuT8) @ 1301.
+Our first meeting is held on <mark style="color:red;">01/21</mark> - <mark style="color:red;">Tuesday at 6 pm</mark> at [CAHSS](https://goo.gl/maps/hYxctdN9tuwBnjuT8) @ 1101.
 
 Please arrive the classroom at least 5 minutes early.
 
@@ -40,29 +40,24 @@ I will explain the class structure, go over the syllabus in detail, and answer y
 
 There will be a **graded attendance quiz**. Make sure to bring an electronic device to take the attendance quiz on Canvas. Ensure you have access to Canvas.&#x20;
 
-If you cannot attend the first class, you have an opportunity to write 700 words lecture reflection to compensate for the missed points.
+If you cannot attend the first class, you have an opportunity to write 700 words lecture reflection to compensate for the missed points. Click on the "\[fw] first class attendance quiz" (module week 1) for further details. You do not need to submit this if you attend the first class.&#x20;
 
 ## <mark style="color:orange;">Assignments for the first class</mark>
 
 There are a couple of assignments associated with the first class.&#x20;
 
-Feel free to submit these assignments during the summer if you wish. I will grade the assignments in 48 hours during the summer.
+Feel free to submit these assignments during the break if you wish. I will grade the assignments in 48 hours during the break.
 
 You can find these assignments under the module named "Week 1."
 
 Assignments with a \[fw] code (except for the syllabus quiz) can be resubmitted unlimited times within the deadline period.&#x20;
 
-* **\[fw] Google Drive assignment (the assignment that must be submitted first)** <mark style="color:red;">(due by 08/28 - 11:59 pm)</mark>
+* **\[fw] Google Drive assignment (the assignment that must be submitted first)** <mark style="color:red;">(due by 01/22 - 11:59 pm)</mark>
   * There is a video instruction for this assignment.
   * This assignment needs to be submitted first. When graded, you will receive a notification email with feedback. Follow the feedback and resubmit it until you receive full credit within the deadline. Without getting full credit from the “Google Drive Assignment” (comes with unlimited attempts within the deadline), students cannot continue the course. Do not submit the rest of the assignments before getting full credit from this assignment.
-* **\[fw] Canvas notification settings assignment** <mark style="color:red;">(due by 08/29 - 11:55 pm)</mark>
-* **\[fw] Google Calendar assignment** <mark style="color:red;">(due by 08/29 - 11:56 pm)</mark>
-  * There is a video instruction for this assignment.
-* **\[fw] Syllabus quiz** <mark style="color:red;">(due by 08/29 - 11:57 pm)</mark>
+* **\[fw] Syllabus quiz** <mark style="color:red;">(due by 01/23 - 11:58 pm)</mark>
   * No resubmission option. No time limit.
-* **\[fw] Introduce yourself** <mark style="color:red;">(due by 08/29 - 11:58 pm)</mark>
-* **\[fw] lecture reflection (first class)** <mark style="color:red;">(due by 08/29 - 11:59 pm)</mark>
-  * You do not need to submit this if you attend the first class. You do not need to submit the rest of the lecture reflections through out the semester if you attend the classes.
+* **\[fw] Introduce yourself** <mark style="color:red;">(due by 01/23 - 11:59 pm)</mark>
 
 ## <mark style="color:orange;">Deadlines</mark>
 
@@ -72,9 +67,9 @@ Assignments with a \[fw] code (except for the syllabus quiz) can be resubmitted 
 2. Once the assignment deadline and the flexibility day has passed, students are granted an additional two-day window to submit their work.  <mark style="color:red;">A 20% deduction</mark> will be applied for the first day of delay, and <mark style="color:red;">a 30% deduction</mark> in total for the second day of delay.
 3. <mark style="color:red;">\*</mark>After three days, the highest possible grade a student can receive for the assignments is 60%.  To receive 60%;&#x20;
 
-* Week 1 - Week 4 assignments must be submitted right after Week 4 (9/24 at 11:59pm)&#x20;
-* Week 5 - Week 10 assignments must be submitted right after Week 10 (11/05 at 11:59pm)&#x20;
-* Week 11 - Week 16 assignments must be submitted right after Week 16 (12/17 at 11:59pm)
+* Week 1 - Week 4 assignments must be submitted before 2/19 at 11:59pm
+* Week 5 - Week 10 assignments must be submitted before 04/02 at 11:59pm
+* Week 11 - Week 16 assignments must be submitted before 05/13 at 11:59pm
 
 ## <mark style="color:orange;">Class structure</mark> <a href="#class-structure" id="class-structure"></a>
 
