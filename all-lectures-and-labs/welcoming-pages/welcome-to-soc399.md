@@ -73,14 +73,14 @@ Assignments with a \[fw] code (except for the syllabus quiz) can be resubmitted 
 
 ## <mark style="color:orange;">Class structure</mark> <a href="#class-structure" id="class-structure"></a>
 
-We have two lectures each week. The first class is lab, the second class is regular lecture.&#x20;
+We have two lectures each week.&#x20;
 
 Below is a sample overview, which includes two lectures:
 
-1. RStudio: Descriptive statistics (lab lecture)
-2. Introduction to survey methodology (regular lecture)
+1. Data collection in mass media research
+2. Content analysis and coding
 
-Each lecture is accompanied by three assignments (indented items are assignments associated with the specific lecture above):
+Each lecture is accompanied by two assignments (indented items are assignments associated with the specific lecture above):
 
 <figure><img src="../../.gitbook/assets/soc120 soc399 modules view edited (1).png" alt=""><figcaption></figcaption></figure>
 
