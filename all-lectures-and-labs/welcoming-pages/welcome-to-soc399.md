@@ -82,7 +82,7 @@ Below is a sample overview, which includes two lectures:
 
 Each lecture is accompanied by three assignments (indented items are assignments associated with the specific lecture above):
 
-<figure><img src="../../.gitbook/assets/soc120 soc399 modules view edited.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/soc120 soc399 modules view edited (1).png" alt=""><figcaption></figcaption></figure>
 
 Click on the lecture names to see the readings, slides, and lecture videos. See [\[Where are the readings, slides, and lecture videos?\]](https://ttezcan.gitbook.io/lectures/all-lectures-and-labs/guidelines-and-rubrics/where-are-the-readings-slides-and-lecture-videos)
 
