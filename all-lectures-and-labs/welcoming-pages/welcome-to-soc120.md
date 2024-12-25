@@ -26,7 +26,7 @@ This page will make you familiar with the course, structure, what to expect, and
 
 ## <mark style="color:orange;">Syllabus</mark>
 
-[The syllabus is here](https://docs.google.com/document/d/1JLnX1pb4TBc_GKwAMISYzYRnGAjPGhzn/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true), also under the "Resources" page of Canvas (The first module).
+[The syllabus is here](https://docs.google.com/document/d/1l1svYV_EpAQy0Exv6_7hRW4afi03-gVX/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true), also under the "Resources" page of Canvas (The first module).
 
 Read the syllabus before the first class and bring me your questions.
 
@@ -109,17 +109,12 @@ During the term, students will be conducting content analysis focusing on any su
 
 Assignments designed to assist students in preparing components of the research memo will be graded under the “Research Memo (30%)” item. These assignments are identified by the label “\[DRM]” (Draft Research Memo), “\[PRES]” (Presentation), or “\[FRM]” (Final Research Memo) in their names.
 
-<figure><img src="../../.gitbook/assets/image (69).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ss_2024-12-24 13.21.19 (1).png" alt=""><figcaption></figcaption></figure>
 
 ## <mark style="color:orange;">Assignment submissions</mark>
 
 1. Assignments should not be attached. For this lecture, students will not download or upload any documents.
-2. Assignments should be submitted to Canvas using Google LTI: [\[How to submit an assignment\]](https://ttezcan.gitbook.io/lectures/all-lectures-and-labs/guidelines-and-rubrics/how-to-submit-an-assignment).
-3. As explained in [\[How to submit an assignment\]](https://ttezcan.gitbook.io/lectures/all-lectures-and-labs/guidelines-and-rubrics/how-to-submit-an-assignment),
-   1. The copied version of the Google Doc assignments must be in the correct weekly subfolders. If they are not, move them: [\[How to move a file in Google Drive\]](https://ttezcan.gitbook.io/lectures/all-lectures-and-labs/guidelines-and-rubrics/how-to-move-a-file-in-google-drive)
-   2. If the name of the weekly subfolders or Google Doc assignments are incorrect. rename them: [\[How to rename a file and folder in Google Drive\]](https://ttezcan.gitbook.io/lectures/all-lectures-and-labs/guidelines-and-rubrics/how-to-rename-a-file-and-folder-in-google-drive)
-4. When the lecture assignment has a [\[Highlighting and Commenting\] ](https://ttezcan.gitbook.io/lectures/all-lectures-and-labs/guidelines-and-rubrics/highlighting-and-commenting-assignment-instructions)link at the very top, students must annotate the instructions following the [\[Highlighting and Commenting\] ](https://ttezcan.gitbook.io/lectures/all-lectures-and-labs/guidelines-and-rubrics/highlighting-and-commenting-assignment-instructions)guideline before starting the assignment; otherwise, they will receive a <mark style="color:red;">-10 penalty</mark>.
-5. When there is “WC” (Word count) under the responses, students must provide the word count of their responses; otherwise, they will receive a <mark style="color:red;">-5 penalty.</mark> Incorrect word counts also receive a <mark style="color:red;">-5 penalty</mark>.
+2. Assignments should be submitted to Canvas using Google LTI: [\[How to submit an assignment\]](https://ttezcan.gitbook.io/lectures/all-lectures-and-labs/guidelines-and-rubrics/how-to-submit-an-assignment): This link is located at the top of each assignment.
 
 ## <mark style="color:orange;">What are the benefits of attending classes?</mark>
 
@@ -142,30 +137,29 @@ Assignments designed to assist students in preparing components of the research 
 
 Students should review their document <mark style="color:red;">before</mark> and <mark style="color:red;">immediately after</mark> submission.
 
-* Assignments submitted to Canvas will be graded, and grades are final.&#x20;
+* Assignments submitted to Canvas will be graded, and grades are final. Do not submit an assignment unless you want to be graded for.
 * There is no resubmission option.&#x20;
 * Assignments should be submitted to Canvas. Assignments via email, message, or Canvas comment are not accepted.&#x20;
-* If there is no document in the weekly subfolder, no credit will be given even if a submission is made that would normally receive full credit.
+* If there is no document in the Google Drive weekly subfolder, no credit will be given even if a submission is made that would normally receive full credit (see item b below).
 
 Some exceptions:
 
-1. **Wrong document submission**:&#x20;
-   1. If students submit a wrong document and <mark style="color:red;">comment "submitted a wrong document</mark>" on the Canvas assignment section before grading, the correct document from their Google Drive week folder will be graded without deduction. Assignments revised or created after the due date do not qualify for this option.
+1. **Wrong document submission:**&#x20;
+   1. If students submit a wrong document and <mark style="color:red;">comment "submitted a wrong document"</mark> on the Canvas assignment section before grading, the correct document from their Google Drive week folder will be graded without deduction. Assignments revised or created after the due date do not qualify for this option.
    2. If no comment is made and the correct document is already in the Google Drive week folder at the time of grading, it will be graded with a <mark style="color:red;">10% deduction</mark>, using Google Doc Version History. Assignments revised or created after the due date do not qualify for this option.
-2. **Submission made but no document in the Google Drive weekly subfolder:**&#x20;
-   1. If submission is made and there is no document in the weekly subfolder, zero will be given and I will contact the student. Upon notification, the student may move the file to the relevant week's subfolder and <mark style="color:red;">type "moved"</mark> in the Canvas comment section of the assignment. The assignment will then be graded with a <mark style="color:red;">10% deduction</mark>. Assignments revised or created after this communication do not qualify for this option.
+2.  **Submission made but no document in the Google Drive weekly subfolder:**&#x20;
+
+    If submission is made and there is no document in the weekly subfolder, zero will be given and I will contact the student. Upon notification, the student may move the file to the relevant week's subfolder and <mark style="color:red;">type "moved"</mark> in the Canvas comment section of the assignment. The assignment will then be graded with a <mark style="color:red;">10% deduction.</mark> Assignments revised or created after this communication do not qualify for this option.
 
 ## <mark style="color:orange;">Late enrollment</mark>
 
 If you are enrolled late in this class, read the syllabus and the welcoming page that was sent through the announcement (check the very top of class Canvas page) immediately. Since you have missed some classes, you can submit lecture reflections to compensate for missed in-class quizzes.&#x20;
 
-As soon as you are enrolled, email me, and I will reasonably adjust the missed deadlines.&#x20;
-
-Start with the assignments under Week 1 (with the “fw” codes) in the order seen on the Canvas module page, then lecture reflections and other assignments.
+As soon as you are enrolled, email me, and I will reasonably adjust the missed deadlines. Start with the assignments under Week 1 (with the “fw” codes) in the order seen on the Canvas module page, then lecture reflections and other assignments.
 
 ## <mark style="color:orange;">Office hours</mark>
 
-1. Tuesdays and Thursdays, 2:00 – 3:00 pm at my office (CAHSS 2306) &&#x20;
+1. Tuesdays and Thursdays, 5:00 – 5:45 pm at my office (CAHSS 2306) &
 2. Before or after my classes
 
 [Schedule a meeting using this link](https://ttezcan.gitbook.io/lectures/all-lectures-and-labs/guidelines-and-rubrics/office-hours)
