@@ -355,12 +355,14 @@ IF the p-value is statistically significant (<0.05);
 
 The order of the variables does not matter.
 
-### (1a) Correlation analysis table (significant positive)
+### (1a) Correlation analysis table (significant p-value, positive correlation)
 
 ```r
 tab_corr (gss[, c("sei10", "spsei10")],
 wrap.labels = 30, p.numeric = TRUE, triangle="lower", na.deletion = "pairwise")
 ```
+
+Read "correlation analysis structure" above first.
 
 <figure><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
@@ -372,16 +374,30 @@ This correlation is positive and moderate since the r-value is 0.404 (between 0.
 This means that the socioeconomic index score of the respondents and the socioeconomic index score of the respondents’ spouses increase and decrease together.
 {% endhint %}
 
+{% hint style="success" %}
+There is a significant correlation between \[what it measures column of variable 1] and \[what it measures column of variable 2] since the p-value is less than .05.&#x20;
+
+This correlation is positive and weak since the r-value is 0.xxx (less than |0.3|).
+
+**OR** This correlation is positive and moderate since the r-value is 0.xxx (between |0.3| and |0.5|).
+
+**OR** This correlation is positive and strong since the r-value is 0.xxx (higher than |0.5|).
+
+This means that  \[what it measures column of variable 1] and \[what it measures column of variable 2] increase and decrease together.
+{% endhint %}
+
 Slides: [correlation](https://docs.google.com/presentation/d/12et6ZrFK7B6pE-Wmlz_KVawjebAar9rC/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
 
 ***
 
-### (1b) Correlation analysis table (significant negative)
+### (1b) Correlation analysis table (significant p-value, negative correlation)
 
 ```r
 tab_corr (gss[, c("tvhours", "usetech")],
 wrap.labels = 30, p.numeric = TRUE, triangle="lower", na.deletion = "pairwise")
 ```
+
+Read "correlation analysis structure" above first.
 
 <figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
@@ -391,6 +407,18 @@ There is a significant correlation between television screen time and percentage
 This correlation is negative and weak since the r-value is -0.111 (less than |0.3|).
 
 This means that as the television screen time increases, the percentage of time use at work using electronic technologies decreases, and vice versa.
+{% endhint %}
+
+{% hint style="success" %}
+There is a significant correlation between \[what it measures column of variable 1] and \[what it measures column of variable 2] since the p-value is less than .05.&#x20;
+
+This correlation is negative and weak since the r-value is -0.xxx (less than |0.3|).
+
+**OR** This correlation is negative and moderate since the r-value is -0.xxx (between |0.3| and |0.5|).
+
+**OR** This correlation is negative and strong since the r-value is -0.xxx (higher than |0.5|).
+
+This means that as \[what it measures column of variable 1] increases \[what it measures column of variable 2] decreases, and vice versa.
 {% endhint %}
 
 ### (1c) Correlation analysis table (insignificant)
