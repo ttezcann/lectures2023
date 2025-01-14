@@ -27,8 +27,9 @@ Here's the order you need to follow:
 5. Read the "full wording of the question", "response set", and "what it measures" column of the variable, and understand what the specific variable is about.
 6. Find the analysis type below (maximize your browser window to display the outline on the right side for easier navigation)
 7. You will see a sample table, a sample interpretation, and an interpretation template.
-8. Copy the sample interpretation or interpretation template, paste into your assignment document, and change inside.
-9. You need to use "what it measures" column when interpreting analyses. Do not use variable names or the text appears on the top of the table in the interpretation.
+8. Check the sample table and read the sample interpretation.
+9. Copy the interpretation template, paste into your assignment document, and change inside.
+   1. You need to use "what it measures" column when interpreting analyses. Do not use variable names or the text appears on the top of the table in the interpretation.
 10. After the "what it measures" column, add the word of "variable" in your interpretation.
 11. You need to use the "response set" or "labels" (as appeared on the analysis tables) in your interpretation.
 12. Depending on the variable, you need to tweak some parts of the interpretation. For example, "_15.4% of the respondents are/have/feel/said/reported"_ etc.
@@ -40,6 +41,10 @@ Here's the order you need to follow:
 
 {% hint style="success" %}
 <mark style="color:green;">Correct:</mark> <mark style="color:orange;">The perceived discrimination at work because of age</mark> <mark style="color:orange;">variable</mark> shows that 7.93% of the respondents feel discriminated at work because of age and 92.07% do not.
+{% endhint %}
+
+{% hint style="success" %}
+<mark style="color:green;">Correct:</mark> <mark style="color:orange;">The perceived discrimination at work because of age</mark> <mark style="color:orange;">variable</mark> shows that 7.93% of the respondents said yes to being discriminated because of age and and 92.07% said no.
 {% endhint %}
 
 {% hint style="danger" %}
@@ -259,7 +264,7 @@ Same as frequency table interpretation
 The \[what it measures column] variable shows that xx.xx% of the respondents are / have / feel / said / reported \[label 1], xx.xx% of the respondents are / have / feel / said / reported \[label 2]...
 {% endhint %}
 
-Slides: [visualization](https://docs.google.com/presentation/d/1j8vQxVYCuG0s96EtUgcvMJoB5jN3wgV5iS-xgMyZKtk/edit?usp=sharing)
+Slides: [visualization](https://docs.google.com/presentation/d/126xQYF33gGKVA_nXDQaGpPy10zXbIDyz?rtpof=true\&usp=drive_fs)
 
 ## Histogram (for continuous variables)
 
@@ -281,7 +286,7 @@ The mean is indicated by _**x**_, the standard deviation is indicated by _**s**_
 The \[what it measures column] variable shows the average \[what it measures column] of the  of the respondents is \[mean], with standard deviation \[SD].
 {% endhint %}
 
-Slides: [visualization](https://docs.google.com/presentation/d/1j8vQxVYCuG0s96EtUgcvMJoB5jN3wgV5iS-xgMyZKtk/edit?usp=sharing)
+Slides: [visualization](https://docs.google.com/presentation/d/126xQYF33gGKVA_nXDQaGpPy10zXbIDyz?rtpof=true\&usp=drive_fs)
 
 ***
 
@@ -315,7 +320,7 @@ When interpreting stacked bar graphs, we generally interpret one label (response
 Of the GSS respondents, xx.xx% are/have/feel/report \[label 1]; xx.xx% are/have/feel/report \[label 2]; xx.xx% are/have/feel/report \[label 3]...
 {% endhint %}
 
-Slides: [visualization](https://docs.google.com/presentation/d/1j8vQxVYCuG0s96EtUgcvMJoB5jN3wgV5iS-xgMyZKtk/edit?usp=sharing)
+Slides: [visualization](https://docs.google.com/presentation/d/126xQYF33gGKVA_nXDQaGpPy10zXbIDyz?rtpof=true\&usp=drive_fs)
 
 ***
 
@@ -337,7 +342,7 @@ Independent variable first (agegroups), dependent variable second (conmedic)
 xx.xx% of the \[label 1 of the independent variable], xx.xx% of the \[label 2 of the independent variable], xx.xx% of the \[label 3  of the independent variable]... are/have/feel/report \[label and what it measures of the dependent variable].
 {% endhint %}
 
-Slides: [visualization](https://docs.google.com/presentation/d/1j8vQxVYCuG0s96EtUgcvMJoB5jN3wgV5iS-xgMyZKtk/edit?usp=sharing)
+Slides: [visualization](https://docs.google.com/presentation/d/126xQYF33gGKVA_nXDQaGpPy10zXbIDyz?rtpof=true\&usp=drive_fs)
 
 ***
 
@@ -696,7 +701,7 @@ OR
 
 Slides: [linear regression](https://docs.google.com/presentation/d/16v4ZKqgEw2Ah0i0g9jC8Ex1WY3rMvjPi/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
 
-Slides: [dummy variables](https://docs.google.com/presentation/d/1dJenkvbUDQUmX2HIrHWPK8-cYZ9VQQiqOTH2rJS83_I/edit?usp=sharing)
+Slides: [dummy variables](https://docs.google.com/presentation/d/14DvMvFfpo0zkmWruZhdPP7KSxzAQ0ViG?rtpof=true\&usp=drive_fs)
 
 ***
 
@@ -828,9 +833,9 @@ If 0.007 is the Tjur R-Squared, then move the dot two times to the right:
 0.172 <mark style="color:red;">➜</mark> 17.2%
 {% endhint %}
 
-Slides: [logistic regression](https://docs.google.com/presentation/d/1SU-hinA8IkjK5FSST6az104y-gQQIpU33i4nFxGKzhk/edit?usp=sharing)
+Slides: [logistic regression](https://docs.google.com/presentation/d/14fc8Ah_rc1DwYrfIhLHDF5PTJZCtVWaj?rtpof=true\&usp=drive_fs)
 
-Slides: [dummy variables](https://docs.google.com/presentation/d/1dJenkvbUDQUmX2HIrHWPK8-cYZ9VQQiqOTH2rJS83_I/edit?usp=sharing)
+Slides: [dummy variables](https://docs.google.com/presentation/d/14DvMvFfpo0zkmWruZhdPP7KSxzAQ0ViG?rtpof=true\&usp=drive_fs)
 
 [^1]: The “Frequencies” command counts up how many times categories of a variable appears.
 
