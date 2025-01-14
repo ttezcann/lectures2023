@@ -131,7 +131,7 @@ Assignments designed to assist students in preparing components of the research 
 2. Do the reading before coming to class.&#x20;
 3. Review the slides before coming to class.&#x20;
 4. Take notes during the class (paper-pen-method).
-5. Watch the lab lecture videos <mark style="color:red;">after class</mark> if you were late or struggled.&#x20;
+5. Watch the lecture videos <mark style="color:red;">after class</mark> if you were late or struggled.&#x20;
 
 ## <mark style="color:orange;">Incorrect submissions</mark>
 
