@@ -86,7 +86,7 @@ _Do not use the text appears in the table. No one would understand what you mean
 <figure><img src="../../../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-[The respondents' marital status variable](#user-content-fn-5)[^5] shows that 41.43%[^6] of the respondents are married;[^7] 7.23% of the respondents are widowed; 17.23% of the respondents are divorced; 2.92% of the respondents are separated; 31.20% of the respondents are never married.
+[<mark style="color:blue;">The respondents' marital status variable</mark>](#user-content-fn-5)[^5] <mark style="color:blue;">shows that</mark> [<mark style="color:blue;">41.43%</mark>](#user-content-fn-6)[^6] <mark style="color:blue;">of the respondents are</mark> [<mark style="color:blue;">married;</mark>](#user-content-fn-7)[^7] <mark style="color:blue;">7.23% of the respondents are widowed; 17.23% of the respondents are divorced; 2.92% of the respondents are separated; 31.20% of the respondents are never married.</mark>
 {% endhint %}
 
 {% hint style="success" %}
@@ -107,7 +107,7 @@ Slides: [descriptive statistics](https://docs.google.com/presentation/d/1_rePJrP
 <figure><img src="../../../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-[The age in years variable](#user-content-fn-11)[^11] shows that the average age of the respondents is 49.18[^12], with standard deviation 17.97[^13].
+[<mark style="color:blue;">The age in years variable</mark>](#user-content-fn-11)[^11] <mark style="color:blue;">shows that the average age of the respondents is</mark> [<mark style="color:blue;">49.18</mark>](#user-content-fn-12)[^12]<mark style="color:blue;">, with standard deviation</mark> [<mark style="color:blue;">17.97</mark>](#user-content-fn-13)[^13]<mark style="color:blue;">.</mark>
 {% endhint %}
 
 {% hint style="success" %}
@@ -129,7 +129,7 @@ Indicate the highest possible score in your interpretation <mark style="color:re
 Indicate the full name of the index variable:
 
 {% hint style="info" %}
-The happiness index score of the respondents is 2.10 out of 3, with standard deviation 0.47.
+<mark style="color:blue;">The happiness index score of the respondents is 2.10 out of 3, with standard deviation 0.47.</mark>
 {% endhint %}
 
 {% hint style="success" %}
@@ -151,7 +151,7 @@ Independent variable first (sex), dependent variable second (health)
 <figure><img src="../../../.gitbook/assets/image (5) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Respondents' sex has no effect on the condition of health since the p-value is higher than 0.05. We can conclude that males and females have similar condition of health.
+<mark style="color:blue;">Respondents' sex has no effect on the condition of health since the p-value is higher than 0.05. We can conclude that males and females have similar condition of health.</mark>
 {% endhint %}
 
 {% hint style="success" %}
@@ -179,7 +179,7 @@ Independent variable first (agegroups), dependent variable second (health)
 <figure><img src="../../../.gitbook/assets/image (6) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Age group has an effect on the condition of health since the p value is less than 0.05. We can conclude that 18-39 age group, 40-59 age group, and 60-89 age group have substantially different health conditions.
+<mark style="color:blue;">Age group has an effect on the condition of health since the p value is less than 0.05. We can conclude that 18-39 age group, 40-59 age group, and 60-89 age group have substantially different health conditions.</mark>
 {% endhint %}
 
 {% hint style="success" %}
@@ -205,7 +205,7 @@ Dependent variable first (educ), independent variable second (sex)
 <figure><img src="../../../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-The average education in years of males is 14.08 year, while the average education in years of females 14.15 year. Education in years does not differ by respondents' sex in a statistically significant way since the p-value is higher than 0.05
+<mark style="color:blue;">The average education in years of males is 14.08 year, while the average education in years of females 14.15 year. Education in years does not differ by respondents' sex in a statistically significant way since the p-value is higher than 0.05.</mark>
 {% endhint %}
 
 {% hint style="success" %}
@@ -229,7 +229,7 @@ Dependent variable first (conrinc), independent variable second (sex)
 <figure><img src="../../../.gitbook/assets/image (7) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-The average personal income in dollars of males is $49,306, while the average personal income in dollars of females is $35,277. Personal income in dollars differs by respondents' sex in a statistically significant way since the p-value is less than 0.05.
+<mark style="color:blue;">The average personal income in dollars of males is $49,306, while the average personal income in dollars of females is $35,277. Personal income in dollars differs by respondents' sex in a statistically significant way since the p-value is less than 0.05.</mark>
 {% endhint %}
 
 {% hint style="success" %}
@@ -252,7 +252,7 @@ plot_frq(gss$marital, type = "bar", geom.colors = "#336699")
 Same as frequency table interpretation
 
 \
-[The marital status variable](#user-content-fn-14)[^14] shows that 41.43%[^15] of the respondents are married;[^16] 7.23% of the respondents are widowed; 17.23% of the respondents are divorced; 2.92% of the respondents are separated; 31.20% of the respondents are never married.
+[<mark style="color:blue;">The marital status variable</mark>](#user-content-fn-14)[^14] <mark style="color:blue;">shows that</mark> [<mark style="color:blue;">41.43%</mark>](#user-content-fn-15)[^15] <mark style="color:blue;">of the respondents are</mark> [<mark style="color:blue;">married;</mark>](#user-content-fn-16)[^16] <mark style="color:blue;">7.23% of the respondents are widowed; 17.23% of the respondents are divorced; 2.92% of the respondents are separated; 31.20% of the respondents are never married.</mark>
 {% endhint %}
 
 {% hint style="success" %}
@@ -274,7 +274,7 @@ Same as descriptive table interpretation.&#x20;
 
 The mean is indicated by _**x**_, the standard deviation is indicated by _**s**_ (at the very top of the figure).
 
-The education in years variable shows that the average education in years of the respondents is 14.11, with standard deviation 2.89.
+<mark style="color:blue;">The education in years variable shows that the average education in years of the respondents is 14.11, with standard deviation 2.89.</mark>
 {% endhint %}
 
 {% hint style="success" %}
@@ -308,7 +308,7 @@ graph + theme(
 When interpreting stacked bar graphs, we generally interpret one label (response):
 
 \
-Of the GSS respondents, 44.2% have a great deal of confidence in the military; 33.4% have a great deal of confidence in medicine; 18.2% in education, 16% in the supreme court; 14.1% in major companies, and 10.4% in the executive branch of government.
+<mark style="color:blue;">Of the GSS respondents, 44.2% have a great deal of confidence in the military; 33.4% have a great deal of confidence in medicine; 18.2% in education, 16% in the supreme court; 14.1% in major companies, and 10.4% in the executive branch of government.</mark>
 {% endhint %}
 
 {% hint style="success" %}
@@ -330,7 +330,7 @@ Independent variable first (agegroups), dependent variable second (conmedic)
 <figure><img src="../../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-30.2% of the 18-39 age group, 32.1% of the 40-59 age group, 38.3% of the 60-89 age group have a great deal of confidence in medicine.
+<mark style="color:blue;">30.2% of the 18-39 age group, 32.1% of the 40-59 age group, 38.3% of the 60-89 age group have a great deal of confidence in medicine.</mark>
 {% endhint %}
 
 {% hint style="success" %}
@@ -367,11 +367,11 @@ Read "correlation analysis structure" above first.
 <figure><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-There is a significant correlation between the socioeconomic index score of the respondents and the socioeconomic index score of the respondents’ spouses since the p-value is less than .05.&#x20;
+<mark style="color:blue;">There is a significant correlation between the socioeconomic index score of the respondents and the socioeconomic index score of the respondents’ spouses since the p-value is less than .05.</mark>&#x20;
 
-This correlation is positive and moderate since the r-value is 0.404 (between 0.3 and 0.5).
+<mark style="color:blue;">This correlation is positive and moderate since the r-value is 0.404 (between 0.3 and 0.5).</mark>
 
-This means that the socioeconomic index score of the respondents and the socioeconomic index score of the respondents’ spouses increase and decrease together.
+<mark style="color:blue;">This means that the socioeconomic index score of the respondents and the socioeconomic index score of the respondents’ spouses increase and decrease together.</mark>
 {% endhint %}
 
 {% hint style="success" %}
@@ -402,11 +402,11 @@ Read "correlation analysis structure" above first.
 <figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-There is a significant correlation between television screen time and percentage of time use at work using electronic technologies since the p-value is less than .05.&#x20;
+<mark style="color:blue;">There is a significant correlation between television screen time and percentage of time use at work using electronic technologies since the p-value is less than .05.</mark>&#x20;
 
-This correlation is negative and weak since the r-value is -0.111 (less than |0.3|).
+<mark style="color:blue;">This correlation is negative and weak since the r-value is -0.111 (less than |0.3|).</mark>
 
-This means that as the television screen time increases, the percentage of time use at work using electronic technologies decreases, and vice versa.
+<mark style="color:blue;">This means that as the television screen time increases, the percentage of time use at work using electronic technologies decreases, and vice versa.</mark>
 {% endhint %}
 
 {% hint style="success" %}
@@ -431,9 +431,15 @@ tab_corr (gss[, c("age", "educ")],
 <figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-There is no significant correlation between the age of the respondents and the years of education since the p-value is higher than .05.&#x20;
+<mark style="color:blue;">There is no significant correlation between the age of the respondents and the years of education since the p-value is higher than .05.</mark>&#x20;
 
-This means that the age of the respondents and the years of education do not increase and decrease together.
+<mark style="color:blue;">This means that the age of the respondents and the years of education do not increase and decrease together.</mark>
+{% endhint %}
+
+{% hint style="success" %}
+There is a no significant correlation between \[what it measures column of variable 1] and \[what it measures column of variable 2] since the p-value is higher than .05.
+
+This means that \[what it measures column of variable 1] and \[what it measures column of variable 2] do not increase and decrease together.
 {% endhint %}
 
 ### (2) Correlation scatterplot graph
@@ -455,11 +461,11 @@ scatterplot + stat_cor(p.accuracy = 0.001, r.accuracy = 0.01)
 Same interpretation as correlation analysis table:\
 
 
-There is a significant correlation between television screen time and percentage of time use at work using electronic technologies since the p-value is less than .05.&#x20;
+<mark style="color:blue;">There is a significant correlation between television screen time and percentage of time use at work using electronic technologies since the p-value is less than .05.</mark>&#x20;
 
-This correlation is negative and weak since the r-value is -0.11 (less than |0.3|).
+<mark style="color:blue;">This correlation is negative and weak since the r-value is -0.11 (less than |0.3|).</mark>
 
-This means that as the television screen time increases, the percentage of time use at work using electronic technologies decreases, and vice versa.
+<mark style="color:blue;">This means that as the television screen time increases, the percentage of time use at work using electronic technologies decreases, and vice versa.</mark>
 {% endhint %}
 
 Slides: [correlation](https://docs.google.com/presentation/d/12et6ZrFK7B6pE-Wmlz_KVawjebAar9rC/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
@@ -480,9 +486,9 @@ tab_corr (gss[, c("sei10", "spsei10", "tvhours", "usetech", "age", "educ", "mara
 {% hint style="info" %}
 Same interpretation as correlation analysis table and scatterplot graph:
 
-There is no significant correlation between the age of the respondents and the percentage of time use at work using electronic technologies since the p-value is higher than .05.&#x20;
+<mark style="color:blue;">There is no significant correlation between the age of the respondents and the percentage of time use at work using electronic technologies since the p-value is higher than .05.</mark>&#x20;
 
-This means that the age of the respondents and the percentage of time use at work using electronic technologies do not increase and decrease together.
+<mark style="color:blue;">This means that the age of the respondents and the percentage of time use at work using electronic technologies do not increase and decrease together.</mark>
 {% endhint %}
 
 Slides: [correlation](https://docs.google.com/presentation/d/12et6ZrFK7B6pE-Wmlz_KVawjebAar9rC/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
@@ -503,11 +509,11 @@ ellipses=F, scale=F, show.points=F, stars=T, ci=T)
 {% hint style="info" %}
 Same interpretation as correlation analysis table and scatterplot graph:
 
-There is a significant correlation between television screen time and the age of the respondents since the p-value is less than .05.&#x20;
+<mark style="color:blue;">There is a significant correlation between television screen time and the age of the respondents since the p-value is less than .05.</mark>&#x20;
 
-This correlation is positive and weak since the r-value is 0.24 (less than |0.3|).
+<mark style="color:blue;">This correlation is positive and weak since the r-value is 0.24 (less than |0.3|).</mark>
 
-This means that television screen time and the age of the respondents increase and decrease together.
+<mark style="color:blue;">This means that television screen time and the age of the respondents increase and decrease together.</mark>
 {% endhint %}
 
 Slides: [correlation](https://docs.google.com/presentation/d/12et6ZrFK7B6pE-Wmlz_KVawjebAar9rC/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
@@ -530,11 +536,11 @@ addCoef.col = 'black', order = 'original', diag = FALSE)$corrPos
 {% hint style="info" %}
 Same interpretation as correlation analysis table and scatterplot graph:
 
-There is a significant correlation between television screen time and socio-economic index score of the respondents since the p-value is less than .05.&#x20;
+<mark style="color:blue;">There is a significant correlation between television screen time and socio-economic index score of the respondents since the p-value is less than .05.</mark>&#x20;
 
-This correlation is negative and weak since the r-value is -0.15 (less than |0.3|).
+<mark style="color:blue;">This correlation is negative and weak since the r-value is -0.15 (less than |0.3|).</mark>
 
-This means that as the socio-economic index score of the respondents increases, the television screen time decreases, and vice versa.
+<mark style="color:blue;">This means that as the socio-economic index score of the respondents increases, the television screen time decreases, and vice versa.</mark>
 {% endhint %}
 
 Slides: [correlation](https://docs.google.com/presentation/d/12et6ZrFK7B6pE-Wmlz_KVawjebAar9rC/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
@@ -543,9 +549,7 @@ Slides: [correlation](https://docs.google.com/presentation/d/12et6ZrFK7B6pE-Wmlz
 
 ## Linear regression analysis
 
-In regression, we explain the effects of independent variables on the dependent variable by estimating how changes in the independent variables are associated with changes in the dependent variable.
-
-\
+In regression, we explain the effects of independent variables on the dependent variable by estimating how changes in the independent variables are associated with changes in the dependent variable.\
 Unlike correlation analysis, regression analysis can be used to determine the direction and strength of a potential causal relationship.
 
 ```r
@@ -553,43 +557,41 @@ model4 <- lm(conrinc ~ god + age + physhlth + educ, data = gss)
 tab_model(model4, show.std = T, show.ci = F, collapse.se = T, p.style = "stars")
 ```
 
-&#x20;Dependent variable (conrinc) first, followed by independent variables separated by a plus (+).
+&#x20;Dependent variable (conrinc) first, followed by the independent variables separated by a plus (+).
 
 <figure><img src="../../../.gitbook/assets/image (4) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
-
-{% hint style="info" %}
-Respondents’ age, days of poor physical health past 30 days, and respondents' education in years are statistically significant predictors of respondents’ personal income since the p values are less than 0.05. Respondent's confidence in the existence of God is not a statistically significant predictor of respondents’ personal income since the p value is greater than 0.05.
-
-A year increase in respondents’ age increases respondents’ personal income by $504. A day increase in poor physical health past 30 days decreases respondents’ personal income by $857. A year increase in the respondents’ education  increases respondents’ personal income by $4,845.&#x20;
-
-The strongest predictor of respondents’ personal income is the respondents' education in years (std.Beta=0.34), followed by respondents’ age (std.Beta=0.17), and the days of poor physical health past 30 days (std.Beta=-0.13).
-
-The adjusted R squared value indicates that 17.2% of the variation in respondents’ personal income can be explained by the respondents’ age, days of poor physical health past 30 days, and respondents' education in years.
-{% endhint %}
 
 ### Linear regression analysis interpretation breakdown
 
 {% hint style="success" %}
-**First paragraph:** \[The significance levels] Mention which variables (“what it measures”) are statistically significant, and which variables are statistically insignificant. Variables with at least one asterisk (\*) are statistically significant.
+**First paragraph:** \[The significance levels] Mention which variables (“what it measures”) are statistically significant (if any), and which variables are statistically insignificant (if any). Variables with at least one asterisk (\*) are statistically significant.
 
-_Respondents’ age, days of poor physical health past 30 days, and respondents' education in years are statistically significant predictors of respondents’ personal income since the p values are less than 0.05. Respondent's confidence in the existence of God is not a statistically significant predictor of respondents’ personal income since the p value is greater than 0.05._\
+<mark style="color:blue;">Respondents’ age, days of poor physical health past 30 days, and respondents' education in years are statistically significant predictors of respondents’ personal income since the p values are less than 0.05. Respondent's confidence in the existence of God is not a statistically significant predictor of respondents’ personal income since the p value is greater than 0.05.</mark>
+
+_\[What it measures column of significant independent variable 1], \[what it measures column of significant independent variable 2], and \[what it measures column of significant independent variable 3]...  are statistically significant predictors of \[what it measures column of the dependent variable] since the p values are less than 0.05. \[What it measures column of insignificant independent variable 1], \[what it measures column of insignificant independent variable 2]... are not a statistically significant predictor of \[what it measures column of the dependent variable] since the p value is greater than 0.05._\
 
 
-**Second paragraph:** \[The explanation of coefficients (Estimates column)] Mention how independent variables increase or decrease the value of the dependent variable, using the “Estimates” column. When reporting the estimates (coefficients), ensure that the sentence includes the units (one unit, score, year, dollars, etc.) of both the independent and the dependent variable.
+**Second paragraph:** \[The explanation of coefficients (Estimates column)] Mention how significant independent variables increase or decrease the value of the dependent variable, using the “Estimates” column. When reporting the estimates (coefficients), ensure that the sentence includes the units (one unit, a day, a score, a year, a dollar, etc.) of both the independent and the dependent variable.
 
-_A year increase in respondents’ age increases respondents’ personal income by $504. A day increase in poor physical health past 30 days decreases respondents’ personal income by $857. A year increase in the respondents’ education  increases respondents’ personal income by $4,845._&#x20;
+<mark style="color:blue;">A year increase in respondents’ age increases respondents’ personal income by $504. A day increase in poor physical health past 30 days decreases respondents’ personal income by $857. A year increase in the respondents’ education  increases respondents’ personal income by $4,845.</mark>&#x20;
+
+_A \[unit/day/score,year,dollar] increase in \[what it measures column of significant independent variable 1] increases \[what it measures column of the dependent variable] by \[estimates column with the unit of analysis]. A \[unit/day/score,year,dollar] increase in \[what it measures column of significant independent variable 2] increases \[what it measures column of the dependent variable] by \[estimates column with the unit of analysis].  A \[unit/day/score,year,dollar] increase in \[what it measures column of significant independent variable 3] increases \[what it measures column of the dependent variable] by \[estimates column with the unit of analysis]...._
 
 
 
 **Third paragraph:** \[The explanation of standardized betas (std.Beta column)] Mention the strongest predictors (variables) of the dependent variable using the “std.Beta” (standardized beta) column in order. Only mention the statistically significant ones. “std.Beta” is an absolute number, which means -.56 is stronger than .45.
 
-The strongest predictor of respondents’ personal income is the respondents' education in years (std.Beta=0.34), followed by respondents’ age (std.Beta=0.17), and the days of poor physical health past 30 days (std.Beta=-0.13).
+<mark style="color:blue;">The strongest predictor of respondents’ personal income is the respondents' education in years (std.Beta=0.34), followed by respondents’ age (std.Beta=0.17), and the days of poor physical health past 30 days (std.Beta=-0.13).</mark>
+
+_The strongest predictor of \[what it measures column of the dependent variable] is the \[what it measures column of significant independent variable 1]  (std.Beta=0.xx), followed by \[what it measures column of significant independent variable 2]  (std.Beta=0.xx), and \[what it measures column of significant independent variable 3] (std.Beta=0.xx)._
 
 
 
 **Fourth paragraph:** \[The explanation of R-squared] Report the adjusted R-squared value as a percentage with the statistically significant variables.
 
-_The adjusted R squared value indicates that 17.2% of the variation in respondents’ personal income can be explained by the respondents’ age, days of poor physical health past 30 days, and respondents' education in years._
+<mark style="color:blue;">The adjusted R squared value indicates that 17.2% of the variation in respondents’ personal income can be explained by the respondents’ age, days of poor physical health past 30 days, and respondents' education in years.</mark>
+
+_The adjusted R squared value indicates that \[R2 squared] of the variation in  \[what it measures column of the dependent variable] can be explained by \[what it measures column of significant independent variable 1], \[what it measures column of significant independent variable 2], \[what it measures column of significant independent variable 3]..._ &#x20;
 {% endhint %}
 
 ### Reporting of estimates (coefficients)
