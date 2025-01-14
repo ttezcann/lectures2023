@@ -32,7 +32,7 @@ Here's the order you need to follow:
    1. You need to use "what it measures" column when interpreting analyses. Do not use variable names or the text appears on the top of the table in the interpretation.
 10. After the "what it measures" column, add the word of "variable" in your interpretation.
 11. You need to use the "response set" or "labels" (as appeared on the analysis tables) in your interpretation.
-12. Depending on the variable, you need to tweak some parts of the interpretation. For example, "_15.4% of the respondents are/have/feel/said/reported"_ etc.
+12. Depending on the variable, you need to tweak some parts of the interpretation. For example, "_15.4% of the respondents are/have/feel/think/said/reported"_ etc.
 13. When the interpretation is completed, read it aloud and make sure it makes sense. Ensure that your interpretations are clear enough for someone to understand your report **without** referring to the tables.
 
 **Example 1:**&#x20;
@@ -95,7 +95,7 @@ _Do not use the text appears in the table. No one would understand what you mean
 {% endhint %}
 
 {% hint style="success" %}
-The \[what it measures column] variable shows that xx.xx% of the respondents are / have / feel / said / reported \[label 1], xx.xx% of the respondents are / have / feel / said / reported \[label 2]...
+The \[what it measures column] variable shows that xx.xx% of the respondents are / have / feel / think/ said / reported \[label 1], xx.xx% of the respondents are / have / feel / said / reported \[label 2]...
 {% endhint %}
 
 Slides: [descriptive statistics](https://docs.google.com/presentation/d/1_rePJrPIl7rwTEy3pfbrZopgWMFoamw0/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
