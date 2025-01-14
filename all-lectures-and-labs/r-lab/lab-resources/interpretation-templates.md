@@ -14,39 +14,65 @@ layout:
 
 # Interpretation templates
 
-## <mark style="color:orange;">Reminder:</mark>
+## <mark style="color:orange;">Interpretation structure</mark>
 
-Ensure that your interpretations are clear enough for someone to understand your report **without** referring to the tables.
+This class will ask you to interpret specific analysis tables using specific variables.
 
-Use "[Variables in GSS](https://ttezcan.gitbook.io/lect/all-lectures-and-labs/r-lab/lab-resources/variables-in-gss-2022-uc)" document, read the full wording of the questions, response sets, and use "What it measures" columns in your interpretations. You need to use "what it measures" column when interpreting analyses. After the "what it measures" column, add "variable" in your interpretation.
+Here's the order you need to follow:
+
+1. Copy (ctrl or command + C) the variable name(s) from the assignment document.
+2. Open "[Variables in GSS](https://ttezcan.gitbook.io/lect/all-lectures-and-labs/r-lab/lab-resources/variables-in-gss-2022-uc)" document.
+3. Open the search function on the page (ctrl or command + F).
+4. Paste the variable name(s) (ctrl or command + V).
+5. Read the "full wording of the question", "response set", and "what it measures" column of the variable, and understand what the specific variable is about.
+6. Find the analysis type below (maximize your browser window to display the outline on the right side for easier navigation)
+7. You will see a sample table, a sample interpretation, and an interpretation template.
+8. Copy the sample interpretation or interpretation template, paste into your assignment document, and change inside.
+9. You need to use "what it measures" column when interpreting analyses. Do not use variable names or the text appears on the top of the table in the interpretation.
+10. After the "what it measures" column, add the word of "variable" in your interpretation.
+11. You need to use the "response set" or "labels" (as appeared on the analysis tables) in your interpretation.
+12. Depending on the variable, you need to tweak some parts of the interpretation. For example, "_15.4% of the respondents are/have/feel/said/reported"_ etc.
+13. When the interpretation is completed, read it aloud and make sure it makes sense. Ensure that your interpretations are clear enough for someone to understand your report **without** referring to the tables.
 
 **Example 1:**&#x20;
 
 <figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
+{% hint style="success" %}
 <mark style="color:green;">Correct:</mark> <mark style="color:orange;">The perceived discrimination at work because of age</mark> <mark style="color:orange;">variable</mark> shows that 7.93% of the respondents feel discriminated at work because of age and 92.07% do not.
+{% endhint %}
 
+{% hint style="danger" %}
 <mark style="color:red;">Wrong:</mark> “The <mark style="color:orange;">wkageism</mark> shows that 7.93% of the respondents reported that they feel discriminated and 92.07% do not.
 
-* Do not use variable names in the interpretation. Variable names are meant for coding purposes. There's no word called "wkageism." No one would understand what you mean.
+_Do not use variable names in the interpretation. Variable names are meant for coding purposes. There's no word called "wkageism." No one would understand what you mean._
+{% endhint %}
 
+{% hint style="danger" %}
 <mark style="color:red;">Wrong:</mark> the <mark style="color:orange;">r feels discriminated because of age</mark> shows that 7.93% of the respondents reported that they feel discriminated and 92.07% do not.
 
-* Do not use the text appears on the top of the table. No one would understand what you mean by "r" here.
+_Do not use the text appears on the top of the table. No one would understand what you mean by "r" here._
+{% endhint %}
 
 **Example 2:**&#x20;
 
 <figure><img src="../../../.gitbook/assets/image (79).png" alt=""><figcaption></figcaption></figure>
 
+{% hint style="success" %}
 <mark style="color:green;">Correct:</mark> <mark style="color:orange;">The internet use in hours variable</mark> shows the average hours that the respondents use the internet is 15.51, with standard deviation 19.48.
+{% endhint %}
 
+{% hint style="danger" %}
 <mark style="color:red;">Wrong:</mark> “The <mark style="color:orange;">wwwhr</mark> shows the average hours that the respondents use the internet is 15.51, with standard deviation 19.48.
 
-* Do not use variable names in the interpretation. Variable names are meant for coding purposes. There's no word called "wwwhr." No one would understand what you mean.
+_Do not use variable names in the interpretation. Variable names are meant for coding purposes. There's no word called "wwwhr." No one would understand what you mean._
+{% endhint %}
 
+{% hint style="danger" %}
 <mark style="color:red;">Wrong:</mark> the <mark style="color:orange;">dd</mark> shows the average hours that the respondents use the internet is 15.51, with standard deviation 19.48.
 
-* Do not use the text appears in the table. No one would understand what you mean by "dd" here.
+_Do not use the text appears in the table. No one would understand what you mean by "dd" here._
+{% endhint %}
 
 ***
 
@@ -61,6 +87,10 @@ Use "[Variables in GSS](https://ttezcan.gitbook.io/lect/all-lectures-and-labs/r-
 
 {% hint style="info" %}
 [The respondents' marital status variable](#user-content-fn-5)[^5] shows that 41.43%[^6] of the respondents are married;[^7] 7.23% of the respondents are widowed; 17.23% of the respondents are divorced; 2.92% of the respondents are separated; 31.20% of the respondents are never married.
+{% endhint %}
+
+{% hint style="success" %}
+The \[what it measures column] variable shows that xx.xx% of the respondents are / have / feel / said / reported \[label 1], xx.xx% of the respondents are / have / feel / said / reported \[label 2]...
 {% endhint %}
 
 Slides: [descriptive statistics](https://docs.google.com/presentation/d/1_rePJrPIl7rwTEy3pfbrZopgWMFoamw0/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
@@ -80,6 +110,10 @@ Slides: [descriptive statistics](https://docs.google.com/presentation/d/1_rePJrP
 [The age in years variable](#user-content-fn-11)[^11] shows that the average age of the respondents is 49.18[^12], with standard deviation 17.97[^13].
 {% endhint %}
 
+{% hint style="success" %}
+The \[what it measures column] variable shows the average \[what it measures column] of the  of the respondents is \[mean], with standard deviation \[SD].
+{% endhint %}
+
 Slides: [descriptive statistics](https://docs.google.com/presentation/d/1_rePJrPIl7rwTEy3pfbrZopgWMFoamw0/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
 
 ## Descriptive tables 2 (for computed variables)
@@ -94,17 +128,17 @@ Indicate the highest possible score in your interpretation <mark style="color:re
 
 Indicate the full name of the index variable:
 
-<mark style="color:green;">Correct:</mark> The happiness index score of the GSS respondents is 2.10 out of 3, with standard deviation 0.47.
-
-<mark style="color:red;">Wrong:</mark> The hapindex score of the GSS respondents is 2.10 out of 3, with standard deviation 0.47.
-
 {% hint style="info" %}
-The happiness index score of the GSS respondents is 2.10 out of 3, with standard deviation 0.47.
+The happiness index score of the respondents is 2.10 out of 3, with standard deviation 0.47.
+{% endhint %}
+
+{% hint style="success" %}
+\[The full name of the index variable] score of the respondents is \[mean] out of 3/5/7/10, with standard deviation \[SD].
 {% endhint %}
 
 ***
 
-## Chi-square (example 1)
+## Chi-square (example 1): insignificant p-value
 
 We utilize crosstabs for chi-square analysis, which is used to discover if there is a relationship between two categorical variables (we check the p value). We refer to statistically significant as p < 0.05. The Chi-Square Test can only compare categorical variables.&#x20;
 
@@ -117,12 +151,16 @@ Independent variable first (sex), dependent variable second (health)
 <figure><img src="../../../.gitbook/assets/image (5) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Respondents' sex has NO effect on the condition of health since the p value is HIGHER than 0.05. We can conclude that males and females have similar health conditions.
+Respondents' sex has no effect on the condition of health since the p-value is higher than 0.05. We can conclude that males and females have similar condition of health.
+{% endhint %}
+
+{% hint style="success" %}
+\[What it measures column of the independent variable] has no effect on \[what it measures column of the dependent variable] since the p-value is higher than 0.05. We can conclude that \[label 1 of the independent variable] and \[label 2 of the independent variable]... have/are/feel... similar \[what it measures column of the dependent variable].
 {% endhint %}
 
 Slides: [chisquare](https://docs.google.com/presentation/d/11QlkxBoIM_-wIoBTLYtdXxaELvX664VD/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
 
-## Chi-square (example 2)
+## Chi-square (example 2): significant p-value
 
 We utilize crosstabs for chi-square analysis, which is used to discover if there is a relationship between two categorical variables (we check the p value). We refer to statistically significant as p < 0.05. The Chi-Square Test can only compare categorical variables.&#x20;
 
@@ -141,34 +179,18 @@ Independent variable first (agegroups), dependent variable second (health)
 <figure><img src="../../../.gitbook/assets/image (6) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Age group has an effect on the condition of health since the p value is LESS than 0.05. We can conclude that 18-39 age group, 40-59 age group, and 60-89 age group have substantially different health conditions.
+Age group has an effect on the condition of health since the p value is less than 0.05. We can conclude that 18-39 age group, 40-59 age group, and 60-89 age group have substantially different health conditions.
+{% endhint %}
+
+{% hint style="success" %}
+\[What it measures column of the independent variable] has an effect on \[what it measures column of the dependent variable] since the p-value is less than 0.05. We can conclude that \[label 1 of the independent variable] and \[label 2 of the independent variable]... have/are/feel... substantially different \[what it measures column of the dependent variable].
 {% endhint %}
 
 Slides: [chisquare](https://docs.google.com/presentation/d/11QlkxBoIM_-wIoBTLYtdXxaELvX664VD/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
 
 ***
 
-## T-test (example 1)
-
-A t-test is used to determine if there is a significant difference between the means of two groups. A t-test is used when we wish to compare two means (the scores must be continuous).&#x20;
-
-```r
-t.test(conrinc ~ sex, data = gss) %>% 
-  parameters() %>% 
-  display(format="html")
-```
-
-Dependent variable first (conrinc), independent variable second (sex)
-
-<figure><img src="../../../.gitbook/assets/image (7) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-{% hint style="info" %}
-The average personal income in dollars of males is $49,306, while the average personal income in dollars of females is $35,277. personal income in dollars differs by respondents' sex in a statistically significant way since the p-value is LESS than 0.05
-{% endhint %}
-
-Slides: [ttest](https://docs.google.com/presentation/d/11hFYVZ3y8pig6n8SkDDnZYk_AoqY2-t9/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
-
-## T-test (example 2)
+## T-test (example 1): insignificant p-value
 
 A t-test is used to determine if there is a significant difference between the means of two groups. A t-test is used when we wish to compare two means (the scores must be continuous).&#x20;
 
@@ -183,7 +205,35 @@ Dependent variable first (educ), independent variable second (sex)
 <figure><img src="../../../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-The average education in years of males is 14.08 year, while the average education in years of females 14.15 year. Education in years does not differ by respondents' sex in a statistically significant way since the p-value is HIGHER than 0.05
+The average education in years of males is 14.08 year, while the average education in years of females 14.15 year. Education in years does not differ by respondents' sex in a statistically significant way since the p-value is higher than 0.05
+{% endhint %}
+
+{% hint style="success" %}
+\[What it measures column of the dependent variable] of \[label 1 of the independent variable] is \[mean] year/dollar/point/score, while \[What it measures column of the dependent variable] of \[label 2 of the independent variable] is \[mean] year/dollar/point/score. \[What it measures column of the dependent variable] does not differ by \[What it measures column of the independent variable] in a statistically significant way since the p-value is higher than 0.05.
+{% endhint %}
+
+Slides: [ttest](https://docs.google.com/presentation/d/11hFYVZ3y8pig6n8SkDDnZYk_AoqY2-t9/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
+
+## T-test (example 2): significant p-value
+
+A t-test is used to determine if there is a significant difference between the means of two groups. A t-test is used when we wish to compare two means (the scores must be continuous).&#x20;
+
+```r
+t.test(conrinc ~ sex, data = gss) %>% 
+  parameters() %>% 
+  display(format="html")
+```
+
+Dependent variable first (conrinc), independent variable second (sex)
+
+<figure><img src="../../../.gitbook/assets/image (7) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+The average personal income in dollars of males is $49,306, while the average personal income in dollars of females is $35,277. Personal income in dollars differs by respondents' sex in a statistically significant way since the p-value is less than 0.05.
+{% endhint %}
+
+{% hint style="success" %}
+\[What it measures column of the dependent variable] of \[label 1 of the independent variable] is \[mean] year/dollar/point/score, while \[What it measures column of the dependent variable] of \[label 2 of the independent variable] is \[mean] year/dollar/point/score. \[What it measures column of the dependent variable] differs by \[What it measures column of the independent variable] in a statistically significant way since the p-value is less than 0.05.
 {% endhint %}
 
 Slides: [ttest](https://docs.google.com/presentation/d/11hFYVZ3y8pig6n8SkDDnZYk_AoqY2-t9/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
@@ -205,6 +255,10 @@ Same as frequency table interpretation
 [The marital status variable](#user-content-fn-14)[^14] shows that 41.43%[^15] of the respondents are married;[^16] 7.23% of the respondents are widowed; 17.23% of the respondents are divorced; 2.92% of the respondents are separated; 31.20% of the respondents are never married.
 {% endhint %}
 
+{% hint style="success" %}
+The \[what it measures column] variable shows that xx.xx% of the respondents are / have / feel / said / reported \[label 1], xx.xx% of the respondents are / have / feel / said / reported \[label 2]...
+{% endhint %}
+
 Slides: [visualization](https://docs.google.com/presentation/d/1j8vQxVYCuG0s96EtUgcvMJoB5jN3wgV5iS-xgMyZKtk/edit?usp=sharing)
 
 ## Histogram (for continuous variables)
@@ -216,9 +270,15 @@ plot_frq(gss$educ, type = "hist",show.mean = TRUE, show.mean.val = TRUE, normal.
 <figure><img src="../../../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Same as descriptive table interpretation
+Same as descriptive table interpretation.&#x20;
+
+The mean is indicated by _**x**_, the standard deviation is indicated by _**s**_ (at the very top of the figure).
 
 The education in years variable shows that the average education in years of the respondents is 14.11, with standard deviation 2.89.
+{% endhint %}
+
+{% hint style="success" %}
+The \[what it measures column] variable shows the average \[what it measures column] of the  of the respondents is \[mean], with standard deviation \[SD].
 {% endhint %}
 
 Slides: [visualization](https://docs.google.com/presentation/d/1j8vQxVYCuG0s96EtUgcvMJoB5jN3wgV5iS-xgMyZKtk/edit?usp=sharing)
@@ -245,10 +305,14 @@ graph + theme(
 <figure><img src="../../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-When interpreting stacked bar graphs, we generally interpret one response
+When interpreting stacked bar graphs, we generally interpret one label (response):
 
 \
 Of the GSS respondents, 44.2% have a great deal of confidence in the military; 33.4% have a great deal of confidence in medicine; 18.2% in education, 16% in the supreme court; 14.1% in major companies, and 10.4% in the executive branch of government.
+{% endhint %}
+
+{% hint style="success" %}
+Of the GSS respondents, xx.xx% are/have/feel/report \[label 1]; xx.xx% are/have/feel/report \[label 2]; xx.xx% are/have/feel/report \[label 3]...
 {% endhint %}
 
 Slides: [visualization](https://docs.google.com/presentation/d/1j8vQxVYCuG0s96EtUgcvMJoB5jN3wgV5iS-xgMyZKtk/edit?usp=sharing)
@@ -261,10 +325,16 @@ Slides: [visualization](https://docs.google.com/presentation/d/1j8vQxVYCuG0s96Et
 plot_xtab(gss$dependentvar, gss$independentvar, show.total=FALSE, show.n = FALSE)
 ```
 
+Independent variable first (agegroups), dependent variable second (conmedic)
+
 <figure><img src="../../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 30.2% of the 18-39 age group, 32.1% of the 40-59 age group, 38.3% of the 60-89 age group have a great deal of confidence in medicine.
+{% endhint %}
+
+{% hint style="success" %}
+xx.xx% of the \[label 1 of the independent variable], xx.xx% of the \[label 2 of the independent variable], xx.xx% of the \[label 3  of the independent variable]... are/have/feel/report \[label and what it measures of the dependent variable].
 {% endhint %}
 
 Slides: [visualization](https://docs.google.com/presentation/d/1j8vQxVYCuG0s96EtUgcvMJoB5jN3wgV5iS-xgMyZKtk/edit?usp=sharing)
@@ -285,7 +355,7 @@ IF the p-value is statistically significant (<0.05);
 
 The order of the variables does not matter.
 
-### (1) Correlation analysis table (significant positive)
+### (1a) Correlation analysis table (significant positive)
 
 ```r
 tab_corr (gss[, c("sei10", "spsei10")],
@@ -306,7 +376,7 @@ Slides: [correlation](https://docs.google.com/presentation/d/12et6ZrFK7B6pE-Wmlz
 
 ***
 
-### (1) Correlation analysis table (significant negative)
+### (1b) Correlation analysis table (significant negative)
 
 ```r
 tab_corr (gss[, c("tvhours", "usetech")],
@@ -323,7 +393,7 @@ This correlation is negative and weak since the r-value is -0.111 (less than |0.
 This means that as the television screen time increases, the percentage of time use at work using electronic technologies decreases, and vice versa.
 {% endhint %}
 
-### (1) Correlation analysis table (insignificant)
+### (1c) Correlation analysis table (insignificant)
 
 ```r
 tab_corr (gss[, c("age", "educ")], 
