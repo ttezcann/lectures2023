@@ -20,16 +20,16 @@ This class will ask you to interpret specific analysis tables using specific var
 
 Here's the order you need to follow:
 
-1. Copy (ctrl or command + C) the variable name(s) from the assignment document.
+1. Copy (ctrl or command + C) the variable name from the assignment document.
 2. Open "[Variables in GSS](https://ttezcan.gitbook.io/lect/all-lectures-and-labs/r-lab/lab-resources/variables-in-gss-2022-uc)" document.
 3. Open the search function on the page (ctrl or command + F).
-4. Paste the variable name(s) (ctrl or command + V).
+4. Paste the variable name (ctrl or command + V).
 5. Read the "full wording of the question", "response set", and "what it measures" column of the variable, and understand what the specific variable is about.
 6. Find the analysis type below (maximize your browser window to display the outline on the right side for easier navigation)
 7. You will see a sample table, a sample interpretation, and an interpretation template.
 8. Check the sample table and read the sample interpretation.
 9. Copy the interpretation template, paste into your assignment document, and change inside.
-   1. You need to use "what it measures" column when interpreting analyses. Do not use variable names or the text appears on the top of the table in the interpretation.
+   1. You need to use "what it measures" column when interpreting analyses. **Do not** use variable names or the text appears on the top of the table in the interpretation.
 10. After the "what it measures" column, add the word of "variable" in your interpretation.
 11. You need to use the "response set" or "labels" (as appeared on the analysis tables) in your interpretation.
 12. Depending on the variable, you need to tweak some parts of the interpretation. For example, "_15.4% of the respondents are/have/feel/think/said/reported"_ etc.
