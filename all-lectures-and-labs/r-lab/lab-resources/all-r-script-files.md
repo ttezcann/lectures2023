@@ -22,11 +22,13 @@ If you open an R script into RStudio software and the script appears to be blank
 On RStudio go to File ➜ Reopen with encoding ➜ Choose UTF-8
 {% endhint %}
 
+After creating "RStudio labs" project, you will not create a new project for each lab. Instead, you will always click thee existing 'RStudio Labs' project throughout the course.
 
+<figure><img src="../../../.gitbook/assets/ss_2025-01-15 06.41.17.png" alt="" width="563"><figcaption></figcaption></figure>
 
 * [Installing the packages](https://drive.google.com/file/d/1dSgvAslE39sRxC_E08aHIffPipT9um8U/view?usp=sharing)
 
-## Lecture scripts
+## Lecture R script files
 
 * [Introduction to RStudio](https://drive.google.com/file/d/1q-dd3TMfDi7mLMkr-UcdmAYhi71y0r5A/view?usp=sharing)
 * [Introduction to scripting](https://drive.google.com/file/d/1ksWH9huWbEYaCsdgToB97rkiw4UPQmf1/view?usp=sharing)
