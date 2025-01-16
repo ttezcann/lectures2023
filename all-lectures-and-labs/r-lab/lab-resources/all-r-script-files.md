@@ -22,9 +22,11 @@ If you open an R script into RStudio software and the script appears to be blank
 On RStudio go to File ➜ Reopen with encoding ➜ Choose UTF-8
 {% endhint %}
 
-After creating "RStudio labs" project, you will not create a new project for each lab. Instead, you will always click thee existing 'RStudio Labs' project throughout the course.
+After creating "RStudio labs" project, you will not create a new project for each lab. Instead, you will always click the existing 'RStudio Labs' project throughout the course.
 
 <figure><img src="../../../.gitbook/assets/ss_2025-01-15 06.41.17.png" alt="" width="563"><figcaption></figcaption></figure>
+
+## Setup R script file
 
 * [Installing the packages](https://drive.google.com/file/d/1dSgvAslE39sRxC_E08aHIffPipT9um8U/view?usp=sharing)
 
@@ -50,7 +52,7 @@ After creating "RStudio labs" project, you will not create a new project for eac
     * the script file will be accessible after the lecture break
 * [Regression assumptions and diagnostics](https://drive.google.com/open?id=1aVjJH18rv5qKdgTuA34ey95WDY8axAuQ\&usp=drive_fs)
 
-
+## Other files
 
 * [Regression examples](https://drive.google.com/file/d/16A0u7mj-b0mXKNTKsodCmYWF1h1YvwrB/view?usp=sharing)
 * [ESS data](https://drive.google.com/file/d/180417fazglgdwbYqFUHPy_sf0enYMYfW/view?usp=sharing)
