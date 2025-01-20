@@ -140,7 +140,7 @@ Students should review their document <mark style="color:red;">before</mark> and
 * Assignments submitted to Canvas will be graded, and grades are final. Do not submit an assignment unless you want to be graded for.
 * There is no resubmission option.&#x20;
 * Assignments should be submitted to Canvas. Assignments via email, message, or Canvas comment are not accepted.&#x20;
-* If there is no document in the Google Drive weekly subfolder, no credit will be given even if a submission is made that would normally receive full credit (see item b below).
+* If there is no document in the Google Drive weekly subfolder, no credit will be given even if a submission is made that would normally receive full credit (see item **2** below).
 
 Some exceptions:
 
