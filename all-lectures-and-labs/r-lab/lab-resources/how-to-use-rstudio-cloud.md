@@ -18,7 +18,9 @@ Follow the procedures described in the [RStudio lab assignment: account and pack
 
 The process is also shown on the video below:
 
-{% embed url="https://youtu.be/G7SvmDZrpNE" %}
+
+
+{% embed url="https://drive.google.com/open?id=1qS2xGpy1h04ojoOoFLOrW8rehxsr6cUL&usp=drive_fs" %}
 
 ## <mark style="color:orange;">How to check how many hours left?</mark>
 
