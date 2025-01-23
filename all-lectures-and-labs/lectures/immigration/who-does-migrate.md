@@ -32,7 +32,9 @@ layout:
 
 ## Video
 
-{% embed url="https://youtu.be/NC0qRgXMioU" %}
+{% embed url="https://drive.google.com/file/d/1sTiJJXEp2yBrZdQ7xVW_2UIziaf1kw1v/view?usp=drive_link" %}
+
+
 
 ## Lecture reflection
 
