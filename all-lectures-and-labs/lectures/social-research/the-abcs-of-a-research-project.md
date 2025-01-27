@@ -29,9 +29,9 @@ layout:
 * Quiz - Check Canvas: Dependent and independent variables
 * [Variable composition, hypotheses and research question](https://docs.google.com/document/d/1VDeFAlU6jEDcFKVDW39z4D9OWp7FI01C/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
 
-## Video
+## Lecture video
 
-{% embed url="https://youtu.be/LiproV0oNjA" %}
+{% embed url="https://drive.google.com/open?id=1i9trFfBjD_OpHSAs5XXVmWSYa9X_Uu5A&usp=drive_fs" %}
 
 ## Lecture reflection
 
