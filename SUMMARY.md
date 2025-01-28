@@ -66,7 +66,7 @@
       * [The construction of ethnicity](all-lectures-and-labs/lectures/immigration/the-construction-of-ethnicity.md)
     * [Sociological thinking](all-lectures-and-labs/lectures/sociological-thinking/README.md)
       * [The sociological eye](all-lectures-and-labs/lectures/sociological-thinking/the-sociological-eye.md)
-      * [Sociological, theoretical, and empirical foundations](all-lectures-and-labs/lectures/sociological-thinking/sociological-theoretical-and-empirical-foundations.md)
+      * [Foundations of social theory](all-lectures-and-labs/lectures/sociological-thinking/foundations-of-social-theory.md)
       * [Scientific sociology: social facts](all-lectures-and-labs/lectures/sociological-thinking/scientific-sociology-social-facts.md)
       * [Social structure](all-lectures-and-labs/lectures/sociological-thinking/social-structure.md)
       * [What is critical thinking?](all-lectures-and-labs/lectures/sociological-thinking/what-is-critical-thinking.md)
