@@ -181,6 +181,8 @@ Submissions followed the criteria above will get full credit for this part.
 
 [focus groups](https://docs.google.com/document/d/1qEyF-MZ482JtGnsEYaRyHsLLdaBS9tQI?rtpof=true\&usp=drive_fs)
 
+[foundations of social theory](https://docs.google.com/document/d/1rJBdlEthB6jCl9uQaNRRBMwQ7rYNyUX3/edit?usp=drive_link\&ouid=100179871492576617561\&rtpof=true\&sd=true)
+
 [group conflict](https://docs.google.com/document/d/10QoZikufcgTzCVqGBBk22ua9fTEq3y_V?rtpof=true\&usp=drive_fs)
 
 [group contact](https://docs.google.com/document/d/10LAWllQn-dgtUAZhAZvRSfzQ-JW9v1-K?rtpof=true\&usp=drive_fs)
@@ -244,8 +246,6 @@ Submissions followed the criteria above will get full credit for this part.
 [sociology of poverty](https://docs.google.com/document/d/11O3Fqq96s7mohgVW4UvObaitJewYaSSG?rtpof=true\&usp=drive_fs)
 
 [social research why and how](https://docs.google.com/document/d/11WXSR6mXhh_qCJ_jx4F3cfN1_b-3WRG6?rtpof=true\&usp=drive_fs)
-
-[sociological, theoretical, and empirical foundations](https://docs.google.com/document/d/1-NXL7kFWG0pKPNnM0I9HZhkYVFJobHPV?rtpof=true\&usp=drive_fs)
 
 [social structure](https://docs.google.com/document/d/1-PRA6bDBkX22e316lCp3D0bCUpBqBBQy?rtpof=true\&usp=drive_fs)
 
