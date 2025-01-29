@@ -29,9 +29,9 @@ layout:
 
 [Researching assimilation](https://docs.google.com/document/d/1bovBiJkFnmykfRCyvD_zgLf8jrO5gODR?rtpof=true\&usp=drive_fs)
 
-## Video
+## Lecture video
 
-{% embed url="https://youtu.be/FOKE5dzJEGQ" %}
+{% embed url="https://drive.google.com/open?id=1w0JVXPYawra1abJdGJfXm5k4qIRWRn5t&usp=drive_fs" %}
 
 ## Lecture reflection
 
