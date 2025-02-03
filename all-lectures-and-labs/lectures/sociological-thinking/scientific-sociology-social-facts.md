@@ -28,9 +28,11 @@ layout:
 
 [Operationalization of a social fact](https://docs.google.com/document/d/1foU7RgQnoxQ3N8HCaEyLUNJCxZNXd2Tz?rtpof=true\&usp=drive_fs)
 
-## Video
+## Lecture video
 
-{% embed url="https://youtu.be/7D2Am7GyZDk" %}
+{% embed url="https://drive.google.com/file/d/1eXFoc0XQvkwsV5lSyE1sZd9nsBSPvb64/view?usp=drive_link" %}
+
+
 
 ## Lecture reflection
 
