@@ -20,7 +20,7 @@ layout:
 
 ## R Script file
 
-[script\_scripting.R](https://drive.google.com/open?id=1ksWH9huWbEYaCsdgToB97rkiw4UPQmf1\&usp=drive_fs)
+[script\_introduction to scripting.R](https://drive.google.com/open?id=1ksWH9huWbEYaCsdgToB97rkiw4UPQmf1\&usp=drive_fs)
 
 ## Slides
 
