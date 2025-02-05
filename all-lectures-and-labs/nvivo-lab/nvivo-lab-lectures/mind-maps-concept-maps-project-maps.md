@@ -26,7 +26,7 @@ layout:
 
 ## Lab assignment
 
-[Maps](https://docs.google.com/document/d/1duMXz9Ea5h-jYM2FlRN4WKLO3Uu3Peea1b-BeRdlNYk/edit?usp=sharing)
+[Maps](https://docs.google.com/document/d/18aigRsHvm5WKcv1WbyMd9pQJ8r0J43yn?rtpof=true\&usp=drive_fs)
 
 ## Video
 
