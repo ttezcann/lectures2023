@@ -20,7 +20,7 @@ During this lecture, you will be preparing your NVIVO file for the final project
 
 ## Lab assignment
 
-[NVIVO file for final paper](https://docs.google.com/document/d/1DBfYNasfmAzhuG5zdGfdKyI9d6VhaoKY2MPr\_hSaGVo?usp=drive\_fs)
+[NVIVO file for final paper](https://docs.google.com/document/d/18fhtOVyKLcEcUBNBQrJs62-hj9gjEmUn?rtpof=true\&usp=drive_fs)
 
 
 

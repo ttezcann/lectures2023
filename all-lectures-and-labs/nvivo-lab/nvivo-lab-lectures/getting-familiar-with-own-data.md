@@ -16,7 +16,7 @@ layout:
 
 ## Cheat sheet
 
-[NVIVO Cheat Sheet #4: Transcribing and Uploading Audio Files](https://docs.google.com/document/d/1k\_m4Lws2CO75UMxuWzDIH9SQjlQ-zSOcnZ9rQVnt8e0/edit?usp=sharing)
+[NVIVO Cheat Sheet #4: Transcribing and Uploading Audio Files](https://docs.google.com/document/d/17JNPr7I1wZEHQNEgE7qwb5L3R4SHX8ah?rtpof=true\&usp=drive_fs)
 
 ## Slides
 
@@ -25,12 +25,12 @@ During this lecture, we'll utilize the data we collected during the class last w
 {% endhint %}
 
 {% embed url="https://docs.google.com/presentation/d/17DimbManOsD2GreZ_3qIgaNUVKvsMWWG?rtpof=true&usp=drive_fs" %}
-[**Downloadable slides here**](https://docs.google.com/presentation/d/17DimbManOsD2GreZ\_3qIgaNUVKvsMWWG?rtpof=true\&usp=drive\_fs)
+[**Downloadable slides here**](https://docs.google.com/presentation/d/17DimbManOsD2GreZ_3qIgaNUVKvsMWWG?rtpof=true\&usp=drive_fs)
 {% endembed %}
 
 ## Lab assignment
 
-[Getting familiar with own data](https://docs.google.com/document/d/1aB-LY2crVhadQb8f6hXRu7JhBrPdSxGYdz5JWQi\_0\_I/edit?usp=sharing)
+[Getting familiar with own data](https://docs.google.com/document/d/17PWTUA-hDWMr92oAN1HdPxkPHgSZcff_?rtpof=true\&usp=drive_fs)
 
 ## Video
 

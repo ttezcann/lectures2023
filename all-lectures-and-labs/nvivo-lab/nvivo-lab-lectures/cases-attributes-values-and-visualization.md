@@ -16,17 +16,17 @@ layout:
 
 ## Cheat sheet
 
-[NVIVO Cheat Sheet #6: Case Classifications, Cases, Attributes, Values, and Visualization](https://docs.google.com/document/d/1vg6OyIqd9ciaSx2AXFmdhvA2JTLWbgCsPRHZXAbsirY/edit?usp=sharing)
+[NVIVO Cheat Sheet #6: Case Classifications, Cases, Attributes, Values, and Visualization](https://docs.google.com/document/d/17vhK4ILA8V5jB9lAm3LNTZdQm76ARgE8?rtpof=true\&usp=drive_fs)
 
 ## Slides
 
 {% embed url="https://docs.google.com/presentation/d/17eZwdKrrDKsj2145lDu4FEXnbFG_BKcR?rtpof=true&usp=drive_fs" %}
-[Downloadable slides here](https://docs.google.com/presentation/d/17eZwdKrrDKsj2145lDu4FEXnbFG\_BKcR?rtpof=true\&usp=drive\_fs)
+[Downloadable slides here](https://docs.google.com/presentation/d/17eZwdKrrDKsj2145lDu4FEXnbFG_BKcR?rtpof=true\&usp=drive_fs)
 {% endembed %}
 
 ## Lab assignment
 
-[Cases, attributes, values](https://docs.google.com/document/d/1NAqPMsFTvXSW8KBYaj26lSfLgq325XLtaDgSWsJuUtA/edit?usp=sharing)
+[Cases, attributes, values](https://docs.google.com/document/d/17ecGWFBlp1Ksw65CkXpqEWCqzhomhE_n?rtpof=true\&usp=drive_fs)
 
 ## Video
 

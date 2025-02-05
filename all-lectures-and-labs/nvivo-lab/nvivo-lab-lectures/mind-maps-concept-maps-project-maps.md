@@ -16,12 +16,12 @@ layout:
 
 ## Cheat sheet
 
-[NVIVO Cheat Sheet #9: Mind Maps, Concept Maps, and Project Maps](https://docs.google.com/document/d/1DHFZHhy4X8d9Rdzpjb8yhmm-Niy0IZmiHJmPo7SXhhI/edit?usp=sharing)
+[NVIVO Cheat Sheet #9: Mind Maps, Concept Maps, and Project Maps](https://docs.google.com/document/d/18esRioJoUZHbPV_aZI7qM8mhoEBqAMkJ?rtpof=true\&usp=drive_fs)
 
 ## Slides
 
 {% embed url="https://docs.google.com/presentation/d/18bNle2iSfJe0j4mai0ku8Lv2OyoY-h73?rtpof=true&usp=drive_fs" %}
-[Downloadable slides here](https://docs.google.com/presentation/d/18bNle2iSfJe0j4mai0ku8Lv2OyoY-h73?rtpof=true\&usp=drive\_fs)
+[Downloadable slides here](https://docs.google.com/presentation/d/18bNle2iSfJe0j4mai0ku8Lv2OyoY-h73?rtpof=true\&usp=drive_fs)
 {% endembed %}
 
 ## Lab assignment

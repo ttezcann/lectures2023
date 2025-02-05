@@ -16,17 +16,17 @@ layout:
 
 ## Cheat sheet
 
-[NVIVO Cheat Sheet #5: Coding](https://docs.google.com/document/d/1qx93sKgTuaYlAQkDOc8c-lT94dRGY5fnT\_fFSQykkmo/edit?usp=sharing)
+[NVIVO Cheat Sheet #5: Coding](https://docs.google.com/document/d/17Vq2u__x4YolDFx-SyGzZ2ieOfMevYQm?rtpof=true\&usp=drive_fs)
 
 ## Slides
 
 {% embed url="https://docs.google.com/presentation/d/17QmvcaF1-JXrYXBsIHIYDg1gfqCvV46x?rtpof=true&usp=drive_fs" %}
-[**Downloadable slides here**](https://docs.google.com/presentation/d/17QmvcaF1-JXrYXBsIHIYDg1gfqCvV46x?rtpof=true\&usp=drive\_fs)
+[**Downloadable slides here**](https://docs.google.com/presentation/d/17QmvcaF1-JXrYXBsIHIYDg1gfqCvV46x?rtpof=true\&usp=drive_fs)
 {% endembed %}
 
 ## Lab assignment
 
-[Coding basics II - Initial, axial, focused codes](https://docs.google.com/document/d/11Tsqw\_Rrj4UHpprDFwwBwIqgN-CwvqvKwBMdWMARxKk/edit?usp=sharing)
+[Coding basics II - Initial, axial, focused codes](https://docs.google.com/document/d/17X_YFr-ukxuVE7TfkedYlmSlVb1Pvq9V?rtpof=true\&usp=drive_fs)
 
 ## Video
 

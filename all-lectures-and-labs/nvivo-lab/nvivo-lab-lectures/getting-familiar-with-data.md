@@ -16,17 +16,17 @@ layout:
 
 ## Cheat sheet
 
-[NVIVO Cheat Sheet #3: The Query Command and Aggregating Nodes](https://docs.google.com/document/d/16ZZPiphk9cyC\_n2pMKErabiWN88j\_AfrFMQ927Hpcy8/edit?usp=sharing)
+[NVIVO Cheat Sheet #3: The Query Command and Aggregating Nodes](https://docs.google.com/document/d/170MO1sm5296EVR9dgJ8qlV76RZuHsorS?rtpof=true\&usp=drive_fs)
 
 ## Slides
 
 {% embed url="https://docs.google.com/presentation/d/17DimbManOsD2GreZ_3qIgaNUVKvsMWWG?rtpof=true&usp=drive_fs" %}
-[**Downloadable slides here**](https://docs.google.com/presentation/d/17DimbManOsD2GreZ\_3qIgaNUVKvsMWWG?rtpof=true\&usp=drive\_fs)
+[**Downloadable slides here**](https://docs.google.com/presentation/d/17DimbManOsD2GreZ_3qIgaNUVKvsMWWG?rtpof=true\&usp=drive_fs)
 {% endembed %}
 
 ## Lab assignment
 
-[Getting familiar with data](https://docs.google.com/document/d/1hP3ea0RLcTmxnKsitRHvtDYUq9mbrKFqSkqiVHYplHI/edit?usp=sharing)
+[Getting familiar with data](https://docs.google.com/document/d/16sLiZPDRYXFFvM7taMRK9kEbQiFXlJ_U?rtpof=true\&usp=drive_fs)
 
 ## Video
 

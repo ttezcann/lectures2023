@@ -16,17 +16,17 @@ layout:
 
 ## Cheat sheet
 
-[NVIVO Cheat Sheet #2: Uploading Articles, Annotations, and Memos](https://docs.google.com/document/d/13zcamo9qt5eaV9\_Dsw4wKGiI-BKFI0ozXhqqOdlugqc/edit?usp=sharing)
+[NVIVO Cheat Sheet #2: Uploading Articles, Annotations, and Memos](https://docs.google.com/document/d/16Rtr0WYz13bjSGYcgULnAMPJSEs2Xp4B?rtpof=true\&usp=drive_fs)
 
 ## Slides
 
 {% embed url="https://docs.google.com/presentation/d/16EdeupUJGmEqnda5g2ogqd_svqB-HqDL?rtpof=true&usp=drive_fs" %}
-[**Downloadable slides here**](https://docs.google.com/presentation/d/16EdeupUJGmEqnda5g2ogqd\_svqB-HqDL?rtpof=true\&usp=drive\_fs)
+[**Downloadable slides here**](https://docs.google.com/presentation/d/16EdeupUJGmEqnda5g2ogqd_svqB-HqDL?rtpof=true\&usp=drive_fs)
 {% endembed %}
 
 ## Lab assignment
 
-[Coding I](https://docs.google.com/document/d/1YQAUKmAkkh5Cw8gwbCDokehjcVD6EP8udGKo2J8b7p0/edit?usp=sharing)
+[Coding I](https://docs.google.com/document/d/16VcnYlJ6pP6_f0MLr84YoqMIXISmoJHI?rtpof=true\&usp=drive_fs)
 
 ## Video
 
