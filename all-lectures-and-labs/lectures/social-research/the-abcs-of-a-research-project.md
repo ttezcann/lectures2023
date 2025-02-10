@@ -26,7 +26,6 @@ layout:
 
 ## Assignment
 
-* Quiz - Check Canvas: Dependent and independent variables
 * [Variable composition, hypotheses and research question](https://docs.google.com/document/d/1VDeFAlU6jEDcFKVDW39z4D9OWp7FI01C/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
 
 ## Lecture video
