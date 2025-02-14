@@ -14,6 +14,8 @@ layout:
 
 # How to use zbib.org for citations?
 
+## [click here: www.zbib.org](https://zbib.org/)
+
 ## Citing references
 
 Citing references is an important part of academic research because: References <mark style="color:red;">acknowledge the contribution of the work of others</mark> and their place within the area of research.
@@ -26,9 +28,9 @@ A source is referenced in <mark style="color:red;">two parts</mark>:
 
 &#x20;<mark style="color:red;">- In-text citation:</mark> in your text at the point of use
 
-<figure><img src="../../.gitbook/assets/image (48).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (94).png" alt=""><figcaption></figcaption></figure>
 
-## Referencing site: zbib.org
+## Referencing site: www.zbib.org
 
 {% embed url="https://zbib.org/" %}
 
