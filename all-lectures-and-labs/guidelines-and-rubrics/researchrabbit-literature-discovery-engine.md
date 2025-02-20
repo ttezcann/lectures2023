@@ -26,7 +26,7 @@ When we enter a couple of articles to ResearchRabbit, it analyzes their citation
 
 ## Sign up
 
-1. Use your school email address
+1. Use school email address
 
 <figure><img src="https://lh7-rt.googleusercontent.com/slidesz/AGV_vUf5c1NvlM-oA71SDzlG_Z8QwJ7gg0v4-kJEYhtcV0RLC964OGjsOJaAXOVKMehPziIW0lBFJA4PavvIJPG3fuCkO7NBJXkCKzHEpeSA30C3NvFnijLuRq-HQXgjcLeRolxlqfoQjkruCGKRE4kw5Hw=s2048?key=EHXAyaYxYZ3bbPFoOn3TGQ" alt="" width="375"><figcaption></figcaption></figure>
 
@@ -36,7 +36,7 @@ When we enter a couple of articles to ResearchRabbit, it analyzes their citation
 
 ## Paste the DOI
 
-3. As soon as you click "Submit" above, you will see this below. Paste the DOI of the top choice annual review article(s) and click “Add Directly”
+3. As soon as we click "Submit" above, we will see the following. Paste the DOI of the top choice annual review article(s) and click “Add Directly”
 
 ### [**\[How to find DOI?\]**](https://ttezcan.gitbook.io/lectures/all-lectures-and-labs/guidelines-and-rubrics/citation-chaining-procedure#how-to-find-doi)
 
@@ -48,7 +48,7 @@ When we enter a couple of articles to ResearchRabbit, it analyzes their citation
 
 <figure><img src="../../.gitbook/assets/image (101).png" alt=""><figcaption></figcaption></figure>
 
-5. Click “Rename” and Type your main topic.
+5. Click “Rename” and Type the main topic.
 
 <figure><img src="https://lh7-rt.googleusercontent.com/slidesz/AGV_vUdZEe3ceThSS8UwH_VETqT0zqD52YlMXL4Opi99FLxh5TkjPMaClRDi_dGKZSQx3i0zG7xaENFo8Ncwq7w8XieRPHTo0daW2EZHlpNbbETMtOeKm-tT1WmJub3Gnqd-Wfn5M3n2WM07wLb42dJd6ls=s2048?key=EHXAyaYxYZ3bbPFoOn3TGQ" alt="" width="563"><figcaption></figcaption></figure>
 
@@ -59,7 +59,7 @@ When we enter a couple of articles to ResearchRabbit, it analyzes their citation
 7. Add the three articles you found through [**citation chaining**](https://ttezcan.gitbook.io/lectures/all-lectures-and-labs/guidelines-and-rubrics/citation-chaining-procedure) one by one.
    1. First, click “Add Papers”
    2. Paste the [DOI (the most preferable way) ](https://ttezcan.gitbook.io/lectures/all-lectures-and-labs/guidelines-and-rubrics/citation-chaining-procedure#how-to-find-doi)of the top choice annual review article and click “Add Directly”
-   3. If you paste the title of the articles instead, it will take a bit longer (See the next section).
+   3. If we paste the title of the articles instead, it will take a bit longer (See the next section).
 
 <figure><img src="../../.gitbook/assets/image (102).png" alt="" width="500"><figcaption></figcaption></figure>
 
@@ -82,7 +82,7 @@ Finally, click “Add to Collection.”
 
 ## The view from added articles
 
-8. Click "Similar Work" to see your literature network.
+8. Click "Similar Work" to see the literature network.
 
 <figure><img src="../../.gitbook/assets/image (106).png" alt=""><figcaption></figcaption></figure>
 
