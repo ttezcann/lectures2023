@@ -36,7 +36,7 @@ layout:
 
 {% embed url="https://drive.google.com/open?id=1uBotTTDljb63r8itIieVBFdbuLJoxzqa&usp=drive_fs" %}
 
-## Lab assignment video
+## Sample lab assignment video
 
 {% embed url="https://youtu.be/F5obiGEVXso" %}
 

@@ -36,7 +36,9 @@ Reading
 
 {% embed url="https://drive.google.com/open?id=1ugjekLhn9Nx4aEGBDPI7D1kWius7ev59&usp=drive_fs" %}
 
-## Lab assignment video
+## Sample lab assignment video
+
+[Sample lab assignment google doc](https://docs.google.com/document/d/1U4Nwk-n0np2dc26UP_HAR87R5wgWQQ3p?rtpof=true\&usp=drive_fs)
 
 {% embed url="https://drive.google.com/open?id=15y0oDa_VSKk0igiGs08993HZ3YJwuYIU&usp=drive_fs" %}
 

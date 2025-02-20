@@ -15,6 +15,7 @@
     * [Which apps to download](all-lectures-and-labs/guidelines-and-rubrics/which-apps-to-download.md)
     * [How to use zbib.org for citations?](all-lectures-and-labs/guidelines-and-rubrics/how-to-use-zbib.org-for-citations.md)
     * [How to determine peer-reviewed journal articles?](all-lectures-and-labs/guidelines-and-rubrics/how-to-determine-peer-reviewed-journal-articles.md)
+    * [Citation chaining procedure](all-lectures-and-labs/guidelines-and-rubrics/citation-chaining-procedure.md)
     * [How to take a screenshot](all-lectures-and-labs/guidelines-and-rubrics/how-to-take-a-screenshot.md)
     * [Canvas notification settings](all-lectures-and-labs/guidelines-and-rubrics/canvas-notification-settings.md)
     * [How to use Google Calendar](all-lectures-and-labs/guidelines-and-rubrics/how-to-use-google-calendar.md)
