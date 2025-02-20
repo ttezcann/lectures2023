@@ -32,7 +32,7 @@ When we enter a couple of articles to ResearchRabbit, it analyzes their citation
 
 2. Complete all fields
 
-<figure><img src="https://lh7-rt.googleusercontent.com/slidesz/AGV_vUeBBA5bB0LAy3a_IrUX1srWmOCEeSEYZXoplPmUMhGLhX2sMtc7ZD42EfYGskn_Lh64JF8AxvErrIdabIAngMmAyJPyhOutAOpM9ZBkzHyb04qXybGVV7Zg2yGitjdCcRcTUJSrYn7oQj93s-8nnA=s2048?key=EHXAyaYxYZ3bbPFoOn3TGQ" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="https://lh7-rt.googleusercontent.com/slidesz/AGV_vUeBBA5bB0LAy3a_IrUX1srWmOCEeSEYZXoplPmUMhGLhX2sMtc7ZD42EfYGskn_Lh64JF8AxvErrIdabIAngMmAyJPyhOutAOpM9ZBkzHyb04qXybGVV7Zg2yGitjdCcRcTUJSrYn7oQj93s-8nnA=s2048?key=EHXAyaYxYZ3bbPFoOn3TGQ" alt="" width="375"><figcaption></figcaption></figure>
 
 ## Paste the DOI
 
@@ -50,7 +50,7 @@ When we enter a couple of articles to ResearchRabbit, it analyzes their citation
 
 5. Click “Rename” and Type the main topic.
 
-<figure><img src="https://lh7-rt.googleusercontent.com/slidesz/AGV_vUdZEe3ceThSS8UwH_VETqT0zqD52YlMXL4Opi99FLxh5TkjPMaClRDi_dGKZSQx3i0zG7xaENFo8Ncwq7w8XieRPHTo0daW2EZHlpNbbETMtOeKm-tT1WmJub3Gnqd-Wfn5M3n2WM07wLb42dJd6ls=s2048?key=EHXAyaYxYZ3bbPFoOn3TGQ" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="https://lh7-rt.googleusercontent.com/slidesz/AGV_vUdZEe3ceThSS8UwH_VETqT0zqD52YlMXL4Opi99FLxh5TkjPMaClRDi_dGKZSQx3i0zG7xaENFo8Ncwq7w8XieRPHTo0daW2EZHlpNbbETMtOeKm-tT1WmJub3Gnqd-Wfn5M3n2WM07wLb42dJd6ls=s2048?key=EHXAyaYxYZ3bbPFoOn3TGQ" alt="" width="375"><figcaption></figcaption></figure>
 
 6. Type my email address, [ttezcan@csumb.edu](mailto:ttezcan@csumb.edu), under “EMAIL” and click “Invite”
 
@@ -95,10 +95,14 @@ Finally, click “Add to Collection.”
 9. All the relevant articles are on the right side and also on the diagram.
 10. Click the <mark style="color:blue;">blue circles</mark> (the ones closer to the <mark style="color:green;">green ones</mark>). They are the most relevant ones.
 11. Find and download the peer-reviewed journal articles indicated by <mark style="color:blue;">blue circles</mark>.&#x20;
-    1. [**\[How to find articles\]**](https://ttezcan.gitbook.io/lectures/all-lectures-and-labs/guidelines-and-rubrics/citation-chaining-procedure#how-to-find-articles)&#x20;
-    2. [**\[How to determine peer-reviewed journal articles?\]**](https://ttezcan.gitbook.io/lectures/all-lectures-and-labs/guidelines-and-rubrics/how-to-determine-peer-reviewed-journal-articles)
 
 <figure><img src="../../.gitbook/assets/image (107).png" alt=""><figcaption></figcaption></figure>
+
+### [**\[How to find articles\]**](https://ttezcan.gitbook.io/lectures/all-lectures-and-labs/guidelines-and-rubrics/citation-chaining-procedure#how-to-find-articles)
+
+We should only use peer-reviewed journal articles.
+
+### [**\[How to determine peer-reviewed journal articles?\]**](https://ttezcan.gitbook.io/lectures/all-lectures-and-labs/guidelines-and-rubrics/how-to-determine-peer-reviewed-journal-articles)
 
 ## **\[Optional]** Even more relevant literature network
 
@@ -113,5 +117,3 @@ Now our collection includes
 Every time we add a new article to your collection, we go back and click “Similar Work” again to make our literature network even more relevant to our main topic.
 
 <figure><img src="../../.gitbook/assets/image (108).png" alt=""><figcaption></figcaption></figure>
-
-##
