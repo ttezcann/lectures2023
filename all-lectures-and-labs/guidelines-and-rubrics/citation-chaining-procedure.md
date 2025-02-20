@@ -105,3 +105,9 @@ Email me (<mark style="color:blue;">ttezcan@csumb.edu</mark>) with the title and
 
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXc8W4uYtMBQd7efekpkRrE9F4oNx-lONvkAv7Pnhp9rX_7WdxTR3NVpMW7fcgFRsToGL7pvw22gbUyzPiN7WCsWOHMAY0-m0nA5O5MNA5ROZ_ELJAfzXy-6iC8zDODVSUoHtsRNIbhPfOM4IzJSFu8?key=vRZgQ_2KxJIVKIPKReuFqA" alt=""><figcaption></figcaption></figure>
+
+## How to find DOI?
+
+It's always better to search DOI instead of title of the articles.
+
+<figure><img src="../../.gitbook/assets/image (99).png" alt=""><figcaption></figcaption></figure>
