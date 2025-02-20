@@ -42,30 +42,29 @@ We need to make sure it’s a peer-reviewed journal article:
 
 <figure><img src="../../.gitbook/assets/image (95).png" alt=""><figcaption></figcaption></figure>
 
-Before we find Duckitt’s article, we continue reading the first article to find more relevant arguments.
-
-On page **593**, we read the following:
-
-<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeXah2DINQBGvegCX4KLVTucAmbRpynMVms_4asFO7lTy4rBk9WFr6oab9X1L1_LBwZJYJhtchN70VOMDeuKfVa7hp1c_ei6VBHHsYepWrX7BhlBlDvSIjLqhmUjSu1TKvir6jFRGDcqYYcAraVKEM?key=vRZgQ_2KxJIVKIPKReuFqA" alt=""><figcaption></figcaption></figure>
-
-Thanks to this argument, we have decided to change our second independent variable.&#x20;
-
-This argument belongs to two authors. We go to the references and find it as well. We’ll go with Ensari & Miller, because the other one is a book chapter. We should only look for peer-reviewed journal articles.
-
-<figure><img src="../../.gitbook/assets/image (96).png" alt=""><figcaption></figcaption></figure>
-
-Before we find Ensari and Miller’s article, we continue reading the first article to find more relevant arguments.
+Before we find Duckitt’s article, we continue reading the "Annual Review Article" by Hewstone to find more relevant arguments.
 
 On page **586**, we read the following:
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdOMzFujzXmg0qjC-yhnxv_8L0nFSeT2iTbhhNAAv29guvjlV9StYB9TQEXbFY91bpbavy79EKdbe1uq7fM8L8KyedpWdhsghMZfFgtDsjU2TZVyxMFEWkhMc4rgTVUGQRA-g5qXwutJyAJoA0y4J4?key=vRZgQ_2KxJIVKIPKReuFqA" alt=""><figcaption></figcaption></figure>
 
-We can benefit from this argument for our third independent variable.
+We can benefit from this argument for our second independent variable.&#x20;
 
-This argument belongs to three authors and is relevant to our study too, that’s why we go to the references and find it as well. We’ll go with Quillian.\
-
+This argument belongs to three authors and is relevant to our study too, that’s why we go to the references and find it as well. We’ll go with Quillian.
 
 <figure><img src="../../.gitbook/assets/image (97).png" alt=""><figcaption></figcaption></figure>
+
+Before we find Quillian’s article, we continue reading the "Annual Review Article" by Hewstone to find more relevant arguments.&#x20;
+
+On page **593**, we read the following:
+
+<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeXah2DINQBGvegCX4KLVTucAmbRpynMVms_4asFO7lTy4rBk9WFr6oab9X1L1_LBwZJYJhtchN70VOMDeuKfVa7hp1c_ei6VBHHsYepWrX7BhlBlDvSIjLqhmUjSu1TKvir6jFRGDcqYYcAraVKEM?key=vRZgQ_2KxJIVKIPKReuFqA" alt=""><figcaption></figcaption></figure>
+
+Thanks to this argument, we have decided to change our third independent variable.&#x20;
+
+This argument belongs to two authors. We go to the references and find it as well. We’ll go with Ensari & Miller, because the other one is a book chapter. We should only look for peer-reviewed journal articles.
+
+<figure><img src="../../.gitbook/assets/image (96).png" alt=""><figcaption></figcaption></figure>
 
 ## Citation chain figure
 
@@ -73,7 +72,7 @@ Our current citation chain looks like this:
 
 <figure><img src="../../.gitbook/assets/image (98).png" alt=""><figcaption></figcaption></figure>
 
-If we like, we can continue the citation chaining with Duckitt, Ensari & Miller, and Quillian.
+If we like, we can continue the citation chaining by reading Duckitt, Ensari & Miller, and Quillian, and add more chains
 
 ## How to find articles
 
