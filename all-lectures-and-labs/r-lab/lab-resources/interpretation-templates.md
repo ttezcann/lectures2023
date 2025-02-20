@@ -37,7 +37,7 @@ Here's the order you need to follow:
 
 **Example 1:**&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}
 <mark style="color:green;">Correct:</mark> <mark style="color:orange;">The perceived discrimination at work because of age</mark> <mark style="color:orange;">variable</mark> shows that 7.93% of the respondents feel discriminated at work because of age and 92.07% do not.
@@ -112,7 +112,7 @@ Slides: [descriptive statistics](https://docs.google.com/presentation/d/1_rePJrP
 <figure><img src="../../../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-[_<mark style="color:blue;">The age in years variable</mark>_](#user-content-fn-11)[^11] _<mark style="color:blue;">shows that the average age of the respondents is</mark>_ [_<mark style="color:blue;">49.18</mark>_](#user-content-fn-12)[^12]_<mark style="color:blue;">, with standard deviation</mark>_ [_<mark style="color:blue;">17.97</mark>_](#user-content-fn-13)[^13]_<mark style="color:blue;">.</mark>_
+[_<mark style="color:blue;">The age in years variable</mark>_](#user-content-fn-5)[^5] _<mark style="color:blue;">shows that the average age of the respondents is</mark>_ [_<mark style="color:blue;">49.18</mark>_](#user-content-fn-11)[^11]_<mark style="color:blue;">, with standard deviation</mark>_ [_<mark style="color:blue;">17.97</mark>_](#user-content-fn-12)[^12]_<mark style="color:blue;">.</mark>_
 {% endhint %}
 
 {% hint style="success" %}
@@ -127,7 +127,7 @@ Slides: [descriptive statistics](https://docs.google.com/presentation/d/1_rePJrP
 descr(gss$hapindex, out = "v", show = "short")
 ```
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Indicate the highest possible score in your interpretation <mark style="color:red;">➜ "Out of 3", "Out of 5", etc.</mark>
 
@@ -404,7 +404,7 @@ wrap.labels = 30, p.numeric = TRUE, triangle="lower", na.deletion = "pairwise")
 
 Read "correlation analysis structure" above first.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 _<mark style="color:blue;">There is a significant correlation between television screen time and percentage of time use at work using electronic technologies since the p-value is less than .05.</mark>_&#x20;
@@ -707,7 +707,7 @@ Slides: [dummy variables](https://docs.google.com/presentation/d/14DvMvFfpo0zkmW
 
 ## Logistic regression analysis (with dummy variables)
 
-<figure><img src="../../../.gitbook/assets/image.png" alt="" width="515"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt="" width="515"><figcaption></figcaption></figure>
 
 ```r
 frq(gss$class, out = "v")
@@ -810,7 +810,7 @@ Negative Std.Beta =
 
 1➗ 0.80 = 1.25
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### Reporting of Tjur R-Squared
 
@@ -877,8 +877,6 @@ Slides: [dummy variables](https://docs.google.com/presentation/d/14DvMvFfpo0zkmW
 
 [^10]: replace age with a new continuous variable.
 
-[^11]: use "what it measures" column of Variables in GSS page.
+[^11]: Mean
 
-[^12]: Mean
-
-[^13]: SD: standard deviation.
+[^12]: SD: standard deviation.

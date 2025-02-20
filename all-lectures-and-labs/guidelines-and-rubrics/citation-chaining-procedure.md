@@ -110,3 +110,12 @@ Email me (<mark style="color:blue;">ttezcan@csumb.edu</mark>) with the title and
 It's always better to search DOI instead of title of the articles.
 
 <figure><img src="../../.gitbook/assets/image (99).png" alt=""><figcaption></figcaption></figure>
+
+You can also use [crossref.org/guestquery](https://www.crossref.org/guestquery/)
+
+* Paste the "First Author" name and the "Article Title"
+* Click Search
+* The DOI appears at the bottom
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
