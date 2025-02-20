@@ -14,7 +14,7 @@ layout:
 
 # How to use zbib.org for citations?
 
-## [click here: www.zbib.org](https://zbib.org/)
+[click here: www.zbib.org](https://zbib.org/)
 
 ## Citing references
 
@@ -34,18 +34,17 @@ A source is referenced in <mark style="color:red;">two parts</mark>:
 
 {% embed url="https://zbib.org/" %}
 
-1\) Paste the article title and click “Cite”
+1. Paste the article title and click “Cite”
 
 <figure><img src="../../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
 
-2\) Check the journal name and make sure this is the correct article. If you are sure, click on the article title
+2. Check the journal name and make sure this is the correct article. If you are sure, click on the article title
 
 <figure><img src="../../.gitbook/assets/image (50).png" alt=""><figcaption></figcaption></figure>
 
-3\) Click on the highlighted arrow and choose the citation system you need (APA, ASA, Chicago, etc.) Click on the “Copy to Clipboard” and the end-text citation is copied.
+3. Click on the highlighted arrow and choose APA. Click on the “Copy to Clipboard” and the end-text citation is copied.
 
 <figure><img src="../../.gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
 
-If it does not work, paste DOI (Digital Object Identifier). This number starts with 10, and can be found in the link and the journal page.
-
-<figure><img src="../../.gitbook/assets/Screenshot_2024-02-20 09.12.27.png" alt=""><figcaption></figcaption></figure>
+4. If it does not work, find DOI (Digital Object Identifier). It's actually always better to use DOI.&#x20;
+   1. [**\[How to find DOI?\]**](https://ttezcan.gitbook.io/lectures/all-lectures-and-labs/guidelines-and-rubrics/citation-chaining-procedure#how-to-find-doi)
