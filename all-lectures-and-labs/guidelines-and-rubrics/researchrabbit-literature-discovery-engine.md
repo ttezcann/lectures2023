@@ -16,7 +16,7 @@ layout:
 
 ## Definition
 
-**ResearchRabbit** is a literature discovery engine that helps to find academic papers. It uses an algorithm to suggest relevant research based on user-selected papers.
+**ResearchRabbit** is a literature discovery engine that helps to find <mark style="color:red;">relevant academic papers</mark>. It uses algorithms to suggest relevant academic papers based on user-selected papers.
 
 When we enter a couple of articles to ResearchRabbit, it analyzes their citation patterns, recommend related research based on our interests, and provide a literature network diagram.
 
@@ -36,15 +36,15 @@ When we enter a couple of articles to ResearchRabbit, it analyzes their citation
 
 ## Paste the DOI
 
-3. As soon as we click "Submit" above, we will see the following. Paste the DOI of the top choice annual review article(s) and click “Add Directly”
+3. As soon as we click "Submit" above, we will see the following dialog box. Paste the DOI of the top choice annual review article(s) and click “Add Directly”
 
 ### [**\[How to find DOI?\]**](https://ttezcan.gitbook.io/lectures/all-lectures-and-labs/guidelines-and-rubrics/citation-chaining-procedure#how-to-find-doi)
 
 <figure><img src="../../.gitbook/assets/image (100).png" alt="" width="495"><figcaption></figcaption></figure>
 
-## Create your collection and share with me
+## Create the collection and share it
 
-4. Click the three dots next to “Untitled Collection”
+4. Click the three dots next to “Untitled Collection.”
 
 <figure><img src="../../.gitbook/assets/image (101).png" alt=""><figcaption></figcaption></figure>
 
@@ -56,7 +56,7 @@ When we enter a couple of articles to ResearchRabbit, it analyzes their citation
 
 ## Add articles (DOI) found through citation chaining (a)
 
-7. Add the three articles you found through [**citation chaining**](https://ttezcan.gitbook.io/lectures/all-lectures-and-labs/guidelines-and-rubrics/citation-chaining-procedure) one by one.
+7. We will add the three articles we found through [**citation chaining**](https://ttezcan.gitbook.io/lectures/all-lectures-and-labs/guidelines-and-rubrics/citation-chaining-procedure) one by one.
    1. First, click “Add Papers”
    2. Paste the [DOI (the most preferable way) ](https://ttezcan.gitbook.io/lectures/all-lectures-and-labs/guidelines-and-rubrics/citation-chaining-procedure#how-to-find-doi)of the top choice annual review article and click “Add Directly”
    3. If we paste the title of the articles instead, it will take a bit longer (See the next section).
@@ -65,7 +65,7 @@ When we enter a couple of articles to ResearchRabbit, it analyzes their citation
 
 ## Add articles (TITLE) found through citation chaining (b)
 
-7.  Add the three articles you found through [**citation chaining**](https://ttezcan.gitbook.io/lectures/all-lectures-and-labs/guidelines-and-rubrics/citation-chaining-procedure) one by one.
+7.  We will add the three articles we found through [**citation chaining**](https://ttezcan.gitbook.io/lectures/all-lectures-and-labs/guidelines-and-rubrics/citation-chaining-procedure) one by one.
 
     1. First, click “Add Papers”
     2. Choose “All Subject Areas.”
@@ -82,23 +82,25 @@ Finally, click “Add to Collection.”
 
 ## The view from added articles
 
-8. Click "Similar Work" to see the literature network.
+8. We click "Similar Work" to see the literature network.
 
 <figure><img src="../../.gitbook/assets/image (106).png" alt=""><figcaption></figcaption></figure>
 
 ## The literature network
 
+As soon as we click "Similar Work" above, we will see the literature network.
+
 <mark style="color:green;">Green articles:</mark> Our annual review article and three articles we found through citation chaining.
 
 <mark style="color:blue;">Blue articles:</mark> Relevant articles that ResearchRabbit suggests.
 
-9. All the relevant articles are on the right side and also on the diagram.
+9. All the relevant articles are on the left side and also on the diagram.
 10. Click the <mark style="color:blue;">blue circles</mark> (the ones closer to the <mark style="color:green;">green ones</mark>). They are the most relevant ones.
 11. Find and download the peer-reviewed journal articles indicated by <mark style="color:blue;">blue circles</mark>.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (107).png" alt=""><figcaption></figcaption></figure>
-
 ### [**\[How to find articles\]**](https://ttezcan.gitbook.io/lectures/all-lectures-and-labs/guidelines-and-rubrics/citation-chaining-procedure#how-to-find-articles)
+
+<figure><img src="../../.gitbook/assets/image (107).png" alt=""><figcaption></figcaption></figure>
 
 We should only use peer-reviewed journal articles.
 
