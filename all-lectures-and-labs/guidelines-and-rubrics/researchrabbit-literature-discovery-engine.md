@@ -37,8 +37,7 @@ When we enter a couple of articles to ResearchRabbit, it analyzes their citation
 ## Paste the DOI
 
 3. As soon as we click "Submit" above, we will see the following dialog box. Paste the DOI of the top choice annual review article(s) and click “Add Directly”
-
-### [**\[How to find DOI?\]**](https://ttezcan.gitbook.io/lectures/all-lectures-and-labs/guidelines-and-rubrics/citation-chaining-procedure#how-to-find-doi)
+   1. [**\[How to find DOI?\]**](https://ttezcan.gitbook.io/lectures/all-lectures-and-labs/guidelines-and-rubrics/citation-chaining-procedure#how-to-find-doi)
 
 <figure><img src="../../.gitbook/assets/image (100).png" alt="" width="495"><figcaption></figcaption></figure>
 
@@ -97,14 +96,12 @@ As soon as we click "Similar Work" above, we will see the literature network.
 9. All the relevant articles are on the left side and also on the diagram.
 10. Click the <mark style="color:blue;">blue circles</mark> (the ones closer to the <mark style="color:green;">green ones</mark>). They are the most relevant ones.
 11. Find and download the peer-reviewed journal articles indicated by <mark style="color:blue;">blue circles</mark>.&#x20;
-
-### [**\[How to find articles\]**](https://ttezcan.gitbook.io/lectures/all-lectures-and-labs/guidelines-and-rubrics/citation-chaining-procedure#how-to-find-articles)
+    1. [**\[How to find articles\]**](https://ttezcan.gitbook.io/lectures/all-lectures-and-labs/guidelines-and-rubrics/citation-chaining-procedure#how-to-find-articles)
 
 <figure><img src="../../.gitbook/assets/image (107).png" alt=""><figcaption></figcaption></figure>
 
-We should only use peer-reviewed journal articles.
-
-### [**\[How to determine peer-reviewed journal articles?\]**](https://ttezcan.gitbook.io/lectures/all-lectures-and-labs/guidelines-and-rubrics/how-to-determine-peer-reviewed-journal-articles)
+12. We should only use peer-reviewed journal articles.
+    1. [**\[How to determine peer-reviewed journal articles?\]**](https://ttezcan.gitbook.io/lectures/all-lectures-and-labs/guidelines-and-rubrics/how-to-determine-peer-reviewed-journal-articles)
 
 ## **\[Optional]** Even more relevant literature network
 
