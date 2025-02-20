@@ -33,10 +33,8 @@ On page **585**, we read the following:
 2. This argument is related to our first independent variable.
 3. Now, we’re interested in this argument/evidence which is made by four different authors. We want to read only one or all of them too.&#x20;
 4. For this guideline, we will choose the highlighted one. We go to the references (literature cited or bibliography) section (at the very end of the article) and find the title of this study.&#x20;
-
-We need to make sure it’s a peer-reviewed journal article:
-
-[\[How to determine peer-reviewed journal articles?\]](https://ttezcan.gitbook.io/lect/all-lectures-and-labs/guidelines-and-rubrics/how-to-determine-peer-reviewed-journal-articles)
+5. We need to make sure it’s a peer-reviewed journal article:
+   1. [\[How to determine peer-reviewed journal articles?\]](https://ttezcan.gitbook.io/lect/all-lectures-and-labs/guidelines-and-rubrics/how-to-determine-peer-reviewed-journal-articles)
 
 <figure><img src="../../.gitbook/assets/image (95).png" alt=""><figcaption></figcaption></figure>
 
@@ -58,7 +56,8 @@ On page **593**, we read the following:
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeXah2DINQBGvegCX4KLVTucAmbRpynMVms_4asFO7lTy4rBk9WFr6oab9X1L1_LBwZJYJhtchN70VOMDeuKfVa7hp1c_ei6VBHHsYepWrX7BhlBlDvSIjLqhmUjSu1TKvir6jFRGDcqYYcAraVKEM?key=vRZgQ_2KxJIVKIPKReuFqA" alt=""><figcaption></figcaption></figure>
 
 9. Thanks to this argument, we have decided to change our third independent variable.&#x20;
-10. This argument belongs to two authors. We go to the references and find it as well. We’ll go with Ensari & Miller, because the other one is a book chapter. We should only look for peer-reviewed journal articles. [**\[How to determine peer-reviewed journal articles?\]**](https://ttezcan.gitbook.io/lectures/all-lectures-and-labs/guidelines-and-rubrics/how-to-determine-peer-reviewed-journal-articles)
+10. This argument belongs to two authors. We go to the references and find it as well. We’ll go with Ensari & Miller, because the other one is a book chapter. We should only look for peer-reviewed journal articles.&#x20;
+    1. [**\[How to determine peer-reviewed journal articles?\]**](https://ttezcan.gitbook.io/lectures/all-lectures-and-labs/guidelines-and-rubrics/how-to-determine-peer-reviewed-journal-articles)
 
 <figure><img src="../../.gitbook/assets/image (96).png" alt=""><figcaption></figcaption></figure>
 
@@ -73,7 +72,8 @@ If we like, we can continue the citation chaining by reading Hewstone, Duckitt, 
 ## How to find articles
 
 1. We will find the full PDF versions of these three articles.&#x20;
-2. We will paste the DOI (the most preferred way) or title of the articles into [scholar.google.com](http://scholar.google.com).
+2. We will paste the DOI (the most preferred way) or title of the articles into [scholar.google.com](http://scholar.google.com).&#x20;
+   1. [\[How to find DOI?\]](https://ttezcan.gitbook.io/lectures/all-lectures-and-labs/guidelines-and-rubrics/citation-chaining-procedure#how-to-find-doi)
 3. If we see <mark style="color:red;">\[PDF] on the right side</mark>, we have access. We click on \[PDF], **not** the title.
 
 <mark style="color:orange;">**We have found the PDF!**</mark>
