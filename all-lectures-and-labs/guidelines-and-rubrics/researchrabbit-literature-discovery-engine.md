@@ -67,13 +67,10 @@ When we enter a couple of articles to ResearchRabbit, it analyzes their citation
 7.  We will add the three articles we found through [**citation chaining**](https://ttezcan.gitbook.io/lectures/all-lectures-and-labs/guidelines-and-rubrics/citation-chaining-procedure) one by one.
 
     1. First, click “Add Papers”
-    2. Choose “All Subject Areas.”
+    2. Paste the title of the article and click “Search.”
+    3. Choose “All Subject Areas.”
 
     <figure><img src="../../.gitbook/assets/image (103).png" alt="" width="377"><figcaption></figcaption></figure>
-
-    Paste the title of the article and click “Search.”
-
-<figure><img src="../../.gitbook/assets/image (104).png" alt=""><figcaption></figcaption></figure>
 
 Finally, click “Add to Collection.”
 
@@ -103,16 +100,23 @@ As soon as we click "Similar Work" above, we will see the literature network.
 12. We should only use peer-reviewed journal articles.
     1. [**\[How to determine peer-reviewed journal articles?\]**](https://ttezcan.gitbook.io/lectures/all-lectures-and-labs/guidelines-and-rubrics/how-to-determine-peer-reviewed-journal-articles)
 
-## **\[Optional]** Even more relevant literature network
+## Even more relevant literature network
 
-**\[Optional]** Add the <mark style="color:blue;">blue circle articles</mark> to your collection to make your literature network analysis even stronger.
+13. **We will a**dd the <mark style="color:blue;">blue circle articles</mark> to our collection to make our literature network analysis even stronger.
 
-Now our collection includes
+Our collection includes
 
-* One Annual Review article,&#x20;
-* Three articles found using citation chaining, and&#x20;
-* One article found using ResearchRabbit
+* One Annual Review article (<mark style="color:green;">Green circle</mark>), and&#x20;
+* Three articles found using citation chaining (<mark style="color:green;">Green circle</mark>),
 
-Every time we add a new article to your collection, we go back and click “Similar Work” again to make our literature network even more relevant to our main topic.
+Every time we click on a <mark style="color:blue;">blue circle article,</mark>  we add them to our collection. We click on Esses (1998) and "Add to: _our collection name."_
 
-<figure><img src="../../.gitbook/assets/image (108).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ss_2025-02-20 16.38.34.png" alt=""><figcaption></figcaption></figure>
+
+Every time we add a new article to our literature network, we go back and click “Similar Work” again. We will repeat this process 10 times, until we see 14 <mark style="color:green;">Green circles</mark>:&#x20;
+
+* 1 annual review article
+* 3 articles found through citation chaining
+* 10 articles that ResearchRabbit suggested and we added to our collection
+
+<figure><img src="../../.gitbook/assets/ss_2025-02-20 16.41.30.png" alt=""><figcaption></figcaption></figure>
