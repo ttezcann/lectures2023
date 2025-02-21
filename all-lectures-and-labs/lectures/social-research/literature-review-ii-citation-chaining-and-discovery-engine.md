@@ -30,9 +30,9 @@ layout:
 
 [Citation chaining and discovery engine](https://docs.google.com/document/d/1XtyA14W9timoYDiN_d3D3CpaD3JJexRr?rtpof=true\&usp=drive_fs)
 
-## Video
+## Lecture video
 
-{% embed url="https://youtu.be/Pg5D8nPQUuI" %}
+{% embed url="https://drive.google.com/file/d/1L_Piowd_pRBmQFt0hf-8Iw2lM0H4mgCu/view?usp=drive_link" %}
 
 ## Lecture reflection
 
