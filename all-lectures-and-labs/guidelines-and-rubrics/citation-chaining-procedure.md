@@ -20,11 +20,11 @@ In citation chaining, one journal article <mark style="color:red;">links you to 
 
 This is a useful research tactic when we are working on a literature review since it helps us follow chains of related sources.
 
-For example, let's say we've found a relevant journal annual review article on our topic. We can make a chain of citations leading from that one article both forwards and backwards from the year of publication.
+For example, let's say we've found a relevant  annual review article on our topic. We can make a chain of citations leading from that one article both forwards and backwards from the year of publication.
 
 ## Procedure
 
-1. Let’s say we’re reading Miles Hwestone’s annual review article, [Intergroup Bias](https://drive.google.com/open?id=1jGMCJI9NAs82EjxY-Z9xKV8VGvNh6umx\&usp=drive_fs).&#x20;
+1. Let’s say we’re reading Miles Hewstone’s annual review article, [Intergroup Bias](https://drive.google.com/open?id=1jGMCJI9NAs82EjxY-Z9xKV8VGvNh6umx\&usp=drive_fs).&#x20;
 
 On page **585**, we read the following:
 
