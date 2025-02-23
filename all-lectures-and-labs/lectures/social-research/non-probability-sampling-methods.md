@@ -26,7 +26,7 @@ layout:
 
 ## Assignment
 
-* [Non-probability sampling exercise](https://docs.google.com/document/d/1rg92uFWDLrN3dtX7749p6kxKCNwI3b-q/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
+* [Non-probability sampling for coffee shop owners](https://docs.google.com/document/d/1rg92uFWDLrN3dtX7749p6kxKCNwI3b-q/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
 
 ## Video
 
