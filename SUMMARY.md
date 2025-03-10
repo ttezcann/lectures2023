@@ -17,6 +17,7 @@
     * [How to determine peer-reviewed journal articles?](all-lectures-and-labs/guidelines-and-rubrics/how-to-determine-peer-reviewed-journal-articles.md)
     * [Citation chaining procedure](all-lectures-and-labs/guidelines-and-rubrics/citation-chaining-procedure.md)
     * [ResearchRabbit: Literature discovery engine](all-lectures-and-labs/guidelines-and-rubrics/researchrabbit-literature-discovery-engine.md)
+    * [Selective literature review](all-lectures-and-labs/guidelines-and-rubrics/selective-literature-review.md)
     * [How to take a screenshot](all-lectures-and-labs/guidelines-and-rubrics/how-to-take-a-screenshot.md)
     * [Canvas notification settings](all-lectures-and-labs/guidelines-and-rubrics/canvas-notification-settings.md)
     * [How to use Google Calendar](all-lectures-and-labs/guidelines-and-rubrics/how-to-use-google-calendar.md)
