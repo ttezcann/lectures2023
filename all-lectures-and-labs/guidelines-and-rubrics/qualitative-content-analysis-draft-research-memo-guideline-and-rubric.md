@@ -16,17 +16,17 @@ layout:
 
 <figure><img src="../../.gitbook/assets/ss_2024-07-20 17.08.50 7.png" alt=""><figcaption></figcaption></figure>
 
-[**Click here to see the template you will use.**](https://docs.google.com/document/d/1uNbySWvROGhAB13w69U4ZFMdBIO-k2RF?rtpof=true\&usp=drive_fs)
+### [**Click here to see the template you will use.**](https://docs.google.com/document/d/1uNbySWvROGhAB13w69U4ZFMdBIO-k2RF?rtpof=true\&usp=drive_fs)
 
-Open it and click File <mark style="color:red;">**->**</mark> Copy.
+Open it and click File <mark style="color:red;">➜</mark> Copy.
 
 ## Sample draft research memo
 
-[Sample draft research memo here](https://docs.google.com/document/d/1ztZ_YJSLWejYitRIhZiJVfkFGMkeU965?rtpof=true\&usp=drive_fs)
+### [**Sample draft research memo here**](https://docs.google.com/document/d/1ztZ_YJSLWejYitRIhZiJVfkFGMkeU965?rtpof=true\&usp=drive_fs)
 
 ## Word count
 
-Minimum 1,000 words of text excluding bibliography.
+Minimum **1,000** words of text excluding bibliography.
 
 ## The goal
 
@@ -53,7 +53,7 @@ Those previous assignments are:&#x20;
 
 Note: Submissions without data analysis that is generated in "Coding your own data for draft research memo" will automatically receive zero.
 
-
+You've been using citation chaining and ResearchRabbit until now. Moving forward, use [**Selective Literature Review** ](https://ttezcan.gitbook.io/lectures/all-lectures-and-labs/guidelines-and-rubrics/selective-literature-review)to focus directly on your specific research variables.
 
 You will need to find the full PDF version of the articles. If you do not have access to them, please email me ([ttezcan@csumb.edu](mailto:ttezcan@csumb.edu)) with the title and the link of the articles. Make sure the link does NOT start with [https://csu-mb.primo.exlibrisgroup.com/](https://csu-mb.primo.exlibrisgroup.com/)
 
@@ -63,11 +63,9 @@ You will need to find the full PDF version of the articles. If you do not have a
 
 1. **Introduction and background:** Clearly state the topic. What are you investigating? What is the significance of the topic? Why does it matter? Highlight the significance of the topic. Cite some of your sentences here. End this section with your research question.
 2. **Theoretical structure and hypotheses:** Review the relevant literature and construct relevant associations to your own research topic. Do not summarize others’ works like A claimed this, B asserted that! Analytically use and interpret them as long as they benefit your own research. Define the key concepts here. In your project, for instance, if you are working on return migration, explain and cite what return migration is. Under section 2, you will provide a broader explanation of the literature. You will be more specific under the subsections 2.1., 2.2., and 2.3.
-
-* **2.1. “The relationship between first independent variable and dependent variable” (You will name this subsection, for example Discrimination and Return migration):** Review the specific relevant literature about the relationship between your first independent variable and dependent variable. Explain what you expect to find and your reasoning. End this subsection with your first hypothesis.
-* **2.2. “The relationship between second independent variable and dependent variable” (You will name this subsection, for example Transnationalism and Return migration):** Review the specific relevant literature about the relationship between your second independent variable and dependent variable. Explain what you expect to find and your reasoning. End this subsection with your second hypothesis.
-* **2.3. “The relationship between third independent variable and dependent variable” (You will name this subsection, for example Children and Return migration):** Review the specific relevant literature about the relationship between your third independent variable and dependent variable. Explain what you expect to find and your reasoning. End this subsection with your third hypothesis.
-
+   * **2.1. “The relationship between first independent variable and dependent variable” (You will name this subsection, for example Discrimination and Return migration):** Review the specific relevant literature about the relationship between your first independent variable and dependent variable. Explain what you expect to find and your reasoning. End this subsection with your first hypothesis.
+   * **2.2. “The relationship between second independent variable and dependent variable” (You will name this subsection, for example Transnationalism and Return migration):** Review the specific relevant literature about the relationship between your second independent variable and dependent variable. Explain what you expect to find and your reasoning. End this subsection with your second hypothesis.
+   * **2.3. “The relationship between third independent variable and dependent variable” (You will name this subsection, for example Children and Return migration):** Review the specific relevant literature about the relationship between your third independent variable and dependent variable. Explain what you expect to find and your reasoning. End this subsection with your third hypothesis.
 3. **Methodology:** Your content analysis should include mainstream or social media posts (NOT peer-reviewed journal articles for data analysis), newspaper article comment sections, any social media platforms, YouTube comment sections, or blogs, etc. Explain from which media platform you got data. What are your data selection criteria? Paste at least 5 links of the data at the end of this section (Newspaper article, Facebook group, TikTok videos, Instagram posts, etc.)
 4. **Results:** The standard approach to this section of a research paper is to present and describe the results in a systematic and detailed way. You will highlight and comment on the themes that emerge from the analysis. More elaborate commentary on the results will be provided in the final paper. Clearly state whether you confirm or reject each of your hypotheses. Discuss your initial, axial, and focused codes here, and organize your results based on the focused codes. Remember not to include all your results. You should present and discuss only those findings that relate to your hypotheses and accordingly your research question. Do not just summarize your content; you should direct the reader to the component or components of it that are especially striking from the point of view of your research aim. Try to ask yourself what story you want the content to convey and try to relay that story to your readers. Provide some quotations from the content you used.
 5. **References (Bibliography):** Cite a minimum of 6 sources (ONLY peer-reviewed journal articles) in APA style. Books, book chapters, or other sources, such as reports found on google or websites, are NOT acceptable.
@@ -76,7 +74,7 @@ You will need to find the full PDF version of the articles. If you do not have a
 
 [Click here to see the template you will use.](https://docs.google.com/document/d/1q55ZUrxPdtxEcPOUg5skTiZP0LIDvB-OqZBYYMjFSbc/edit?usp=sharing)
 
-Open it and click File -> Copy.
+Open it and click File <mark style="color:red;">➜</mark> Copy.
 
 ## Grading
 
@@ -132,11 +130,11 @@ If you do not meet the minimum word count (1,000 words), your grade will be adju
 
 ## Reminders
 
-Reminder 1: Submissions without data analysis that is generated in "Coding your own data for draft research memo" will automatically receive zero.
+**Reminder 1:** Submissions without data analysis that is generated in "Coding your own data for draft research memo" will automatically receive zero.
 
-Reminder 2: Do not use direct quotes from the peer-reviewed articles (-10 points for each):&#x20;
+**Reminder 2:** Do not use direct quotes from the peer-reviewed articles (-10 points for each):&#x20;
 
-Reminder 3: When citing peer-reviewed articles, only provide the in-text citation within the text and the end-text citation under the references (bibliography), do not write the title of the article in the text.
+**Reminder 3:** When citing peer-reviewed articles, only provide the in-text citation within the text and the end-text citation under the references (bibliography), do not write the title of the article in the text.
 
 Should be:&#x20;
 
@@ -144,7 +142,7 @@ Should be:&#x20;
 
 “Family unity across generations is vital for family survival (Nesteruk and Marks, 2009).”
 
-NOT acceptable (-10 points for each):&#x20;
+**NOT acceptable (-10 points for each):**&#x20;
 
 * “In his work entitled ‘<mark style="color:red;">Research on grandparenting: needed refinements in concepts, theories, and methods’</mark> Szinovacz (1998) argued that grandparenthood has a multifaceted nature which lacks clear perceived and ascribed roles, and may embody different meanings, expectations and experiences in distinct cultural settings.
 * “The study titled ‘<mark style="color:red;">Grandparents across the ocean: Eastern European immigrants struggle to maintain intergenerational relationships</mark>’ argues that family unity across generations is vital for family survival (Nesteruk and Marks, 2009).”
