@@ -16,30 +16,31 @@ layout:
 
 <figure><img src="../../.gitbook/assets/ss_2024-07-20 17.08.50 7.png" alt=""><figcaption></figcaption></figure>
 
-### [**Click here to see the template you will use.**](https://docs.google.com/document/d/1uNbySWvROGhAB13w69U4ZFMdBIO-k2RF?rtpof=true\&usp=drive_fs)
+## 1. Template file
 
-Open it and click File <mark style="color:red;">➜</mark> Copy.
+* ### [**\[Click here to see the template file you will use\]**](https://docs.google.com/document/d/1uNbySWvROGhAB13w69U4ZFMdBIO-k2RF/edit)
+  * Open it,  click File <mark style="color:red;">➜</mark> Make a copy.
 
-## Sample draft research memo
+## 2. Sample draft research memo
 
-### [**Sample draft research memo here**](https://docs.google.com/document/d/1ztZ_YJSLWejYitRIhZiJVfkFGMkeU965?rtpof=true\&usp=drive_fs)
+* ### [\[Click here to see the s**ample draft research memo\]**](https://docs.google.com/document/d/1ztZ_YJSLWejYitRIhZiJVfkFGMkeU965/edit)
 
-## Word count
+## 3. Word count
 
 Minimum **1,000** words of text excluding bibliography.
 
-## The goal
+## 4. The goal
 
 The goal of writing a draft research memo is to&#x20;
 
-* develop a topic with a research question that can be answered with qualitative content analysis methods, and&#x20;
-* explain in detail what literature and methods you use to answer the research question.&#x20;
+* Develop a topic with a research question that can be answered with qualitative content analysis methods, and&#x20;
+* Explain in detail what literature and methods you use to answer the research question.&#x20;
 
 {% hint style="info" %}
 Writing is easier as you read
 {% endhint %}
 
-In this stage of your research, you are to write a draft, not a final paper. Everything you write for the draft or other assignments can be used for your final paper.
+In this stage of your research, you are to write a draft, not a final paper. Everything you have prepared for this class can be used for draft and final paper memo.
 
 The draft research memo is fundamentally structured around prior assignments, incorporating a mix of relevant copying and pasting, crafting transition sentences or paragraphs, and ensuring that all criteria outlined in the rubric are met.
 
@@ -48,21 +49,63 @@ Those previous assignments are:&#x20;
 * \[DRM] Choosing annual review articles and determining research items&#x20;
 * \[DRM] Citation chaining and discovery engine
 * \[DRM] Basic content analysis&#x20;
-* \[DRM] Coding your own data for draft research paper&#x20;
-* \[DRM] Coding your own data for draft research paper 2
+* \[DRM] Coding your own data for draft research paper\*&#x20;
+* \[DRM] Coding your own data for draft research paper 2\*
 
-Note: Submissions without data analysis that is generated in "Coding your own data for draft research memo" will automatically receive zero.
+\*Note: Submissions <mark style="color:red;">without data analysis</mark> that is generated in "Coding your own data for draft research memo" <mark style="color:red;">will automatically receive zero.</mark>
 
-You've been using citation chaining and ResearchRabbit until now. Moving forward, use [**Selective Literature Review** ](https://ttezcan.gitbook.io/lectures/all-lectures-and-labs/guidelines-and-rubrics/selective-literature-review)to focus directly on your specific research variables.
+## 5. Recommended workflow
+
+1. On this guideline page;
+   1. Read the "7. Sections" part and get an overall idea about what to expect.
+   2. Overview the "2. Sample draft research memo"
+   3. Read the "9. Rubric" items
+   4. Read the "10. Reminders"
+2. Open the "1. Template file". File <mark style="color:red;">➜</mark> Make a copy <mark style="color:red;">➜</mark> Relevant week subfolder
+3. Make sure you read my feedback provided to the assignments shown in Figure 1.
+4. Open your "\[DRM] Coding your own data for draft research memo" assignment and check the 5th question.
+   1. Paste the Hypothesis 1 to the end of  **"2.1" subsection** in your draft research memo. _Hypothesis 1: I expect to find that…_
+   2. Paste the Hypothesis 2 to the end of  **"2.2" subsection** in your draft research memo. _Hypothesis 2: I expect to find that…_
+   3. Paste the Hypothesis 3 to the end of  **"2.2" subsection** in your draft research memo. _Hypothesis 3: I expect to find that…_
+   4. Paste the Research question to the end of **"1. Introduction and background" section** in your draft research memo. "The research question of this study is as follows... \[insert your research question]."
+5. Open your "\[DRM] Citation chaining and discovery engine" assignment and find the three paragraphs you wrote for the 4th question.&#x20;
+   1. If these paragraphs are still fully relevant to hypotheses (the current variable composition) pasted above, then follow:
+      1. Paste the Paragraph 1 under **"2.1" subsection** in your draft research memo before the Hypothesis 1.
+      2. Paste the Paragraph 2 under **"2.2" subsection** in your draft research memo before the Hypothesis 2.
+      3. Paste the Paragraph 3 under **"2.3" subsection** in your draft research memo before the Hypothesis 3.
+         1. Using your variables, name these subsections (for example "2.1. Discrimination and Return migration")
+      4. Open "\[DRM] Choosing annual review articles and determining research items" assignment and check the 3rd question. Paste anything relevant for the **2.1., 2.2., 2.3. subsections.**
+   2. If you modified your variables, only paste the relevant sentences from the "\[DRM] Choosing annual review articles and determining research items" and "\[DRM] Citation chaining and discovery engine" assignments. Write new sentences and cite peer-reviewed journal articles.
+      1. First, check peer-reviewed journal article list you created for the 7th question of "\[DRM] Citation chaining and discovery engine"; there may be some relevant articles to your new hypotheses.
+      2. Then, go to [**researchrabbitapp.com**](https://researchrabbitapp.com/) and check your ResearchRabbit literature network analysis; there may be some relevant articles to your new hypotheses.
+      3. And/or, conduct [**Selective Literature Review**](https://ttezcan.gitbook.io/lectures/all-lectures-and-labs/guidelines-and-rubrics/selective-literature-review)**.**
+6. Open your "\[DRM] Basic content analysis" assignment and check your "Essay" for the 2nd question. Then, open your "\[DRM] Coding your own data for draft research memo" assignment and check the 3rd question. These are essentially the same questions progressed on each other.
+   1. Paste both answers under **"3. Methodology"** section in your draft research memo.
+   2. Combine both answers and remove the duplicate information.
+7. Open your "\[DRM] Coding your own data for draft research memo" assignment and check the 6th question. Paste this essay under the **"4. Results"** **section** in your draft research memo.&#x20;
+   1. Remove the research question from here, as you already mentioned it in **"1. Introduction and background"** section.
+   2. Open your "My data" file and check the coding table at the very end. For each focused code, find one or two most representative quotes from the media content you analyzed.
+   3. Explicitly mention if you confirm or reject your hypotheses (pasted under **2.1., 2.2., 2.3. subsections)** after discussing each focused code.
+8. Read everything you prepared so far.
+9. Write the **"2. Theoretical structure and hypotheses"** section.
+   1. You need to define your key concepts (variables). There's a guideline in  [**Selective Literature Review**](https://ttezcan.gitbook.io/lectures/all-lectures-and-labs/guidelines-and-rubrics/selective-literature-review)  page for this.
+10. Finally, write the **"1. Introduction and background" section**.
+
+## 6. What if you do not have access to the articles <a href="#what-if-you-do-not-have-access-to-the-articles" id="what-if-you-do-not-have-access-to-the-articles"></a>
+
+1. If you do not have access to the articles…
+2. Email me (<mark style="color:blue;">ttezcan@csumb.edu</mark>) with the title and the link of the articles.
 
 You will need to find the full PDF version of the articles. If you do not have access to them, please email me ([ttezcan@csumb.edu](mailto:ttezcan@csumb.edu)) with the title and the link of the articles. Make sure the link does NOT start with [https://csu-mb.primo.exlibrisgroup.com/](https://csu-mb.primo.exlibrisgroup.com/)
 
 <figure><img src="https://lh7-us.googleusercontent.com/yw8cRVgRZoA4OiwV77MotlTj6l3Y4hjkuUV9tU2hVR-5ZyuNFY_oevAtsy5_H-ylr2J2z8UHLJ_JaJK549ciSfEz9Nff0euoyDBi-CmvbcDbo6Dbv7jSXQEpfB9qheMvlZvr0R56c-oYnHNzwqTOpw" alt=""><figcaption></figcaption></figure>
 
-## Sections
+You've been using citation chaining and ResearchRabbit until now. Moving forward, use [**Selective Literature Review** ](https://ttezcan.gitbook.io/lectures/all-lectures-and-labs/guidelines-and-rubrics/selective-literature-review)to focus directly on your specific research variables.
+
+## 7. Sections
 
 1. **Introduction and background:** Clearly state the topic. What are you investigating? What is the significance of the topic? Why does it matter? Highlight the significance of the topic. Cite some of your sentences here. End this section with your research question.
-2. **Theoretical structure and hypotheses:** Review the relevant literature and construct relevant associations to your own research topic. Do not summarize others’ works like A claimed this, B asserted that! Analytically use and interpret them as long as they benefit your own research. Define the key concepts here. In your project, for instance, if you are working on return migration, explain and cite what return migration is. Under section 2, you will provide a broader explanation of the literature. You will be more specific under the subsections 2.1., 2.2., and 2.3.
+2. **Theoretical structure and hypotheses:** Review the literature and construct relevant associations to your own research topic. Do not summarize others’ works like A claimed this, B asserted that! Analytically use and interpret them as long as they benefit your own research. Define the key concepts here. In your project, for instance, if you are working on return migration, explain and cite what return migration is. Under section 2, you will provide a broader explanation of the literature. You will be more specific under the subsections 2.1., 2.2., and 2.3.
    * **2.1. “The relationship between first independent variable and dependent variable” (You will name this subsection, for example Discrimination and Return migration):** Review the specific relevant literature about the relationship between your first independent variable and dependent variable. Explain what you expect to find and your reasoning. End this subsection with your first hypothesis.
    * **2.2. “The relationship between second independent variable and dependent variable” (You will name this subsection, for example Transnationalism and Return migration):** Review the specific relevant literature about the relationship between your second independent variable and dependent variable. Explain what you expect to find and your reasoning. End this subsection with your second hypothesis.
    * **2.3. “The relationship between third independent variable and dependent variable” (You will name this subsection, for example Children and Return migration):** Review the specific relevant literature about the relationship between your third independent variable and dependent variable. Explain what you expect to find and your reasoning. End this subsection with your third hypothesis.
@@ -70,13 +113,7 @@ You will need to find the full PDF version of the articles. If you do not have a
 4. **Results:** The standard approach to this section of a research paper is to present and describe the results in a systematic and detailed way. You will highlight and comment on the themes that emerge from the analysis. More elaborate commentary on the results will be provided in the final paper. Clearly state whether you confirm or reject each of your hypotheses. Discuss your initial, axial, and focused codes here, and organize your results based on the focused codes. Remember not to include all your results. You should present and discuss only those findings that relate to your hypotheses and accordingly your research question. Do not just summarize your content; you should direct the reader to the component or components of it that are especially striking from the point of view of your research aim. Try to ask yourself what story you want the content to convey and try to relay that story to your readers. Provide some quotations from the content you used.
 5. **References (Bibliography):** Cite a minimum of 6 sources (ONLY peer-reviewed journal articles) in APA style. Books, book chapters, or other sources, such as reports found on google or websites, are NOT acceptable.
 
-## Template
-
-[Click here to see the template you will use.](https://docs.google.com/document/d/1q55ZUrxPdtxEcPOUg5skTiZP0LIDvB-OqZBYYMjFSbc/edit?usp=sharing)
-
-Open it and click File <mark style="color:red;">➜</mark> Copy.
-
-## Grading
+## 7. Grading
 
 As no two draft research memos are the same, grading will be a somewhat subjective business. However, below I provide a list of things I expect to find in all draft research memos. These are the things on which I will assess the research memos and assign grades. The draft research memo is worth 100 points, and there are items below, which are worth 5 to 15 points each.&#x20;
 
@@ -84,7 +121,7 @@ I will rate your draft research memos from these items and the sum will represen
 
 I place no strict limits on the length of each section. Your goal is to specifically discuss and justify your proposed content analysis, which generally takes 1,000 words of text (12-point Times New Roman font with 1” margins, (single spaced typed), excluding bibliography references. If you do not meet the minimum word count (1,000 words), your grade will be adjusted proportionally.
 
-## Rubric
+## 8. Rubric
 
 <mark style="color:red;">Introduction and background</mark>
 
@@ -128,7 +165,7 @@ I place no strict limits on the length of each section. Your goal is to specific
 
 If you do not meet the minimum word count (1,000 words), your grade will be adjusted proportionally&#x20;
 
-## Reminders
+## 9. Reminders
 
 **Reminder 1:** Submissions without data analysis that is generated in "Coding your own data for draft research memo" will automatically receive zero.
 
