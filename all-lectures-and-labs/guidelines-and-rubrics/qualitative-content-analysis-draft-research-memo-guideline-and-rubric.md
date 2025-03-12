@@ -70,7 +70,7 @@ Previous assignments to use&#x20;
 
 ### Theoretical structure and hypotheses section
 
-4. Open your "\[DRM] Coding your own data for draft research memo" assignment and check the question 5
+4. Open your "\[DRM] Coding your own data for draft research memo" or "\[DRM] Coding your own data for draft research memo 2" (whichever is the more recent) assignment or if  and check the question 5
    1. Paste Hypothesis 1 at end of  **"2.1" subsection** in your draft research memo. _Hypothesis 1: I expect to find that…_
    2. Paste Hypothesis 2 at the end of  **"2.2" subsection** in your draft research memo. _Hypothesis 2: I expect to find that…_
    3. Paste Hypothesis 3 at the end of  **"2.2" subsection** in your draft research memo. _Hypothesis 3: I expect to find that…_
@@ -95,9 +95,9 @@ Previous assignments to use&#x20;
    1. Paste both answers under **"3. Methodology"** section in your draft research memo.
    2. Combine both answers and remove the duplicate information.
 
-### **Methodology section**
+### **Results section**
 
-7. Open your "\[DRM] Coding your own data for draft research memo" assignment and check the question 6. Paste this essay under the **"4. Results"** **section** in your draft research memo.&#x20;
+7. Open your Open your "\[DRM] Coding your own data for draft research memo" or "\[DRM] Coding your own data for draft research memo 2" (whichever is the more recent)  assignment and check the question 6. Paste this essay under the **"4. Results"** **section** in your draft research memo.&#x20;
    1. Remove the research question from here, as you already mentioned it in **"1. Introduction and background"** section.
    2. Open your "My data" file and check the coding table at the very end. For each focused code, find one or two most representative quotes from the media content you analyzed.
    3. Explicitly mention if you confirm or reject your hypotheses (pasted under **2.1., 2.2., 2.3. subsections)** after discussing each focused code.
