@@ -93,7 +93,7 @@ gss$new_variable_here <- rec(gss$original_variable_here, rec =
 gss$new_variable_here <- rec(gss$original_variable_here, rec = 
 "1,2,3=1 [label1]; 
 2,4,5=2 [label2];
-6,7,8=1 [label3]", append = FALSE)
+6,7,8=3 [label3]", append = FALSE)
 ```
 
 #### 1.4. recoding (merging values with 4 values)
@@ -421,7 +421,7 @@ required package(s): "sjPlot"
 <pre class="language-r"><code class="lang-r">gssrandom25per &#x3C;- gss[sample(1:nrow(gss), 886, replace=FALSE),]
 
 # use "gssrandom25per" dataset instead of "gss" in the codes.
-# for example: descr(<a data-footnote-ref href="#user-content-fn-2">gssrandom25per</a>$variable_here, out = "v", show = "short")
+# for example: descr(<a data-footnote-ref href="#user-content-fn-1">gssrandom25per</a>$variable_here, out = "v", show = "short")
 </code></pre>
 
 ### 10% systematic random sample
@@ -429,7 +429,7 @@ required package(s): "sjPlot"
 <pre class="language-r"><code class="lang-r">gss10persystematic = gss[seq(1, nrow(gss), 10),]
 
 # use "gss10persystematic" dataset instead of "gss" in the codes.
-# for example: descr(<a data-footnote-ref href="#user-content-fn-3">gss10persystematic</a>$variable_here, out = "v", show = "short")
+# for example: descr(<a data-footnote-ref href="#user-content-fn-1">gss10persystematic</a>$variable_here, out = "v", show = "short")
 </code></pre>
 
 ## ttest
@@ -841,7 +841,3 @@ labels = c("male" = 1, "female" = 2))
 ```
 
 [^1]: this part has been changed
-
-[^2]: this part has been changed
-
-[^3]: this part has been changed
