@@ -35,15 +35,13 @@ The table below provides 87 Google Slides templates and 5 Infographic sets.
 1. Overview the Google Slides templates below and select one based on your preference. Rename it as “Main template.”
 2.  You may prefer using particular slides from other templates. Copy and paste those slides to your “Main template.”
 
-    * Go to your “Main template” and decide where you want to paste the slide you just copied from other templates. You will click once the area between two slides. You should see a yellow line. Click “Paste.”
+    * Go to your “Main template” and decide where you want to paste the slide you just copied from other templates. You will click once the area between two slides. You should see a line. Click “Paste.”
 
-
-
-    <figure><img src="https://lh6.googleusercontent.com/1aWvcro0Auj09xH6B66KAI00X-5WnXjKWhBgK8WEWwAY6xSisvbR1mn-S7zMY-fs5g0kmIWW-svqdk5NLhDQfgCh5kGbsBmSsxHb_L8sCNgYrKL8eVTCD94IdJ1S9oIMVw6ms267trQjMbsXyLxxDJ8" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (115).png" alt="" width="373"><figcaption></figcaption></figure>
 
 * The dialog box below will appear when you click paste. Choose “Keep original styles.”
 
-<figure><img src="https://lh6.googleusercontent.com/lc9afSmjtiQazXhaC-i6amxAO0NqdVVgTCsjLHB6-k7bTwnvBCJ-nmH2KBpvitRwtH68coo5u3vxph1yZDZLuqiHXqLoMfi7XG_aYpJFfN3YJwR447f149ZF4t0pXQx91rnisjsuLV4mw4l5xgAqEQ0" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (114).png" alt="" width="330"><figcaption></figcaption></figure>
 
 ## Templates
 
