@@ -16,9 +16,9 @@ layout:
 
 ## Sample presentations
 
-[Sample 1](https://docs.google.com/presentation/d/1k4EHEUQvzH2piIsJips1HsWTcH6PLlXE?rtpof=true\&usp=drive\_fs)   |   [Sample 2](https://docs.google.com/presentation/d/1kcW76bm7DAqRHEqpfvcm8FvYQLWmkQ9D?rtpof=true\&usp=drive\_fs)   |   [Sample 3](https://docs.google.com/presentation/d/1kt3-tw-G7mF9UUpkFhvrZ3XXVcPxClW6?rtpof=true\&usp=drive\_fs)   |   [Sample 4](https://docs.google.com/presentation/d/1kXC5vQ754Pc7teIpOr-8wVzo4NyUnt01?rtpof=true\&usp=drive\_fs)   |   [Sample 5](https://docs.google.com/presentation/d/1k2usKsZLw-2yTJFX-BVYGJErqMAGyD3I?rtpof=true\&usp=drive\_fs)
+[Sample 1](https://drive.google.com/open?id=1aS5fOfEHFBu9Maa3wh4FW6zxZqZ8Jbl3\&usp=drive_fs)   |   [Sample 2](https://drive.google.com/open?id=1aSPczz4CRluXSXOWCdaS2pociyFeTLJx\&usp=drive_fs)   |   [Sample 3](https://drive.google.com/open?id=1aSDribWhWytKxOVH_t39NFu6WlE69u1X\&usp=drive_fs)   |   [Sample 4](https://drive.google.com/open?id=1aR_FOiGM0SaT2vrepqQ_2HZfErfXPkuU\&usp=drive_fs)   |   [Sample 5](https://drive.google.com/open?id=1aRXL6z_eBIi9U99nZwhGMp8HO6yO-9iT\&usp=drive_fs)
 
-[Sample 6](https://docs.google.com/presentation/d/1k\_BQzEE5YNEYR-q2RngueEQPZPSvcvaj?rtpof=true\&usp=drive\_fs)   |   [Sample 7](https://docs.google.com/presentation/d/1kAarNwTj0bTZOCkKV-40MDQDXR20Wqj\_?rtpof=true\&usp=drive\_fs)   |   [Sample 8](https://docs.google.com/presentation/d/1kiD-5zA4HPgiMteyVSDf6zVJ38p2fG\_J?rtpof=true\&usp=drive\_fs)   |   [Sample 9](https://docs.google.com/presentation/d/1kUGhuyD4bkSinnG-rSG\_I4OHxelrwuVW?rtpof=true\&usp=drive\_fs)   |   [Sample 10](https://docs.google.com/presentation/d/1klmKVTIKIZMDnHy1YwTIv\_mbie9sQH5e?rtpof=true\&usp=drive\_fs)
+[Sample 6](https://drive.google.com/open?id=1aS5W18a_5NgcJcsfrgZJFNLyZIaQc2Mh\&usp=drive_fs)   |   [Sample 7](https://drive.google.com/open?id=1aTRanFRbF-wqlD5Gt_fM4TPvAoVU4giH\&usp=drive_fs)   |   [Sample 8](https://drive.google.com/open?id=1aTYI5jFLlYKPcKdJP3csvoeh4HVZv1d0\&usp=drive_fs)   |   [Sample 9](https://drive.google.com/open?id=1aTn16xASM4_JMo2wne2DFuUIij_h0b2y\&usp=drive_fs)   |   [Sample 10](https://drive.google.com/open?id=1aTtPeHdozkpiMb0gX_D5u2RQ2IPzT8Uh\&usp=drive_fs)
 
 ## Why using templates
 
@@ -32,7 +32,7 @@ The table below provides 87 Google Slides templates and 5 Infographic sets.
 
 ## How?
 
-1. Overview the Google Slides templates (page 3) and select one based on your preference. Rename it as “Main template.”
+1. Overview the Google Slides templates below and select one based on your preference. Rename it as “Main template.”
 2.  You may prefer using particular slides from other templates. Copy and paste those slides to your “Main template.”
 
     * Go to your “Main template” and decide where you want to paste the slide you just copied from other templates. You will click once the area between two slides. You should see a yellow line. Click “Paste.”
