@@ -81,7 +81,9 @@ _Do not use the text appears in the table. No one would understand what you mean
 
 ***
 
-## Frequency tables
+## Descriptive statistics
+
+### Frequency tables
 
 [Frequency tables](#user-content-fn-1)[^1] are for [categorical variables](#user-content-fn-2)[^2]
 
@@ -102,7 +104,7 @@ Slides: [descriptive statistics](https://docs.google.com/presentation/d/1_rePJrP
 
 ***
 
-## Descriptive tables 1
+### Descriptive tables 1
 
 [Descriptive tables](#user-content-fn-8)[^8] are for [continuous variables](#user-content-fn-9)[^9].
 
@@ -121,7 +123,7 @@ The \[what it measures column] variable shows the average \[what it measures col
 
 Slides: [descriptive statistics](https://docs.google.com/presentation/d/1_rePJrPIl7rwTEy3pfbrZopgWMFoamw0/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
 
-## Descriptive tables 2 (for computed variables)
+### Descriptive tables 2 (for computed variables)
 
 ```r
 descr(gss$hapindex, out = "v", show = "short")
@@ -143,7 +145,9 @@ _<mark style="color:blue;">The happiness index score of the respondents is 2.10 
 
 ***
 
-## Chi-square (example 1): insignificant p-value
+## Chi-square
+
+### Chi-square (example 1): insignificant p-value
 
 We utilize crosstabs for chi-square analysis, which is used to discover if there is a relationship between two categorical variables (we check the p value). We refer to statistically significant as p < 0.05. The Chi-Square Test can only compare categorical variables.&#x20;
 
@@ -165,7 +169,7 @@ _<mark style="color:blue;">Respondents' sex has no effect on the condition of he
 
 Slides: [chisquare](https://docs.google.com/presentation/d/11QlkxBoIM_-wIoBTLYtdXxaELvX664VD/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
 
-## Chi-square (example 2): significant p-value
+### Chi-square (example 2): significant p-value
 
 We utilize crosstabs for chi-square analysis, which is used to discover if there is a relationship between two categorical variables (we check the p value). We refer to statistically significant as p < 0.05. The Chi-Square Test can only compare categorical variables.&#x20;
 
@@ -195,7 +199,9 @@ Slides: [chisquare](https://docs.google.com/presentation/d/11QlkxBoIM_-wIoBTLYtd
 
 ***
 
-## T-test (example 1): insignificant p-value
+## T-test
+
+### T-test (example 1): insignificant p-value
 
 A t-test is used to determine if there is a significant difference between the means of two groups. A t-test is used when we wish to compare two means (the scores must be continuous).&#x20;
 
@@ -219,7 +225,7 @@ _<mark style="color:blue;">The average education in years of males is 14.08 year
 
 Slides: [ttest](https://docs.google.com/presentation/d/11hFYVZ3y8pig6n8SkDDnZYk_AoqY2-t9/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
 
-## T-test (example 2): significant p-value
+### T-test (example 2): significant p-value
 
 A t-test is used to determine if there is a significant difference between the means of two groups. A t-test is used when we wish to compare two means (the scores must be continuous).&#x20;
 
@@ -245,7 +251,9 @@ Slides: [ttest](https://docs.google.com/presentation/d/11hFYVZ3y8pig6n8SkDDnZYk_
 
 ***
 
-## Bar graph (for categorical variables)
+## Visualization
+
+### Bar graph (for categorical variables)
 
 ```r
 plot_frq(gss$marital, type = "bar", geom.colors = "#336699")
@@ -266,7 +274,7 @@ The \[what it measures column] variable shows that xx.xx% of the respondents are
 
 Slides: [visualization](https://docs.google.com/presentation/d/126xQYF33gGKVA_nXDQaGpPy10zXbIDyz?rtpof=true\&usp=drive_fs)
 
-## Histogram (for continuous variables)
+### Histogram (for continuous variables)
 
 ```r
 plot_frq(gss$educ, type = "hist",show.mean = TRUE, show.mean.val = TRUE, normal.curve = TRUE, show.sd = TRUE, normal.curve.color = "red")
@@ -290,12 +298,12 @@ Slides: [visualization](https://docs.google.com/presentation/d/126xQYF33gGKVA_nX
 
 ***
 
-## Stacked bar graphs for multiple variables
+### Stacked bar graphs for multiple variables
 
 ```r
 graph <- gss %>%
   select (conbus, coneduc, confed, conmedic, conarmy, conjudge) %>%
-  plot_stackfrq(sort.frq = "first.asc", coord.flip = FALSE, geom.colors = "Blues", show.total = FALSE,
+  plot_stackfrq(sort.frq = "first.asc", coord.flip = TRUE, geom.colors = "Blues", show.total = FALSE,
                 title = "Confidence in major US institutions")
 
 # the second part of the code is to change font sizes
@@ -324,7 +332,7 @@ Slides: [visualization](https://docs.google.com/presentation/d/126xQYF33gGKVA_nX
 
 ***
 
-## Stacked bar graphs by different groups
+### Stacked bar graphs by different groups
 
 ```r
 plot_xtab(gss$dependentvar, gss$independentvar, show.total=FALSE, show.n = FALSE)
