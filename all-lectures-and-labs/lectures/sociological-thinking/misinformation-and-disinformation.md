@@ -26,9 +26,7 @@ layout:
 
 ## Assignment
 
-No assignment
-
-Collective in-class quiz (answers will be provided)
+[Disinformation case study](https://docs.google.com/document/d/1BCPhgOWEsMsHpfJDJNtgW349uAcwRFSg/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
 
 ## Video
 
