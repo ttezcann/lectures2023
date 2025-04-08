@@ -134,7 +134,7 @@ You've been using citation chaining and ResearchRabbit until now. Moving forward
 
 ## 8. Grading
 
-As no two draft research memos are the same, grading will be a somewhat subjective business. However, below I provide a list of things I expect to find in all draft research memos. These are the things on which I will assess the research memos and assign grades. The draft research memo is worth 100 points, and there are items below, which are worth 5 to 15 points each.&#x20;
+As no two draft research memos are the same, grading will be a somewhat subjective business. However, below I provide a list of things I expect to find in all draft research memos. These are the things on which I will assess the research memos and assign grades. The draft research memo is worth 100 points, and there are items below, which are worth different points each.&#x20;
 
 I will rate your draft research memos from these items and the sum will represent your draft research memo grade. The grading of each item will be based on how clearly and completely you address each question posed.
 
@@ -144,43 +144,43 @@ I place no strict limits on the length of each section. Your goal is to specific
 
 <mark style="color:red;">Introduction and background</mark>
 
-1. Did you clearly show what you are investigating? (2 points)&#x20;
-2. Did you show why the topic is significant and matters? (2 points)
-3. Did you clearly state your research question with its reasoning? (4 points)&#x20;
+* Did you clearly show what you are investigating?
+* Did you show why the topic is significant and matters?
+* Did you clearly state your research question with its reasoning?
 
 <mark style="color:red;">Theoretical structure and hypotheses</mark>
 
-4. Did you broadly review the literature to articulate a theoretical basis for your hypotheses and a justification for your research question in Section 2? (4 points)&#x20;
-5. Did you clearly define your key concepts in section 2? (3 points)
-6. Did you review the specific literature (at least one citation for each subsection) based on your first independent variable and dependent variable, second independent variable and dependent variable, and third independent variable and dependent variable under the subsections 2.1., 2.2., and 2.3., respectively? (12 points)&#x20;
-7. Did you clearly state your three hypotheses and their reasoning under three subsections? (6 points)
+* Did you broadly review the literature to articulate a theoretical basis for your hypotheses and a justification for your research question in Section 2?
+* Did you clearly define your key concepts in section 2?
+* Did you review the specific literature (at least one citation for each subsection) based on your first independent variable and dependent variable, second independent variable and dependent variable, and third independent variable and dependent variable under the subsections 2.1., 2.2., and 2.3., respectively?
+* Did you clearly state your three hypotheses and their reasoning under three subsections?
 
 <mark style="color:red;">Methodology</mark>
 
-8. Did you discuss what content you analyze? (3 points)
-9. Did you discuss your method of selecting (which keywords you will search, which criteria you  follow to find content) media sources? (5 points)
-10. Did you paste the links of your data sources? (5 points)
+* Did you discuss what content you analyze?
+* Did you discuss your method of selecting (which keywords you will search, which criteria you  follow to find content) media sources?
+* Did you paste the links of your data sources?
 
 <mark style="color:red;">Results</mark>
 
-11. Did you discuss your axial and focused codes? (5 points)
-12. Did you present and describe the results in a systematic and detailed way based on the focused codes? (5 points)
-13. Did you create tables and/or provide some quotations from the content you used? (6 points)
-14. &#x20;Did you clearly state whether you confirm or reject each of your hypotheses? (6 points)
+* Did you discuss your axial and focused codes?
+* Did you present and describe the results in a systematic and detailed way based on the focused codes?
+* Did you create tables and/or provide some quotations from the content you used?
+* &#x20;Did you clearly state whether you confirm or reject each of your hypotheses?
 
 <mark style="color:red;">Bibliography</mark>
 
-15. Did you cite at least 6 peer-reviewed journal articles (both in-text and end-text)? (12 points)
-16. Consistent use of citation and reference format. (5 points)
+* Did you cite at least 6 peer-reviewed journal articles (both in-text and end-text)?&#x20;
+* Consistent use of citation and reference format.
 
 <mark style="color:red;">Writing and Template</mark>
 
-17. Clarity of writing style. (5 points)
-18. Use of template, the logic of research memo organization, consistent font and font size, title, and clear use of headings. All instructions and sample sentences are deleted. (5 points)
+* Clarity of writing style.
+* Use of template, the logic of research memo organization, consistent font and font size, title, and clear use of headings. All instructions and sample sentences are deleted.
 
 <mark style="color:red;">Self-grade Sheet</mark>
 
-19. Self-grade sheet is completed. (5 points)
+* Self-grade sheet is completed.
 
 If you do not meet the minimum word count (1,000 words), your grade will be adjusted proportionally&#x20;
 
