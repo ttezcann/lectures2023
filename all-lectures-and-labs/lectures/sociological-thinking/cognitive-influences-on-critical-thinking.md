@@ -12,13 +12,15 @@ layout:
     visible: false
 ---
 
-# Contemporary factors influencing critical thinking
+# Cognitive influences on critical thinking
 
 ## Reading
 
-[Ending White saviorism in study abroad](https://drive.google.com/open?id=1c5vCbZ20bBOicrQRPA_IbWkKIRANMYYz\&usp=drive_fs)
+[The better-than-average effect](https://drive.google.com/open?id=1Qaz7hLYTlOuFCMsjaxPlhpE03JZcYR0h\&usp=drive_fs)
 
 ## Slides
+
+{% embed url="https://docs.google.com/presentation/d/1u-v9WZB3WXcmdkLEh1UnlLtIs-deWMlU/edit?ouid=100179871492576617561&rtpof=true&sd=true&usp=sharing" %}
 
 {% embed url="https://docs.google.com/presentation/d/1u-v9WZB3WXcmdkLEh1UnlLtIs-deWMlU/edit?ouid=100179871492576617561&rtpof=true&sd=true&usp=sharing" %}
 [**Downloadable slides here**](https://docs.google.com/presentation/d/1u-v9WZB3WXcmdkLEh1UnlLtIs-deWMlU?rtpof=true\&usp=drive_fs)
