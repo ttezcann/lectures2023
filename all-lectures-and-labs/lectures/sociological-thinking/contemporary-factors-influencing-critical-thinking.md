@@ -21,9 +21,7 @@ layout:
 ## Slides
 
 {% embed url="https://docs.google.com/presentation/d/1u-v9WZB3WXcmdkLEh1UnlLtIs-deWMlU/edit?ouid=100179871492576617561&rtpof=true&sd=true&usp=sharing" %}
-
-{% embed url="https://docs.google.com/presentation/d/1u-v9WZB3WXcmdkLEh1UnlLtIs-deWMlU/edit?ouid=100179871492576617561&rtpof=true&sd=true&usp=sharing" %}
-[**Downloadable slides here**](https://docs.google.com/presentation/d/1u-v9WZB3WXcmdkLEh1UnlLtIs-deWMlU?rtpof=true\&usp=drive_fs)
+[Downloadeble slides here](https://docs.google.com/presentation/d/1u-v9WZB3WXcmdkLEh1UnlLtIs-deWMlU/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
 {% endembed %}
 
 ## Assignment
