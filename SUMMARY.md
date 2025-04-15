@@ -77,7 +77,7 @@
       * [Claims and evidence](all-lectures-and-labs/lectures/sociological-thinking/claims-and-evidence.md)
       * [Everyday arguments](all-lectures-and-labs/lectures/sociological-thinking/everyday-arguments.md)
       * [Analyzing arguments](all-lectures-and-labs/lectures/sociological-thinking/analyzing-arguments.md)
-      * [Cognitive influences on critical thinking](all-lectures-and-labs/lectures/sociological-thinking/cognitive-influences-on-critical-thinking.md)
+      * [Cognitive influences on critical thinking](all-lectures-and-labs/lectures/sociological-thinking/contemporary-factors-influencing-critical-thinking.md)
       * [Network-based factors influencing critical thinking](all-lectures-and-labs/lectures/sociological-thinking/network-based-factors-influencing-critical-thinking.md)
       * [Common errors of perspective in sociological thinking](all-lectures-and-labs/lectures/sociological-thinking/common-errors-of-perspective-in-sociological-thinking.md)
       * [Misinformation and disinformation](all-lectures-and-labs/lectures/sociological-thinking/misinformation-and-disinformation.md)
