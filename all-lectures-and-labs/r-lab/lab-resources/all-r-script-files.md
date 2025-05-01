@@ -46,9 +46,7 @@ After creating "RStudio labs" project, **do** **not** create a "New Project" aga
 * [Dummy variables](https://drive.google.com/file/d/1Q151VBvC3s0SG1R8P9Yb_0xGSku_8hkj/view?usp=sharing)
 * [Logistic regression](https://drive.google.com/file/d/1qC4Rt2CXs6quJEtTtZxkhV27xHXWUJkD/view?usp=sharing)
 * Modeling exercises
-  * [Modeling exercises 1 ](https://drive.google.com/open?id=1_hwhZ5Ayd9IYCtthpHfrS9MddEnHGrCg\&usp=drive_fs)(SBS321 section 1: Tuesday & Thursday 12pm)
-    * the script file will be accessible after the lecture break
-  * [Modeling exercises 2](https://drive.google.com/open?id=1al9H_HicR5JtFz_CHi66908yeNVpvTM1\&usp=drive_fs) (SBS321 section 2: Monday & Wednesday 10am)
+  * [Modeling exercises 1 ](https://drive.google.com/open?id=1_hwhZ5Ayd9IYCtthpHfrS9MddEnHGrCg\&usp=drive_fs)(SBS321 section 1)
     * the script file will be accessible after the lecture break
 * [Regression assumptions and diagnostics](https://drive.google.com/open?id=1aVjJH18rv5qKdgTuA34ey95WDY8axAuQ\&usp=drive_fs)
 
