@@ -16,7 +16,7 @@ layout:
 
 ### <mark style="color:orange;">**Video instructions**</mark>
 
-{% embed url="https://drive.google.com/file/d/1q8XV-Ih6U7sWDiMt1CVircbOsQX1UAa2/view?usp=sharing" %}
+{% embed url="https://drive.google.com/file/d/1yhB7PJ62kxVKJP0KSx69paqBUfkGrsED/view?usp=sharing" %}
 
 ### <mark style="color:orange;">**Textual instructions**</mark>
 
