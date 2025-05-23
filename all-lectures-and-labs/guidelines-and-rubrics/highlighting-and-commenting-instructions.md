@@ -12,7 +12,7 @@ layout:
     visible: false
 ---
 
-# Highlighting and commenting assignment instructions
+# Highlighting and commenting instructions
 
 ## <mark style="color:orange;">Synopsis</mark>
 
@@ -75,7 +75,7 @@ Use highlighting and commenting to actively engage with and understand the assig
 
 Highlight the part, click on the marker, and choose a color (from the third row, which are lighter)
 
-<figure><img src="https://lh7-us.googleusercontent.com/oGtHUAP8eEOfES1Vsx0Syyv22Z_Po8Eq9vZCyEpNg_TsW1jCYXWV7xVQe1oPgjvYXvUaqaBWBmBOjb83aERm_uPAAeqwFnsmITHpIIdWL9buBR6QEdQ31i1CjB7mWw3LWbSPKWKleoB5OLhfWUopssIWD0GEel-xUaJeYbc3tYasG7yM_IsGyMpBhjd85w" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://lh7-us.googleusercontent.com/oGtHUAP8eEOfES1Vsx0Syyv22Z_Po8Eq9vZCyEpNg_TsW1jCYXWV7xVQe1oPgjvYXvUaqaBWBmBOjb83aERm_uPAAeqwFnsmITHpIIdWL9buBR6QEdQ31i1CjB7mWw3LWbSPKWKleoB5OLhfWUopssIWD0GEel-xUaJeYbc3tYasG7yM_IsGyMpBhjd85w" alt="" width="563"><figcaption></figcaption></figure>
 
 ## <mark style="color:orange;">How to comment</mark>
 
