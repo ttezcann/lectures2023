@@ -38,7 +38,7 @@ Feel free to submit assignments during the break if you wish. I will grade the a
 
 ### "Getting ready for the class" module and Week 1 assignments
 
-* **\[gr] Google Drive assignment (the assignment that must be submitted first)** <mark style="color:red;">(due by 06/0</mark><mark style="color:red;">3 - 11:59 pm)</mark>
+* **\[gr] Google Drive assignment (the assignment that must be submitted first)** <mark style="color:red;">(due by 06/03 - 11:59 pm)</mark>
   * There is a video instruction for this assignment.
   * This assignment needs to be submitted first. When graded, you will receive a notification email with feedback. Follow the feedback and resubmit it until you receive full credit within the deadline.&#x20;
   * Without getting full credit from the “Google Drive Assignment” (comes with unlimited attempts within the deadline), students cannot continue the course.
@@ -46,13 +46,13 @@ Feel free to submit assignments during the break if you wish. I will grade the a
   * When graded, you will receive a notification email with feedback. Follow the feedback and resubmit it until you receive full credit within the deadline.&#x20;
 * **\[fw] Syllabus quiz** <mark style="color:red;">(due by 06/06 - 11:59 pm)</mark>
   * No resubmission option. No time limit.
-* **Week 1 assignments are due by**  <mark style="color:red;">06/08 - 11:59 pm)</mark>
+* **Week 1 assignments are due by**  <mark style="color:red;">06/08 - 11:59 pm</mark>.
 
 ## <mark style="color:orange;">Deadlines</mark>
 
 <figure><img src="../../.gitbook/assets/image (116).png" alt=""><figcaption></figcaption></figure>
 
-1. Except for the "Getting ready for the class" assignments, all assignments are due by <mark style="color:red;">Sunday, 11:59 pm</mark>.
+1. Except for the "Getting ready for the class" assignments, all assignments are due by <mark style="color:red;">Sunday - 11:59 pm</mark>.
 2. After the deadline has passed, Canvas will automatically give a zero, but students are granted <mark style="color:red;">one (1) additional (flexibility) day</mark> to submit their work without a deduction.
 3. Once the assignment deadline and the flexibility day has passed, students are granted an additional two-day window to submit their work.  <mark style="color:red;">A 20% deduction</mark> will be applied for the first day of delay, and <mark style="color:red;">a 30% deduction</mark> in total for the second day of delay.
 4. <mark style="color:red;">\*</mark>After three days, the highest possible grade a student can receive for the assignments is 60%.  To receive 60%;&#x20;
