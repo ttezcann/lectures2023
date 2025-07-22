@@ -17,4 +17,4 @@ Attendance Policy of CSUMB states:
 
 “It is not possible for the instructor to ‘replicate’ the day's learning experiences. Therefore, while the instructor is available for general consultation regarding the class's scheduled activities and progress, it is important for students to avoid requesting special assistance of this type from the instructor.”
 
-If you have questions about a missed lecture, **you need to watch the lecture video before the meeting**. The meeting will commence with a discussion of the lecture video. If you do not watch the lecture video beforehand, the meeting will be postponed.
+If you have questions about a missed lecture, **you need to watch the lecture video before the meeting.** This means I will not be able to address any questions that are already clarified in the video. Please note the timestamp of any part of the lecture video you have questions about. The meeting will begin with a discussion of the video. If you do not watch the lecture video beforehand, the meeting will be postponed.
