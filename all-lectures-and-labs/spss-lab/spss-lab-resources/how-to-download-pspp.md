@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # How to download PSPP
 
 {% hint style="info" %}
@@ -30,6 +16,6 @@ In this guidance, you will find information on how to download and set up PSPP o
 
 ## <mark style="color:red;">macOS users</mark>
 
-1\)   [ Click this link](https://www.hs-augsburg.de/\~beckmanf/pspp/pspp-1.2.0-2.dmg) and the setup file will be downloaded (you need to wait five seconds when prompted)
+1\)   [ Click this link](https://www.hs-augsburg.de/~beckmanf/pspp/pspp-1.2.0-2.dmg) and the setup file will be downloaded (you need to wait five seconds when prompted)
 
 2\)    The filename you just download should be “pspp-1.2.0-2.dmg.” Right click and choose “Open.” Make sure that your mac allows software other than those in AppStore. [The  link shows how to enable software to download](https://support.apple.com/en-us/HT202491).

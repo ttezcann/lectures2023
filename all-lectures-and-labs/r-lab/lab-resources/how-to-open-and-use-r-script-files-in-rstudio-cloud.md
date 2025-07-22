@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
----
-
 # How to open and use R script files in RStudio Cloud
 
 ## <mark style="color:orange;">Video guideline:</mark>

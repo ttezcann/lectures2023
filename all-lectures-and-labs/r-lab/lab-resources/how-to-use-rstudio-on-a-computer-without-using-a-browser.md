@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
----
-
 # How to use RStudio on a computer without using a browser
 
 ## Using RStudio on a university lab computer
@@ -44,7 +30,7 @@ You can download R and RStudio to your personal computer.  "Install and load pac
 
 #### Mac Users (macOS 12+) and older Intel Macs:
 
-1\. [Download R ](https://cran.r-project.org/bin/macosx/big-sur-x86\_64/base/R-4.4.1-x86\_64.pkg)(4.4.1)
+1\. [Download R ](https://cran.r-project.org/bin/macosx/big-sur-x86_64/base/R-4.4.1-x86_64.pkg)(4.4.1)
 
 2\. [Download RStudio ](https://download1.rstudio.org/electron/macos/RStudio-2024.04.2-764.dmg)(2024.04.2+764)
 

@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
----
-
 # How to use VPN (for Windows and macOS)
 
 You will be able to connect to CSUMB lab computers after downloading and installing GlobalProtect VPN software

@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
----
-
 # All NVIVO cheat files
 
 * [NVIVO Cheat Sheet #1: Creating & Saving an NVIVO Project](https://docs.google.com/document/d/163N5UTFG2yMvwRKALIOZBg_2lGgtxLy5?rtpof=true\&usp=drive_fs)

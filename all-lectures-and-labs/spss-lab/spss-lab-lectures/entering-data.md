@@ -1,29 +1,15 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Entering data
 
 ## Syntax file
 
-[Syntax\_entering data](https://drive.google.com/open?id=17hu7TVeoGVqsFWBSP0NtZuzvirYlL7g3\&usp=drive\_fs)
+[Syntax\_entering data](https://drive.google.com/open?id=17hu7TVeoGVqsFWBSP0NtZuzvirYlL7g3\&usp=drive_fs)
 
 ## Slides
 
 
 
 {% embed url="https://docs.google.com/presentation/d/1bs4w0_fRkD47dA-q0ZBMTVkxs9oWxyJd?rtpof=true&usp=drive_fs" %}
-[Downloadable slides here](https://docs.google.com/presentation/d/1bs4w0\_fRkD47dA-q0ZBMTVkxs9oWxyJd?rtpof=true\&usp=drive\_fs)
+[Downloadable slides here](https://docs.google.com/presentation/d/1bs4w0_fRkD47dA-q0ZBMTVkxs9oWxyJd?rtpof=true\&usp=drive_fs)
 {% endembed %}
 
 ## Lab assignment

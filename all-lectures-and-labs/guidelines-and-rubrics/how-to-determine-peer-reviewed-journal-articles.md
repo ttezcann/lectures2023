@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
----
-
 # How to determine peer-reviewed journal articles?
 
 ## <mark style="color:green;">✔</mark> Peer-reviewed journal articles <mark style="color:green;">✔</mark>

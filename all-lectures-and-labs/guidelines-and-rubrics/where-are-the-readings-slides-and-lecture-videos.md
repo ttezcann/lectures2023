@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
----
-
 # Where are the readings, slides, and lecture videos?
 
 Readings, slides, and videos are on the modules page. For example, to access the materials, you will click on the name of the lecture. If you you want to access “Social structure” lecture materials, then click on the lecture name:

@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
----
-
 # Canvas notification settings
 
 The feedback for assignments will be provided under the assignment comment section on Canvas. Ensure that you receive timely email notifications whenever feedback is posted on your assignments by adjusting your Canvas notification settings.

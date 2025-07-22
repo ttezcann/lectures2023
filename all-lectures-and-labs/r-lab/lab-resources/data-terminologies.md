@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
----
-
 # Data terminologies
 
 <mark style="color:red;">Questionnaire:</mark> A set of written questions used for collecting information from respondents.
