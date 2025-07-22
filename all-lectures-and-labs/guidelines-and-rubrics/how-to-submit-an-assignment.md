@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
----
-
 # How to submit an assignment
 
 ### <mark style="color:orange;">**Video instructions**</mark>
@@ -85,5 +71,3 @@ Click "Attach."
 Click "Submit Assignment."
 
 <figure><img src="../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
-
-{% embed url="https://drive.google.com/open?id=1qf1T3g51lLxrR7VYeRRcb8v9y-wI05q8&usp=drive_fs" %}
