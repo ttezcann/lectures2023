@@ -25,7 +25,7 @@ layout:
 4. Type your first and last name, CSUMB email address, and the meeting agenda in one sentence.
 5. Click Book.
 
-## <mark style="color:orange;">In-person office hours table (day, time, room)</mark>
+## <mark style="color:orange;">IN-PERSON office hours table (day, time, room)</mark>
 
 In-person office hours: before/after classes or my office<mark style="color:red;">\*</mark>
 
