@@ -82,21 +82,14 @@ Click on the lecture names to see the readings, slides, and lecture videos. See 
 
 ## <mark style="color:orange;">Incorrect submissions</mark>
 
-Students should review their document <mark style="color:red;">before</mark> and <mark style="color:red;">immediately after</mark> submission.
-
-* Assignments submitted to Canvas will be graded, and grades are final. Do not submit an assignment unless you want to be graded for.
-* There is no resubmission option.&#x20;
-* Assignments should be submitted to Canvas. Assignments via email, message, or Canvas comment are not accepted.&#x20;
-* If there is no document in the Google Drive weekly subfolder, no credit will be given even if a submission is made that would normally receive full credit (see item **2** below).
-
-Some exceptions:
-
-1. **Wrong document submission:**&#x20;
-   1. If students submit a wrong document and <mark style="color:red;">comment "submitted a wrong document"</mark> on the Canvas assignment section before grading, the correct document from their Google Drive week folder will be graded without deduction. Assignments revised or created after the due date do not qualify for this option.
-   2. If no comment is made and the correct document is already in the Google Drive week folder at the time of grading, it will be graded with a <mark style="color:red;">10% deduction</mark>, using Google Doc Version History. Assignments revised or created after the due date do not qualify for this option.
-2.  **Submission made but no document in the Google Drive weekly subfolder:**&#x20;
-
-    If submission is made and there is no document in the weekly subfolder, zero will be given and I will contact the student. Upon notification, the student may move the file to the relevant week's subfolder and type "_moved_" in the Canvas comment section of the assignment. The assignment will then be graded with a <mark style="color:red;">10% deduction.</mark> Assignments revised or created after this communication do not qualify for this option.
+1. **Wrong document submission:**
+   1. If students submit a wrong document and comment "submitted a wrong document" on the Canvas assignment section before the assignment is graded, the correct document from their Google Drive week folder will be graded without deduction. Assignments revised or created after the due date do not qualify for this option. See "Guidelines and rubrics" ➜ "How to post a comment on an assignment" page on Canvas (the first module called "Resources").
+   2. If no comment is made and the correct document is already in the Google Drive week folder at the time of grading, it will be graded with a 10% deduction, using Google Doc Version History. Assignments revised or created after the due date do not qualify for this option.
+2. **Submission made but no document in the Google Drive weekly subfolder:**
+   1. If submission is made and there is no document in the weekly subfolder, zero will be given and I will contact the student. Upon notification, the student may move the file to the relevant week's subfolder and type "_moved_" in the Canvas comment section of the assignment.
+   2. The assignment will then be graded with a 10% deduction. Assignments revised or created after this communication do not qualify for this option. See "Guidelines and rubrics" ➜ "How to post a comment on an assignment" page on Canvas (the first module called "Resources").
+3. **Submission made but mistakes detected later:**
+   1. If mistakes are detected after submission and students wish to revise their assignment, they should type “_wait_” in the Canvas comment section before the assignment is graded. Once the corrections are made in the Google Drive class folder, they should add a second comment saying “_check Google Drive_.” The date of the second comment will be considered the official submission date.This is the main reason why students should review their document before and immediately after submission.
 
 ## <mark style="color:orange;">How to work for this class?</mark>
 
