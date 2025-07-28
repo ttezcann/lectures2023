@@ -7,7 +7,9 @@ We can meet in-person or online:
 * 🏫 <mark style="color:red;">**IN-PERSON:**</mark> [Schedule an IN-PERSON meeting](office-hours/in-person-office-hours.md)
 * 👨‍💻 <mark style="color:red;">**ONLINE:**</mark> [Schedule an ONLINE meeting](office-hours/online-office-hours.md)
 
-Email me (**ttezcan@csumb.edu**) for appointments other than the regular office hours.
+You may email me if the regular office hours absolutely do not work for you, but you must include a wide range of availability for each day. For example: “I am available on Monday from xx:xx to xx:xx, xx:xx to xx:xx, xx:xx to xx:xx; on Tuesday from xx:xx to xx:xx, xx:xx to xx:xx, xx:xx to xx:xx; on Wednesday from xx:xx to xx:xx, xx:xx to xx:xx, xx:xx to xx:xx,” etc.&#x20;
+
+Please note that I cannot guarantee a meeting will be scheduled. Do your best to attend during regular office hours.
 
 ## <mark style="color:orange;">Office hours policy</mark>
 

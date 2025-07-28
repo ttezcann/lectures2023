@@ -20,7 +20,7 @@ layout:
 ## <mark style="color:orange;">**Scheduling an IN-PERSON meeting**</mark>
 
 1. Check the day, time, room table below.
-2. [Click this link to schedule an IN-PERSON meeting](https://calendar.app.google/ucRY6sLqKPrsMDcp6)
+2. [Click this link to schedule an IN-PERSON meeting](https://calendar.app.google/yLvvKZFGcN2ydt4WA)
 3. Choose a 15-min time slot. Book the next time slot if we need more than 15 minutes.
 4. Type your first and last name, CSUMB email address, and the meeting agenda in one sentence.
 5. Click Book.
