@@ -96,7 +96,7 @@ Some exceptions:
    2. If no comment is made and the correct document is already in the Google Drive week folder at the time of grading, it will be graded with a <mark style="color:red;">10% deduction</mark>, using Google Doc Version History. Assignments revised or created after the due date do not qualify for this option.
 2.  **Submission made but no document in the Google Drive weekly subfolder:**&#x20;
 
-    If submission is made and there is no document in the weekly subfolder, zero will be given and I will contact the student. Upon notification, the student may move the file to the relevant week's subfolder and <mark style="color:red;">type "moved"</mark> in the Canvas comment section of the assignment. The assignment will then be graded with a <mark style="color:red;">10% deduction.</mark> Assignments revised or created after this communication do not qualify for this option.
+    If submission is made and there is no document in the weekly subfolder, zero will be given and I will contact the student. Upon notification, the student may move the file to the relevant week's subfolder and type "_moved_" in the Canvas comment section of the assignment. The assignment will then be graded with a <mark style="color:red;">10% deduction.</mark> Assignments revised or created after this communication do not qualify for this option.
 
 ## <mark style="color:orange;">How to work for this class?</mark>
 
