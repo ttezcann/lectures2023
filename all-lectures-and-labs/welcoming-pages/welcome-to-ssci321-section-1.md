@@ -1,10 +1,10 @@
-# Welcome to SBS321-Section 1
+# Welcome to SSCI321-Section 1
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="352"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ## <mark style="color:orange;">Welcome!</mark>
 
-Welcome to SBS321 - Survey Research!
+Welcome to SSCI321 - Survey Research!
 
 My name is Tolga Tezcan, associate professor of sociology, and I'm your instructor. [You can check my CV here](https://docs.google.com/document/d/16HdRvPXse_88mQysbXL6SdoQP2MEhRmX/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true).
 
