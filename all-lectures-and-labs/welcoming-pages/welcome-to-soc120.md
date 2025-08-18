@@ -18,7 +18,7 @@ Read the syllabus before the first class and bring me your questions.
 
 ## <mark style="color:orange;">First class</mark>
 
-Our first class is held on <mark style="color:red;">08/25</mark> - <mark style="color:red;">Monday at 10 am</mark> at [CAHSS](https://goo.gl/maps/hYxctdN9tuwBnjuT8) - 1102.
+Our first class is held on <mark style="color:red;">08/25</mark> - <mark style="color:red;">Monday at 10 am</mark> at [Heron Hall](https://goo.gl/maps/YgdtjK5542qNHV8Z9) - 131.
 
 Please arrive the classroom at least 5 minutes early.
 
