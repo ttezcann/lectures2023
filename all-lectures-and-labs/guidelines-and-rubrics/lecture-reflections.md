@@ -123,13 +123,13 @@ Submissions followed the criteria above will get full credit for this part.
 
 ## <mark style="color:orange;">Lecture reflection template files</mark>
 
-### [**first class**](https://docs.google.com/document/d/1ZmOIzfc4xMHIWr6gyFPM_BmekeBeodoe/edit)**#**
+### [**first class**](https://docs.google.com/document/d/1ZmOIzfc4xMHIWr6gyFPM_BmekeBeodoe/edit)
 
 ### [**last class**](https://docs.google.com/document/d/1-plyfPG5JBafttIIA6bNMkF6TU8q1_1r/edit)
 
 
 
-### **other templates (alphabetical order)**
+### **Other templates (alphabetical order)**
 
 #### [abc's of a research project](https://docs.google.com/document/d/11_BypYl5N1eMg7ppG9YCzfZFX8MD9lnO?rtpof=true\&usp=drive_fs)
 
@@ -253,7 +253,7 @@ Submissions followed the criteria above will get full credit for this part.
 
 [Chi-square](https://docs.google.com/document/d/1ZiDCND_FaJgPr-BSUpnEeWy3qwayL8x8?rtpof=true\&usp=drive_fs)
 
-T-test
+[T-test](https://docs.google.com/document/d/1ZiJcRsvOLroO54VQDN1P7V2rOk8BAfLf/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
 
 [Sampling](https://docs.google.com/document/d/1ZicIKfzxXELJBy9WoGTpeSPMLirrtfzU?rtpof=true\&usp=drive_fs)
 
