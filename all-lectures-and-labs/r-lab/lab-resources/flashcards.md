@@ -423,7 +423,7 @@ We refer to statistical significance as <mark style="color:red;">p < 0.05</mark>
 
 Sometimes you may accidentally close one of the panes. When that happens, click "View" ➜  "Panes" ➜ "Show All Panes"
 
-<figure><img src="../../../.gitbook/assets/SCR-20250911-kvqy-2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/SCR-20250911-kvqy-2.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### 2.&#x20;
 
