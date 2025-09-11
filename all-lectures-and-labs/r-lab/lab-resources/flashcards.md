@@ -419,6 +419,14 @@ We refer to statistical significance as <mark style="color:red;">p < 0.05</mark>
 
 ### 1.&#x20;
 
+### Opening all the panes
+
+Sometimes you may accidentally close one of the panes. When that happens, click "View" ➜  "Panes" ➜ "Show All Panes"
+
+<figure><img src="../../../.gitbook/assets/SCR-20250911-kvqy-2.png" alt=""><figcaption></figcaption></figure>
+
+### 2.&#x20;
+
 ### How to check how many hours left in RStudio Cloud?
 
 An RStudio Cloud free account allows you 25 hours of connect time per month. Every second the RStudio Cloud is open counts towards this allocated time.&#x20;
@@ -431,7 +439,7 @@ Click on your name (see highlighted part #1). The highlighted part #2 shows the 
 
 ***
 
-### 2.&#x20;
+### 3.&#x20;
 
 ### What to do if RStudio Cloud crashes?
 
@@ -447,7 +455,7 @@ This may happen if your RStudio Cloud session consumes too much ram.
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2024-11-06 at 12.10.57 PM.png" alt=""><figcaption></figcaption></figure>
 
-### 3.&#x20;
+### 4.&#x20;
 
 ### What to do if you exceed 25 hours per month?
 
@@ -455,7 +463,7 @@ This may happen if your RStudio Cloud session consumes too much ram.
 
 ***
 
-### 4.&#x20;
+### 5.&#x20;
 
 ### What to do if you want your new free account to be identical (files, packages, etc.) to the previous account where you exceeded the time limit?
 
@@ -474,7 +482,7 @@ This may happen if your RStudio Cloud session consumes too much ram.
 
 ***
 
-### 5.&#x20;
+### 6.&#x20;
 
 ### Using RStudio on a university lab computer
 
@@ -492,7 +500,7 @@ Because when you log out, lab computers revert to their factory settings and del
 
 ***
 
-### 6.&#x20;
+### 7.&#x20;
 
 ### Downloading R and RStudio to a personal computer
 
