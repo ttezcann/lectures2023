@@ -104,7 +104,7 @@ Slides: [descriptive statistics](https://docs.google.com/presentation/d/1_rePJrP
 {% endhint %}
 
 {% hint style="success" %}
-The \[what it measures column] variable shows the average \[what it measures column] of the  of the respondents is \[mean], with standard deviation \[SD].
+The \[what it measures column] variable shows the average \[what it measures column] of the respondents is \[mean], with standard deviation \[SD].
 {% endhint %}
 
 Slides: [descriptive statistics](https://docs.google.com/presentation/d/1_rePJrPIl7rwTEy3pfbrZopgWMFoamw0/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
