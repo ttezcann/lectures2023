@@ -2,7 +2,7 @@
 
 ## Reading
 
-No reading
+[Informative speaking and persuasive speaking](https://drive.google.com/file/d/1BFXJZAcD3IWdc1ZIQBBtPIfJX3H6s8tn/view?usp=sharing)
 
 ## Slides
 
