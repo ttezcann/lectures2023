@@ -14,7 +14,7 @@
 
 ## Assignment
 
-[Reviewing mass and social media research](https://docs.google.com/document/d/1ZwD4m711ImwWHfthBUANCRkcPEFOYQxr?rtpof=true\&usp=drive_fs)
+[Reviewing mass and social media](https://docs.google.com/document/d/1ZwD4m711ImwWHfthBUANCRkcPEFOYQxr?rtpof=true\&usp=drive_fs)
 
 ## Video
 
