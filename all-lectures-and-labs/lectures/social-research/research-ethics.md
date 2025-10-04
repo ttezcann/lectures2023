@@ -12,7 +12,7 @@
 
 ## Assignment
 
-[IRB vs researchers](https://docs.google.com/document/d/1YbFOW_dq45g7e0NLaYOjJqGNIsJkvfr_/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
+[IRB vs. researchers](https://docs.google.com/document/d/1YbFOW_dq45g7e0NLaYOjJqGNIsJkvfr_/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
 
 ## Video
 
