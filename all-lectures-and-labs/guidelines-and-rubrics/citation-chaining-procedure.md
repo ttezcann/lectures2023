@@ -96,5 +96,5 @@ It's always better to search DOI instead of title of the articles.
    2. Click Search
    3. The DOI appears at the bottom
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
