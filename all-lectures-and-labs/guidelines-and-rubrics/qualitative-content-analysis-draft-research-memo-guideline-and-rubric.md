@@ -4,7 +4,7 @@
 
 ## 1. Template file
 
-* ### [**\[Click here to see the template file you will use\]**](https://docs.google.com/document/d/1uNbySWvROGhAB13w69U4ZFMdBIO-k2RF/edit)
+* ### [**\[Click here to open the template file you will use\]**](https://docs.google.com/document/d/1uNbySWvROGhAB13w69U4ZFMdBIO-k2RF/edit)
   * Open it,  click File <mark style="color:red;">➜</mark> Make a copy.
 
 ## 2. Sample draft research memo
@@ -13,14 +13,14 @@
 
 ## 3. Word count
 
-Minimum **1,000** words of text excluding bibliography.
+Minimum **1,000** words of text excluding bibliography (references).
 
 ## 4. The goal
 
 The goal of writing a draft research memo is to&#x20;
 
-* Develop a topic with a research question that can be answered using qualitative content analysis methods
-* Explain in detail what literature and methods you have used to answer the research question
+* Develop a topic with a research question and results that can be answered using qualitative content analysis method,
+* Explain in detail what literature and method you have used to answer the research question.
 
 {% hint style="info" %}
 Writing is easier as you read
@@ -28,7 +28,7 @@ Writing is easier as you read
 
 In this stage, you are to write a draft, not a final paper. But, this is not a proposal either. Do not use future tense. You've already conducted your research.
 
-Use everything you have prepared for this class in your draft and final paper memo.
+Use everything you have prepared for this class in your draft research memo.
 
 The draft research memo builds on your prior assignments. Incorporate relevant material from these assignments, add transition sentences or paragraphs, and ensure all rubric criteria are met.
 
@@ -40,7 +40,7 @@ Previous assignments to use&#x20;
 * \[DRM] Coding your own data for draft research paper\*&#x20;
 * \[DRM] Coding your own data for draft research paper 2\*
 
-\*Note: Submissions <mark style="color:red;">without data analysis</mark> from "Coding your own data for draft research memo" <mark style="color:red;">will automatically receive zero.</mark>
+\*Note: Submissions <mark style="color:red;">without data analysis</mark> from "Coding your own data for draft research memo" <mark style="color:red;">will automatically receive zero.</mark> This assignment is assigned twice. If students receive, for example, 85 from one of these assignments, the maximum grade they can get from draft research memo, presentation, and final research memo is 85.
 
 ## 5. Recommended workflow
 
@@ -114,8 +114,12 @@ You've been using citation chaining and ResearchRabbit until now. Moving forward
    * **2.1. “The relationship between first independent variable and dependent variable” (You will name this subsection, for example Discrimination and Return migration):** Review the specific relevant literature about the relationship between your first independent variable and dependent variable. Explain what you expect to find and your reasoning. End this subsection with your first hypothesis.
    * **2.2. “The relationship between second independent variable and dependent variable” (You will name this subsection, for example Transnationalism and Return migration):** Review the specific relevant literature about the relationship between your second independent variable and dependent variable. Explain what you expect to find and your reasoning. End this subsection with your second hypothesis.
    * **2.3. “The relationship between third independent variable and dependent variable” (You will name this subsection, for example Children and Return migration):** Review the specific relevant literature about the relationship between your third independent variable and dependent variable. Explain what you expect to find and your reasoning. End this subsection with your third hypothesis.
-3. **Methodology:** Your content analysis should include mainstream or social media posts (NOT peer-reviewed journal articles for data analysis), newspaper article comment sections, any social media platforms, YouTube comment sections, or blogs, etc. Explain from which media platform you got data. What are your data selection criteria? Paste at least 5 links of the data at the end of this section (Newspaper article, Facebook group, TikTok videos, Instagram posts, etc.)
-4. **Results:** The standard approach to this section of a research paper is to present and describe the results in a systematic and detailed way. You will highlight and comment on the themes that emerge from the analysis. More elaborate commentary on the results will be provided in the final paper. Clearly state whether you confirm or reject each of your hypotheses. Discuss your initial, axial, and focused codes here, and organize your results based on the focused codes. Remember not to include all your results. You should present and discuss only those findings that relate to your hypotheses and accordingly your research question. Do not just summarize your content; you should direct the reader to the component or components of it that are especially striking from the point of view of your research aim. Try to ask yourself what story you want the content to convey and try to relay that story to your readers. Provide some quotations from the content you used.
+3. **Methodology:** In the Methodology section, give an account of how you carried out your research. An experienced researcher should be able to repeat the research and reproduce the results based on this section.\
+   \
+   Your content analysis should include mainstream or social media posts (NOT peer-reviewed journal articles for data analysis), newspaper article comment sections, any social media platforms, YouTube comment sections, or blogs, etc. Explain from which media platform you got data. What are your data selection criteria? Paste at least 5 links of the data at the end of this section (Newspaper article, Facebook group, TikTok videos, Instagram posts, etc.)
+4. **Results:** The standard approach to this section of a research paper is to present and describe the results in a systematic and detailed way. You will highlight and comment on the themes that emerge from the analysis. More elaborate commentary on the results will be provided in the final paper. Clearly state whether you confirm or reject each of your hypotheses. \
+   \
+   Discuss your axial and focused codes here, and organize your results based on the focused codes. Remember not to include all your results. You should present and discuss only those findings that relate to your hypotheses and accordingly your research question. Do not just summarize your content; you should direct the reader to the component or components of it that are especially striking from the point of view of your research aim. Try to ask yourself what story you want the content to convey and try to relay that story to your readers. Provide some quotations from the content you used for each focused code.
 5. **References (Bibliography):** Cite a minimum of 6 sources (ONLY peer-reviewed journal articles) in APA style. Books, book chapters, or other sources, such as reports found on google or websites, are NOT acceptable.
 
 ## 8. Grading
@@ -124,7 +128,7 @@ As no two draft research memos are the same, grading will be a somewhat subjecti
 
 I will rate your draft research memos from these items and the sum will represent your draft research memo grade. The grading of each item will be based on how clearly and completely you address each question posed.
 
-I place no strict limits on the length of each section. Your goal is to specifically discuss and justify your proposed content analysis, which generally takes 1,000 words of text (12-point Times New Roman font with 1” margins, (single spaced typed), excluding bibliography references. If you do not meet the minimum word count (1,000 words), your grade will be adjusted proportionally.
+I place no strict limits on the length of each section. Your goal is to specifically discuss and justify your proposed content analysis, which generally takes 1,000 words of text (12-point Times New Roman font with 1” margins, (single spaced typed), excluding bibliography (references). If you do not meet the minimum word count (1,000 words), your grade will be adjusted proportionally.
 
 ## 9. Rubric
 
@@ -143,16 +147,16 @@ I place no strict limits on the length of each section. Your goal is to specific
 
 <mark style="color:red;">Methodology</mark>
 
-* Did you discuss what content you analyze?
-* Did you discuss your method of selecting (which keywords you will search, which criteria you  follow to find content) media sources?
+* Did you discuss what content you analyzed?
+* Did you discuss your method of selecting (which keywords searched, which criteria  followed to find data) media sources?
 * Did you paste the links of your data sources?
 
 <mark style="color:red;">Results</mark>
 
 * Did you discuss your axial and focused codes?
 * Did you present and describe the results in a systematic and detailed way based on the focused codes?
-* Did you create tables and/or provide some quotations from the content you used?
-* &#x20;Did you clearly state whether you confirm or reject each of your hypotheses?
+* Did you provide quotations from the data you used for each focused code?
+* Did you clearly state whether you confirm or reject each of your hypotheses?
 
 <mark style="color:red;">Bibliography</mark>
 
@@ -168,7 +172,7 @@ I place no strict limits on the length of each section. Your goal is to specific
 
 * Self-grade sheet is completed.
 
-If you do not meet the minimum word count (1,000 words), your grade will be adjusted proportionally&#x20;
+If you do not meet the minimum word count (1,000 words), your grade will be adjusted proportionally.
 
 ## 10. Reminders
 
