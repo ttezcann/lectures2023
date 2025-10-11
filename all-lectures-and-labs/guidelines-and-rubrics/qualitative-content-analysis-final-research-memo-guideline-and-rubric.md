@@ -95,8 +95,10 @@ The final research memo builds on the draft research memo (see the Qualitative D
 
 ## 6. What if you do not have access to the articles <a href="#what-if-you-do-not-have-access-to-the-articles" id="what-if-you-do-not-have-access-to-the-articles"></a>
 
-1. If you do not have access to the articles…
-2. Email me (<mark style="color:blue;">ttezcan@csumb.edu</mark>) with the title and the link of the articles.
+1. You need to cite minimum <mark style="color:red;">12 peer-reviewed journal articles</mark> in total.
+   1. When this is not fulfilled, the grades of the sections will be negatively affected.
+2. If you do not have access to the articles…
+3. Email me (<mark style="color:blue;">ttezcan@csumb.edu</mark>) with the title and the link of the articles.
 
 You will need to find the full PDF version of the articles. If you do not have access to them, please email me ([ttezcan@csumb.edu](mailto:ttezcan@csumb.edu)) with the title and the link of the articles. Make sure the link does NOT start with [https://csu-mb.primo.exlibrisgroup.com/](https://csu-mb.primo.exlibrisgroup.com/)
 
