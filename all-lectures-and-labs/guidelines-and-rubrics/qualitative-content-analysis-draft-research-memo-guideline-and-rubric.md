@@ -98,6 +98,26 @@ Previous assignments to use&#x20;
 
 ## 6. What if you do not have access to the articles <a href="#what-if-you-do-not-have-access-to-the-articles" id="what-if-you-do-not-have-access-to-the-articles"></a>
 
+### How to find articles
+
+First try finding the articles on your own.
+
+1. &#x20;Paste the DOI (the most preferred way) or title of the articles into [scholar.google.com](http://scholar.google.com).&#x20;
+   1. [\[How to find DOI?\]](https://ttezcan.gitbook.io/lectures/all-lectures-and-labs/guidelines-and-rubrics/citation-chaining-procedure#how-to-find-doi)
+2. If we see <mark style="color:red;">\[PDF] on the right side</mark>, we have access. We click on \[PDF], **not** the title.
+
+<mark style="color:orange;">**We have found the PDF!**</mark>
+
+<figure><img src="../../.gitbook/assets/image (121).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (122).png" alt=""><figcaption></figcaption></figure>
+
+<mark style="color:red;">**NO PDF!**</mark>
+
+<figure><img src="../../.gitbook/assets/image (123).png" alt=""><figcaption></figcaption></figure>
+
+### If you do not see "PDF"
+
 1. If you do not have access to the articles…
 2. Email me (<mark style="color:blue;">ttezcan@csumb.edu</mark>) with the title and the link of the articles.
 
