@@ -112,3 +112,7 @@ The table below provides 87 Google Slides templates and 5 Infographic sets.
 <mark style="color:red;">Question</mark>
 
 37. Did you ask at least one question (other than “why did you choose this topic?” “will you use this research on your capstone project”) during the presentation sessions? Your question must be directly related to your classmates’ research
+
+<mark style="color:red;">Reading from the slides</mark>
+
+38. You can only read from the slides for (a) research question, (b) hypotheses, and (c) data quotes (Otherwise from -10 to -20).
