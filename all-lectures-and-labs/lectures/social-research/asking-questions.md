@@ -7,14 +7,12 @@
 ## Slides
 
 {% embed url="https://docs.google.com/presentation/d/1YbQ4LfbJF5UYtguQFNB4WFCyorgV00pq/edit?ouid=100179871492576617561&rtpof=true&sd=true&usp=sharing" %}
-
-{% embed url="https://docs.google.com/presentation/d/1YbQ4LfbJF5UYtguQFNB4WFCyorgV00pq?rtpof=true&usp=drive_fs" %}
-[**Downloadable slides here**](https://docs.google.com/presentation/d/1YbQ4LfbJF5UYtguQFNB4WFCyorgV00pq?rtpof=true\&usp=drive_fs)
+[Downloadable slides here](https://docs.google.com/presentation/d/1YbQ4LfbJF5UYtguQFNB4WFCyorgV00pq/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
 {% endembed %}
 
 ## Assignment
 
-* [Crafting questions](https://docs.google.com/document/d/1YmvUtPBtZB2GO9uz6OrbmSgBk7MCHs1f/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
+[Crafting questions](https://docs.google.com/document/d/1YmvUtPBtZB2GO9uz6OrbmSgBk7MCHs1f/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
 
 ## Video
 
