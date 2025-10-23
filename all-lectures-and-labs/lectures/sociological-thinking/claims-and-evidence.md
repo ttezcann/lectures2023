@@ -6,7 +6,7 @@
 
 ## Slides
 
-{% embed url="https://docs.google.com/presentation/d/1gMw9MOONIYOJ3uZCNAs4XqAhvWxh2nSo?rtpof=true&usp=drive_fs" %}
+{% embed url="https://docs.google.com/presentation/d/1gMw9MOONIYOJ3uZCNAs4XqAhvWxh2nSo/edit?ouid=100179871492576617561&rtpof=true&sd=true&usp=sharing" %}
 [**Downloadable slides here**](https://docs.google.com/presentation/d/1gMw9MOONIYOJ3uZCNAs4XqAhvWxh2nSo?rtpof=true\&usp=drive_fs)
 {% endembed %}
 
