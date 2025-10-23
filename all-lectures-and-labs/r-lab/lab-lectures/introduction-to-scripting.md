@@ -10,7 +10,7 @@
 
 ## Slides
 
-{% embed url="https://docs.google.com/presentation/d/1_lHHvJN3ZNQobkhNYtMuq6kYkxItUgK7?rtpof=true&usp=drive_fs" %}
+{% embed url="https://docs.google.com/presentation/d/1_lHHvJN3ZNQobkhNYtMuq6kYkxItUgK7/edit?ouid=100179871492576617561&rtpof=true&sd=true&usp=sharing" %}
 [**Downloadable slides here**](https://docs.google.com/presentation/d/1_lHHvJN3ZNQobkhNYtMuq6kYkxItUgK7?rtpof=true\&usp=drive_fs)
 {% endembed %}
 
