@@ -84,7 +84,7 @@
       * [Common errors of perspective in sociological thinking](all-lectures-and-labs/lectures/sociological-thinking/common-errors-of-perspective-in-sociological-thinking.md)
       * [Misinformation and disinformation](all-lectures-and-labs/lectures/sociological-thinking/misinformation-and-disinformation.md)
       * [Propaganda](all-lectures-and-labs/lectures/sociological-thinking/propaganda.md)
-      * [Conspiracy theories and sociology](all-lectures-and-labs/lectures/sociological-thinking/conspiracy-theories-and-sociology.md)
+      * [Conspiracy theories](all-lectures-and-labs/lectures/sociological-thinking/conspiracy-theories.md)
       * [Cognitive influences on critical thinking](all-lectures-and-labs/lectures/sociological-thinking/contemporary-factors-influencing-critical-thinking.md)
       * [Ethical reasoning](all-lectures-and-labs/lectures/sociological-thinking/ethical-reasoning.md)
       * [Deviance I: The role of deviance](all-lectures-and-labs/lectures/sociological-thinking/deviance-i-the-role-of-deviance.md)

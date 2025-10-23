@@ -1,4 +1,4 @@
-# Conspiracy theories and sociology
+# Conspiracy theories
 
 ## Reading
 
@@ -16,7 +16,7 @@
 
 ## Video
 
-{% embed url="https://youtu.be/rKROsFeUayU" %}
+{% embed url="https://drive.google.com/file/d/1Jxk2g4EVuHLdUjBKwfnVrKB0qIkwdZol/view?usp=drive_link" %}
 
 ## Lecture reflection
 
