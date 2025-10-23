@@ -10,7 +10,7 @@ Reading
 
 ## Slides
 
-{% embed url="https://docs.google.com/presentation/d/11hFYVZ3y8pig6n8SkDDnZYk_AoqY2-t9?rtpof=true&usp=drive_fs" %}
+{% embed url="https://docs.google.com/presentation/d/11hFYVZ3y8pig6n8SkDDnZYk_AoqY2-t9/edit?ouid=100179871492576617561&rtpof=true&sd=true&usp=sharing" %}
 [**Downloadable slides here**](https://docs.google.com/presentation/d/11hFYVZ3y8pig6n8SkDDnZYk_AoqY2-t9?rtpof=true\&usp=drive_fs)
 {% endembed %}
 
@@ -26,7 +26,7 @@ Reading
 
 [Sample lab assignment google doc](https://docs.google.com/document/d/1U4Nwk-n0np2dc26UP_HAR87R5wgWQQ3p?rtpof=true\&usp=drive_fs)
 
-{% embed url="https://drive.google.com/open?id=15y0oDa_VSKk0igiGs08993HZ3YJwuYIU&usp=drive_fs" %}
+{% embed url="https://drive.google.com/file/d/15y0oDa_VSKk0igiGs08993HZ3YJwuYIU/view?usp=sharing" %}
 
 ## Lecture reflection
 
