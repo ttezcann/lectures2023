@@ -37,82 +37,81 @@ The table below provides 87 Google Slides templates and 5 Infographic sets.
 
 <mark style="color:red;">Punctuality</mark>
 
-1. Did you arrive in the classroom 10 minutes early for your presentation day? (15 points)
+* Did you arrive in the classroom 10 minutes early for your presentation day? (15 points)
 
-<mark style="color:red;">Script and stopwatch</mark>
+<mark style="color:red;">Script paper</mark>
 
-3. Did you present with the script in your hand? (printed or handwritten papers) (2 points)
-4. Did you set a stopwatch for seven minutes? (1 point)
+* Did you present with the script in your hand? (printed or handwritten papers) (3 points)
 
 <mark style="color:red;">Title slide</mark>
 
-5. Did you include the title? (0.5 point)
-6. Did you include your name? (0.5 point)
-7. Did you include your affiliation (School and major)? (0.5 point)
-8. Did you include the date? (0.5 point)
+* Did you include the title? (0.5 point)
+* Did you include your name? (0.5 point)
+* Did you include your affiliation (School and major)? (0.5 point)
+* Did you include the date? (0.5 point)
 
 <mark style="color:red;">Outline slide</mark>
 
-9. Did you present the outline describing the next slides of your presentation? (2 points)
+* Did you present the outline describing the next slides of your presentation? (2 points)
 
 <mark style="color:red;">Introduction slide</mark>
 
-10. Did you describe/introduce the topic you worked on? (2 points)
-11. Did you display why your research is important and what gaps it aims to fill? (2 points)
-12. Did you display and explain your “research question”? (4 points)
+* Did you describe/introduce the topic you worked on? (2 points)
+* Did you display why your research is important and what gaps it aims to fill? (2 points)
+* Did you display and explain your “research question”? (4 points)
 
 <mark style="color:red;">Theoretical structure slide</mark>
 
-13. Did you  display the previous research on the topic? (3 points)
-14. Did you cite the previous research and/or concepts and theories appropriately within the slides? (3 points)
-15. Did you list and define the key concept(s)? (3 points)
-16. Did you display and explain your three (3) hypotheses? (6 points)
+* Did you  display the previous research on the topic? (3 points)
+* Did you cite the previous research and/or concepts and theories appropriately within the slides? (3 points)
+* Did you list and define the key concept(s)? (3 points)
+* Did you display and explain your three (3) hypotheses? (6 points)
 
 <mark style="color:red;">Methods and sample slide</mark>
 
-17. Did you display which methodology you use? Hint: it is “content analysis.” (1 point)
-18. Did you introduce the data sources you analyzed? (3 points)
-19. Did you display the data (sources) selection criteria (keywords searched)? (3 points)
-20. Did you display how many initial, axial, and focused codes you employ? (2 points)
+* Did you display which methodology you use? Hint: it is “content analysis.” (1 point)
+* Did you introduce the data sources you analyzed? (3 points)
+* Did you display the data (sources) selection criteria (keywords searched)? (3 points)
+* Did you display how many initial, axial, and focused codes you employ? (2 points)
 
 <mark style="color:red;">Theme slide</mark>
 
-21. Did you provide a slide displaying your themes? (2 points)
+* Did you provide a slide displaying your themes? (2 points)
 
 <mark style="color:red;">Results slide</mark>
 
-22. Did you provide direct quotes for each focused code (theme) from the data you analyzed? (9 points)
+* Did you provide direct quotes for each focused code (theme) from the data you analyzed? (9 points)
 
 <mark style="color:red;">Discussion and conclusion slide</mark>
 
-23. Did you clearly interpret and display your main findings? (2 points)
-24. Did you display any new understanding or insights about the topic you worked on? (2 points)
-25. Did you display the significance of the main findings? (2 points)
+* Did you clearly interpret and display your main findings? (2 points)
+* Did you display any new understanding or insights about the topic you worked on? (2 points)
+* Did you display the significance of the main findings? (2 points)
 
 <mark style="color:red;">References slide</mark>
 
-26. Did you provide the in-text and end-text citations of all the peer-reviewed journal articles you cited in your presentation? (2 points)
-27. Did you use a consistent reference style? (APA) (2 points)
-28. Were the font, font size, text color, and case (no uppercase) consistent? (2 points)
+* Did you provide the in-text and end-text citations of all the peer-reviewed journal articles you cited in your presentation? (2 points)
+* Did you use a consistent reference style? (APA) (2 points)
+* Were the font, font size, text color, and case (no uppercase) consistent? (2 points)
 
 <mark style="color:red;">Thanks you and questions slide</mark>
 
-29. Did your last slide include “thank you and questions?” text? (0.5 point)
-30. Did you include your email address in this slide? (0.5 point)
+* Did your last slide include “thank you and questions?” text? (0.5 point)
+* Did you include your email address in this slide? (0.5 point)
 
 <mark style="color:red;">Structure evaluation</mark>
 
-31. Did you reach this slide within seven minutes? (2 points)
-32. Were the use and appearance of Google Slides clear and organized? (2 points)
-33. Were the template and color choices appropriate? (2 points)
-34. Did you present looking at the audience and making them feel included? (2 points)
-35. Did you use a clear voice, rhythm and tone, so that all audience members can hear and engage with the presentation? (2 points)
-36. Did you use visuals showing effort and creativity? (2 points)
+* Did you reach this slide within seven minutes? (2 points)
+* Were the use and appearance of Google Slides clear and organized? (2 points)
+* Were the template and color choices appropriate? (2 points)
+* Did you present looking at the audience and making them feel included? (2 points)
+* Did you use a clear voice, rhythm and tone, so that all audience members can hear and engage with the presentation? (2 points)
+* Did you use visuals showing effort and creativity? (2 points)
 
 <mark style="color:red;">Question</mark>
 
-37. Did you ask at least one question (other than “why did you choose this topic?” “will you use this research on your capstone project”) during the presentation sessions? Your question must be directly related to your classmates’ research
+* Did you ask at least one question (other than “why did you choose this topic?” “will you use this research on your capstone project”) during the presentation sessions? Your question must be directly related to your classmates’ research
 
 <mark style="color:red;">Reading from the slides</mark>
 
-38. You can only read from the slides for (a) research question, (b) hypotheses, and (c) data quotes (Otherwise from -10 to -20).
+* You can only read from the slides for (a) research question, (b) hypotheses, and (c) data quotes (Otherwise from -10 to -20).
