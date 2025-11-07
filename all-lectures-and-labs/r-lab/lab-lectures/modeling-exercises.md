@@ -4,13 +4,11 @@
 
 [Understanding logistic regression analysis](https://drive.google.com/open?id=1avS7fM-15CZl8Qy1nOv2fcxE0aDE0_xn\&usp=drive_fs)
 
-## R Script file
+## R Script file&#x20;
 
-R script file will be available **after the lecture break**
+[script\_modelingexercises.R](https://drive.google.com/file/d/1_hwhZ5Ayd9IYCtthpHfrS9MddEnHGrCg/view?usp=sharing)&#x20;
 
-1\) Click below if you're in:&#x20;
-
-[**SBS321:** script\_modelingexercises1.R](https://drive.google.com/file/d/1_hwhZ5Ayd9IYCtthpHfrS9MddEnHGrCg/view?usp=sharing)&#x20;
+Since you’ll use a different dataset, you need to run “Install and load packages” and “Load trashball data” codes at the top of the Rscript file, otherwise codes won’t work.
 
 ## Slides
 
@@ -20,20 +18,15 @@ R script file will be available **after the lecture break**
 
 ## Lab assignment
 
-Lab assignment will be available **after the lecture break.**&#x20;
-
-There will be a survey link in the file. **Do not take the survey if you didn't attend the lecture.**
-
-1. Click here:
-   * [lab assignment ](https://docs.google.com/document/d/1_gqecHP0YBIsCD7kzS_-tjJ0LsV0E3SR/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
+[lab assignment](https://docs.google.com/document/d/1_gqecHP0YBIsCD7kzS_-tjJ0LsV0E3SR/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
 
 ## Video
 
-We'll collect our own data during the lecture and run logistic regression analyses, therefore there's no lecture video. Refer to logistic regression lecture video.
+You will use the dataset created during in-person classes in previous semesters, therefore there's no lecture video. Refer to logistic regression lecture video.
 
 ## Sample lab assignment video
 
-We'll collect our own data during the lecture and run logistic regression analyses, therefore there's no sample lab assignment video. Refer to logistic regression sample lab assignment google doc and video.
+You will use the dataset created during in-person classes in previous semesters, therefore there's no sample lab assignment video. Refer to logistic regression sample lab assignment google doc and video.
 
 ## Lecture reflection
 
