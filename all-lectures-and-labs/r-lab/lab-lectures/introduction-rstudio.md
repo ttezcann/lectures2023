@@ -22,7 +22,7 @@
 
 ## Lecture video
 
-{% embed url="https://youtu.be/QafY31s2nKA" %}
+{% embed url="https://drive.google.com/open?id=1fI0b0ui-kVh2hHlWeAaw0mlu8CSa1aZR&usp=drive_fs" %}
 
 ## Lab assignment video
 
