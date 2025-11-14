@@ -16,7 +16,7 @@ No assignment
 
 ## Video
 
-{% embed url="https://youtu.be/_aLhjDP4ADU" %}
+{% embed url="https://drive.google.com/open?id=16UKw9Dwi3BwjHpHMZDRrPCwsieH23QdD&usp=drive_fs" %}
 
 ## Lecture reflection
 
