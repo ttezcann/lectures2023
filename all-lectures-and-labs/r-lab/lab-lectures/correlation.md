@@ -20,7 +20,7 @@
 
 ## Lecture video
 
-{% embed url="https://youtu.be/i9htnAxtoK4" %}
+{% embed url="https://drive.google.com/open?id=1F-vgcHSrs4j1sGSXwaj95PP_lYR3JlKs&usp=drive_fs" %}
 
 ## Sample lab assignment video
 
