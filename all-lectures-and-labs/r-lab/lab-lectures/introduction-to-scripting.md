@@ -24,7 +24,7 @@
 
 ## Sample lab assignment video
 
-{% embed url="https://youtu.be/F5obiGEVXso" %}
+{% embed url="https://drive.google.com/file/d/1v3uvjDGrB_zdwGMNk0HcrV5O3_53g1ch/view?usp=drive_link" %}
 
 ## Lecture reflection
 
