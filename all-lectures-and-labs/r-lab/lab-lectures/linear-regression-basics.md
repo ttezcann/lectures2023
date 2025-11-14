@@ -24,15 +24,13 @@
 
 ## Lecture video
 
-{% embed url="https://youtu.be/cPb507ZlR0c" %}
+{% embed url="https://drive.google.com/open?id=1sXyx23oaGrQ-KIJVETku1YjltEZtknYc&usp=drive_fs" %}
 
 ## Sample lab assignment video
 
 [sample lab assignment google doc](https://docs.google.com/document/d/1ajX4ou8l1TyWwFr6e-KESzkLgeCzyKuB?rtpof=true\&usp=drive_fs)
 
 {% embed url="https://drive.google.com/file/d/1jvxOHQVWbARraibIJJxuE5S3xIsZ2aZo/view?usp=drive_link" %}
-
-
 
 ## Lecture reflection
 
