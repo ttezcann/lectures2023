@@ -16,7 +16,7 @@
 
 ## Video
 
-{% embed url="https://youtu.be/QzKE0NmhjfU" %}
+{% embed url="https://drive.google.com/open?id=1aDezJtGTxYOySem3_7LIfvoMxg9g2z91&usp=drive_fs" %}
 
 ## Lecture reflection
 
