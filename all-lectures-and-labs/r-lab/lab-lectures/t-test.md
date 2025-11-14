@@ -2,7 +2,7 @@
 
 Reading
 
-[T-tests](https://drive.google.com/open?id=1-RXHYALU8IVq5fBnROKSLyhqVjGnrSNv\&usp=drive_fs)
+[Urdan, Timothy C. 2010. “T Tests.” Pp. 93–103 in Statistics in plain English. New York, NY: Routledge.](https://drive.google.com/open?id=1-RXHYALU8IVq5fBnROKSLyhqVjGnrSNv\&usp=drive_fs)
 
 ## R Script file
 

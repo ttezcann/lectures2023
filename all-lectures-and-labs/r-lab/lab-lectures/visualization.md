@@ -2,7 +2,7 @@
 
 ## Reading
 
-[Look at data](https://drive.google.com/file/d/1-mkNa8JiPNKAY3vbAT0JWgaU-Pq2mmUt/view?usp=sharing)
+[Healy, Kieran Joseph. 2019. “Look at the Data.” Pp. 1–23 in Data visualization: A practical introduction. Princeton: Princeton University Press.](https://drive.google.com/file/d/1-mkNa8JiPNKAY3vbAT0JWgaU-Pq2mmUt/view?usp=sharing)
 
 ## R Script file
 

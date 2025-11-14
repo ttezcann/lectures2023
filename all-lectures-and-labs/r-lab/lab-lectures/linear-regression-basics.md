@@ -2,7 +2,7 @@
 
 ## Reading
 
-[To Explain or to Predict](https://drive.google.com/file/d/1FCevBqd-SEf-s0afbzSRsmLfCJoLtiZZ/view?usp=sharing)
+[Shmueli, Galit. 2010. “To Explain or to Predict?” Statistical Science 25(3):289–310. doi:10.1214/10-STS330](https://drive.google.com/file/d/1FCevBqd-SEf-s0afbzSRsmLfCJoLtiZZ/view?usp=sharing)
 
 ## R Script file
 

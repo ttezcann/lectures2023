@@ -2,7 +2,7 @@
 
 ## Reading
 
-[Correlation](https://drive.google.com/open?id=1tbgGJnak1D5nmn7LhuIsrin4LZUC1faM\&usp=drive_fs)
+[Weinstein, Jay A. 2010. “Correlation Description and Induction in Comparative Sociology.” Pp. 297–324 in Applying social statistics: An introduction to quantitative reasoning in sociology. Lanham: Rowman & Littlefield.](https://drive.google.com/open?id=1tbgGJnak1D5nmn7LhuIsrin4LZUC1faM\&usp=drive_fs)
 
 ## R Script file
 

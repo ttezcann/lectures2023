@@ -2,7 +2,7 @@
 
 ## Reading
 
-[Occupational status of immigrants in cross-national perspective: A multilevel analysis of seventeen Western societies](https://drive.google.com/open?id=1fzzA19d2OhcxyW790nUxk02PRjy37eWW\&usp=drive_fs)(pay specific attention to "Dependent and independent variables" ps. 153-155)
+[Van Tubergen, Frank. 2006. “Occupational Status of Immigrants in Cross-National Perspective: A Multilevel Analysis of Seventeen Western Societies.” Pp. 147–71 in Immigration and the Transformation of Europe, edited by C. A. Parsons and T. M. Smeeding. Cambridge University Press.](https://drive.google.com/open?id=1fzzA19d2OhcxyW790nUxk02PRjy37eWW\&usp=drive_fs) (pay specific attention to "Dependent and independent variables" ps. 153-155)
 
 ## R Script file
 

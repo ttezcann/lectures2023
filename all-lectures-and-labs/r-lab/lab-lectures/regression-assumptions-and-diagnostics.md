@@ -2,7 +2,7 @@
 
 ## Reading
 
-[A Second Chance to Get Causal Inference Right A Classification of Data Science Tasks](https://drive.google.com/file/d/1FAbNAqXvEe7llEcbTP5bXRhJGEUi0yLC/view?usp=sharing)
+[Hernán, Miguel A., John Hsu, and Brian Healy. 2019. “A Second Chance to Get Causal Inference Right: A Classification of Data Science Tasks.” Chance 32(1):42–49. doi:10.1080/09332480.2019.1579578](https://drive.google.com/file/d/1FAbNAqXvEe7llEcbTP5bXRhJGEUi0yLC/view?usp=sharing)
 
 ## R Script file
 

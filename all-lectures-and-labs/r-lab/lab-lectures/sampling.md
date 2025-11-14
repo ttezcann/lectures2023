@@ -2,7 +2,7 @@
 
 ## Reading
 
-[Selecting samples](https://drive.google.com/file/d/1zvNjowBr8HWuvQyF69qlrmPyGewKlHT3/view?usp=sharing)
+[Aldridge, Alan, and Kenneth Levine. 2001. “Selecting Samples.” Pp. 61–82 in Surveying the social world: principles and practice in survey research, Understanding social research. Buckingham: Philadelphia, PA : Open University Press.](https://drive.google.com/file/d/1zvNjowBr8HWuvQyF69qlrmPyGewKlHT3/view?usp=sharing)
 
 ## R Script file
 

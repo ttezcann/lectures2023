@@ -2,7 +2,7 @@
 
 ## Reading
 
-[Inferential statistics and chi-square reading](https://drive.google.com/open?id=1-PbcGjr9TGm-9y8Y5-NfsIZr06lRRRr-\&usp=drive_fs)
+[Barnes, Sally, and Cathy Lewin. 2006. “An Introduction to Inferential Statistics: Testing for Differences and Relationships.” Pp. 226–35 in Research methods in the social sciences, edited by B. Somekh and C. Lewin. London: Sage](https://drive.google.com/open?id=1-PbcGjr9TGm-9y8Y5-NfsIZr06lRRRr-\&usp=drive_fs)
 
 ## R Script file
 

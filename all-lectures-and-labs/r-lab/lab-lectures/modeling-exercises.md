@@ -2,7 +2,7 @@
 
 ## Reading
 
-[Understanding logistic regression analysis](https://drive.google.com/open?id=1avS7fM-15CZl8Qy1nOv2fcxE0aDE0_xn\&usp=drive_fs)
+[Sperandei, Sandro. 2014. “Understanding Logistic Regression Analysis.” Biochemia Medica 24(1):12–18. doi:10.11613/BM.2014.003](https://drive.google.com/open?id=1avS7fM-15CZl8Qy1nOv2fcxE0aDE0_xn\&usp=drive_fs)
 
 ## R Script file&#x20;
 

@@ -2,7 +2,7 @@
 
 ## Reading
 
-[Regression analysis with dummy variables](https://drive.google.com/file/d/1XVY6DkY5qRWzOT1gGY_M9sXW1fy7YbK8/view?usp=sharing)
+[Allen, Michael Patrick. 1997. “Regression Analysis with Dummy Variables.” Pp. 128–32 in Understanding Regression Analysis. Boston, MA: Springer.](https://drive.google.com/file/d/1XVY6DkY5qRWzOT1gGY_M9sXW1fy7YbK8/view?usp=sharing)
 
 ## R Script file
 

@@ -2,7 +2,7 @@
 
 ## Reading
 
-[A conceptual introduction to bivariate logistic regression](https://drive.google.com/file/d/1-SRjUuwh3_Ts2d8v03wfZYaIXFxTdUiH/view?usp=sharing)
+[Osborne, Jason W. 2015. “A Conceptual Introduction to Bivariate Logistic Regression.” Pp. 1–18 in Best practices in logistic regression. Los Angeles: Sage.](https://drive.google.com/file/d/1-SRjUuwh3_Ts2d8v03wfZYaIXFxTdUiH/view?usp=sharing)
 
 ## R Script file
 

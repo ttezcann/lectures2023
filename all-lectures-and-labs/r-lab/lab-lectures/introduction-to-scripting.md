@@ -2,7 +2,7 @@
 
 ## Reading
 
-[The demise of the survey? A research note on trends in the use of survey data in the social sciences, 1939 to 2015](https://drive.google.com/file/d/1zdNiWlaal7qUUTXd755NFLkxLGEOXgfA/view?usp=sharing)
+[Sturgis, Patrick, and Rebekah Luff. 2021. “The Demise of the Survey? A Research Note on Trends in the Use of Survey Data in the Social Sciences, 1939 to 2015.” International Journal of Social Research Methodology 24(6):691–96. doi:10.1080/13645579.2020.1844896](https://drive.google.com/file/d/1zdNiWlaal7qUUTXd755NFLkxLGEOXgfA/view?usp=sharing)
 
 ## R Script file
 

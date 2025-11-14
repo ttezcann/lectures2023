@@ -2,7 +2,7 @@
 
 ## Reading
 
-[Summated rating scale construction](https://drive.google.com/file/d/1-Gjbex4YsZaDJSYEnIe03Ec1awRFd3Al/view?usp=sharing)
+[Spector, Paul. 1992. “Introduction.” Pp. 2–10 in Summated rating scale construction. Sage.](https://drive.google.com/file/d/1-Gjbex4YsZaDJSYEnIe03Ec1awRFd3Al/view?usp=sharing)
 
 ## R Script file
 
