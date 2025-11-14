@@ -2,7 +2,7 @@
 
 ## Reading
 
-[Errors of perspective](https://drive.google.com/open?id=1lMzxcmr1Fe1_XFoNtg3Y6CBMCvE_mg9J\&usp=drive_fs)
+[Ruggiero, Vincent Ryan. 2012. “Errors of Perspective.” Pp. 102–11 in Beyond feelings: A guide to critical thinking. New York: McGraw-Hill.](https://drive.google.com/open?id=1lMzxcmr1Fe1_XFoNtg3Y6CBMCvE_mg9J\&usp=drive_fs)
 
 ## Slides
 

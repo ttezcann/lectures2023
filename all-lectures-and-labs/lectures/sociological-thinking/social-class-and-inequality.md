@@ -2,7 +2,7 @@
 
 ## Reading
 
-[Social stratification and social inequality](https://drive.google.com/open?id=1tWd6zc10-SMQoqCX6tNyvMy1Ykunu9po\&usp=drive_fs)
+[Ferris, Kerry, and Jill Stein. 2010. “Social Class: The Structure of Inequality.” Pp. 211–20 in The real world: An introduction to sociology. New York: W.W. Norton & Co.](https://drive.google.com/open?id=1tWd6zc10-SMQoqCX6tNyvMy1Ykunu9po\&usp=drive_fs)
 
 ## Slides
 

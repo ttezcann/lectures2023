@@ -2,7 +2,7 @@
 
 ## Reading
 
-[The better-than-average effect](https://drive.google.com/open?id=1Qaz7hLYTlOuFCMsjaxPlhpE03JZcYR0h\&usp=drive_fs)
+[Zell, Ethan, Jason E. Strickhouser, Constantine Sedikides, and Mark D. Alicke. 2020. “The Better-than-Average Effect in Comparative Self-Evaluation: A Comprehensive Review and Meta-Analysis.” Psychological Bulletin 146(2):118–49. doi:10.1037/bul0000218](https://drive.google.com/open?id=1Qaz7hLYTlOuFCMsjaxPlhpE03JZcYR0h\&usp=drive_fs)
 
 ## Slides
 

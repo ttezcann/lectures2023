@@ -2,9 +2,7 @@
 
 ## Reading
 
-[The second generation in Western Europe: Education, unemployment, and occupational attainment](https://drive.google.com/file/d/17AsgKiEQNxQbHjefiqOsA0D85RoWoDP_/view?usp=sharing)
-
-<mark style="color:orange;">**\[Optional]**</mark> [Growing up American: The challenge confronting immigrant children and children of immigrants](https://drive.google.com/file/d/16qE-QwTTqHmveDo3TXIIll4sJsU1zapx/view?usp=sharing)
+[Zhou, Min. 1997. “Growing up American: The Challenge Confronting Immigrant Children and Children of Immigrants.” Annual Review of Sociology 23:63–95. doi:10.1146/annurev.soc.23.1.63.](https://drive.google.com/file/d/17AsgKiEQNxQbHjefiqOsA0D85RoWoDP_/view?usp=sharing)
 
 ## Slides
 

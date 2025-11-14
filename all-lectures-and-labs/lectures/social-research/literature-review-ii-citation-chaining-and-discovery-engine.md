@@ -2,9 +2,7 @@
 
 ## Reading
 
-[Visual research discovery using Connected Papers: A use case of blockchain in libraries](https://drive.google.com/open?id=1fzHrLCH7gTgRB2SrUMPAokkHDqmiKj8Q\&usp=drive_fs)
-
-<mark style="color:orange;">Optional:</mark> [Searching for information](https://drive.google.com/file/d/1sUX4WP_jBrIx85Y5HxIBg_aVZI5CbO00/view?usp=sharing)
+[Kaur, Amanpreet, Ritu Sharma, Pooja Mishra, Atasi Sinhababu, and Rupak Chakravarty. 2022. “Visual Research Discovery Using Connected Papers: A Use Case of Blockchain in Libraries.” The Serials Librarian 83(2):186–96. doi:10.1080/0361526X.2022.2142722](https://drive.google.com/open?id=1fzHrLCH7gTgRB2SrUMPAokkHDqmiKj8Q\&usp=drive_fs)
 
 ## Slides
 

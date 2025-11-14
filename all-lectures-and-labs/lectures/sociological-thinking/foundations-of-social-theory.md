@@ -2,7 +2,7 @@
 
 ## Reading
 
-[Theoretical perspectives in sociology](https://drive.google.com/file/d/1rRnvUKXky1NDcl260b_MOBv5S7oZK0qW/view?usp=sharing)
+[Henslin, James M. 2019. “Theoretical Perspectives in Sociology.” Pp. 14–20 in Essentials of sociology: A down-to-earth approach. Boston: Pearson.](https://drive.google.com/file/d/1rRnvUKXky1NDcl260b_MOBv5S7oZK0qW/view?usp=sharing)
 
 ## Slides
 

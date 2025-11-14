@@ -2,7 +2,7 @@
 
 ## Reading
 
-[Misinformation and disinformation](https://drive.google.com/file/d/1k618rFqhYSQBUYm-9ww5rufnGuKkkn0p/view?usp=sharing)
+[Armitage, Rachel, and Cristian Vaccari. 2021. “Misinformation and Disinformation.” Pp. 38–48 in The Routledge companion to media disinformation and populism, edited by H. Tumber and S. Waisbord. London: Routledge.](https://drive.google.com/file/d/1k618rFqhYSQBUYm-9ww5rufnGuKkkn0p/view?usp=sharing)
 
 ## Slides
 

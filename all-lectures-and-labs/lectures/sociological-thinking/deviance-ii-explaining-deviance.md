@@ -2,7 +2,7 @@
 
 ## Reading
 
-[Deviance and social control](https://drive.google.com/open?id=1sTMHvG44okMyJIMEqiep1i9Obudjhv2G\&usp=drive_fs)
+[Croteau, David, and William Hoynes. 2018. “Deviance and Social Control.” Pp. 175–201 in Experience Sociology. Dubuque, IA: McGraw-Hill Education.](https://drive.google.com/open?id=1sTMHvG44okMyJIMEqiep1i9Obudjhv2G\&usp=drive_fs)
 
 ## Slides
 

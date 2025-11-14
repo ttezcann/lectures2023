@@ -2,7 +2,7 @@
 
 ## Reading
 
-[The sociological imagination](https://drive.google.com/file/d/113WEZbjnuSpN-yI-m96Ofs9_znzwHc7C/view?usp=sharing)
+[Manza, Jeff. 2018. “The Sociological Imagination.” Pp. 2–19 in The sociology project. New York: Pearson.](https://drive.google.com/file/d/113WEZbjnuSpN-yI-m96Ofs9_znzwHc7C/view?usp=sharing)
 
 ## Slides
 

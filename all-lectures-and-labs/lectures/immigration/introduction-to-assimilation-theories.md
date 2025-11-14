@@ -2,8 +2,7 @@
 
 ## Reading
 
-* [Assimilation models, old and new: Explaining a long-term process](https://drive.google.com/file/d/1jVOvbYzPrcRM1RwGfj9DOzDQzpY5B7qB/view?usp=sharing)
-* <mark style="color:orange;">**\[Optional]**</mark> [Critically assessing classic assimilation theory and alternative perspectives for immigrants and the second generation in the United States](https://drive.google.com/file/d/1Bms4NKp7NZ8-U1hvnjT-KIfUtDHD49j9/view?usp=sharing)
+* [Waters, Mary C., and Tomás R. Jiménez. 2005. “Assessing Immigrant Assimilation: New Empirical and Theoretical Challenges.” Annual Review of Sociology 31(1):105–25. doi:10.1146/annurev.soc.29.010202.100026.](https://drive.google.com/file/d/1jVOvbYzPrcRM1RwGfj9DOzDQzpY5B7qB/view?usp=sharing)
 
 ## Slides
 

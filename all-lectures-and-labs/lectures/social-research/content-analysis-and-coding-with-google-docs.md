@@ -2,7 +2,7 @@
 
 ## Reading
 
-[Qualitative data analysis](https://drive.google.com/open?id=17PpKzd2j__BbmaG_regpT8-R1ARWMQyy\&usp=drive_fs)
+[Kozinets, Robert V. 2013. “Data Analysis.” Pp. 118–35 in Netnography: Doing ethnographic research online. Los Angeles: Sage.](https://drive.google.com/open?id=17PpKzd2j__BbmaG_regpT8-R1ARWMQyy\&usp=drive_fs)
 
 ## Slides
 

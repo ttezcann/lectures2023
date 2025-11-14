@@ -2,9 +2,7 @@
 
 ## Reading
 
-[Immigration law beyond borders: Externalizing and internalizing border controls in an era of securitization](https://drive.google.com/file/d/1nY9K_N-dB-2d76kywootZbWXzpTubArH/view?usp=sharing)
-
-<mark style="color:orange;">**\[Optional]**</mark> [Cross-Border Migration and Social Inequalities](https://drive.google.com/file/d/10JoAOiURMSG531BQPG97d6de4p-ktQUb/view?usp=sharing)
+[Menjívar, Cecilia. 2014. “Immigration Law beyond Borders: Externalizing and Internalizing Border Controls in an Era of Securitization.” Annual Review of Law and Social Science 10(1):353–69. doi:10.1146/annurev-lawsocsci-110413-030842.](https://drive.google.com/file/d/1nY9K_N-dB-2d76kywootZbWXzpTubArH/view?usp=sharing)
 
 ## Slides
 

@@ -2,7 +2,7 @@
 
 ## Reading
 
-[Coping with negative social identity: the case of Mexican immigrants](https://drive.google.com/file/d/1DW-ZE2nhPIEB4sVPSvJHh8CgZ4G8aiX7/view?usp=sharing)
+[Shinnar, Rachel S. 2008. “Coping with Negative Social Identity: The Case of Mexican Immigrants.” _The Journal of Social Psychology_ 148(5):553–75. doi:10.3200/SOCP.148.5.553-576.](https://drive.google.com/file/d/1DW-ZE2nhPIEB4sVPSvJHh8CgZ4G8aiX7/view?usp=sharing)
 
 ## Slides
 

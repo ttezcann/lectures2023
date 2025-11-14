@@ -2,7 +2,7 @@
 
 ## Reading
 
-[Sampling](https://drive.google.com/file/d/1Lx_YB7p8_9n57T_tqmvOj_FON6Yl5Bwx/view?usp=sharing)
+[Lohr, Sharon L. 2009. “Coverage and Sampling.” Pp. 97–112 in International handbook of survey methodology, edited by E. D. de Leeuw, J. J. Hox, D. A. Dillman, and Edith Desirée de Leeuw. New York, NY: Psychology Press.](https://drive.google.com/file/d/1Lx_YB7p8_9n57T_tqmvOj_FON6Yl5Bwx/view?usp=sharing)
 
 ## Slides
 

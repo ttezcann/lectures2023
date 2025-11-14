@@ -2,9 +2,7 @@
 
 ## Reading
 
-* [Migrant social networks: Vehicles for migration, integration, and development](https://drive.google.com/file/d/1KsXnsiH0Z-EE4n9v4je2Gl-f8gbCZ85W/view?usp=sharing)
-* <mark style="color:orange;">**\[Optional 1]**</mark> [Immigrant Kinship Networks and the Impact of the Receiving Context: Salvadorans in San Francisco in the Early 1990s](https://drive.google.com/open?id=1BXuxWPrCfHHoTdy6_L6_Su_39M-Z244C\&usp=drive_fs)
-* <mark style="color:orange;">**\[Optional 2]**</mark> [Migrant networks](https://drive.google.com/file/d/1bAs3wMjrlrGLKYMN3y0Zz02aqnwZDfLS/view?usp=sharing)
+[Garip, Filiz, and Asad L. Asad. 2015. “Migrant Networks.” Pp. 1–13 in Emerging Trends in the Social and Behavioral Sciences, edited by R. A. Scott and S. M. Kosslyn. Wiley.](https://drive.google.com/file/d/1bAs3wMjrlrGLKYMN3y0Zz02aqnwZDfLS/view?usp=sharing)
 
 ## Slides
 

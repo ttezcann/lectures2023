@@ -2,7 +2,7 @@
 
 ## Reading
 
-[Informative speaking and persuasive speaking](https://drive.google.com/file/d/1BFXJZAcD3IWdc1ZIQBBtPIfJX3H6s8tn/view?usp=sharing)
+[Tucker, Barbara, Kristin Barton, Amy Burger, Jerry Drye, and Cathy Hunsicker. 2019. “Informative Speaking.” Pp. 238–55 in Exploring Public Speaking: 4th Edition. Communication Open Textbooks.](https://drive.google.com/file/d/1BFXJZAcD3IWdc1ZIQBBtPIfJX3H6s8tn/view?usp=sharing)
 
 ## Slides
 

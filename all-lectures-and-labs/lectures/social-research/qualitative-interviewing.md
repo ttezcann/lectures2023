@@ -2,7 +2,7 @@
 
 ## Reading
 
-[Interviewing in qualitative research](https://drive.google.com/file/d/1GWd9v6fJzE7sFPKBq4Fk48W99mtopUdH/view?usp=sharing)
+[Bhattacharya, Kakali. 2017. “Data Collection Methods.” Pp. 126–46 in Fundamentals of qualitative research: A practical guide. New York: Routledge.](https://drive.google.com/file/d/1GWd9v6fJzE7sFPKBq4Fk48W99mtopUdH/view?usp=sharing)
 
 ## Slides
 

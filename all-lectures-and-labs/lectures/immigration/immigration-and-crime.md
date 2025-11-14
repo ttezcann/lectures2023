@@ -2,7 +2,7 @@
 
 ## Reading
 
-[Immigration and crime: Assessing a contentious issue](https://drive.google.com/file/d/1nACPt4hdR3DQJ7doWF4RtSYwUupqWVK2/view?usp=sharing)
+[Ousey, Graham C., and Charis E. Kubrin. 2018. “Immigration and Crime: Assessing a Contentious Issue.” Annual Review of Criminology 1:63–84. doi:10.1146/annurev-criminol-032317-092026.](https://drive.google.com/file/d/1nACPt4hdR3DQJ7doWF4RtSYwUupqWVK2/view?usp=sharing)
 
 ## Slides
 

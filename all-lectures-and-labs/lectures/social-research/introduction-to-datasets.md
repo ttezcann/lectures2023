@@ -2,7 +2,7 @@
 
 ## Reading
 
-[Secondary data](https://drive.google.com/file/d/1oItC-fpLZhakFaFwXsRJuUxK2bYYED3c/view?usp=sharing)
+[Pajo, Bora. 2018. “Secondary Data.” Pp. 179–95 in Introduction to research methods: A hands-on approach. Los Angeles: Sage.](https://drive.google.com/file/d/1oItC-fpLZhakFaFwXsRJuUxK2bYYED3c/view?usp=sharing)
 
 ## Slides
 

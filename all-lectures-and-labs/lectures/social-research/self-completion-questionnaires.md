@@ -2,7 +2,7 @@
 
 ## Reading
 
-[Self-completion questionnaires](https://drive.google.com/file/d/1O1q1s-oPDDUWuZcu6F_dbL_kcCG22gkq/view?usp=sharing)
+[Czaja, Ronald, and Johnny Blair. 2006. “Selecting the Method of Data Collection.” Pp. 33–58 in Designing surveys: A guide to decisions and procedures. Thousand Oaks: Pine Forge Press.](https://drive.google.com/file/d/1O1q1s-oPDDUWuZcu6F_dbL_kcCG22gkq/view?usp=sharing)
 
 ## Slides
 

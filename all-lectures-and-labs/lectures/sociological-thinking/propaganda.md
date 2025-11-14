@@ -2,7 +2,7 @@
 
 ## Reading
 
-[What is propaganda?](https://drive.google.com/file/d/1kn3UMFp336FkPNMFk1nk_GM9wD62hoGi/view?usp=sharing)
+[Jowett, Garth S., and Victoria O’Donnell. 2012. “What Is Propaganda, and How Does It Differ from Persuasion?” Pp. 1–50 in Propaganda & persuasion. Thousand Oaks: Sage.](https://drive.google.com/file/d/1kn3UMFp336FkPNMFk1nk_GM9wD62hoGi/view?usp=sharing)
 
 ## Slides
 

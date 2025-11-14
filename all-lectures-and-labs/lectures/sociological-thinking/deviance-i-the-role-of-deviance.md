@@ -2,7 +2,7 @@
 
 ## Reading
 
-[The role of deviance](https://drive.google.com/file/d/1sJKrNVlT48RaGACqQWotZ-qdaj5j-I3p/view?usp=sharing)
+[Jensen, Gary F. 2007. “The Sociology of Deviance.” Pp. 370–79 in The 21st century sociology: A reference handbook, edited by C. D. Bryant and D. L. Peck. Thousand Oaks: Sage.](https://drive.google.com/file/d/1sJKrNVlT48RaGACqQWotZ-qdaj5j-I3p/view?usp=sharing)
 
 ## Slides
 

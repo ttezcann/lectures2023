@@ -2,9 +2,7 @@
 
 ## Reading
 
-[Analysing news media](https://drive.google.com/file/d/12ZZ_Fsn1P3C54tCosE7g9mL_IQ6ojDnD/view?usp=sharing)
-
-<mark style="background-color:purple;">**\[Optional]**</mark> [Researching mass media: Images and texts](https://drive.google.com/file/d/1fLRzh7ST0zgCWNLsgbBGwCbzZv5Ehr50/view?usp=sharing)
+[Hodgetts, Darrin, and Kerry Chamberlain. 2014. “Analysing News Media.” Pp. 380–93 in The SAGE Handbook of Qualitative Data Analysis, edited by U. Flick. London: Sage.](https://drive.google.com/file/d/12ZZ_Fsn1P3C54tCosE7g9mL_IQ6ojDnD/view?usp=sharing)
 
 ## Slides
 

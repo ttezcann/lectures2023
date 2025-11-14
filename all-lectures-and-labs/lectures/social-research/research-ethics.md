@@ -2,7 +2,7 @@
 
 ## Reading
 
-[Ethics and politics in social research](https://drive.google.com/file/d/1GXJKrdLwtPPR-hyWVjLPrQbhwhaPegOF/view?usp=sharing)
+[National Research Council. 2010. “Basic Concepts.” Pp. 23–53 in Protecting participants and facilitating social and behavioral sciences research. Washington, D.C: National Academies Press.](https://drive.google.com/file/d/1GXJKrdLwtPPR-hyWVjLPrQbhwhaPegOF/view?usp=sharing)
 
 ## Slides
 

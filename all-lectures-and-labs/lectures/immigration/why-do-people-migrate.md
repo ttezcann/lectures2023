@@ -2,7 +2,7 @@
 
 ## Reading
 
-[Why does immigration occur? A theoretical synthesis](https://drive.google.com/file/d/1J4UhxNss3ngq7XunbKcptyhJL-c1rzSA/view?usp=sharing)
+[Massey, Douglas S. 1999. “Why Does Immigration Occur?: A Theoretical Synthesis.” Pp. 34–52 in The Handbook of International Migration: The American Experience, edited by C. Hirschman, P. Kasinitz, and J. DeWind. New York: Russell Sage.](https://drive.google.com/file/d/1J4UhxNss3ngq7XunbKcptyhJL-c1rzSA/view?usp=sharing)
 
 ## Slides
 

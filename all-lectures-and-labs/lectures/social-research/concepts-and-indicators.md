@@ -2,7 +2,7 @@
 
 ## Reading
 
-[Developing indicators for concepts](https://drive.google.com/file/d/1ggDibpICdeFnltrH056aHAIKze7wT4-j/view?usp=sharing)
+[De Vaus, D. A. 2014. “Concepts and Indicators.” Pp. 41–54 in Surveys in social research, Social research today. Abingdon, Oxon: Routledge](https://drive.google.com/file/d/1ggDibpICdeFnltrH056aHAIKze7wT4-j/view?usp=sharing)
 
 ## Slides
 

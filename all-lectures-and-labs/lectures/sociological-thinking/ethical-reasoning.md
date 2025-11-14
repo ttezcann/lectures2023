@@ -2,7 +2,7 @@
 
 ## Reading
 
-[Subjectivism, relativism, and emotivism](https://drive.google.com/file/d/1l6UL6xTtX3vht8dStWvt1K_jQqQxQjf7/view?usp=sharing)
+[Vaughn, Lewis. 2016. “Subjectivism, Relativism, and Emotivism.” Pp. 20–35 in Doing Ethics: Moral Reasoning and Contemporary Issues. New York: W. W. Norton & Company.](https://drive.google.com/file/d/1l6UL6xTtX3vht8dStWvt1K_jQqQxQjf7/view?usp=sharing)
 
 ## Slides
 

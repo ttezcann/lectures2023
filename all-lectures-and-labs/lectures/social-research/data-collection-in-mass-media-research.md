@@ -2,7 +2,7 @@
 
 ## Reading
 
-[Think before you collect: Setting up a data collection approach for social media studies](https://drive.google.com/open?id=1uiu0U3fERAG-Xr8K8-J2kFO0M4cB1RDm\&usp=drive_fs)
+[Mayr, Philipp, and Katrin Weller. 2016. “Think before You Collect: Setting up a Data Collection Approach for Social Media Studies.” Pp. 107–24 in The SAGE Handbook of Social Media Research Methods. London: Sage.](https://drive.google.com/open?id=1uiu0U3fERAG-Xr8K8-J2kFO0M4cB1RDm\&usp=drive_fs)
 
 ## Slides
 

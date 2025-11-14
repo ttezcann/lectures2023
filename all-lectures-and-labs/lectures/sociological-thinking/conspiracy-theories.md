@@ -2,7 +2,7 @@
 
 ## Reading
 
-[Sociology, social theory and conspiracy theory](https://drive.google.com/file/d/1lnusLng25m07YMkR4_3H_hAzyCX9REJ7/view?usp=sharing)
+[Bergmann, Eirikur. 2018. “The Anatomy of Conspiracy Theories.” Pp. 47–69 in Conspiracy & populism: The politics of misinformation. New York, NY: Springer Berlin Heidelberg.](https://drive.google.com/file/d/1lnusLng25m07YMkR4_3H_hAzyCX9REJ7/view?usp=sharing)
 
 ## Slides
 

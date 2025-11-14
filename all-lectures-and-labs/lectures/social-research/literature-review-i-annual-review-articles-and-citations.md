@@ -2,7 +2,7 @@
 
 ## Reading
 
-[Defining a Literature Review](https://drive.google.com/file/d/1VrpuSCMi28TiABQ3nIp2I7TEiCItMfHn/view?usp=sharing)
+[Oliver, Paul. 2012. “The Nature and Purpose of a Literature Review.” Pp. 4–21 in Succeeding with your literature review: A handbook for students. Maidenhead: McGraw-Hill Open University Press.](https://drive.google.com/file/d/1VrpuSCMi28TiABQ3nIp2I7TEiCItMfHn/view?usp=sharing)
 
 ## Slides
 

@@ -2,7 +2,7 @@
 
 ## Reading
 
-[Religiosity dynamics among recently arrived Turkish marriage migrants in Germany](https://drive.google.com/open?id=1fUhgRbb3KVjE1vRTm5FI1dQE7BsDbCS_\&usp=drive_fs)
+[Tezcan, Tolga, Tahir Enes Gedik, and Alin M. Ceobanu. 2023. “Religiosity Dynamics among Recently Arrived Turkish Marriage Migrants in Germany.” Journal of Ethnic and Migration Studies 49(19):5027–51. doi:10.1080/1369183X.2022.2072276.](https://drive.google.com/open?id=1fUhgRbb3KVjE1vRTm5FI1dQE7BsDbCS_\&usp=drive_fs)
 
 ## Slides
 

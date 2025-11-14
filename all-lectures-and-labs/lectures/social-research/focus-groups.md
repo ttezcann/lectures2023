@@ -2,7 +2,7 @@
 
 ## Reading
 
-[Focus group research](https://drive.google.com/open?id=1IbIBv-Z_gS98ZBrnBF2OIWn8gyHBLVmY\&usp=drive_fs)
+[Lune, Howard, and Bruce L. Berg. 2017. “Focus Group Interviewing.” Pp. 94–106 in Qualitative research methods for the social sciences. Harlow: Pearson.](https://drive.google.com/open?id=1IbIBv-Z_gS98ZBrnBF2OIWn8gyHBLVmY\&usp=drive_fs)
 
 ## Slides
 

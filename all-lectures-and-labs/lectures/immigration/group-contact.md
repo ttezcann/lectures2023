@@ -2,9 +2,7 @@
 
 ## Reading
 
-[Intergroup contact as a tool for reducing, resolving, and preventing intergroup conflict](https://drive.google.com/file/d/1NaKnmp6_0SNyQ5VkdvKygkxUuLqpukuf/view?usp=sharing)
-
-[<mark style="color:orange;">**\[Optional\]**</mark> The Ties That Bind and Those That Don't: Toward Reconciling Group Threat and Contact Theories of Prejudice](https://drive.google.com/open?id=1Nf_MBtvmBJboD3tHqXcdDaHZdg71I7sv\&usp=drive_fs)
+[Al Ramiah, Ananthi, and Miles Hewstone. 2013. “Intergroup Contact as a Tool for Reducing, Resolving, and Preventing Intergroup Conflict: Evidence, Limitations, and Potential.” American Psychologist 68(7):527–42. doi:10.1037/a0032603.](https://drive.google.com/file/d/1NaKnmp6_0SNyQ5VkdvKygkxUuLqpukuf/view?usp=sharing)
 
 ## Slides
 

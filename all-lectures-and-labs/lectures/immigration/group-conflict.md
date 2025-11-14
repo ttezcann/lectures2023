@@ -2,7 +2,7 @@
 
 ## Reading
 
-[Prejudice as a response to perceived group threat: Population composition and anti-immigrant and racial prejudice in Europe](https://drive.google.com/open?id=1orUvivQWyitiHLZfzThSTD3sGkmloxod\&usp=drive_fs)
+[Quillian, Lincoln. 1995. “Prejudice as a Response to Perceived Group Threat: Population Composition and Anti-Immigrant and Racial Prejudice in Europe.” _American Sociological Review_ 60(4):586–611. doi:10.2307/2096296.](https://drive.google.com/open?id=1orUvivQWyitiHLZfzThSTD3sGkmloxod\&usp=drive_fs)
 
 ## Slides
 

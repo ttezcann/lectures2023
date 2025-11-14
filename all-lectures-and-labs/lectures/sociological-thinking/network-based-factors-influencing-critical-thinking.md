@@ -2,7 +2,7 @@
 
 ## Reading
 
-[A critical review of filter bubbles and a comparison with selective exposure](https://drive.google.com/file/d/1ipfYxxTL8HGwqA7UJV_EMHAgXeaH95kZ/view?usp=sharing)
+[Dahlgren, Peter M. 2021. “A Critical Review of Filter Bubbles and a Comparison with Selective Exposure.” Nordicom Review 42(1):15–33. doi:10.2478/nor-2021-0002](https://drive.google.com/file/d/1ipfYxxTL8HGwqA7UJV_EMHAgXeaH95kZ/view?usp=sharing)
 
 ## Slides
 

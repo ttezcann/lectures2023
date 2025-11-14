@@ -2,7 +2,7 @@
 
 ## Reading
 
-[Everyday arguments](https://drive.google.com/file/d/1jQoA4m5zSGFFS_ZzUJ5vhyBG-3Zs9ccv/view?usp=sharing)
+[Best, Joel. 2021. “Everyday Arguments.” Pp. 14–27 in Is That True?: Critical Thinking for Sociologists. Oakland: University of California Press.](https://drive.google.com/file/d/1jQoA4m5zSGFFS_ZzUJ5vhyBG-3Zs9ccv/view?usp=sharing)
 
 ## Slides
 

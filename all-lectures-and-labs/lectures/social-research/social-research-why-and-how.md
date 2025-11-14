@@ -2,7 +2,7 @@
 
 ## Reading
 
-[The nature and process of social research](https://drive.google.com/file/d/19Fi6jtAxpD6k7kuT7MLS1V8cktdJlIv0/view?usp=sharing)
+[Jaccard, James, and Jacob Jacoby. 2010. “Science as an Approach to Understanding.” Pp. 22–36 in Theory construction and model-building skills: A practical guide for social scientists. New York: Guilford Press.](https://drive.google.com/file/d/19Fi6jtAxpD6k7kuT7MLS1V8cktdJlIv0/view?usp=sharing)
 
 ## Slides
 

@@ -2,7 +2,7 @@
 
 ## Reading
 
-[What is evidence?](https://drive.google.com/file/d/1oauGpJc9Kb-3PyjwwGWziSQmHa4ahnC1/view?usp=sharing)
+[Gambrill, Eileen D. 2019. “Evidence: Sources, Uses, and Controversies.” Pp. 48–84 in Critical thinking and the process of evidence-based practice. Oxford: Oxford University Press.](https://drive.google.com/file/d/1oauGpJc9Kb-3PyjwwGWziSQmHa4ahnC1/view?usp=sharing)
 
 ## Slides
 

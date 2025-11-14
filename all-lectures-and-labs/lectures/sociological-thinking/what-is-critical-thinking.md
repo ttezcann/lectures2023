@@ -2,7 +2,7 @@
 
 ## Reading
 
-[What is critical thinking?](https://drive.google.com/file/d/1oYciKkc7w8wUG0NYETBl8YIcGXgOlWL6/view?usp=sharing)
+[Moon, Jennifer. 2007. “Critical Thinking as an Elusive Concept: What Critical Thinking Might Be.” Pp. 19–34 in Critical thinking as an elusive concept: What critical thinking might be. London: Routledge.](https://drive.google.com/file/d/1oYciKkc7w8wUG0NYETBl8YIcGXgOlWL6/view?usp=sharing)
 
 ## Slides
 

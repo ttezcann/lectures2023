@@ -2,9 +2,7 @@
 
 ## Reading
 
-[Not everyone is chosen: Segmented assimilation and its determinants](https://drive.google.com/file/d/1qK6sIWiYsBxktfzg5FKCEXYTBkFNZtqc/view?usp=sharing)
-
-[<mark style="color:orange;">**\[Optional\]**</mark> Segmented Assimilation Theory and the Life Model: An Integrated Approach to](https://drive.google.com/open?id=1A6pzIFKe1ffQCaM55Lyh0F8XR_rq8IQ4\&usp=drive_fs)[Understanding Immigrants and Their Children](https://drive.google.com/open?id=1A6pzIFKe1ffQCaM55Lyh0F8XR_rq8IQ4\&usp=drive_fs)
+[Portes, Alejandro, and Rubén G. Rumbaut. 2001. “Not Everyone Is Chosen: Segmented Assimilation and Its Determinants.” Pp. 44–69 in Legacies: The story of the immigrant second generation. New York: University of California Press.](https://drive.google.com/file/d/1qK6sIWiYsBxktfzg5FKCEXYTBkFNZtqc/view?usp=sharing)
 
 ## Slides
 

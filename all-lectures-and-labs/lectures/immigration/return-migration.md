@@ -2,13 +2,7 @@
 
 ## Reading
 
-[How ties, identities and home states influence Mexican-born immigrants’ return migration intentions](https://drive.google.com/open?id=1Eo-e08C9onCeCuBK-UVgP8LAfnWniF9N\&usp=drive_fs)
-
-<mark style="color:orange;">**\[Optional]**</mark> [Return home? Determinants of return migration intention amongst Turkish immigrants in Germany](https://drive.google.com/open?id=1F3lq-WkHD0c3IuSyTEo0ow04lNbivv_q\&usp=drive_fs)
-
-<mark style="color:orange;">**\[Optional]**</mark> [What initiates, what postpones return migration intention? The case of Turkish immigrants residing in Germany](https://drive.google.com/open?id=1ElsNeZADPEOetSpBxHfS-y2V9rBeMNWN\&usp=drive_fs)
-
-<mark style="color:orange;">**\[Optional]**</mark> [Return migration intentions driven by parental concerns and the Value of Children](https://drive.google.com/open?id=1F3hc6VOrAGIINilpPHD4-HWaZfwOoZX_\&usp=drive_fs)
+[Tezcan, Tolga. 2018. “How Ties, Identities and Home States Influence Mexican-Born Immigrants’ Return Migration Intentions.” Migration and Development 7(3):388–411. doi:10.1080/21632324.2018.1457427.](https://drive.google.com/open?id=1Eo-e08C9onCeCuBK-UVgP8LAfnWniF9N\&usp=drive_fs)
 
 ## Slides
 

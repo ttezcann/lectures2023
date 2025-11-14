@@ -2,7 +2,7 @@
 
 ## Reading
 
-[Theories of drug use](https://drive.google.com/file/d/1l3-xJwOrn5HxAMw68kh6s1LdtQU0Ml49/view?usp=sharing)
+[Mosher, Clayton James, and Scott Akins. 2014. “Theories of Drug Use.” Pp. 1–26 in Drugs and drug policy: The control of consciousness alteration. Los Angeles: Sage.](https://drive.google.com/file/d/1l3-xJwOrn5HxAMw68kh6s1LdtQU0Ml49/view?usp=sharing)
 
 ## Slides
 

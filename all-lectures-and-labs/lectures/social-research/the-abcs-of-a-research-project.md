@@ -2,7 +2,7 @@
 
 ## Reading
 
-[Planning a research project and formulating research questions](https://drive.google.com/file/d/1xHIVakPkwJSDwpoU-wzwrW8dTZr115JR/view?usp=sharing)
+[Balnaves, Mark, and Peter Caputi. 2001. “Defining the Inquiry.” Pp. 33–62 in Introduction to quantitative research methods: An investigative approach. London: Sage](https://drive.google.com/file/d/1xHIVakPkwJSDwpoU-wzwrW8dTZr115JR/view?usp=sharing)
 
 ## Slides
 

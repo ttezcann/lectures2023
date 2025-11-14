@@ -2,7 +2,7 @@
 
 ## Reading
 
-[An introduction to survey methodology](https://drive.google.com/file/d/1510IpLWgcbCgxcepDlrgHxT0L_GpWEUe/view?usp=sharing)
+[Groves, Robert M., Floyd J. Fowler, Mick Couper, James M. Lepkowski, Eleanor Singer, and Roger Tourangeau. 2011. “An Introduction to Survey Methodology.” Pp. 1–37 in Survey Methodology. Somerset: Wiley.](https://drive.google.com/file/d/1510IpLWgcbCgxcepDlrgHxT0L_GpWEUe/view?usp=sharing)
 
 ## Slides
 

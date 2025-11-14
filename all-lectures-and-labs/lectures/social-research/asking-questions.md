@@ -2,7 +2,7 @@
 
 ## Reading
 
-[Asking questions](https://drive.google.com/file/d/1vaOXzMw4dzGbw0_el9kW3Z59GW0rw-RC/view?usp=sharing)
+[Fink, Arlene. 2017. “The Survey Form: Questions, Scales, and Appearance.” Pp. 35–66 in How to conduct surveys: A step-by-step guide. Los Angeles: Sage.](https://drive.google.com/file/d/1vaOXzMw4dzGbw0_el9kW3Z59GW0rw-RC/view?usp=sharing)
 
 ## Slides
 

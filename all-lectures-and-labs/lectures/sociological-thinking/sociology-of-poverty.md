@@ -2,7 +2,7 @@
 
 ## Reading
 
-[American poverty: The dream turned nightmare](https://drive.google.com/file/d/1r2M589VSpNvzbyjjU9cIZdoYFOoPIjpA/view?usp=sharing)
+[Doob, Christopher Bates. 2019. “American Poverty: The Dream Turned Nightmare.” in Social inequality and social stratification in U.S. society. New York: Routledge.](https://drive.google.com/file/d/1r2M589VSpNvzbyjjU9cIZdoYFOoPIjpA/view?usp=sharing)
 
 ## Slides
 

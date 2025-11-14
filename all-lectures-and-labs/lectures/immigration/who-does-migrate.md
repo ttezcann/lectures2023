@@ -2,9 +2,7 @@
 
 ## Reading
 
-[Migration decision-making among Mexican youth: Individual, family, and community influences](https://drive.google.com/open?id=15l9HleZphTIO2gb0MOPApkEaNUgxgnE1\&usp=drive_fs)
-
-<mark style="color:orange;">Optional reading:</mark> [Pioneers and Followers: Migrant Selectivity and the Development of U.S. Migration Streams in Latin America](https://drive.google.com/open?id=17f4DAVtRqmLYMZ93ywNWwsFBofPMJgdW\&usp=drive_fs)
+[Lindstrom, David P., and Adriana López Ramírez. 2010. “Pioneers and Followers: Migrant Selectivity and the Development of U.S. Migration Streams in Latin America.” Annals of the American Academy of Political and Social Science 630(1):53–77. doi:10.1177/0002716210368103.](https://drive.google.com/open?id=17f4DAVtRqmLYMZ93ywNWwsFBofPMJgdW\&usp=drive_fs)
 
 ## Slides
 

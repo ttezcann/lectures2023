@@ -2,7 +2,7 @@
 
 ## Reading
 
-[Emile Durkheim](https://drive.google.com/file/d/1oRpsjB3IMHQrBahwlkxt5_FOLVH-aNGV/view?usp=sharing)
+[Gilbert, Margaret. 1994. “Durkheim and Social Facts.” Pp. 86–109 in Debating Durkheim, edited by W. S. F. Pickering and H. Martins. New York: Routledge.](https://drive.google.com/file/d/1oRpsjB3IMHQrBahwlkxt5_FOLVH-aNGV/view?usp=sharing)
 
 ## Slides
 

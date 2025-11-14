@@ -2,7 +2,7 @@
 
 ## Reading
 
-[Relations between the generations in immigrant families](https://drive.google.com/file/d/1NN5jAKaVu7w0BZnOkkI_X36ATdcJCKn-/view?usp=sharing)
+[Foner, Nancy, and Joanna Dreby. 2011. “Relations Between the Generations in Immigrant Families.” Annual Review of Sociology 37(1):545–64. doi:10.1146/annurev-soc-081309-150030.](https://drive.google.com/file/d/1NN5jAKaVu7w0BZnOkkI_X36ATdcJCKn-/view?usp=sharing)
 
 ## Slides
 
