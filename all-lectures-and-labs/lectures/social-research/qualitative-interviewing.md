@@ -2,7 +2,7 @@
 
 ## Reading
 
-[Bhattacharya, Kakali. 2017. “Data Collection Methods.” Pp. 126–46 in Fundamentals of qualitative research: A practical guide. New York: Routledge.](https://drive.google.com/file/d/1GWd9v6fJzE7sFPKBq4Fk48W99mtopUdH/view?usp=sharing)
+* [Bhattacharya, Kakali. 2017. “Data Collection Methods.” Pp. 126–46 in Fundamentals of qualitative research: A practical guide. New York: Routledge.](https://drive.google.com/file/d/1GWd9v6fJzE7sFPKBq4Fk48W99mtopUdH/view?usp=sharing)
 
 ## Slides
 
@@ -12,7 +12,7 @@
 
 ## Assignment
 
-[Qualitative interviewing exercise](https://docs.google.com/document/d/1ZD5bMZNAfpmlsuKTktSqOvlpBZ9tuYsH?rtpof=true\&usp=drive_fs)
+* [Qualitative interviewing exercise](https://docs.google.com/document/d/1ZD5bMZNAfpmlsuKTktSqOvlpBZ9tuYsH?rtpof=true\&usp=drive_fs)
 
 ## Video
 
@@ -20,4 +20,4 @@
 
 ## Lecture reflection
 
-[Lecture reflection template](https://docs.google.com/document/d/1U7Y3kHd1yYuaC4nUti1LhukQFhfgaeHy?rtpof=true\&usp=drive_fs)
+* [Lecture reflection template](https://docs.google.com/document/d/1U7Y3kHd1yYuaC4nUti1LhukQFhfgaeHy?rtpof=true\&usp=drive_fs)

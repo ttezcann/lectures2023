@@ -2,7 +2,7 @@
 
 ## Reading
 
-[Balnaves, Mark, and Peter Caputi. 2001. “Defining the Inquiry.” Pp. 33–62 in Introduction to quantitative research methods: An investigative approach. London: Sage](https://drive.google.com/file/d/1xHIVakPkwJSDwpoU-wzwrW8dTZr115JR/view?usp=sharing)
+* [Balnaves, Mark, and Peter Caputi. 2001. “Defining the Inquiry.” Pp. 33–62 in Introduction to quantitative research methods: An investigative approach. London: Sage](https://drive.google.com/file/d/1xHIVakPkwJSDwpoU-wzwrW8dTZr115JR/view?usp=sharing)
 
 ## Slides
 
@@ -20,4 +20,4 @@
 
 ## Lecture reflection
 
-[Lecture reflection template](https://docs.google.com/document/d/11_BypYl5N1eMg7ppG9YCzfZFX8MD9lnO?rtpof=true\&usp=drive_fs)
+* [Lecture reflection template](https://docs.google.com/document/d/11_BypYl5N1eMg7ppG9YCzfZFX8MD9lnO?rtpof=true\&usp=drive_fs)

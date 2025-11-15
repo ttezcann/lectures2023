@@ -2,7 +2,7 @@
 
 ## Reading
 
-[Groves, Robert M., Floyd J. Fowler, Mick Couper, James M. Lepkowski, Eleanor Singer, and Roger Tourangeau. 2011. “An Introduction to Survey Methodology.” Pp. 1–37 in Survey Methodology. Somerset: Wiley.](https://drive.google.com/file/d/1510IpLWgcbCgxcepDlrgHxT0L_GpWEUe/view?usp=sharing)
+* [Groves, Robert M., Floyd J. Fowler, Mick Couper, James M. Lepkowski, Eleanor Singer, and Roger Tourangeau. 2011. “An Introduction to Survey Methodology.” Pp. 1–37 in Survey Methodology. Somerset: Wiley.](https://drive.google.com/file/d/1510IpLWgcbCgxcepDlrgHxT0L_GpWEUe/view?usp=sharing)
 
 ## Slides
 
@@ -12,7 +12,7 @@
 
 ## Assignment
 
-[Designing a national survey](https://docs.google.com/document/d/1X75OQNw3H_CKuFwxjPq-oUbvaDlhDvV0?rtpof=true\&usp=drive_fs)
+* [Designing a national survey](https://docs.google.com/document/d/1X75OQNw3H_CKuFwxjPq-oUbvaDlhDvV0?rtpof=true\&usp=drive_fs)
 
 ## Video
 
@@ -20,4 +20,4 @@
 
 ## Lecture reflection
 
-[Lecture reflection template](https://docs.google.com/document/d/1u7988o1R9i6RxFKRmj0kol62aBWnt7Y-?rtpof=true\&usp=drive_fs)
+* [Lecture reflection template](https://docs.google.com/document/d/1u7988o1R9i6RxFKRmj0kol62aBWnt7Y-?rtpof=true\&usp=drive_fs)

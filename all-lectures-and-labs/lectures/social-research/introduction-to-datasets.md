@@ -2,7 +2,7 @@
 
 ## Reading
 
-[Pajo, Bora. 2018. “Secondary Data.” Pp. 179–95 in Introduction to research methods: A hands-on approach. Los Angeles: Sage.](https://drive.google.com/file/d/1oItC-fpLZhakFaFwXsRJuUxK2bYYED3c/view?usp=sharing)
+* [Pajo, Bora. 2018. “Secondary Data.” Pp. 179–95 in Introduction to research methods: A hands-on approach. Los Angeles: Sage.](https://drive.google.com/file/d/1oItC-fpLZhakFaFwXsRJuUxK2bYYED3c/view?usp=sharing)
 
 ## Slides
 
@@ -12,7 +12,7 @@
 
 ## Assignment
 
-[Finding a dataset from ICPSR](https://docs.google.com/document/d/1WwseBXUj76TyaFgvEIpl6fFJoYhiKF5l?rtpof=true\&usp=drive_fs)
+* [Finding a dataset from ICPSR](https://docs.google.com/document/d/1WwseBXUj76TyaFgvEIpl6fFJoYhiKF5l?rtpof=true\&usp=drive_fs)
 
 ## Video
 
@@ -20,4 +20,4 @@
 
 ## Lecture reflection
 
-[Lecture reflection template](https://docs.google.com/document/d/1ZjeWOm7fu6Y0MpszuwfdDdKS9wQwr8JC?rtpof=true\&usp=drive_fs)
+* [Lecture reflection template](https://docs.google.com/document/d/1ZjeWOm7fu6Y0MpszuwfdDdKS9wQwr8JC?rtpof=true\&usp=drive_fs)

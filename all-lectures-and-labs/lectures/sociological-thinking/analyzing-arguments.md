@@ -2,7 +2,7 @@
 
 ## Reading
 
-[What is argument?](https://drive.google.com/file/d/1jH2CWhbZ47VdEMeJm8wDJQ8XihxMryC5/view?usp=sharing)
+[Diane F. Halpern. 2013. “Analyzing Arguments.” Pp. 231–90 in Thought and Knowledge: An Introduction to Critical Thinking. New York: Psychology Press.](https://drive.google.com/file/d/1jH2CWhbZ47VdEMeJm8wDJQ8XihxMryC5/view?usp=sharing)
 
 ## Slides
 

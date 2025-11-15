@@ -2,7 +2,7 @@
 
 ## Reading
 
-[Kaur, Amanpreet, Ritu Sharma, Pooja Mishra, Atasi Sinhababu, and Rupak Chakravarty. 2022. “Visual Research Discovery Using Connected Papers: A Use Case of Blockchain in Libraries.” The Serials Librarian 83(2):186–96. doi:10.1080/0361526X.2022.2142722](https://drive.google.com/open?id=1fzHrLCH7gTgRB2SrUMPAokkHDqmiKj8Q\&usp=drive_fs)
+* [Kaur, Amanpreet, Ritu Sharma, Pooja Mishra, Atasi Sinhababu, and Rupak Chakravarty. 2022. “Visual Research Discovery Using Connected Papers: A Use Case of Blockchain in Libraries.” The Serials Librarian 83(2):186–96. doi:10.1080/0361526X.2022.2142722](https://drive.google.com/open?id=1fzHrLCH7gTgRB2SrUMPAokkHDqmiKj8Q\&usp=drive_fs)
 
 ## Slides
 
@@ -12,12 +12,12 @@
 
 ## Assignment
 
-[Citation chaining and discovery engine](https://docs.google.com/document/d/1XtyA14W9timoYDiN_d3D3CpaD3JJexRr?rtpof=true\&usp=drive_fs)
+* [Citation chaining and discovery engine](https://docs.google.com/document/d/1XtyA14W9timoYDiN_d3D3CpaD3JJexRr?rtpof=true\&usp=drive_fs)
 
 ## Lecture video
 
-{% embed url="https://drive.google.com/file/d/1L_Piowd_pRBmQFt0hf-8Iw2lM0H4mgCu/view?usp=drive_link" %}
+{% embed url="https://drive.google.com/file/d/1L_Piowd_pRBmQFt0hf-8Iw2lM0H4mgCu/view?usp=drive_link" fullWidth="false" %}
 
 ## Lecture reflection
 
-[Lecture reflection template](https://docs.google.com/document/d/11f7IfNc7OdaGpo-jVb9G12DFhd59tPVz?rtpof=true\&usp=drive_fs)
+* [Lecture reflection template](https://docs.google.com/document/d/11f7IfNc7OdaGpo-jVb9G12DFhd59tPVz?rtpof=true\&usp=drive_fs)

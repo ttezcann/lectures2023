@@ -2,7 +2,7 @@
 
 ## Reading
 
-[Fink, Arlene. 2017. “The Survey Form: Questions, Scales, and Appearance.” Pp. 35–66 in How to conduct surveys: A step-by-step guide. Los Angeles: Sage.](https://drive.google.com/file/d/1vaOXzMw4dzGbw0_el9kW3Z59GW0rw-RC/view?usp=sharing)
+* [Fink, Arlene. 2017. “The Survey Form: Questions, Scales, and Appearance.” Pp. 35–66 in How to conduct surveys: A step-by-step guide. Los Angeles: Sage.](https://drive.google.com/file/d/1vaOXzMw4dzGbw0_el9kW3Z59GW0rw-RC/view?usp=sharing)
 
 ## Slides
 
@@ -12,7 +12,7 @@
 
 ## Assignment
 
-[Crafting questions](https://docs.google.com/document/d/1YmvUtPBtZB2GO9uz6OrbmSgBk7MCHs1f/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
+* [Crafting questions](https://docs.google.com/document/d/1YmvUtPBtZB2GO9uz6OrbmSgBk7MCHs1f/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
 
 ## Video
 
@@ -20,4 +20,4 @@
 
 ## Lecture reflection
 
-[Lecture reflection template](https://docs.google.com/document/d/1Q1AQ2izEQp_hO2hbJB6M8MKnzc8UvrGw?rtpof=true\&usp=drive_fs)
+* [Lecture reflection template](https://docs.google.com/document/d/1Q1AQ2izEQp_hO2hbJB6M8MKnzc8UvrGw?rtpof=true\&usp=drive_fs)
