@@ -2,7 +2,7 @@
 
 ## Reading
 
-[Bernardi, Fabrizio, Juan Gonzalez, and Miguel Requena. 2007. “The Sociology of Social Structure.” Pp. 161–70 in The 21st century sociology: A reference handbook, edited by C. D. Bryant and D. L. Peck. Thousand Oaks: Sage.](https://drive.google.com/file/d/1x5wUeTnqq37xGK9e7iSRsJkpLJbVQJyO/view?usp=sharing)
+* [Bernardi, Fabrizio, Juan Gonzalez, and Miguel Requena. 2007. “The Sociology of Social Structure.” Pp. 161–70 in The 21st century sociology: A reference handbook, edited by C. D. Bryant and D. L. Peck. Thousand Oaks: Sage.](https://drive.google.com/file/d/1x5wUeTnqq37xGK9e7iSRsJkpLJbVQJyO/view?usp=sharing)
 
 ## Slides
 
@@ -12,7 +12,7 @@
 
 ## Assignment
 
-[Social institutions](https://docs.google.com/document/d/1ftxUIcuudNM09ZkWyoQezJLDPlaIVQvd?rtpof=true\&usp=drive_fs)
+* [Social institutions](https://docs.google.com/document/d/1ftxUIcuudNM09ZkWyoQezJLDPlaIVQvd?rtpof=true\&usp=drive_fs)
 
 ## Video
 
@@ -20,4 +20,4 @@
 
 ## Lecture reflection
 
-[Lecture reflection template](https://docs.google.com/document/d/1-PRA6bDBkX22e316lCp3D0bCUpBqBBQy?rtpof=true\&usp=drive_fs)
+* [Lecture reflection template](https://docs.google.com/document/d/1-PRA6bDBkX22e316lCp3D0bCUpBqBBQy?rtpof=true\&usp=drive_fs)

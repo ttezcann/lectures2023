@@ -2,7 +2,7 @@
 
 ## Reading
 
-[Best, Joel. 2021. “Everyday Arguments.” Pp. 14–27 in Is That True?: Critical Thinking for Sociologists. Oakland: University of California Press.](https://drive.google.com/file/d/1jQoA4m5zSGFFS_ZzUJ5vhyBG-3Zs9ccv/view?usp=sharing)
+* [Best, Joel. 2021. “Everyday Arguments.” Pp. 14–27 in Is That True?: Critical Thinking for Sociologists. Oakland: University of California Press.](https://drive.google.com/file/d/1jQoA4m5zSGFFS_ZzUJ5vhyBG-3Zs9ccv/view?usp=sharing)
 
 ## Slides
 
@@ -12,7 +12,7 @@
 
 ## Assignment
 
-[Making everyday arguments](https://docs.google.com/document/d/1gYYWA0FBR52bESr8_9n2SXGoeyeax-OT?rtpof=true\&usp=drive_fs)
+* [Making everyday arguments](https://docs.google.com/document/d/1gYYWA0FBR52bESr8_9n2SXGoeyeax-OT?rtpof=true\&usp=drive_fs)
 
 ## Video
 
@@ -20,4 +20,4 @@
 
 ## Lecture reflection
 
-[Lecture reflection template](https://docs.google.com/document/d/1-VNY-fUFnWatmwoMJUEcutC5RcdZWKL0?rtpof=true\&usp=drive_fs)
+* [Lecture reflection template](https://docs.google.com/document/d/1-VNY-fUFnWatmwoMJUEcutC5RcdZWKL0?rtpof=true\&usp=drive_fs)

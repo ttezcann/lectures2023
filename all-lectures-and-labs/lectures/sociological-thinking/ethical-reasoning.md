@@ -2,7 +2,7 @@
 
 ## Reading
 
-[Vaughn, Lewis. 2016. “Subjectivism, Relativism, and Emotivism.” Pp. 20–35 in Doing Ethics: Moral Reasoning and Contemporary Issues. New York: W. W. Norton & Company.](https://drive.google.com/file/d/1l6UL6xTtX3vht8dStWvt1K_jQqQxQjf7/view?usp=sharing)
+* [Vaughn, Lewis. 2016. “Subjectivism, Relativism, and Emotivism.” Pp. 20–35 in Doing Ethics: Moral Reasoning and Contemporary Issues. New York: W. W. Norton & Company.](https://drive.google.com/file/d/1l6UL6xTtX3vht8dStWvt1K_jQqQxQjf7/view?usp=sharing)
 
 ## Slides
 
@@ -12,7 +12,7 @@
 
 ## Assignment
 
-[Ethical reasoning: Female Circumcision](https://docs.google.com/document/d/1ijv-UBfn65WTDfeMcssMB5tf9TxZ_h0s?rtpof=true\&usp=drive_fs)
+* [Ethical reasoning: Female circumcision](https://docs.google.com/document/d/1ijv-UBfn65WTDfeMcssMB5tf9TxZ_h0s?rtpof=true\&usp=drive_fs)
 
 ## Video
 
@@ -20,4 +20,4 @@
 
 ## Lecture reflection
 
-[Lecture reflection template](https://docs.google.com/document/d/1-zAij4DG__HhwOxXuf2A7T26g0-lxFaz?rtpof=true\&usp=drive_fs)
+* [Lecture reflection template](https://docs.google.com/document/d/1-zAij4DG__HhwOxXuf2A7T26g0-lxFaz?rtpof=true\&usp=drive_fs)

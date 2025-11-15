@@ -2,7 +2,7 @@
 
 ## Reading
 
-[Manza, Jeff. 2018. “The Sociological Imagination.” Pp. 2–19 in The sociology project. New York: Pearson.](https://drive.google.com/file/d/113WEZbjnuSpN-yI-m96Ofs9_znzwHc7C/view?usp=sharing)
+* [Manza, Jeff. 2018. “The Sociological Imagination.” Pp. 2–19 in The sociology project. New York: Pearson.](https://drive.google.com/file/d/113WEZbjnuSpN-yI-m96Ofs9_znzwHc7C/view?usp=sharing)
 
 ## Slides
 
@@ -12,7 +12,7 @@
 
 ## Assignment
 
-[Participant observation exercise: practicing sociological imagination](https://docs.google.com/document/d/1f0dQ756G824EYOTAV6CPgm8EIO5zK9cJ?rtpof=true\&usp=drive_fs)
+* [Participant observation exercise: practicing sociological imagination](https://docs.google.com/document/d/1f0dQ756G824EYOTAV6CPgm8EIO5zK9cJ?rtpof=true\&usp=drive_fs)
 
 ## Video
 
@@ -20,4 +20,4 @@
 
 ## Lecture reflection
 
-[Lecture reflection template](https://docs.google.com/document/d/1-6o9nt6Xskj-8L7c63x0jJhsOype6sbC?rtpof=true\&usp=drive_fs)
+* [Lecture reflection template](https://docs.google.com/document/d/1-6o9nt6Xskj-8L7c63x0jJhsOype6sbC?rtpof=true\&usp=drive_fs)

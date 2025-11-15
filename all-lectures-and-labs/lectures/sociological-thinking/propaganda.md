@@ -2,7 +2,7 @@
 
 ## Reading
 
-[Jowett, Garth S., and Victoria O’Donnell. 2012. “What Is Propaganda, and How Does It Differ from Persuasion?” Pp. 1–50 in Propaganda & persuasion. Thousand Oaks: Sage.](https://drive.google.com/file/d/1kn3UMFp336FkPNMFk1nk_GM9wD62hoGi/view?usp=sharing)
+* [Jowett, Garth S., and Victoria O’Donnell. 2012. “What Is Propaganda, and How Does It Differ from Persuasion?” Pp. 1–50 in Propaganda & persuasion. Thousand Oaks: Sage.](https://drive.google.com/file/d/1kn3UMFp336FkPNMFk1nk_GM9wD62hoGi/view?usp=sharing)
 
 ## Slides
 
@@ -20,4 +20,4 @@
 
 ## Lecture reflection
 
-[Lecture reflection template](https://docs.google.com/document/d/1-m3zJsLz5JDIqFX9wQSpjHHMDxgHeIV4?rtpof=true\&usp=drive_fs)
+* [Lecture reflection template](https://docs.google.com/document/d/1-m3zJsLz5JDIqFX9wQSpjHHMDxgHeIV4?rtpof=true\&usp=drive_fs)

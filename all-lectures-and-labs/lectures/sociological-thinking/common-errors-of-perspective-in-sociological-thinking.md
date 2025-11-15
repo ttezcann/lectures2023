@@ -2,7 +2,7 @@
 
 ## Reading
 
-[Ruggiero, Vincent Ryan. 2012. “Errors of Perspective.” Pp. 102–11 in Beyond feelings: A guide to critical thinking. New York: McGraw-Hill.](https://drive.google.com/open?id=1lMzxcmr1Fe1_XFoNtg3Y6CBMCvE_mg9J\&usp=drive_fs)
+* [Ruggiero, Vincent Ryan. 2012. “Errors of Perspective.” Pp. 102–11 in Beyond feelings: A guide to critical thinking. New York: McGraw-Hill.](https://drive.google.com/open?id=1lMzxcmr1Fe1_XFoNtg3Y6CBMCvE_mg9J\&usp=drive_fs)
 
 ## Slides
 
@@ -12,7 +12,7 @@
 
 ## Assignment
 
-[A difference of opinion: Organic dog meat](https://docs.google.com/document/d/1hSw0g8rZ5zdvmQfYUBCk8CKmkpn1u9R3?rtpof=true\&usp=drive_fs)
+* [A difference of opinion: Organic dog meat](https://docs.google.com/document/d/1hSw0g8rZ5zdvmQfYUBCk8CKmkpn1u9R3?rtpof=true\&usp=drive_fs)
 
 ## Video
 
@@ -20,4 +20,4 @@
 
 ## Lecture reflection
 
-[Lecture reflection template](https://docs.google.com/document/d/1-awrSyfFT0TuwlqdSUUxkcHW7lDBfdkE?rtpof=true\&usp=drive_fs)
+* [Lecture reflection template](https://docs.google.com/document/d/1-awrSyfFT0TuwlqdSUUxkcHW7lDBfdkE?rtpof=true\&usp=drive_fs)

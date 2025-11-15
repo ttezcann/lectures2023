@@ -2,7 +2,7 @@
 
 ## Reading
 
-[Moon, Jennifer. 2007. “Critical Thinking as an Elusive Concept: What Critical Thinking Might Be.” Pp. 19–34 in Critical thinking as an elusive concept: What critical thinking might be. London: Routledge.](https://drive.google.com/file/d/1oYciKkc7w8wUG0NYETBl8YIcGXgOlWL6/view?usp=sharing)
+* [Moon, Jennifer. 2007. “Critical Thinking as an Elusive Concept: What Critical Thinking Might Be.” Pp. 19–34 in Critical thinking as an elusive concept: What critical thinking might be. London: Routledge.](https://drive.google.com/file/d/1oYciKkc7w8wUG0NYETBl8YIcGXgOlWL6/view?usp=sharing)
 
 ## Slides
 
@@ -12,7 +12,7 @@
 
 ## Assignment
 
-[Critical thinking scale](https://docs.google.com/document/d/1gKYJXefXZ_e43sRbACFgyeZBZCzfzdJs?rtpof=true\&usp=drive_fs)
+* [Critical thinking scale](https://docs.google.com/document/d/1gKYJXefXZ_e43sRbACFgyeZBZCzfzdJs?rtpof=true\&usp=drive_fs)
 
 ## Video
 
@@ -20,4 +20,4 @@
 
 ## Lecture reflection
 
-[Lecture reflection template](https://docs.google.com/document/d/1-QvgphnFSDIcU5mtJgi4l1TDoXzuB0nT?rtpof=true\&usp=drive_fs)
+* [Lecture reflection template](https://docs.google.com/document/d/1-QvgphnFSDIcU5mtJgi4l1TDoXzuB0nT?rtpof=true\&usp=drive_fs)

@@ -2,7 +2,7 @@
 
 ## Reading
 
-[Bergmann, Eirikur. 2018. “The Anatomy of Conspiracy Theories.” Pp. 47–69 in Conspiracy & populism: The politics of misinformation. New York, NY: Springer Berlin Heidelberg.](https://drive.google.com/file/d/1lnusLng25m07YMkR4_3H_hAzyCX9REJ7/view?usp=sharing)
+* [Bergmann, Eirikur. 2018. “The Anatomy of Conspiracy Theories.” Pp. 47–69 in Conspiracy & populism: The politics of misinformation. New York, NY: Springer Berlin Heidelberg.](https://drive.google.com/file/d/1lnusLng25m07YMkR4_3H_hAzyCX9REJ7/view?usp=sharing)
 
 ## Slides
 
@@ -12,7 +12,7 @@
 
 ## Assignment
 
-[Conspiracy theories on Reddit](https://docs.google.com/document/d/1iOL8WSqtVsuHbBBBklrRy8plGxAL-DWT?rtpof=true\&usp=drive_fs)
+* [Conspiracy theories on Reddit](https://docs.google.com/document/d/1iOL8WSqtVsuHbBBBklrRy8plGxAL-DWT?rtpof=true\&usp=drive_fs)
 
 ## Video
 
@@ -20,4 +20,4 @@
 
 ## Lecture reflection
 
-[Lecture reflection template](https://docs.google.com/document/d/1-tfBXSU4hoQOZXRZB40VsCPGh9tZhOZi?rtpof=true\&usp=drive_fs)
+* [Lecture reflection template](https://docs.google.com/document/d/1-tfBXSU4hoQOZXRZB40VsCPGh9tZhOZi?rtpof=true\&usp=drive_fs)

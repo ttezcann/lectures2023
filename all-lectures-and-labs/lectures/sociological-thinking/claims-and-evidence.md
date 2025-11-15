@@ -2,7 +2,7 @@
 
 ## Reading
 
-[Gambrill, Eileen D. 2019. “Evidence: Sources, Uses, and Controversies.” Pp. 48–84 in Critical thinking and the process of evidence-based practice. Oxford: Oxford University Press.](https://drive.google.com/file/d/1oauGpJc9Kb-3PyjwwGWziSQmHa4ahnC1/view?usp=sharing)
+* [Gambrill, Eileen D. 2019. “Evidence: Sources, Uses, and Controversies.” Pp. 48–84 in Critical thinking and the process of evidence-based practice. Oxford: Oxford University Press.](https://drive.google.com/file/d/1oauGpJc9Kb-3PyjwwGWziSQmHa4ahnC1/view?usp=sharing)
 
 ## Slides
 
@@ -12,7 +12,7 @@
 
 ## Assignment
 
-[Reviewing an argument and evidence](https://docs.google.com/document/d/1gP76tSYnHziYD7qlzJWissU_LGcON0mC?rtpof=true\&usp=drive_fs)
+* [Reviewing an argument and evidence](https://docs.google.com/document/d/1gP76tSYnHziYD7qlzJWissU_LGcON0mC?rtpof=true\&usp=drive_fs)
 
 ## Video
 
@@ -20,4 +20,4 @@
 
 ## Lecture reflection
 
-[Lecture reflection template](https://docs.google.com/document/d/1-T4kf59vOyxzGQTJvK_xr1ILGLw8Q6Wr?rtpof=true\&usp=drive_fs)
+* [Lecture reflection template](https://docs.google.com/document/d/1-T4kf59vOyxzGQTJvK_xr1ILGLw8Q6Wr?rtpof=true\&usp=drive_fs)

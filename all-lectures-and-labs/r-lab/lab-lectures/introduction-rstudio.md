@@ -2,11 +2,11 @@
 
 ## Reading
 
-[Verzani, John. 2012. “Overview, Installation.” Pp. 1–11 in Getting started with RStudio. Sebastopol: O’Reilly.](https://drive.google.com/open?id=1-Re7ytjjVGaHEoUD0Fst2c6GAsA0YCGf\&usp=drive_fs)
+* [Verzani, John. 2012. “Overview, Installation.” Pp. 1–11 in Getting started with RStudio. Sebastopol: O’Reilly.](https://drive.google.com/open?id=1-Re7ytjjVGaHEoUD0Fst2c6GAsA0YCGf\&usp=drive_fs)
 
 ## R Script file
 
-[script\_intro.R](https://drive.google.com/open?id=1q-dd3TMfDi7mLMkr-UcdmAYhi71y0r5A\&usp=drive_fs)
+* [script\_intro.R](https://drive.google.com/open?id=1q-dd3TMfDi7mLMkr-UcdmAYhi71y0r5A\&usp=drive_fs)
 
 ## Slides
 
@@ -16,7 +16,7 @@
 
 ## Lab assignment
 
-[RStudio lab assignment: generating a table](https://docs.google.com/document/d/1ZBeemUHH2-tHewdXjoVfmKGRi_iabTfL/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
+* [RStudio lab assignment: generating a table](https://docs.google.com/document/d/1ZBeemUHH2-tHewdXjoVfmKGRi_iabTfL/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
 
 ## Lecture video
 
@@ -28,4 +28,4 @@
 
 ## Lecture reflection
 
-[Lecture reflection template](https://docs.google.com/document/d/1Zg8dsSZ1tFlAERf1FT_KthhHSayO0_Ef?rtpof=true\&usp=drive_fs)
+* [Lecture reflection template](https://docs.google.com/document/d/1Zg8dsSZ1tFlAERf1FT_KthhHSayO0_Ef?rtpof=true\&usp=drive_fs)

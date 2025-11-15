@@ -2,7 +2,7 @@
 
 ## Reading
 
-[Gilbert, Margaret. 1994. “Durkheim and Social Facts.” Pp. 86–109 in Debating Durkheim, edited by W. S. F. Pickering and H. Martins. New York: Routledge.](https://drive.google.com/file/d/1oRpsjB3IMHQrBahwlkxt5_FOLVH-aNGV/view?usp=sharing)
+* [Gilbert, Margaret. 1994. “Durkheim and Social Facts.” Pp. 86–109 in Debating Durkheim, edited by W. S. F. Pickering and H. Martins. New York: Routledge.](https://drive.google.com/file/d/1oRpsjB3IMHQrBahwlkxt5_FOLVH-aNGV/view?usp=sharing)
 
 ## Slides
 
@@ -12,14 +12,12 @@
 
 ## Assignment
 
-[Operationalization of a social fact](https://docs.google.com/document/d/1foU7RgQnoxQ3N8HCaEyLUNJCxZNXd2Tz?rtpof=true\&usp=drive_fs)
+* [Operationalization of a social fact](https://docs.google.com/document/d/1foU7RgQnoxQ3N8HCaEyLUNJCxZNXd2Tz?rtpof=true\&usp=drive_fs)
 
 ## Lecture video
 
 {% embed url="https://drive.google.com/file/d/1eXFoc0XQvkwsV5lSyE1sZd9nsBSPvb64/view?usp=drive_link" %}
 
-
-
 ## Lecture reflection
 
-[Lecture reflection template](https://docs.google.com/document/d/1-N-FhY9ZblIuhyLRbkAycaVtDDBpGSYQ?rtpof=true\&usp=drive_fs)
+* [Lecture reflection template](https://docs.google.com/document/d/1-N-FhY9ZblIuhyLRbkAycaVtDDBpGSYQ?rtpof=true\&usp=drive_fs)

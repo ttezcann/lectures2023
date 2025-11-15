@@ -2,7 +2,7 @@
 
 ## Reading
 
-[Jensen, Gary F. 2007. “The Sociology of Deviance.” Pp. 370–79 in The 21st century sociology: A reference handbook, edited by C. D. Bryant and D. L. Peck. Thousand Oaks: Sage.](https://drive.google.com/file/d/1sJKrNVlT48RaGACqQWotZ-qdaj5j-I3p/view?usp=sharing)
+* [Jensen, Gary F. 2007. “The Sociology of Deviance.” Pp. 370–79 in The 21st century sociology: A reference handbook, edited by C. D. Bryant and D. L. Peck. Thousand Oaks: Sage.](https://drive.google.com/file/d/1sJKrNVlT48RaGACqQWotZ-qdaj5j-I3p/view?usp=sharing)
 
 ## Slides
 
@@ -12,7 +12,7 @@
 
 ## Assignment
 
-[Breaking the norm](https://docs.google.com/document/d/1jFcIf89mfeGHYQEIf7_t2NLK8wHrV_HK?rtpof=true\&usp=drive_fs)
+* [Breaking the norm](https://docs.google.com/document/d/1jFcIf89mfeGHYQEIf7_t2NLK8wHrV_HK?rtpof=true\&usp=drive_fs)
 
 ## Video
 
@@ -20,4 +20,4 @@
 
 ## Lecture reflection
 
-[Lecture reflection template](https://docs.google.com/document/d/1y4XrCQN3cU5U50nWYyKC2KljiwmTazFM?rtpof=true\&usp=drive_fs)
+* [Lecture reflection template](https://docs.google.com/document/d/1y4XrCQN3cU5U50nWYyKC2KljiwmTazFM?rtpof=true\&usp=drive_fs)

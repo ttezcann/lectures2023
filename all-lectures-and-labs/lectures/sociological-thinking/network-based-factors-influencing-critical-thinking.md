@@ -2,7 +2,7 @@
 
 ## Reading
 
-[Dahlgren, Peter M. 2021. “A Critical Review of Filter Bubbles and a Comparison with Selective Exposure.” Nordicom Review 42(1):15–33. doi:10.2478/nor-2021-0002](https://drive.google.com/file/d/1ipfYxxTL8HGwqA7UJV_EMHAgXeaH95kZ/view?usp=sharing)
+* [Dahlgren, Peter M. 2021. “A Critical Review of Filter Bubbles and a Comparison with Selective Exposure.” Nordicom Review 42(1):15–33. doi:10.2478/nor-2021-0002.](https://drive.google.com/file/d/1ipfYxxTL8HGwqA7UJV_EMHAgXeaH95kZ/view?usp=sharing)
 
 ## Slides
 
@@ -12,7 +12,7 @@
 
 ## Assignment
 
-[Analyzing a news article](https://docs.google.com/document/d/1hHRgxQyEjIL7cpPoUUSbDote8Do8o3Vx?rtpof=true\&usp=drive_fs)
+* [Analyzing a news article](https://docs.google.com/document/d/1hHRgxQyEjIL7cpPoUUSbDote8Do8o3Vx?rtpof=true\&usp=drive_fs)
 
 ## Video
 
@@ -20,4 +20,4 @@
 
 ## Lecture reflection
 
-[Lecture reflection template](https://docs.google.com/document/d/1-gngN1HjxZelhUKk8-o4ldTUCJj9xnI_?rtpof=true\&usp=drive_fs)
+* [Lecture reflection template](https://docs.google.com/document/d/1-gngN1HjxZelhUKk8-o4ldTUCJj9xnI_?rtpof=true\&usp=drive_fs)
