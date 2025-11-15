@@ -2,7 +2,7 @@
 
 ## Reading
 
-* [Waters, Mary C., and Tomás R. Jiménez. 2005. “Assessing Immigrant Assimilation: New Empirical and Theoretical Challenges.” Annual Review of Sociology 31(1):105–25. doi:10.1146/annurev.soc.29.010202.100026.](https://drive.google.com/file/d/1jVOvbYzPrcRM1RwGfj9DOzDQzpY5B7qB/view?usp=sharing)
+[Waters, Mary C., and Tomás R. Jiménez. 2005. “Assessing Immigrant Assimilation: New Empirical and Theoretical Challenges.” Annual Review of Sociology 31(1):105–25. doi:10.1146/annurev.soc.29.010202.100026.](https://drive.google.com/file/d/1jVOvbYzPrcRM1RwGfj9DOzDQzpY5B7qB/view?usp=sharing)
 
 ## Slides
 
