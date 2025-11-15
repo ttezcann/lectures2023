@@ -2,7 +2,7 @@
 
 ## Reading
 
-[Tucker, Barbara, Kristin Barton, Amy Burger, Jerry Drye, and Cathy Hunsicker. 2019. “Informative Speaking.” Pp. 238–55 in Exploring Public Speaking: 4th Edition. Communication Open Textbooks.](https://drive.google.com/file/d/1BFXJZAcD3IWdc1ZIQBBtPIfJX3H6s8tn/view?usp=sharing)
+* [Tucker, Barbara, Kristin Barton, Amy Burger, Jerry Drye, and Cathy Hunsicker. 2019. “Informative Speaking.” Pp. 238–55 in Exploring Public Speaking: 4th Edition. Communication Open Textbooks.](https://drive.google.com/file/d/1BFXJZAcD3IWdc1ZIQBBtPIfJX3H6s8tn/view?usp=sharing)
 
 ## Slides
 
@@ -12,7 +12,7 @@
 
 ## Assignment
 
-[Presentation design (draft)](https://docs.google.com/document/d/1fTmvtKzNBjnGroSJUs1yHdVethGdufyw/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
+* [Presentation design (draft)](https://docs.google.com/document/d/1fTmvtKzNBjnGroSJUs1yHdVethGdufyw/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
 
 ## Video
 
@@ -20,4 +20,4 @@
 
 ## Lecture reflection
 
-[Lecture reflection template](https://docs.google.com/document/d/11uAiomNGC6554iB8lcOOOwid2WjAIGBZ?rtpof=true\&usp=drive_fs)
+* [Lecture reflection template](https://docs.google.com/document/d/11uAiomNGC6554iB8lcOOOwid2WjAIGBZ?rtpof=true\&usp=drive_fs)

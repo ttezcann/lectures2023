@@ -2,7 +2,7 @@
 
 ## Reading
 
-[Mayr, Philipp, and Katrin Weller. 2016. “Think before You Collect: Setting up a Data Collection Approach for Social Media Studies.” Pp. 107–24 in The SAGE Handbook of Social Media Research Methods. London: Sage.](https://drive.google.com/open?id=1uiu0U3fERAG-Xr8K8-J2kFO0M4cB1RDm\&usp=drive_fs)
+* [Mayr, Philipp, and Katrin Weller. 2016. “Think before You Collect: Setting up a Data Collection Approach for Social Media Studies.” Pp. 107–24 in The SAGE Handbook of Social Media Research Methods. London: Sage.](https://drive.google.com/open?id=1uiu0U3fERAG-Xr8K8-J2kFO0M4cB1RDm\&usp=drive_fs)
 
 ## Slides
 
@@ -12,7 +12,7 @@
 
 ## Assignment
 
-[Basic content analysis](https://docs.google.com/document/d/1_Yt5gDLPdLpD0_57ONZgcLb5jmQzveF1?rtpof=true\&usp=drive_fs)
+* [Basic content analysis](https://docs.google.com/document/d/1_Yt5gDLPdLpD0_57ONZgcLb5jmQzveF1?rtpof=true\&usp=drive_fs)
 
 ## Video
 
@@ -20,4 +20,4 @@
 
 ## Lecture reflection
 
-[Lecture reflection template](https://docs.google.com/document/d/11j_t_l0f1ktn_PK8-VDIaxjf369ik49s?rtpof=true\&usp=drive_fs)
+* [Lecture reflection template](https://docs.google.com/document/d/11j_t_l0f1ktn_PK8-VDIaxjf369ik49s?rtpof=true\&usp=drive_fs)

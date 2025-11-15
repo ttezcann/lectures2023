@@ -2,7 +2,7 @@
 
 ## Reading
 
-[Ousey, Graham C., and Charis E. Kubrin. 2018. “Immigration and Crime: Assessing a Contentious Issue.” Annual Review of Criminology 1:63–84. doi:10.1146/annurev-criminol-032317-092026.](https://drive.google.com/file/d/1nACPt4hdR3DQJ7doWF4RtSYwUupqWVK2/view?usp=sharing)
+* [Ousey, Graham C., and Charis E. Kubrin. 2018. “Immigration and Crime: Assessing a Contentious Issue.” Annual Review of Criminology 1:63–84. doi:10.1146/annurev-criminol-032317-092026.](https://drive.google.com/file/d/1nACPt4hdR3DQJ7doWF4RtSYwUupqWVK2/view?usp=sharing)
 
 ## Slides
 
@@ -12,7 +12,7 @@
 
 ## Assignment
 
-[Immigration and crime exercise](https://docs.google.com/document/d/1e9rog1nHUaAx8vxs89fM59wDhiaGi5lw?rtpof=true\&usp=drive_fs)
+* [Immigration and crime exercise](https://docs.google.com/document/d/1e9rog1nHUaAx8vxs89fM59wDhiaGi5lw?rtpof=true\&usp=drive_fs)
 
 ## Video
 
@@ -20,4 +20,4 @@
 
 ## Lecture reflection
 
-[Lecture reflection template](https://docs.google.com/document/d/11P8wBhUKRmnrMUtwPAWEaiqKQQwggApF?rtpof=true\&usp=drive_fs)
+* [Lecture reflection template](https://docs.google.com/document/d/11P8wBhUKRmnrMUtwPAWEaiqKQQwggApF?rtpof=true\&usp=drive_fs)

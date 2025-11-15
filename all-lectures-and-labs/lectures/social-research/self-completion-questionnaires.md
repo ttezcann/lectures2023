@@ -2,7 +2,7 @@
 
 ## Reading
 
-[Czaja, Ronald, and Johnny Blair. 2006. “Selecting the Method of Data Collection.” Pp. 33–58 in Designing surveys: A guide to decisions and procedures. Thousand Oaks: Pine Forge Press.](https://drive.google.com/file/d/1O1q1s-oPDDUWuZcu6F_dbL_kcCG22gkq/view?usp=sharing)
+* [Czaja, Ronald, and Johnny Blair. 2006. “Selecting the Method of Data Collection.” Pp. 33–58 in Designing surveys: A guide to decisions and procedures. Thousand Oaks: Pine Forge Press.](https://drive.google.com/file/d/1O1q1s-oPDDUWuZcu6F_dbL_kcCG22gkq/view?usp=sharing)
 
 ## Slides
 
@@ -12,7 +12,7 @@
 
 ## Assignment
 
-* [Instructions](https://docs.google.com/document/d/1ZcPxNfYU9xirNoAyqRw5-vbK-IdAc4_h/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
+* [Face-to-face surveying](https://docs.google.com/document/d/1ZcPxNfYU9xirNoAyqRw5-vbK-IdAc4_h/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
 
 ## Video
 
@@ -20,4 +20,4 @@
 
 ## Lecture reflection
 
-[Lecture reflection template](https://docs.google.com/document/d/1pGQ9FeaaKb3J3xlomPMuqVuRvIJ5GnIJ?rtpof=true\&usp=drive_fs)
+* [Lecture reflection template](https://docs.google.com/document/d/1pGQ9FeaaKb3J3xlomPMuqVuRvIJ5GnIJ?rtpof=true\&usp=drive_fs)

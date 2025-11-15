@@ -2,7 +2,7 @@
 
 ## Reading
 
-[Garip, Filiz, and Asad L. Asad. 2015. “Migrant Networks.” Pp. 1–13 in Emerging Trends in the Social and Behavioral Sciences, edited by R. A. Scott and S. M. Kosslyn. Wiley.](https://drive.google.com/file/d/1bAs3wMjrlrGLKYMN3y0Zz02aqnwZDfLS/view?usp=sharing)
+* [Garip, Filiz, and Asad L. Asad. 2015. “Migrant Networks.” Pp. 1–13 in Emerging Trends in the Social and Behavioral Sciences, edited by R. A. Scott and S. M. Kosslyn. Wiley.](https://drive.google.com/file/d/1bAs3wMjrlrGLKYMN3y0Zz02aqnwZDfLS/view?usp=sharing)
 
 ## Slides
 
@@ -12,7 +12,7 @@
 
 ## Assignment
 
-[Hometown organizations](https://docs.google.com/document/d/1dALyeoH16VFn8B2jTGtjarw2t9DJZGxE?rtpof=true\&usp=drive_fs)
+* [Hometown organizations](https://docs.google.com/document/d/1dALyeoH16VFn8B2jTGtjarw2t9DJZGxE?rtpof=true\&usp=drive_fs)
 
 ## Video
 
@@ -20,4 +20,4 @@
 
 ## Lecture reflection
 
-[Lecture reflection template](https://docs.google.com/document/d/11GX8aVgY6o21tIILoXPAfnt2N30FERv0?rtpof=true\&usp=drive_fs)
+* [Lecture reflection template](https://docs.google.com/document/d/11GX8aVgY6o21tIILoXPAfnt2N30FERv0?rtpof=true\&usp=drive_fs)

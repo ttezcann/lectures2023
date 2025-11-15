@@ -2,7 +2,7 @@
 
 ## Reading
 
-[Menjívar, Cecilia. 2014. “Immigration Law beyond Borders: Externalizing and Internalizing Border Controls in an Era of Securitization.” Annual Review of Law and Social Science 10(1):353–69. doi:10.1146/annurev-lawsocsci-110413-030842.](https://drive.google.com/file/d/1nY9K_N-dB-2d76kywootZbWXzpTubArH/view?usp=sharing)
+* [Menjívar, Cecilia. 2014. “Immigration Law beyond Borders: Externalizing and Internalizing Border Controls in an Era of Securitization.” Annual Review of Law and Social Science 10(1):353–69. doi:10.1146/annurev-lawsocsci-110413-030842.](https://drive.google.com/file/d/1nY9K_N-dB-2d76kywootZbWXzpTubArH/view?usp=sharing)
 
 ## Slides
 
@@ -12,7 +12,7 @@
 
 ## Assignment
 
-[Google Street Activity: Comparison of border cities](https://docs.google.com/document/d/1Vk7t-f_MsXxUIiKsDxEkgXFaW1Pu5QTN/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
+* [Google Street Activity: Comparison of border cities](https://docs.google.com/document/d/1Vk7t-f_MsXxUIiKsDxEkgXFaW1Pu5QTN/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
 
 ## Video
 
@@ -20,4 +20,4 @@
 
 ## Lecture reflection
 
-[Lecture reflection template](https://docs.google.com/document/d/11xhoANlh2eXu-C8ecWJeKiTAHEYTiqyX?rtpof=true\&usp=drive_fs)
+* [Lecture reflection template](https://docs.google.com/document/d/11xhoANlh2eXu-C8ecWJeKiTAHEYTiqyX?rtpof=true\&usp=drive_fs)

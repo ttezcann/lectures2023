@@ -2,7 +2,7 @@
 
 ## Reading
 
-[Lindstrom, David P., and Adriana López Ramírez. 2010. “Pioneers and Followers: Migrant Selectivity and the Development of U.S. Migration Streams in Latin America.” Annals of the American Academy of Political and Social Science 630(1):53–77. doi:10.1177/0002716210368103.](https://drive.google.com/open?id=17f4DAVtRqmLYMZ93ywNWwsFBofPMJgdW\&usp=drive_fs)
+* [Lindstrom, David P., and Adriana López Ramírez. 2010. “Pioneers and Followers: Migrant Selectivity and the Development of U.S. Migration Streams in Latin America.” Annals of the American Academy of Political and Social Science 630(1):53–77. doi:10.1177/0002716210368103.](https://drive.google.com/open?id=17f4DAVtRqmLYMZ93ywNWwsFBofPMJgdW\&usp=drive_fs)
 
 ## Slides
 
@@ -12,7 +12,7 @@
 
 ## Assignment
 
-[Migration decision making process](https://docs.google.com/document/d/1bd3HpruqUFCgsDqxL7tsOItRUTlv_3iP?rtpof=true\&usp=drive_fs)
+* [Migration decision making process](https://docs.google.com/document/d/1bd3HpruqUFCgsDqxL7tsOItRUTlv_3iP?rtpof=true\&usp=drive_fs)
 
 ## Video
 
@@ -22,4 +22,4 @@
 
 ## Lecture reflection
 
-[Lecture reflection template](https://docs.google.com/document/d/10-a97eE1PQq32981H9iWrnpb_nEGooVy?rtpof=true\&usp=drive_fs)
+* [Lecture reflection template](https://docs.google.com/document/d/10-a97eE1PQq32981H9iWrnpb_nEGooVy?rtpof=true\&usp=drive_fs)

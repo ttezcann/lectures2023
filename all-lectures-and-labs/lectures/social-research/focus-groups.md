@@ -2,7 +2,7 @@
 
 ## Reading
 
-[Lune, Howard, and Bruce L. Berg. 2017. “Focus Group Interviewing.” Pp. 94–106 in Qualitative research methods for the social sciences. Harlow: Pearson.](https://drive.google.com/open?id=1IbIBv-Z_gS98ZBrnBF2OIWn8gyHBLVmY\&usp=drive_fs)
+* [Lune, Howard, and Bruce L. Berg. 2017. “Focus Group Interviewing.” Pp. 94–106 in Qualitative research methods for the social sciences. Harlow: Pearson.](https://drive.google.com/open?id=1IbIBv-Z_gS98ZBrnBF2OIWn8gyHBLVmY\&usp=drive_fs)
 
 ## Slides
 
@@ -12,7 +12,7 @@
 
 ## Assignment
 
-[Focus group interview](https://docs.google.com/document/d/1VDKcJgV7qUDvVKiYwH_NnvYuf4Lu9qVo/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
+* [Focus group interview](https://docs.google.com/document/d/1VDKcJgV7qUDvVKiYwH_NnvYuf4Lu9qVo/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
 
 ## Video
 
@@ -20,4 +20,4 @@
 
 ## Lecture reflection
 
-[Lecture reflection template](https://docs.google.com/document/d/1qEyF-MZ482JtGnsEYaRyHsLLdaBS9tQI?rtpof=true\&usp=drive_fs)
+* [Lecture reflection template](https://docs.google.com/document/d/1qEyF-MZ482JtGnsEYaRyHsLLdaBS9tQI?rtpof=true\&usp=drive_fs)

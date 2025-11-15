@@ -2,7 +2,7 @@
 
 ## Reading
 
-[Shinnar, Rachel S. 2008. “Coping with Negative Social Identity: The Case of Mexican Immigrants.” _The Journal of Social Psychology_ 148(5):553–75. doi:10.3200/SOCP.148.5.553-576.](https://drive.google.com/file/d/1DW-ZE2nhPIEB4sVPSvJHh8CgZ4G8aiX7/view?usp=sharing)
+* [Shinnar, Rachel S. 2008. “Coping with Negative Social Identity: The Case of Mexican Immigrants.” _The Journal of Social Psychology_ 148(5):553–75. doi:10.3200/SOCP.148.5.553-576.](https://drive.google.com/file/d/1DW-ZE2nhPIEB4sVPSvJHh8CgZ4G8aiX7/view?usp=sharing)
 
 ## Slides
 
@@ -12,7 +12,7 @@
 
 ## Assignment
 
-[Social identity interview questions](https://docs.google.com/document/d/1d8WSRPcJ4jmiZo6MVi7WMOMiXF-X_1uC?rtpof=true\&usp=drive_fs)
+* [Social identity interview questions](https://docs.google.com/document/d/1d8WSRPcJ4jmiZo6MVi7WMOMiXF-X_1uC?rtpof=true\&usp=drive_fs)
 
 ## Video
 
@@ -20,4 +20,4 @@
 
 ## Lecture reflection
 
-[Lecture reflection template](https://docs.google.com/document/d/11CxZEPCwYDv2BDDogLdPPtMnqBnxM8nF?rtpof=true\&usp=drive_fs)
+* [Lecture reflection template](https://docs.google.com/document/d/11CxZEPCwYDv2BDDogLdPPtMnqBnxM8nF?rtpof=true\&usp=drive_fs)

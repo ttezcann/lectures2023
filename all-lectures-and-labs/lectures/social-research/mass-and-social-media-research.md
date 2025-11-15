@@ -2,7 +2,7 @@
 
 ## Reading
 
-[Hodgetts, Darrin, and Kerry Chamberlain. 2014. “Analysing News Media.” Pp. 380–93 in The SAGE Handbook of Qualitative Data Analysis, edited by U. Flick. London: Sage.](https://drive.google.com/file/d/12ZZ_Fsn1P3C54tCosE7g9mL_IQ6ojDnD/view?usp=sharing)
+* [Hodgetts, Darrin, and Kerry Chamberlain. 2014. “Analysing News Media.” Pp. 380–93 in The SAGE Handbook of Qualitative Data Analysis, edited by U. Flick. London: Sage.](https://drive.google.com/file/d/12ZZ_Fsn1P3C54tCosE7g9mL_IQ6ojDnD/view?usp=sharing)
 
 ## Slides
 
@@ -12,7 +12,7 @@
 
 ## Assignment
 
-[Reviewing mass and social media](https://docs.google.com/document/d/1ZwD4m711ImwWHfthBUANCRkcPEFOYQxr?rtpof=true\&usp=drive_fs)
+* [Reviewing mass and social media](https://docs.google.com/document/d/1ZwD4m711ImwWHfthBUANCRkcPEFOYQxr?rtpof=true\&usp=drive_fs)
 
 ## Video
 
@@ -20,4 +20,4 @@
 
 ## Lecture reflection
 
-[Lecture reflection template](https://docs.google.com/document/d/11h0Eru1_F3fmqWS9LzsJeDltRHphTJcK?rtpof=true\&usp=drive_fs)
+* [Lecture reflection template](https://docs.google.com/document/d/11h0Eru1_F3fmqWS9LzsJeDltRHphTJcK?rtpof=true\&usp=drive_fs)

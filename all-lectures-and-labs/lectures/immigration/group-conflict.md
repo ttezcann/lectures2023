@@ -2,7 +2,7 @@
 
 ## Reading
 
-[Quillian, Lincoln. 1995. “Prejudice as a Response to Perceived Group Threat: Population Composition and Anti-Immigrant and Racial Prejudice in Europe.” _American Sociological Review_ 60(4):586–611. doi:10.2307/2096296.](https://drive.google.com/open?id=1orUvivQWyitiHLZfzThSTD3sGkmloxod\&usp=drive_fs)
+* [Quillian, Lincoln. 1995. “Prejudice as a Response to Perceived Group Threat: Population Composition and Anti-Immigrant and Racial Prejudice in Europe.” _American Sociological Review_ 60(4):586–611. doi:10.2307/2096296.](https://drive.google.com/open?id=1orUvivQWyitiHLZfzThSTD3sGkmloxod\&usp=drive_fs)
 
 ## Slides
 
@@ -14,7 +14,7 @@
 
 ## Assignment
 
-[Group threat survey questions](https://docs.google.com/document/d/1cGyHU961NbeHg5TgfCGRdQ4Aywv0ubza?rtpof=true\&usp=drive_fs)
+* [Group threat survey questions](https://docs.google.com/document/d/1cGyHU961NbeHg5TgfCGRdQ4Aywv0ubza?rtpof=true\&usp=drive_fs)
 
 ## Video
 
@@ -22,4 +22,4 @@
 
 ## Lecture reflection
 
-[Lecture reflection template](https://docs.google.com/document/d/10QoZikufcgTzCVqGBBk22ua9fTEq3y_V?rtpof=true\&usp=drive_fs)
+* [Lecture reflection template](https://docs.google.com/document/d/10QoZikufcgTzCVqGBBk22ua9fTEq3y_V?rtpof=true\&usp=drive_fs)

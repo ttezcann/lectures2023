@@ -2,7 +2,7 @@
 
 ## Reading
 
-[De Vaus, D. A. 2014. “Concepts and Indicators.” Pp. 41–54 in Surveys in social research, Social research today. Abingdon, Oxon: Routledge](https://drive.google.com/file/d/1ggDibpICdeFnltrH056aHAIKze7wT4-j/view?usp=sharing)
+* [De Vaus, D. A. 2014. “Concepts and Indicators.” Pp. 41–54 in Surveys in social research, Social research today. Abingdon, Oxon: Routledge.](https://drive.google.com/file/d/1ggDibpICdeFnltrH056aHAIKze7wT4-j/view?usp=sharing)
 
 ## Slides
 
@@ -12,7 +12,7 @@
 
 ## Assignment
 
-[Creating indicators](https://docs.google.com/document/d/1z41qA3e25LsjZ2VKeqWfFEIqG2sa1JLv/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
+* [Creating indicators](https://docs.google.com/document/d/1z41qA3e25LsjZ2VKeqWfFEIqG2sa1JLv/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
 
 ## Video
 
@@ -20,4 +20,4 @@
 
 ## Lecture reflection
 
-[Lecture reflection template](https://docs.google.com/document/d/15fZPEDqDEjJ1nleK47kqQeQqFVAGn2NT?rtpof=true\&usp=drive_fs)
+* [Lecture reflection template](https://docs.google.com/document/d/15fZPEDqDEjJ1nleK47kqQeQqFVAGn2NT?rtpof=true\&usp=drive_fs)

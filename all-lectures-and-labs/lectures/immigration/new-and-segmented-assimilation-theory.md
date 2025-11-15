@@ -2,7 +2,7 @@
 
 ## Reading
 
-[Portes, Alejandro, and Rubén G. Rumbaut. 2001. “Not Everyone Is Chosen: Segmented Assimilation and Its Determinants.” Pp. 44–69 in Legacies: The story of the immigrant second generation. New York: University of California Press.](https://drive.google.com/file/d/1qK6sIWiYsBxktfzg5FKCEXYTBkFNZtqc/view?usp=sharing)
+* [Portes, Alejandro, and Rubén G. Rumbaut. 2001. “Not Everyone Is Chosen: Segmented Assimilation and Its Determinants.” Pp. 44–69 in Legacies: The story of the immigrant second generation. New York: University of California Press.](https://drive.google.com/file/d/1qK6sIWiYsBxktfzg5FKCEXYTBkFNZtqc/view?usp=sharing)
 
 ## Slides
 
@@ -12,7 +12,7 @@
 
 ## Assignment
 
-[Segmented assimilation core arguments](https://docs.google.com/document/d/1byms4Zf0reO2dnw1ZGvfe1prwkWET-8_?rtpof=true\&usp=drive_fs)
+* [Segmented assimilation core arguments](https://docs.google.com/document/d/1byms4Zf0reO2dnw1ZGvfe1prwkWET-8_?rtpof=true\&usp=drive_fs)
 
 ## Video
 
@@ -20,4 +20,4 @@
 
 ## Lecture reflection
 
-[Lecture reflection template](https://docs.google.com/document/d/10GpCZiExJDnodxbe3bwQhMMx4xKXEX9F?rtpof=true\&usp=drive_fs)
+* [Lecture reflection template](https://docs.google.com/document/d/10GpCZiExJDnodxbe3bwQhMMx4xKXEX9F?rtpof=true\&usp=drive_fs)
