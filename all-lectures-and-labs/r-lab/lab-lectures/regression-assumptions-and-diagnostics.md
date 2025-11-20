@@ -20,11 +20,11 @@
 
 ## Video
 
-{% embed url="https://youtu.be/znNKwlpIgi8?si=TVMqbo1TcreL6QZg" %}
+{% embed url="https://drive.google.com/open?id=1Z20eOmkJR59isqnBf-I6IubI1VtQPMNc&usp=drive_fs" %}
 
 ## Sample lab assignment video
 
-For the lab assignment, you will run the exact same codes provided in the script file without making any changes. The lecture video serves as the lab assignment video
+For the lab assignment, you will run the exact same codes provided in the script file without making any changes. The lecture video serves as the lab assignment video.
 
 ## Lecture reflection
 
