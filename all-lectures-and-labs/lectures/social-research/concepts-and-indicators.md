@@ -12,7 +12,7 @@
 
 ## Assignment
 
-* [Creating indicators](https://docs.google.com/document/d/1z41qA3e25LsjZ2VKeqWfFEIqG2sa1JLv/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
+* [Creating indicators](https://docs.google.com/document/d/1f9TGx7B1UtOI1vOk7pEapJN5PdzTxe5U?rtpof=true\&usp=drive_fs)
 
 ## Video
 
