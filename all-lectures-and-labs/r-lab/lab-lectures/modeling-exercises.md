@@ -18,7 +18,7 @@ Since you’ll use a different dataset, you need to run “Install and load pack
 
 ## Lab assignment
 
-[lab assignment](https://docs.google.com/document/d/1_gqecHP0YBIsCD7kzS_-tjJ0LsV0E3SR/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
+[lab assignment](https://docs.google.com/document/d/1uALOBSFfn52BI02xvgIg7dw0Xe6MJC1J/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
 
 ## Video
 
