@@ -115,4 +115,4 @@ As soon as you are enrolled, email me, and I will reasonably adjust the missed d
 
 [Schedule a meeting using this link](https://ttezcan.gitbook.io/lectures/all-lectures-and-labs/guidelines-and-rubrics/office-hours)
 
-\
+<br>

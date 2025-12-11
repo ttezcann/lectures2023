@@ -457,8 +457,7 @@ scatterplot + stat_cor(p.accuracy = 0.001, r.accuracy = 0.01)
 <figure><img src="../../../.gitbook/assets/image (4).png" alt="" width="563"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Same interpretation as correlation analysis table:\
-
+Same interpretation as correlation analysis table:<br>
 
 _<mark style="color:blue;">There is a significant correlation between television screen time and percentage of time use at work using electronic technologies since the p-value is less than .05.</mark>_&#x20;
 
@@ -567,8 +566,7 @@ tab_model(model4, show.std = T, show.ci = F, collapse.se = T, p.style = "stars")
 
 _<mark style="color:blue;">Respondents’ age, days of poor physical health past 30 days, and respondents' education in years are statistically significant predictors of respondents’ personal income since the p values are less than 0.05. Respondent's confidence in the existence of God is not a statistically significant predictor of respondents’ personal income since the p value is greater than 0.05.</mark>_
 
-_\[What it measures column of significant independent variable 1], \[what it measures column of significant independent variable 2], and \[what it measures column of significant independent variable 3]...  are statistically significant predictors of \[what it measures column of the dependent variable] since the p values are less than 0.05. \[What it measures column of insignificant independent variable 1], \[what it measures column of insignificant independent variable 2]... are not a statistically significant predictor of \[what it measures column of the dependent variable] since the p value is greater than 0.05._\
-
+_\[What it measures column of significant independent variable 1], \[what it measures column of significant independent variable 2], and \[what it measures column of significant independent variable 3]...  are statistically significant predictors of \[what it measures column of the dependent variable] since the p values are less than 0.05. \[What it measures column of insignificant independent variable 1], \[what it measures column of insignificant independent variable 2]... are not a statistically significant predictor of \[what it measures column of the dependent variable] since the p value is greater than 0.05._<br>
 
 **Second paragraph:** \[The explanation of coefficients (Estimates column)] Mention how significant independent variables increase or decrease the value of the dependent variable, using the “Estimates” column. When reporting the estimates (coefficients), ensure that the sentence includes the units (one unit, a day, a score, a year, a dollar, etc.) of both the independent and the dependent variable.
 

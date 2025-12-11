@@ -4,7 +4,6 @@
   * [Guidelines and rubrics](all-lectures-and-labs/guidelines-and-rubrics/README.md)
     * [Lecture reflections](all-lectures-and-labs/guidelines-and-rubrics/lecture-reflections.md)
     * [Office hours](all-lectures-and-labs/guidelines-and-rubrics/office-hours.md)
-      * [In-person office hours](all-lectures-and-labs/guidelines-and-rubrics/office-hours/in-person-office-hours.md)
       * [Online office hours](all-lectures-and-labs/guidelines-and-rubrics/office-hours/online-office-hours.md)
     * [Where are the readings, slides, and lecture videos?](all-lectures-and-labs/guidelines-and-rubrics/where-are-the-readings-slides-and-lecture-videos.md)
     * [How to submit an assignment](all-lectures-and-labs/guidelines-and-rubrics/how-to-submit-an-assignment.md)

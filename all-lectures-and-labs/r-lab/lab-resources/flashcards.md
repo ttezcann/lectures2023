@@ -65,11 +65,9 @@ Make sure you have a RStudio Cloud account. Otherwise, get one and install all t
 
 <figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
-9.  **Using R script files - “working space” and outline view:** We do not edit or change anything on R script files except under “working space”(see highlighted part #1). Anything above the “working space” is teaching material!\
+9.  **Using R script files - “working space” and outline view:** We do not edit or change anything on R script files except under “working space”(see highlighted part #1). Anything above the “working space” is teaching material!<br>
 
-
-    The codes for assignments will be put under the “working space”\
-
+    The codes for assignments will be put under the “working space”<br>
 
     For easy navigation click “Outline” (see highlighted part #2) to see the headings and subheadings.
 
