@@ -28,6 +28,7 @@
     * [Qualitative (Content analysis) FINAL research memo guideline and rubric](all-lectures-and-labs/guidelines-and-rubrics/qualitative-content-analysis-final-research-memo-guideline-and-rubric.md)
     * [How to use VPN (for Windows and macOS)](all-lectures-and-labs/guidelines-and-rubrics/how-to-use-vpn-for-windows-and-macos.md)
     * [Letter of recommendation requests](all-lectures-and-labs/guidelines-and-rubrics/letter-of-recommendation-requests.md)
+    * [Google Drive assignment](all-lectures-and-labs/guidelines-and-rubrics/google-drive-assignment.md)
   * [Lectures](all-lectures-and-labs/lectures/README.md)
     * [Social research](all-lectures-and-labs/lectures/social-research/README.md)
       * [Social research: why and how](all-lectures-and-labs/lectures/social-research/social-research-why-and-how.md)
