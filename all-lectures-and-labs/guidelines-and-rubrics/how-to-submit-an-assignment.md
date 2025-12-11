@@ -23,18 +23,16 @@ Follow the one you prefer.
    2. It must be “your last name and the name of the assignment.”&#x20;
       1. For example, “Smith Research design.” (otherwise -5).&#x20;
    3. If there is a mistake, rename the file [\[How to rename a file and folder in Google Drive\]](https://ttezcan.gitbook.io/lectures/all-lectures-and-labs/guidelines-and-rubrics/how-to-rename-a-file-and-folder-in-google-drive).
-4.  Click the box under "Folder."
-
-    1. Click "Starred."
-    2. Choose your Google Drive class folder.
-       1. Do not click "Select" but click the arrow (or double click).
-    3. Choose the relevant week subfolder (otherwise no credit).
-
-    Note: If there's a mistake, the assignment will be graded with 10% deduction when the file is moved to the relevant week's subfolder and "moved" is typed in the Canvas comment section of the assignment [\[How to move a file in Google Drive\]](https://ttezcan.gitbook.io/lectures/all-lectures-and-labs/guidelines-and-rubrics/how-to-move-a-file-in-google-drive).
+4. Click the box under "Folder."
+   1. Click "Starred."
+   2. Choose your Google Drive class folder.
+      1. Do not click "Select" but click the arrow (or double click).
+   3. Choose the relevant week subfolder (otherwise no credit).
 5. Complete the assignment.
 6. Before the submission, make sure the file is under the relevant week subfolder. Otherwise, move it [\[How to make sure it's in the correct subfolder\]](https://ttezcan.gitbook.io/lectures/all-lectures-and-labs/guidelines-and-rubrics/how-to-move-a-file-in-google-drive).
 7. To submit this assignment, click “Start Assignment” on Canvas <mark style="color:red;">➜</mark> Choose Google Drive (LTI 1.3) (Make sure you log in with your CSUMB credentials) <mark style="color:red;">➜</mark> “Select file” <mark style="color:red;">➜</mark> “MY DRIVE” <mark style="color:red;">➜</mark> "Starred" <mark style="color:red;">➜</mark> Your class folder <mark style="color:red;">➜</mark> Relevant week <mark style="color:red;">➜</mark> Assignment file <mark style="color:red;">➜</mark> “Add” <mark style="color:red;">➜</mark> “Attach” <mark style="color:red;">➜</mark> “Submit Assignment.”
-8. Click "Submission details" on the next screen on Canvas right after the submission to make sure you submitted the correct document.
+8. Click "Download" the assignment to make sure you submitted the correct file.
+   1. If you submitted a wrong file, but the correct file is in the correct weekly subfolder, type “check Google Drive” as a comment [\[How to post a comment on an assignment\]](https://ttezcan.gitbook.io/lectures/all-lectures-and-labs/guidelines-and-rubrics/how-to-post-a-comment-on-an-assignment).
 
 ### <mark style="color:orange;">**Screenshots instructions**</mark>
 
