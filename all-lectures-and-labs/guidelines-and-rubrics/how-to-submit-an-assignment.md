@@ -1,6 +1,6 @@
 # How to submit an assignment
 
-{% hint style="info" %}
+{% hint style="success" %}
 ### This guideline shows how to submit an assignment with:
 
 1. Video instructions
@@ -68,4 +68,4 @@ Click on "Instructions."
 10. Click "Submit Assignment."
 11. Click "Download" the assignment to make sure you submitted the correct file.
 
-<figure><img src="../../.gitbook/assets/SCR-20251211-mjjc-2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/SCR-20251211-mouf-2.png" alt=""><figcaption></figcaption></figure>
