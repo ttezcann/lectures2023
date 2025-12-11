@@ -1,47 +1,114 @@
 # Google Drive assignment
 
 {% hint style="warning" %}
-## Students cannot continue this class without getting full credit from this assignment (unlimited attempts). Each submission without getting full credit from this assignment will result in a 20% deduction for the following assignments.
+Students **cannot** continue this class without getting full credit from this assignment (unlimited attempts).&#x20;
+
+Each submission without getting full credit from this assignment will result in no credit for the following assignments.
 {% endhint %}
 
 {% hint style="info" %}
-## <mark style="color:red;">Use</mark> [<mark style="color:red;">Google Chrome</mark>](https://www.google.com/chrome/) or any Chromium based browser ([Brave](https://brave.com/download/), [Opera](https://www.opera.com/download), [Edge](https://www.microsoft.com/en-us/edge), etc.)  Safari and other browsers are not fully compatible with Google Drive and Canvas.
+<mark style="color:red;">Use</mark> [<mark style="color:red;">Google Chrome</mark>](https://www.google.com/chrome/) or any Chromium based browser ([Brave](https://brave.com/download/), [Opera](https://www.opera.com/download), [Edge](https://www.microsoft.com/en-us/edge), etc.)  for this class.
+
+Safari and other browsers are not fully compatible with Google Drive and Canvas.
 {% endhint %}
 
 {% hint style="success" %}
-## We will rely heavily on Google Drive and Google Docs in this course. The purpose of this assignment is to create your Google Drive Class Folder. All your class files will be stored on Google Drive Class Folder and will be submitted to Canvas from there using Google Drive LTI 1.3)
+We will rely heavily on Google Drive and Google Docs in this course.&#x20;
+
+The purpose of this assignment is to create your Google Drive Class Folder.&#x20;
+
+All your class files will be stored on Google Drive Class Folder and will be submitted to Canvas from there using Google Drive LTI 1.3).
 {% endhint %}
+
+## Assignment video
+
+The video below shows how to complete this assignment from start to finish. \
+\
+Watch the video and read the instructions together.
+
+{% embed url="https://drive.google.com/open?id=1x00-ZnHX7hGzGK4mu08QfRqQZu48VQVm&usp=drive_fs" %}
 
 ## Assignment instructions
 
 {% stepper %}
 {% step %}
+### Creating a folder
+
 Go to [https://drive.google.com/drive](https://drive.google.com/drive) and make sure you log in with your CSUMB account, **NOT** your personal Gmail account.&#x20;
 
-On the main page of Google Drive, click “+ New” and “New folder”
+<figure><img src="../../.gitbook/assets/SCR-20251211-jtgy.png" alt=""><figcaption></figcaption></figure>
+
+1. On the main page of Google Drive, click “+ New”&#x20;
+2. Click “New folder.”
 
 <figure><img src="../../.gitbook/assets/SCR-20251211-ihrx.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-Type the code of THIS class and your name and last name.&#x20;
+### Naming the folder
 
-For example, “SOC120 Angel Garcia”, “SOC399 John Smith.” Click “Create.”&#x20;
+1. Type the code of THIS class and your name and last name.&#x20;
+   1. For example, “SOC120 Angel Garcia”, “SOC399 John Smith.”
+      1. No space in the class code. It must be SOC120, **not** SOC 120.
+      2. **DO NOT** type the section, such as SOC120-2, SOC399-90.
+      3. Check [https://csumb.edu/oasis/](https://csumb.edu/oasis/) to see which class you are enrolled in.
+2. &#x20;Click “Create.”&#x20;
 
-No space in the class code. It must be SOC120, **not** SOC 120.
-
-**DO NOT** type the section, such as SOC120-2, SOC399-90.
-
-Check [https://csumb.edu/oasis/](https://csumb.edu/oasis/) to see which class you are enrolled in.
-
-<figure><img src="../../.gitbook/assets/SCR-20251211-imhw-2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/SCR-20251211-juth-2.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-Right click on the folder you just created > “Organize” > “Add to Starred.”
+### Add to starred and choose a color
 
-Right click on the folder you just created again > “Organize” > choose a color you like under “Folder color.”
+1. Right click on the folder you just created.
+2. Click “Organize.”&#x20;
+3. Click “Add to Starred.”
+4. Right click on the folder you just created again <mark style="color:red;">➜</mark> “Organize” <mark style="color:red;">➜</mark> Choose a color you like under “Folder color.”
 
 <figure><img src="../../.gitbook/assets/SCR-20251211-infa-2.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+### Creating subfolders for each week
+
+1. Double click on your folder and open it.
+2. Click “+ New.”&#x20;
+3. Click “New folder.”
+4. Paste the folder names (see below) one by one. **Do not type**. \
+   \
+   Copy (control or cmd + C) \
+   Paste (control or cmd + V).\
+   \
+   <mark style="color:red;">**Note:**</mark> Depending on the semester, you may see 4, 6, or 17 Week names below. You need to repeat this 4 times if you see 4 week names; 6 times if you see 6 week names; 17 times if you see 17 week names below:
+   * Week 1 (12/22 - 12/26)
+   * Week 2 (12/29 - 01/02)
+   * Week 3 (01/05 - 01/09)
+   * Week 4 (01/12 - 01/16)
+5. Click "Create" after pasting each Week name.
+
+<figure><img src="../../.gitbook/assets/SCR-20251211-jltj-2.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+### Sharing the Google Drive class folder with me
+
+Right click on the folder you just created one more time <mark style="color:red;">➜</mark> “Share” <mark style="color:red;">➜</mark> “Share” again.&#x20;
+
+<figure><img src="../../.gitbook/assets/SCR-20251211-jebi-2.png" alt=""><figcaption></figcaption></figure>
+
+1. Choose “Anyone with the link” under the “General access.”
+2. Choose "Editor."
+3. Type my email address, [ttezcan@csumb.edu](mailto:ttezcan@csumb.edu)
+4. Make sure you see "Editor."
+5. Make sure "Notify people" is checked.
+6. Click "Send."
+
+<figure><img src="../../.gitbook/assets/SCR-20251211-jcpg-2.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+### Submission to Canvas
+
+
 {% endstep %}
 {% endstepper %}
