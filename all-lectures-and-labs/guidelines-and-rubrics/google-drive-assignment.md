@@ -22,13 +22,19 @@ All your class files will be stored on Google Drive Class Folder and will be sub
 
 ## Assignment video
 
-The video below shows how to complete this assignment from start to finish. \
-\
-Watch the video and read the instructions together.
+The video below shows how to complete this assignment from start to finish.&#x20;
+
+> **Do not** submit this assignment <mark style="color:red;">without</mark> watching the video and read the instructions together.
 
 {% embed url="https://drive.google.com/open?id=1x00-ZnHX7hGzGK4mu08QfRqQZu48VQVm&usp=drive_fs" %}
 
 ## Assignment instructions
+
+{% hint style="info" %}
+If you are a repeating student, delete or rename your previous Google Drive class folder, such as "SOC120 John Smith old"
+
+[Instructions: How to rename a folder](https://ttezcan.gitbook.io/lectures/all-lectures-and-labs/guidelines-and-rubrics/how-to-rename-a-file-and-folder-in-google-drive#rename-a-folder)
+{% endhint %}
 
 {% stepper %}
 {% step %}
@@ -47,11 +53,11 @@ Go to [https://drive.google.com/drive](https://drive.google.com/drive) and make 
 {% step %}
 ### Naming the folder
 
-1. Type the code of THIS class and your name and last name.&#x20;
-   1. For example, “SOC120 Angel Garcia”, “SOC399 John Smith.”
-      1. No space in the class code. It must be SOC120, **not** SOC 120.
-      2. **DO NOT** type the section, such as SOC120-2, SOC399-90.
-      3. Check [https://csumb.edu/oasis/](https://csumb.edu/oasis/) to see which class you are enrolled in.
+1. Type the code of **THIS** class and your name and last name.&#x20;
+   1. For example, “SOC120 Angel Garcia”, “SOC399 John Smith”.
+      1. Check [https://csumb.edu/oasis/](https://csumb.edu/oasis/) to see which class you are enrolled in.
+      2. No space in the class code. It must be SOC120, **not** SOC 120.
+      3. **DO NOT** type the section, such as SOC120-90, SOC399-91.
 2. &#x20;Click “Create.”&#x20;
 
 <figure><img src="../../.gitbook/assets/SCR-20251211-juth-2.png" alt=""><figcaption></figcaption></figure>
@@ -60,7 +66,7 @@ Go to [https://drive.google.com/drive](https://drive.google.com/drive) and make 
 {% step %}
 ### Add to starred and choose a color
 
-1. Right click on the folder you just created.
+1. Right click on the folder you just created. This is your Google Drive class folder.
 2. Click “Organize.”&#x20;
 3. Click “Add to Starred.”
 4. Right click on the folder you just created again <mark style="color:red;">➜</mark> “Organize” <mark style="color:red;">➜</mark> Choose a color you like under “Folder color.”
@@ -69,9 +75,9 @@ Go to [https://drive.google.com/drive](https://drive.google.com/drive) and make 
 {% endstep %}
 
 {% step %}
-### Creating subfolders for each week
+### Creating subfolder for each week
 
-1. Double click on your folder and open it.
+1. Double click on your Google Drive class folder and open it.
 2. Click “+ New.”&#x20;
 3. Click “New folder.”
 4.  Paste the folder names (see below) one by one. **Do not type**.&#x20;
@@ -93,13 +99,16 @@ Go to [https://drive.google.com/drive](https://drive.google.com/drive) and make 
 {% step %}
 ### Sharing the Google Drive class folder with me
 
-Right click on the folder you just created one more time <mark style="color:red;">➜</mark> “Share” <mark style="color:red;">➜</mark> “Share” again.&#x20;
+1. Right click on the folder you just created one more time
+2. Click “Share.”
+3. Click “Share” again.&#x20;
 
-<figure><img src="../../.gitbook/assets/SCR-20251211-jebi-2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/SCR-20251211-lgas-2.png" alt=""><figcaption></figcaption></figure>
 
-1. Choose “Anyone with the link” under the “General access.”
-2. Choose "Editor."
-3. Type my email address, [ttezcan@csumb.edu](mailto:ttezcan@csumb.edu)
+1. Choose “Anyone with the link” under the “General access.” It's "Restricted" by default.
+2. Choose "Editor." It's "Viewer" by default.
+3. Type my email address:
+   1. &#x20;[ttezcan@csumb.edu](mailto:ttezcan@csumb.edu)
 4. Make sure you see "Editor."
 5. Make sure "Notify people" is checked.
 6. Click "Send."
@@ -114,7 +123,7 @@ Click on "\[gr] Google Drive assignment (must be submitted first)" under the "We
 
 Click "Begin."
 
-<figure><img src="../../.gitbook/assets/SCR-20251211-ksst-2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/SCR-20251211-limd-2.png" alt=""><figcaption></figcaption></figure>
 
 1. Right click on your Google Drive class folder.
 2. Click "Share."
