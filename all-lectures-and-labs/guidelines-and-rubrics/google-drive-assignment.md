@@ -3,7 +3,7 @@
 {% hint style="warning" %}
 Students **cannot** continue this class without getting full credit from this assignment (unlimited attempts).&#x20;
 
-Each submission without getting full credit from this assignment will result in no credit for the following assignments.
+Each submission without getting full credit from this assignment will result in no credit for the following assignments (Except the "Syllabus quiz" and "Introduce yourself" - _if you see under  Week 1 module_).
 {% endhint %}
 
 {% hint style="info" %}
@@ -74,16 +74,17 @@ Go to [https://drive.google.com/drive](https://drive.google.com/drive) and make 
 1. Double click on your folder and open it.
 2. Click “+ New.”&#x20;
 3. Click “New folder.”
-4. Paste the folder names (see below) one by one. **Do not type**. \
-   \
-   Copy (control or cmd + C) \
-   Paste (control or cmd + V).\
-   \
-   <mark style="color:red;">**Note:**</mark> Depending on the semester, you may see 4, 6, or 17 Week names below. You need to repeat this 4 times if you see 4 week names; 6 times if you see 6 week names; 17 times if you see 17 week names below:
-   * Week 1 (12/22 - 12/26)
-   * Week 2 (12/29 - 01/02)
-   * Week 3 (01/05 - 01/09)
-   * Week 4 (01/12 - 01/16)
+4.  Paste the folder names (see below) one by one. **Do not type**.&#x20;
+
+    1. Copy (control or cmd + C)&#x20;
+    2. Paste (control or cmd + V).
+
+    <mark style="color:red;">**Note:**</mark> Depending on the semester, you may see 4, 8, or 17 Week names below. You need to repeat this 4 times if you see 4 week names; 8 times if you see 8 week names; 17 times if you see 17 week names below:
+
+    * Week 1 (12/22 - 12/26)
+    * Week 2 (12/29 - 01/02)
+    * Week 3 (01/05 - 01/09)
+    * Week 4 (01/12 - 01/16)
 5. Click "Create" after pasting each Week name.
 
 <figure><img src="../../.gitbook/assets/SCR-20251211-jltj-2.png" alt=""><figcaption></figcaption></figure>
@@ -108,6 +109,31 @@ Right click on the folder you just created one more time <mark style="color:red;
 
 {% step %}
 ### Submission to Canvas
+
+Click on "\[gr] Google Drive assignment (must be submitted first)" under the "Week 1" Module on Canvas.
+
+Click "Begin."
+
+<figure><img src="../../.gitbook/assets/SCR-20251211-ksst-2.png" alt=""><figcaption></figcaption></figure>
+
+1. Right click on your Google Drive class folder.
+2. Click "Share."
+3. Click "Copy link."
+
+<figure><img src="../../.gitbook/assets/SCR-20251211-kvjn-2.png" alt=""><figcaption></figcaption></figure>
+
+1. Paste (control or cmd + V) the link you copied from the step above.
+2. Click "Submit."
+
+<figure><img src="../../.gitbook/assets/SCR-20251211-ktre-2 (1).png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+### Waiting for my feedback
+
+After the submission, you need to wait for my feedback.&#x20;
+
+Each submission without getting full credit from this assignment will result in no credit for the following assignments (Except the "Syllabus quiz" and "Introduce yourself" - _if you see under Week 1 module_).
 
 
 {% endstep %}
