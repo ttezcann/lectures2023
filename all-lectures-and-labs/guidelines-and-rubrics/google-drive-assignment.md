@@ -58,6 +58,7 @@ Go to [https://drive.google.com/drive](https://drive.google.com/drive) and make 
       1. Check [https://csumb.edu/oasis/](https://csumb.edu/oasis/) to see which class you are enrolled in.
       2. No space in the class code. It must be SOC120, **not** SOC 120.
       3. **DO NOT** type the section, such as SOC120-90, SOC399-91.
+      4. **DO NOT** use lower case, such as soc120 or ssci321.
 2. &#x20;Click “Create.”&#x20;
 
 <figure><img src="../../.gitbook/assets/SCR-20251211-juth-2.png" alt=""><figcaption></figcaption></figure>
