@@ -1,10 +1,10 @@
 # Welcome to SOC399 (4-week semester)
 
-<mark style="color:orange;">Welcome!</mark>
+## <mark style="color:orange;">Welcome!</mark> <a href="#welcome" id="welcome"></a>
 
 Welcome to SOC399 - Contemporary Immigration!
 
-My name is Tolga Tezcan, associate professor of sociology, and I'm your instructor. [You can check my CV here](https://docs.google.com/document/d/16HdRvPXse_88mQysbXL6SdoQP2MEhRmX/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true).
+My name is Tolga Tezcan, Associate Professor of Sociology, and I'm your instructor. [You can check my CV here](https://docs.google.com/document/d/16HdRvPXse_88mQysbXL6SdoQP2MEhRmX/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true).
 
 This page will make you familiar with the course, structure, what to expect, and some other important information.
 
@@ -53,7 +53,7 @@ Feel free to submit assignments during the break if you wish. I will grade the a
 
 ## <mark style="color:orange;">Where are the due dates?</mark> <a href="#deadlines" id="deadlines"></a>
 
-<figure><img src="../../.gitbook/assets/SCR-20251212-lcjz-2.png" alt=""><figcaption></figcaption></figure>
+<div data-full-width="true"><figure><img src="../../.gitbook/assets/SCR-20251212-lcjz-2.png" alt=""><figcaption></figcaption></figure></div>
 
 1. The Modules page show each assignment's due date.
 2. When you click on the assignment, you see more details, such as "Due" again, and
