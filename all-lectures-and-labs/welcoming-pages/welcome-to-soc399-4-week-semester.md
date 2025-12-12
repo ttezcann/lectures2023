@@ -1,4 +1,24 @@
+---
+noIndex: true
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+---
+
 # Welcome to SOC399 (4-week semester)
+
+<figure><img src="../../.gitbook/assets/image.png" alt="" width="561"><figcaption></figcaption></figure>
 
 ## <mark style="color:orange;">Welcome!</mark> <a href="#welcome" id="welcome"></a>
 
@@ -8,11 +28,11 @@ My name is Tolga Tezcan, Associate Professor of Sociology, and I'm your instruct
 
 This page will make you familiar with the course, structure, what to expect, and some other important information.
 
-### <mark style="color:orange;">Syllabus</mark> <a href="#syllabus" id="syllabus"></a>
+## <mark style="color:orange;">Syllabus</mark> <a href="#syllabus" id="syllabus"></a>
 
 [The syllabus is here](https://docs.google.com/document/d/1GchAY7eBQdqIeYfIK1zNzS9aBXTDQd5Q/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true), also under the "Resources" module of Canvas (The first module).
 
-### <mark style="color:orange;">"\[gr] Getting ready for the class" assignments (Module: Week 1)</mark> <a href="#getting-ready-for-the-class-module-assignments" id="getting-ready-for-the-class-module-assignments"></a>
+## <mark style="color:orange;">"\[gr] Getting ready for the class" assignments (Module: Week 1)</mark> <a href="#getting-ready-for-the-class-module-assignments" id="getting-ready-for-the-class-module-assignments"></a>
 
 There are three assignments to get ready for the class. You can find these assignments under the Week 1 module.
 
@@ -51,7 +71,7 @@ Feel free to submit assignments during the break if you wish. I will grade the a
    2. <mark style="color:red;">15% deduction</mark> for the second day of delay,
    3. <mark style="color:red;">20% deduction</mark> for the third day of delay. Then the submission window closes.
 
-## <mark style="color:orange;">Where are the due dates?</mark> <a href="#deadlines" id="deadlines"></a>
+### <mark style="color:orange;">Where are the due dates?</mark> <a href="#deadlines" id="deadlines"></a>
 
 <div data-full-width="false"><figure><img src="../../.gitbook/assets/SCR-20251212-lcjz-2.png" alt="Table explaining where to find due date information as described below."><figcaption></figcaption></figure></div>
 
@@ -88,12 +108,12 @@ Click on the lecture names (see figure above) to see the readings, slides, and l
 2. **Lecture quizzes**: Each lecture comes with a quiz.
    1. **\[Optional] Lecture reflection**: No need to submit a lecture reflection if you're satisfied with your lecture quiz.  Low in-class quizzes can be compensated with a [lecture reflection](https://ttezcan.gitbook.io/lectures/all-lectures-and-labs/guidelines-and-rubrics/lecture-reflections#video-reflection-guidelines).
 
-## <mark style="color:orange;">Assignment submissions</mark> <a href="#assignment-submissions" id="assignment-submissions"></a>
+### <mark style="color:orange;">Assignment submissions</mark> <a href="#assignment-submissions" id="assignment-submissions"></a>
 
 1. Assignments should not be attached. For this class, students will not download or upload any documents.
 2. Assignments should be submitted to Canvas using Google LTI: [\[How to submit an assignment\]](https://ttezcan.gitbook.io/lectures/all-lectures-and-labs/guidelines-and-rubrics/how-to-submit-an-assignment): This link is located at the top of each assignment.
 
-## <mark style="color:orange;">Incorrect submissions</mark>
+### <mark style="color:orange;">Incorrect submissions</mark>
 
 {% stepper %}
 {% step %}
@@ -118,7 +138,7 @@ Click on the lecture names (see figure above) to see the readings, slides, and l
 {% endstep %}
 {% endstepper %}
 
-### <mark style="color:orange;">How to work for this class?</mark> <a href="#how-to-work-for-this-class" id="how-to-work-for-this-class"></a>
+## <mark style="color:orange;">How to work for this class?</mark> <a href="#how-to-work-for-this-class" id="how-to-work-for-this-class"></a>
 
 1. Do the reading and take notes
 2. Review the slides and take notes
@@ -126,13 +146,13 @@ Click on the lecture names (see figure above) to see the readings, slides, and l
 4. Complete the lecture assignment
 5. Review your notes, then take the lecture quiz
 
-### <mark style="color:orange;">Late enrollment</mark> <a href="#late-enrollment" id="late-enrollment"></a>
+## <mark style="color:orange;">Late enrollment</mark> <a href="#late-enrollment" id="late-enrollment"></a>
 
 If you are enrolled late in this class, read the syllabus and the welcoming page that was sent through the announcement (check the very top of class Canvas page) immediately.
 
 As soon as you are enrolled, email me, and I will reasonably adjust the missed deadlines. Start with the assignments under the “Getting ready for the class” module in the order seen on the Canvas module page, then other assignments.
 
-### <mark style="color:orange;">Repeating students</mark> <a href="#late-enrollment" id="late-enrollment"></a>
+## <mark style="color:orange;">Repeating students</mark> <a href="#late-enrollment" id="late-enrollment"></a>
 
 Repeating students cannot use their previous assignments.
 

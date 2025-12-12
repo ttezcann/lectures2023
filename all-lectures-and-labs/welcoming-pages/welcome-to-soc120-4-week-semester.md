@@ -1,6 +1,6 @@
 # Welcome to SOC120 (4-week semester)
 
-<figure><img src="../../.gitbook/assets/image.png" alt="" width="534"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt="" width="534"><figcaption></figcaption></figure>
 
 ## <mark style="color:orange;">Welcome!</mark> <a href="#welcome" id="welcome"></a>
 
