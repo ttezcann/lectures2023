@@ -58,7 +58,7 @@ Feel free to submit assignments during the break if you wish. I will grade the a
 
 ## <mark style="color:orange;">Class structure</mark> <a href="#class-structure" id="class-structure"></a>
 
-We have two lectures each week.&#x20;
+We have five lectures each week, except the Week 1 which includes three lectures
 
 Below is a sample overview from a different class, which includes two lectures:
 
@@ -70,8 +70,6 @@ Each lecture is accompanied by two assignments (indented items are assignments a
 <figure><img src="../../.gitbook/assets/soc120 soc399 modules view edited (1).png" alt=""><figcaption></figcaption></figure>
 
 Click on the lecture names to see the readings, slides, and lecture videos. See [\[Where are the readings, slides, and lecture videos?\]](https://ttezcan.gitbook.io/lectures/all-lectures-and-labs/guidelines-and-rubrics/where-are-the-readings-slides-and-lecture-videos)
-
-<figure><img src="../../.gitbook/assets/image (120).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## <mark style="color:orange;">General format of the lectures</mark>
 
