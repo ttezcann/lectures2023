@@ -164,3 +164,4 @@
     * [Welcome to SOC399](all-lectures-and-labs/welcoming-pages/welcome-to-soc399.md)
     * [Welcome to SOC120](all-lectures-and-labs/welcoming-pages/welcome-to-soc120.md)
     * [Welcome to SOC399 (4-week semester)](all-lectures-and-labs/welcoming-pages/welcome-to-soc399-4-week-semester.md)
+    * [Welcome to SOC120 (4-week semester)](all-lectures-and-labs/welcoming-pages/welcome-to-soc120-4-week-semester.md)
