@@ -10,7 +10,7 @@ This page will make you familiar with the course, structure, what to expect, and
 
 ### <mark style="color:orange;">Syllabus</mark> <a href="#syllabus" id="syllabus"></a>
 
-[The syllabus is here](https://docs.google.com/document/d/1B_MjosO92_Fy8He3zYhKgI3BiDpFdbRi/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true), also under the "Resources" module of Canvas (The first module).
+[The syllabus is here](https://docs.google.com/document/d/1GchAY7eBQdqIeYfIK1zNzS9aBXTDQd5Q/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true), also under the "Resources" module of Canvas (The first module).
 
 ### <mark style="color:orange;">"\[gr] Getting ready for the class" assignments (Module: Week 1)</mark> <a href="#getting-ready-for-the-class-module-assignments" id="getting-ready-for-the-class-module-assignments"></a>
 
@@ -43,7 +43,7 @@ Feel free to submit assignments during the break if you wish. I will grade the a
 
 ## <mark style="color:orange;">Deadlines</mark> <a href="#deadlines" id="deadlines"></a>
 
-<figure><img src="../../.gitbook/assets/image (128).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (128).png" alt="Table explaining the deadline structure as described below."><figcaption></figcaption></figure>
 
 1. After the deadline has passed, Canvas will automatically give a zero, but students are granted one (1) additional (flexibility) day to submit their work without a deduction.
 2. Once the assignment deadline and the flexibility day has passed, students are granted an additional three-day window to submit their work.&#x20;
@@ -53,7 +53,7 @@ Feel free to submit assignments during the break if you wish. I will grade the a
 
 ## <mark style="color:orange;">Where are the due dates?</mark> <a href="#deadlines" id="deadlines"></a>
 
-<div data-full-width="true"><figure><img src="../../.gitbook/assets/SCR-20251212-lcjz-2.png" alt=""><figcaption></figcaption></figure></div>
+<div data-full-width="false"><figure><img src="../../.gitbook/assets/SCR-20251212-lcjz-2.png" alt="Table explaining where to find due date information as described below."><figcaption></figcaption></figure></div>
 
 1. The Modules page show each assignment's due date.
 2. When you click on the assignment, you see more details, such as "Due" again, and
@@ -76,7 +76,7 @@ Below is a sample overview from a different class, which includes two lectures:
 
 Each lecture is accompanied by two assignments (indented items are assignments associated with the specific lecture above):
 
-<figure><img src="https://ttezcan.gitbook.io/lectures/~gitbook/image?url=https%3A%2F%2F1373704161-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FFj6bxTviGJMBga1Kc5Yc%252Fuploads%252FzE9h96hT9ywbDfZFB1Il%252Fsoc120%2520soc399%2520modules%2520view%2520edited.png%3Falt%3Dmedia%26token%3D89b92c5c-df8e-4fb1-9760-2005dffbe7a8&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=fe27b051&#x26;sv=2" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://ttezcan.gitbook.io/lectures/~gitbook/image?url=https%3A%2F%2F1373704161-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FFj6bxTviGJMBga1Kc5Yc%252Fuploads%252FzE9h96hT9ywbDfZFB1Il%252Fsoc120%2520soc399%2520modules%2520view%2520edited.png%3Falt%3Dmedia%26token%3D89b92c5c-df8e-4fb1-9760-2005dffbe7a8&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=fe27b051&#x26;sv=2" alt="A screenshot of a Canvas course module labeled Week 6 (02/24–03/02). Two lecture items are shown: “Data collection in mass media research” and “Content analysis and coding with Google Docs.” Under each lecture title are two indented assignments shaded in pink. For the first lecture, the assignments include a quiz and a basic content analysis task. For the second lecture, the assignments include a quiz and an initial/axial/focused coding assignment. Black arrows point to each lecture title with notes explaining that clicking the lecture will open the readings, slides, and lecture video. Green checkmarks indicate completion or publishing status."><figcaption></figcaption></figure>
 
 ### <mark style="color:orange;">Where are the readings, slides, and lecture videos?</mark>
 
