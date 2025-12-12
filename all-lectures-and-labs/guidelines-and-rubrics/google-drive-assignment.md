@@ -26,7 +26,7 @@ The video below shows how to complete this assignment from start to finish.&#x20
 
 > **Do not** submit this assignment <mark style="color:red;">without</mark> watching the video and read the instructions together.
 
-{% embed url="https://drive.google.com/open?id=1x00-ZnHX7hGzGK4mu08QfRqQZu48VQVm&usp=drive_fs" %}
+{% embed url="https://drive.google.com/file/d/1mgBJHsjDY1F8Tbig0Szjok4aGoxiaMNn/view?usp=drive_link" %}
 
 ## Assignment instructions
 
