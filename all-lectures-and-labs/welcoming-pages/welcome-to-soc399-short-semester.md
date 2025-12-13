@@ -16,7 +16,7 @@ layout:
     visible: true
 ---
 
-# Welcome to SOC399 (4-week semester)
+# Welcome to SOC399 (short semester)
 
 <figure><img src="../../.gitbook/assets/image.png" alt="" width="561"><figcaption></figcaption></figure>
 
@@ -87,7 +87,7 @@ Feel free to submit assignments during the break if you wish. I will grade the a
 
 ## <mark style="color:orange;">Class structure</mark> <a href="#class-structure" id="class-structure"></a>
 
-We have five lectures each week, except the Week 1 which includes three lectures
+We have five lectures each week, except the Week 1 which includes three lectures.
 
 Below is a sample overview from a different class, which includes two lectures:
 
@@ -127,7 +127,7 @@ Click on the lecture names (see figure above) to see the readings, slides, and l
 **Submission made but no document in the Google Drive weekly subfolder:**
 
 * If submission is made and there is no document in the weekly subfolder, zero will be given and I will contact the student. Upon notification, the student may move the file to the relevant week's subfolder and type "_moved_" in the Canvas comment section of the assignment.&#x20;
-  * The assignment will then be graded with a <mark style="color:red;">10% deduction</mark>. Assignments revised or created after this communication do not qualify for this option. See "Guidelines and rubrics" <mark style="color:red;">➜</mark>  "How to post a comment on an assignment" page on Canvas (the first module called "Resources").
+  * The assignment will then be graded with a <mark style="color:red;">10% deduction</mark>. Assignments revised or created after this communication do not qualify for this option. See "Guidelines and rubrics" <mark style="color:red;">➜</mark> "How to post a comment on an assignment" page on Canvas (the first module called "Resources").
 {% endstep %}
 
 {% step %}
@@ -140,21 +140,17 @@ Click on the lecture names (see figure above) to see the readings, slides, and l
 
 ## <mark style="color:orange;">How to work for this class?</mark> <a href="#how-to-work-for-this-class" id="how-to-work-for-this-class"></a>
 
-1. Do the reading and take notes
-2. Review the slides and take notes
-3. Watch the lecture video and take notes
-4. Complete the lecture assignment
-5. Review your notes, then take the lecture quiz
+1. Do the reading and take notes.
+2. Review the slides and take notes.
+3. Watch the lecture video and take notes.
+4. Complete the lecture assignment.
+5. Review your notes, then take the lecture quiz.
 
 ## <mark style="color:orange;">Late enrollment</mark> <a href="#late-enrollment" id="late-enrollment"></a>
 
 If you are enrolled late in this class, read the syllabus and the welcoming page that was sent through the announcement (check the very top of class Canvas page) immediately.
 
 As soon as you are enrolled, email me, and I will reasonably adjust the missed deadlines. Start with the assignments under the “Getting ready for the class” module in the order seen on the Canvas module page, then other assignments.
-
-## <mark style="color:orange;">Repeating students</mark> <a href="#late-enrollment" id="late-enrollment"></a>
-
-Repeating students cannot use their previous assignments.
 
 ## <mark style="color:orange;">Office hours</mark> <a href="#office-hours" id="office-hours"></a>
 
