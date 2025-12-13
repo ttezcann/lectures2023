@@ -37,11 +37,18 @@ The table below provides 87 Google Slides templates and 5 Infographic sets.
 
 <mark style="color:red;">Punctuality</mark>
 
-* Did you arrive in the classroom 10 minutes early for your presentation day? (15 points)
+* Did you arrive in the classroom 10 minutes early for your presentation day? (10 points)
 
 <mark style="color:red;">Script paper</mark>
 
-* Did you present with the script in your hand? (printed or handwritten papers) (3 points)
+* Did you present with the script in your hand? (printed or handwritten papers) (8 points)
+  * The script must contain your spoken narrative (what you actually say), which must elaborate on the slides using everyday, conversational language, also not a word‑for‑word copy of slide content. If the script is a verbatim copy of the text on your slides or research memo, or includes long sentences, you will receive 0 points for this item.
+    * You are not required to read word-for-word from your script, but you are still required to hold the physical paper.
+
+<mark style="color:red;">Reading from the slides</mark>
+
+* You can only read from the slides for (a) research question, (b) hypotheses, and (c) data quotes, but nothing else (10 points).
+  * Assessments regarding "reading from slides" rely on my real-time observation. If you anticipate wanting to contest this specific rubric item, you must request that your presentation be recorded at least 24 hours in advance.
 
 <mark style="color:red;">Title slide</mark>
 
@@ -58,7 +65,7 @@ The table below provides 87 Google Slides templates and 5 Infographic sets.
 
 * Did you describe/introduce the topic you worked on? (2 points)
 * Did you display why your research is important and what gaps it aims to fill? (2 points)
-* Did you display and explain your “research question”? (4 points)
+* Did you display and verbally explain your “research question”? (4 points)
 
 <mark style="color:red;">Theoretical structure slide</mark>
 
@@ -101,17 +108,8 @@ The table below provides 87 Google Slides templates and 5 Infographic sets.
 
 <mark style="color:red;">Structure evaluation</mark>
 
-* Did you reach this slide within seven minutes? (2 points)
 * Were the use and appearance of Google Slides clear and organized? (2 points)
 * Were the template and color choices appropriate? (2 points)
-* Did you present looking at the audience and making them feel included? (2 points)
+* Did you present looking at the audience and making them feel included? (4 points)
 * Did you use a clear voice, rhythm and tone, so that all audience members can hear and engage with the presentation? (2 points)
 * Did you use visuals showing effort and creativity? (2 points)
-
-<mark style="color:red;">Question</mark>
-
-* Did you ask at least one question (other than “why did you choose this topic?” “will you use this research on your capstone project”) during the presentation sessions? Your question must be directly related to your classmates’ research
-
-<mark style="color:red;">Reading from the slides</mark>
-
-* You can only read from the slides for (a) research question, (b) hypotheses, and (c) data quotes (Otherwise from -10 to -20).
