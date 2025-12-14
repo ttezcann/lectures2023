@@ -123,13 +123,13 @@ Submissions followed the criteria above will get full credit for this part.
 
 ## <mark style="color:orange;">Lecture reflection template files</mark>
 
-### [**first class**](https://docs.google.com/document/d/1ZmOIzfc4xMHIWr6gyFPM_BmekeBeodoe/edit)
+### [**first class**](https://docs.google.com/document/d/1ZmOIzfc4xMHIWr6gyFPM_BmekeBeodoe/edit) **(for in-person courses)**
 
-### [**last class**](https://docs.google.com/document/d/1-plyfPG5JBafttIIA6bNMkF6TU8q1_1r/edit)
+### [**last class**](https://docs.google.com/document/d/1-plyfPG5JBafttIIA6bNMkF6TU8q1_1r/edit) **(for in-person courses)**
 
 
 
-### **Other templates (alphabetical order)**
+### <mark style="color:orange;">**Lecture templates (alphabetical order)**</mark>
 
 #### [abc's of a research project](https://docs.google.com/document/d/11_BypYl5N1eMg7ppG9YCzfZFX8MD9lnO?rtpof=true\&usp=drive_fs)
 
@@ -239,36 +239,36 @@ Submissions followed the criteria above will get full credit for this part.
 
 #### [why do people migrate](https://docs.google.com/document/d/1-zmrvPclH0IEJ-LjVKTHm0tI84XrxmdN?rtpof=true\&usp=drive_fs)
 
-### RStudio templates&#x20;
+### <mark style="color:orange;">RStudio lab lecture templates</mark>&#x20;
 
 #### [Introduction RStudio](https://docs.google.com/document/d/1Zg8dsSZ1tFlAERf1FT_KthhHSayO0_Ef?rtpof=true\&usp=drive_fs)
 
 #### [Introduction to scripting](https://docs.google.com/document/d/1ZgGmBWHrt_nmLqeRqCNX2eDn_x0yTFac?rtpof=true\&usp=drive_fs)
 
-[Descriptive statistics](https://docs.google.com/document/d/1ZhJXlW8EQdPbIqFJ4pz04zhb49jElgbM?rtpof=true\&usp=drive_fs)
+#### [Descriptive statistics](https://docs.google.com/document/d/1ZhJXlW8EQdPbIqFJ4pz04zhb49jElgbM?rtpof=true\&usp=drive_fs)
 
-[Recoding](https://docs.google.com/document/d/1ZhLvqLjnI91qYyjPlYkJDdTAw7VDQkT3?rtpof=true\&usp=drive_fs)
+#### [Recoding](https://docs.google.com/document/d/1ZhLvqLjnI91qYyjPlYkJDdTAw7VDQkT3?rtpof=true\&usp=drive_fs)
 
-[Computing](https://docs.google.com/document/d/1Zi5v2LdTGg7BVZOWjG0E6rOBxFuif-aH?rtpof=true\&usp=drive_fs)
+#### [Computing](https://docs.google.com/document/d/1Zi5v2LdTGg7BVZOWjG0E6rOBxFuif-aH?rtpof=true\&usp=drive_fs)
 
-[Chi-square](https://docs.google.com/document/d/1ZiDCND_FaJgPr-BSUpnEeWy3qwayL8x8?rtpof=true\&usp=drive_fs)
+#### [Chi-square](https://docs.google.com/document/d/1ZiDCND_FaJgPr-BSUpnEeWy3qwayL8x8?rtpof=true\&usp=drive_fs)
 
-[T-test](https://docs.google.com/document/d/1ZiJcRsvOLroO54VQDN1P7V2rOk8BAfLf/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
+#### [T-test](https://docs.google.com/document/d/1ZiJcRsvOLroO54VQDN1P7V2rOk8BAfLf/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
 
-[Sampling](https://docs.google.com/document/d/1ZicIKfzxXELJBy9WoGTpeSPMLirrtfzU?rtpof=true\&usp=drive_fs)
+#### [Sampling](https://docs.google.com/document/d/1ZicIKfzxXELJBy9WoGTpeSPMLirrtfzU?rtpof=true\&usp=drive_fs)
 
-[Visualization](https://docs.google.com/document/d/1ZiJcRsvOLroO54VQDN1P7V2rOk8BAfLf?rtpof=true\&usp=drive_fs)
+#### [Visualization](https://docs.google.com/document/d/1ZiJcRsvOLroO54VQDN1P7V2rOk8BAfLf?rtpof=true\&usp=drive_fs)
 
-[Correlation](https://docs.google.com/document/d/1ZihyZjqToBZTIbBae8eQDz4ZnKmt9KiB?rtpof=true\&usp=drive_fs)
+#### [Correlation](https://docs.google.com/document/d/1ZihyZjqToBZTIbBae8eQDz4ZnKmt9KiB?rtpof=true\&usp=drive_fs)
 
-[Linear regression basics](https://docs.google.com/document/d/1ZissAeyTzkw_fpN3L0pFPG9F8c_iLc_1?rtpof=true\&usp=drive_fs)
+#### [Linear regression basics](https://docs.google.com/document/d/1ZissAeyTzkw_fpN3L0pFPG9F8c_iLc_1?rtpof=true\&usp=drive_fs)
 
-[Dummy variables](https://docs.google.com/document/d/1Zj2i4yMErB7ZaaTnM7s6xnZBvGLLJn3c?rtpof=true\&usp=drive_fs)
+#### [Dummy variables](https://docs.google.com/document/d/1Zj2i4yMErB7ZaaTnM7s6xnZBvGLLJn3c?rtpof=true\&usp=drive_fs)
 
-[Logistic regression](https://docs.google.com/document/d/1ZjEPIB4Y58JhsSkMNANnjZ30JYGpRNAt?rtpof=true\&usp=drive_fs)
+#### [Logistic regression](https://docs.google.com/document/d/1ZjEPIB4Y58JhsSkMNANnjZ30JYGpRNAt?rtpof=true\&usp=drive_fs)
 
-[Modeling exercises](https://docs.google.com/document/d/1Zlirg4bQIfhP5gAasR1nJYrKZYKQa2mw?rtpof=true\&usp=drive_fs)
+#### [Modeling exercises](https://docs.google.com/document/d/1Zlirg4bQIfhP5gAasR1nJYrKZYKQa2mw?rtpof=true\&usp=drive_fs)
 
-[Regression assumptions and diagnostics](https://docs.google.com/document/d/1ZjMh-EMs8Dnjw268RLCvrhBEK0iQt7l9?rtpof=true\&usp=drive_fs)
+#### [Regression assumptions and diagnostics](https://docs.google.com/document/d/1ZjMh-EMs8Dnjw268RLCvrhBEK0iQt7l9?rtpof=true\&usp=drive_fs)
 
 ### &#x20; <a href="#reading" id="reading"></a>
