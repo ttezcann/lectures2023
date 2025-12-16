@@ -1,9 +1,7 @@
-# Google Drive assignment
+# Google Drive assignment (short term)
 
 {% hint style="warning" %}
 Students **cannot** continue this class without getting full credit from this assignment (unlimited attempts).&#x20;
-
-Each submission without getting full credit from this assignment will result in no credit for the following assignments (Except the "Syllabus quiz" and "Introduce yourself" - _if you see under  Week 1 module_).
 {% endhint %}
 
 {% hint style="info" %}

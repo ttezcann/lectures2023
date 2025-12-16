@@ -2,7 +2,6 @@
 
 * [All lectures and labs](README.md)
   * [Guidelines and rubrics](all-lectures-and-labs/guidelines-and-rubrics/README.md)
-    * [Google Drive assignment](all-lectures-and-labs/guidelines-and-rubrics/google-drive-assignment.md)
     * [Lecture reflections](all-lectures-and-labs/guidelines-and-rubrics/lecture-reflections.md)
     * [Office hours](all-lectures-and-labs/guidelines-and-rubrics/office-hours.md)
       * [Online office hours](all-lectures-and-labs/guidelines-and-rubrics/office-hours/online-office-hours.md)
@@ -29,6 +28,7 @@
     * [Which apps to download](all-lectures-and-labs/guidelines-and-rubrics/which-apps-to-download.md)
     * [How to use VPN (for Windows and macOS)](all-lectures-and-labs/guidelines-and-rubrics/how-to-use-vpn-for-windows-and-macos.md)
     * [Letter of recommendation requests](all-lectures-and-labs/guidelines-and-rubrics/letter-of-recommendation-requests.md)
+    * [Google Drive assignment (short term)](all-lectures-and-labs/guidelines-and-rubrics/google-drive-assignment-short-term.md)
   * [Lectures](all-lectures-and-labs/lectures/README.md)
     * [Social research](all-lectures-and-labs/lectures/social-research/README.md)
       * [Social research: why and how](all-lectures-and-labs/lectures/social-research/social-research-why-and-how.md)
