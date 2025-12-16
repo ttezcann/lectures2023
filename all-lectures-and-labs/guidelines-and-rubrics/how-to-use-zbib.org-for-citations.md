@@ -30,7 +30,7 @@ A source is referenced in <mark style="color:red;">two parts</mark>:
 4. Click on the highlighted arrow and choose APA.&#x20;
 5. Then, for end-text and in-text citations, click on the highlighted parts.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 6. Outputs:
    1. **In-text citation:** (Reskin, 2012)
