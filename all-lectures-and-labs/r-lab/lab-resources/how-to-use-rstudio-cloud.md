@@ -38,7 +38,81 @@ I recommend [Bitward Free Password Generator](https://bitwarden.com/password-gen
 
 <figure><img src="../../../.gitbook/assets/SCR-20251216-mayi-2.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
+
+{% step %}
+### Verification
+
+1. Go to your school email inbox and click “Verify.”
+2. You will be directed to [https://posit.cloud](https://posit.cloud/plans/free). If not, click on the link.
+{% endstep %}
+
+{% step %}
+### New project (RStudio labs)
+
+1. Click "New Project."
+2. Choose "New RStudio Project."&#x20;
+   1. You will wait 10-15 second while RStudio deploys the project. If it takes longer, refresh your page.
+3. On the new screen, click on “Untitled Project” and type “RStudio labs”.
+
+<figure><img src="../../../.gitbook/assets/SCR-20251216-mhat (1).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+Note: In previous semesters, many students mistakenly created a separate project for each lab. This is incorrect. You will not create a new project for each lab. Instead, you will always work within the existing 'RStudio labs' project throughout the course.
+{% endhint %}
+
+<figure><img src="../../../.gitbook/assets/image (133).png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+### Download the specific R script file for this assignment
+
+1. Go to Canvas <mark style="color:red;">➜</mark> Resources module page <mark style="color:red;">➜</mark> “Lab resources” <mark style="color:red;">➜</mark> “All script files” <mark style="color:red;">➜</mark> Click on “Installing the packages” (Under "Setup R script file" and download this file.
+
+<figure><img src="../../../.gitbook/assets/SCR-20251216-mmhp-2.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+### Upload that R script file to RStudio
+
+1. Click "Upload."
+2. Click "Choose file." Find the R script file you just downloaded (script\_installing packages.R) in the previous step and click “Open.”
+
+<figure><img src="../../../.gitbook/assets/SCR-20251216-mnhh-2.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+### Install and load packages
+
+1. After completing the previous step, you will see "script\_installing packages.R" under "Files."
+   1. Click on "script\_installing packages.R."
+2. As soon as you click on "script\_installing packages.R," you will see the content of this file on the left side.
+   1. Highlight all the lines under the “Install and load packages.”
+3. Click "Run."
+
+<figure><img src="../../../.gitbook/assets/SCR-20251216-mpjj-2.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+### Wait
+
+This process will install all the packages we’ll be using throughout the semester. This process may take 15-20 minutes or shorter depending on your internet connection. This is a one-time process. You won't wait this long again during the semester.
+
+1. You will see a <mark style="color:red;">STOP</mark> sign.
+2. And, codes are running in the console (see the highlighted part #2). You should wait until the <mark style="color:red;">STOP</mark> sign in the console disappears and no more code is running in the console.
+3. During this process, if you see the pop-up window above (Updating Loaded Packages), click “No” every single time.
+
+<figure><img src="../../../.gitbook/assets/SCR-20251216-muda-2.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+### Load data
+
+1. When the process above is completed, scroll down on the script file. Highlight all the lines under the “Load data.”
+2. And, click "Run."
+{% endstep %}
 {% endstepper %}
+
+
 
 Follow the procedures described in the [RStudio lab assignment: account and packages assignment instructions](https://docs.google.com/document/d/1P0gpXCsAk03u9fSdHNdMpO43TCbHUoJT/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true).
 
