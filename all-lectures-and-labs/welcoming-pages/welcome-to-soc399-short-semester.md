@@ -34,7 +34,7 @@ This page will make you familiar with the course, structure, what to expect, and
 
 ## <mark style="color:orange;">"\[gr] Getting ready for the class" assignments (Module: Getting ready for the class)</mark> <a href="#getting-ready-for-the-class-module-assignments" id="getting-ready-for-the-class-module-assignments"></a>
 
-There are three assignments to get ready for the class. You can find these assignments under the "Getting ready for the class" module (The second module)
+There are three assignments to get ready for the class. You can find these assignments under the "Getting ready for the class" module (The second module).
 
 Feel free to submit assignments during the break if you wish. I will grade the assignments in 48 hours during the break.
 
