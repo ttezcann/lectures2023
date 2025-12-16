@@ -32,7 +32,7 @@ This page will make you familiar with the course, structure, what to expect, and
 
 [The syllabus is here](https://docs.google.com/document/d/1GchAY7eBQdqIeYfIK1zNzS9aBXTDQd5Q/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true), also under the "Resources" module of Canvas (The first module).
 
-## <mark style="color:orange;">"Getting ready for the class" module assignments</mark> <a href="#getting-ready-for-the-class-module-assignments" id="getting-ready-for-the-class-module-assignments"></a>
+## <mark style="color:orange;">"\[gr] Getting ready for the class" assignments (Module: Getting ready for the class)</mark> <a href="#getting-ready-for-the-class-module-assignments" id="getting-ready-for-the-class-module-assignments"></a>
 
 There are three assignments to get ready for the class. You can find these assignments under the "Getting ready for the class" module (The second module)
 
