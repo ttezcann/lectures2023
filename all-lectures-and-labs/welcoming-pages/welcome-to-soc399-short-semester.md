@@ -16,7 +16,7 @@ layout:
     visible: true
 ---
 
-# Welcome to SOC399 (short semester)
+# Welcome to SOC399 (short term)
 
 <figure><img src="../../.gitbook/assets/image.png" alt="" width="561"><figcaption></figcaption></figure>
 
