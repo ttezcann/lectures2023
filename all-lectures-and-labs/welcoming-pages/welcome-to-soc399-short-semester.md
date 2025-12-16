@@ -32,9 +32,9 @@ This page will make you familiar with the course, structure, what to expect, and
 
 [The syllabus is here](https://docs.google.com/document/d/1GchAY7eBQdqIeYfIK1zNzS9aBXTDQd5Q/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true), also under the "Resources" module of Canvas (The first module).
 
-## <mark style="color:orange;">"\[gr] Getting ready for the class" assignments (Module: Week 1)</mark> <a href="#getting-ready-for-the-class-module-assignments" id="getting-ready-for-the-class-module-assignments"></a>
+## <mark style="color:orange;">"Getting ready for the class" module assignments</mark> <a href="#getting-ready-for-the-class-module-assignments" id="getting-ready-for-the-class-module-assignments"></a>
 
-There are three assignments to get ready for the class. You can find these assignments under the Week 1 module.
+There are three assignments to get ready for the class. You can find these assignments under the "Getting ready for the class" module (The second module)
 
 Feel free to submit assignments during the break if you wish. I will grade the assignments in 48 hours during the break.
 
@@ -61,6 +61,23 @@ Feel free to submit assignments during the break if you wish. I will grade the a
 {% endstep %}
 {% endstepper %}
 
+## <mark style="color:orange;">Class structure</mark> <a href="#class-structure" id="class-structure"></a>
+
+We have five lectures each week, except the Week 1 which includes three lectures.
+
+Below is a sample overview from a different class, which includes two lectures:
+
+1. Data collection in mass media research
+2. Content analysis and coding
+
+Each lecture is accompanied by two assignments (indented items are assignments associated with the specific lecture above):
+
+<figure><img src="https://ttezcan.gitbook.io/lectures/~gitbook/image?url=https%3A%2F%2F1373704161-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FFj6bxTviGJMBga1Kc5Yc%252Fuploads%252FzE9h96hT9ywbDfZFB1Il%252Fsoc120%2520soc399%2520modules%2520view%2520edited.png%3Falt%3Dmedia%26token%3D89b92c5c-df8e-4fb1-9760-2005dffbe7a8&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=fe27b051&#x26;sv=2" alt="A screenshot of a Canvas course module labeled Week 6 (02/24–03/02). Two lecture items are shown: “Data collection in mass media research” and “Content analysis and coding with Google Docs.” Under each lecture title are two indented assignments shaded in pink. For the first lecture, the assignments include a quiz and a basic content analysis task. For the second lecture, the assignments include a quiz and an initial/axial/focused coding assignment. Black arrows point to each lecture title with notes explaining that clicking the lecture will open the readings, slides, and lecture video. Green checkmarks indicate completion or publishing status."><figcaption></figcaption></figure>
+
+### <mark style="color:orange;">Where are the readings, slides, and lecture videos?</mark>
+
+Click on the lecture names (see figure above) to see the readings, slides, and lecture videos. See [\[Where are the readings, slides, and lecture videos?\]](https://ttezcan.gitbook.io/lectures/all-lectures-and-labs/guidelines-and-rubrics/where-are-the-readings-slides-and-lecture-videos)
+
 ## <mark style="color:orange;">Deadlines</mark> <a href="#deadlines" id="deadlines"></a>
 
 <figure><img src="../../.gitbook/assets/image (128).png" alt="Table explaining the deadline structure as described below."><figcaption></figcaption></figure>
@@ -85,28 +102,15 @@ Feel free to submit assignments during the break if you wish. I will grade the a
    5. If submitted by  Oct 6 - 11:59:00pm, the maximum grade could be 80 <mark style="color:red;">(4 days late; 20% deduction)</mark>.&#x20;
    6. Then the submission window closes. Not possible to submit this assignment.
 
-## <mark style="color:orange;">Class structure</mark> <a href="#class-structure" id="class-structure"></a>
-
-We have five lectures each week, except the Week 1 which includes three lectures.
-
-Below is a sample overview from a different class, which includes two lectures:
-
-1. Data collection in mass media research
-2. Content analysis and coding
-
-Each lecture is accompanied by two assignments (indented items are assignments associated with the specific lecture above):
-
-<figure><img src="https://ttezcan.gitbook.io/lectures/~gitbook/image?url=https%3A%2F%2F1373704161-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FFj6bxTviGJMBga1Kc5Yc%252Fuploads%252FzE9h96hT9ywbDfZFB1Il%252Fsoc120%2520soc399%2520modules%2520view%2520edited.png%3Falt%3Dmedia%26token%3D89b92c5c-df8e-4fb1-9760-2005dffbe7a8&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=fe27b051&#x26;sv=2" alt="A screenshot of a Canvas course module labeled Week 6 (02/24–03/02). Two lecture items are shown: “Data collection in mass media research” and “Content analysis and coding with Google Docs.” Under each lecture title are two indented assignments shaded in pink. For the first lecture, the assignments include a quiz and a basic content analysis task. For the second lecture, the assignments include a quiz and an initial/axial/focused coding assignment. Black arrows point to each lecture title with notes explaining that clicking the lecture will open the readings, slides, and lecture video. Green checkmarks indicate completion or publishing status."><figcaption></figcaption></figure>
-
-### <mark style="color:orange;">Where are the readings, slides, and lecture videos?</mark>
-
-Click on the lecture names (see figure above) to see the readings, slides, and lecture videos. See [\[Where are the readings, slides, and lecture videos?\]](https://ttezcan.gitbook.io/lectures/all-lectures-and-labs/guidelines-and-rubrics/where-are-the-readings-slides-and-lecture-videos)
-
 ## <mark style="color:orange;">Assignments</mark> <a href="#assignments" id="assignments"></a>
 
-1. **Lecture assignments**: Each lecture comes with an assignment.
-2. **Lecture quizzes**: Each lecture comes with a quiz.
+1. **Lecture assignments (70%)**: Each lecture comes with an assignment.
+2. **Lecture quizzes (30%)**: Each lecture comes with a quiz.
    1. **\[Optional] Lecture reflection**: No need to submit a lecture reflection if you're satisfied with your lecture quiz.  Low in-class quizzes can be compensated with a [lecture reflection](https://ttezcan.gitbook.io/lectures/all-lectures-and-labs/guidelines-and-rubrics/lecture-reflections#video-reflection-guidelines).
+
+{% hint style="success" %}
+There will be no exam.
+{% endhint %}
 
 ### <mark style="color:orange;">Assignment submissions</mark> <a href="#assignment-submissions" id="assignment-submissions"></a>
 
