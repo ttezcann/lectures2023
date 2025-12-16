@@ -1,4 +1,8 @@
-# How to create RStudio Cloud account and installing all the packages
+---
+hidden: true
+---
+
+# Copy of How to create RStudio Cloud account and installing all the packages
 
 ## General instructions
 
@@ -39,6 +43,8 @@ I recommend [Bitward Free Password Generator](https://bitwarden.com/password-gen
 <figure><img src="../../../.gitbook/assets/SCR-20251216-mayi-2.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
+
+<figure><img src="../../../.gitbook/assets/image (129).png" alt=""><figcaption></figcaption></figure>
 
 Follow the procedures described in the [RStudio lab assignment: account and packages assignment instructions](https://docs.google.com/document/d/1P0gpXCsAk03u9fSdHNdMpO43TCbHUoJT/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true).
 

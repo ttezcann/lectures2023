@@ -111,6 +111,7 @@
       * [Regression assumptions and diagnostics](all-lectures-and-labs/r-lab/lab-lectures/regression-assumptions-and-diagnostics.md)
     * [Lab resources](all-lectures-and-labs/r-lab/lab-resources/README.md)
       * [How to create RStudio Cloud account and installing all the packages](all-lectures-and-labs/r-lab/lab-resources/how-to-use-rstudio-cloud.md)
+      * [Copy of How to create RStudio Cloud account and installing all the packages](all-lectures-and-labs/r-lab/lab-resources/copy-of-how-to-create-rstudio-cloud-account-and-installing-all-the-packages.md)
       * [How to open and use R script files in RStudio Cloud](all-lectures-and-labs/r-lab/lab-resources/how-to-open-and-use-r-script-files-in-rstudio-cloud.md)
       * [Flashcards](all-lectures-and-labs/r-lab/lab-resources/flashcards.md)
       * [All R script files](all-lectures-and-labs/r-lab/lab-resources/all-r-script-files.md)
