@@ -12,7 +12,7 @@
 
 ## Assignment
 
-* [Conspiracy theories on Reddit](https://docs.google.com/document/d/1iOL8WSqtVsuHbBBBklrRy8plGxAL-DWT?rtpof=true\&usp=drive_fs)
+* [Conspiracy theories on Reddit](https://docs.google.com/document/d/18k35wLc8ux0qs2opS4XL5j0R-A6Qo2nC/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
 
 ## Video
 
