@@ -31,13 +31,32 @@ In-person office hours: before/after classes or my office\*
 | (15) Wednesday  | 4:00 - 4:15 pm - CAHSS (2306)\*  |
 | ​(16) Wednesday | ​4:15 - 4:30 pm - CAHSS (2306)\* |
 
-## <mark style="color:orange;">**Guidance**</mark> <a href="#video-guidance-on-scheduling-and-canceling-a-meeting" id="video-guidance-on-scheduling-and-canceling-a-meeting"></a>
+## <mark style="color:orange;">**Cancelling a meeting**</mark>
 
-### Scheduling a meeting
+{% stepper %}
+{% step %}
+### Check your inbox
 
-### **Cancelling a meeting** <a href="#cancelling-a-meeting" id="cancelling-a-meeting"></a>
+You receive an email for the appointment.
 
-1. The event will appear on your Google Calendar when you click on "Book."
-2. Click on the event and "Cancel appointment"
+1. Click "Cancel appointment."
 
-![](https://images.gitbook.com/__img/dpr=2,width=760,onerror=redirect,format=auto,signature=895938313/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%2FEz6ZXrnjxc8UIdVrmJXn%2Fuploads%2FQQ9ApRNfMg3la8xJOZ6K%2Fimage.png%3Falt%3Dmedia%26token%3Df9355809-4d2d-4a1f-b8c1-fa42853f68e3)
+<figure><img src="../../../.gitbook/assets/SCR-20251217-ivzs-2.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+### The first dialogue box
+
+1. Click "Cancel your appointment."
+
+<figure><img src="../../../.gitbook/assets/SCR-20251217-iwkf-2.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+### The second dialogue box
+
+1. Click "Confirm."
+
+<figure><img src="../../../.gitbook/assets/SCR-20251217-iwnp-2.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+{% endstepper %}

@@ -30,13 +30,32 @@ layout:
 
 <table data-header-hidden><thead><tr><th width="228.07421875">No - Day</th><th>Time - Room</th></tr></thead><tbody><tr><td>(1) Tuesday</td><td>10:00 - 10:15 am (Zoom)</td></tr><tr><td>(2) Tuesday</td><td>10:15 - 10:30 am (Zoom)</td></tr><tr><td>(3) Tuesday</td><td>10:30 - 10:45 am (Zoom)</td></tr><tr><td>(4) Tuesday</td><td>10:45 - 11:00 am (Zoom)</td></tr><tr><td></td><td></td></tr><tr><td>(5) Thursday</td><td>10:00 - 10:15 am (Zoom)</td></tr><tr><td>(6) Thursday</td><td>10:15 - 10:30 am (Zoom)</td></tr><tr><td>​(7) Thursday</td><td>10:30 - 10:45 am (Zoom)</td></tr><tr><td>(8) Thursday</td><td>10:45 - 11:00 am (Zoom)</td></tr></tbody></table>
 
-## <mark style="color:orange;">**Guideline**</mark>
+## <mark style="color:orange;">**Cancelling a meeting**</mark>
 
-### <mark style="color:orange;">Scheduling a meeting</mark>
+{% stepper %}
+{% step %}
+### Check your inbox
 
-### <mark style="color:orange;">**Cancelling a meeting**</mark>
+You receive an email for the appointment.
 
-1. The event will appear on your Google Calendar when you click on "Book."
-2. Click on the event and "Cancel appointment"
+1. Click "Cancel appointment."
 
-<figure><img src="../../../.gitbook/assets/image (82).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/SCR-20251217-ivzs-2.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+### The first dialogue box
+
+1. Click "Cancel your appointment."
+
+<figure><img src="../../../.gitbook/assets/SCR-20251217-iwkf-2.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+### The second dialogue box
+
+1. Click "Confirm."
+
+<figure><img src="../../../.gitbook/assets/SCR-20251217-iwnp-2.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+{% endstepper %}
