@@ -2,12 +2,12 @@
 
 ## <mark style="color:orange;">Office hours</mark>
 
-During Fall and Spring terms, we can meet in-person or online.
+During the **Fall** and **Spring** terms, we can meet in-person or online.
 
-During Winter and Summer terms, we can meet online.
+During the **Winter** and **Summer** terms, we can meet online.
 
 * 👨‍💻 <mark style="color:red;">**ONLINE:**</mark> [Schedule an ONLINE meeting](office-hours/online-office-hours.md)
-* 🏫 <mark style="color:red;">**IN-PERSON:**</mark> [Schedule an IN-PERSON meeting](https://app.gitbook.com/o/cXVHRKHGch1v3h85o0hC/s/Ez6ZXrnjxc8UIdVrmJXn/ay-office-hours)
+* 🏫 <mark style="color:red;">**IN-PERSON:**</mark> [Schedule an IN-PERSON meeting](office-hours/in-person-office-hours.md)
 
 You may email me if the regular office hours absolutely do not work for you, but you must include a wide range of availability for each day. For example:&#x20;
 
