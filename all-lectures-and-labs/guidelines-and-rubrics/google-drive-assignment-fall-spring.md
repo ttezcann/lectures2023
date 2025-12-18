@@ -1,4 +1,4 @@
-# Google Drive assignment
+# Google Drive assignment (fall-spring)
 
 {% hint style="warning" %}
 Students **cannot** continue this class without getting full credit from this assignment (unlimited attempts).&#x20;
@@ -86,26 +86,29 @@ Go to [https://drive.google.com/drive](https://drive.google.com/drive) and make 
 
     <mark style="color:red;">**Note:**</mark> Depending on the semester, you may see 4, 8, or 17 Week names below. You need to repeat this 4 times if you see 4 week names; 8 times if you see 8 week names; 17 times if you see 17 week names below:
 
-    * Week 1 (01/19 - 01/25)
-    * Week 2 (01/26 - 02/01)
-    * Week 3 (02/02 - 02/08)
-    * Week 4 (02/09 - 02/15)
-    * Week 5 (02/16 - 02/22)
-    * Week 6 (02/23 - 03/01)
-    * Week 7 (03/02 - 03/08)
-    * Week 8 (03/09 - 03/15)
-    * Week 9 (03/16 - 03/22)
-    * Week 10 (03/23 - 03/29)
-    * Week 11 (03/30 - 04/05)
-    * Week 12 (04/06 - 04/12)
-    * Week 13 (04/13 - 04/19)
-    * Week 14 (04/20 - 04/26)
-    * Week 15 (04/27 - 05/03)
-    * Week 16 (05/04 - 05/10)
-    * Week 17 (05/11 - 05/17)
+<table data-full-width="true"><thead><tr><th width="215.640625">Winter 26</th><th width="236.9375">Spring 26</th><th>Summer 26</th><th>Fall 26</th></tr></thead><tbody><tr><td>Week 1 (12/22 - 12/26)</td><td>Week 1 (01/19 - 01/25)</td><td>Week 1 (01/19 - 01/25)</td><td>Week 1 (01/19 - 01/25)</td></tr><tr><td>Week 2 (12/29 - 01/02)</td><td>Week 2 (01/26 - 02/01)</td><td></td><td></td></tr><tr><td>Week 3 (01/05 - 01/09)</td><td>Week 3 (02/02 - 02/08)</td><td></td><td></td></tr><tr><td>Week 4 (01/12 - 01/16)</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr></tbody></table>
+
+* Week 1 (01/19 - 01/25)
+* Week 2 (01/26 - 02/01)
+* Week 3 (02/02 - 02/08)
+* Week 4 (02/09 - 02/15)
+* Week 5 (02/16 - 02/22)
+* Week 6 (02/23 - 03/01)
+* Week 7 (03/02 - 03/08)
+* Week 8 (03/09 - 03/15)
+* Week 9 (03/16 - 03/22)
+* Week 10 (03/23 - 03/29)
+* Week 11 (03/30 - 04/05)
+* Week 12 (04/06 - 04/12)
+* Week 13 (04/13 - 04/19)
+* Week 14 (04/20 - 04/26)
+* Week 15 (04/27 - 05/03)
+* Week 16 (05/04 - 05/10)
+* Week 17 (05/11 - 05/17)
 
 
-5. Click "Create" after pasting each Week name.
+
+1. Click "Create" after pasting each Week name.
 
 <figure><img src="../../.gitbook/assets/SCR-20251211-jltj-2.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
