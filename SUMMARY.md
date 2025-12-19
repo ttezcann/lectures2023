@@ -29,7 +29,6 @@
     * [Which apps to download](all-lectures-and-labs/guidelines-and-rubrics/which-apps-to-download.md)
     * [How to use VPN (for Windows and macOS)](all-lectures-and-labs/guidelines-and-rubrics/how-to-use-vpn-for-windows-and-macos.md)
     * [Letter of recommendation requests](all-lectures-and-labs/guidelines-and-rubrics/letter-of-recommendation-requests.md)
-    * [Google Drive assignment (winter-summer)](all-lectures-and-labs/guidelines-and-rubrics/google-drive-assignment-winter-summer.md)
     * [Google Drive assignment](all-lectures-and-labs/guidelines-and-rubrics/google-drive-assignment.md)
   * [Lectures](all-lectures-and-labs/lectures/README.md)
     * [Social research](all-lectures-and-labs/lectures/social-research/README.md)
