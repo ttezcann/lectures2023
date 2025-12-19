@@ -183,9 +183,9 @@ Scroll down and click "Begin."
 {% step %}
 ### Waiting for my feedback
 
-After the submission, you need to wait for my feedback for the assignments that you see the icon next to "Assignment type that you will use Google Drive class folder" (see the figure below).
+After the submission, you need to wait for my feedback.
 
-Each submission without getting full credit from this assignment will result in no credit for the subsequent assignments other than quiz and discussion type submissions (_if you see any on Canvas modules)_.&#x20;
+Each submission without getting full credit from this assignment will result in no credit for the subsequent assignments **other than quiz and discussion type submissions.** While waiting for my feedback, submit the quiz and discussion type submissions (_if you see any on Canvas modules)_.
 
 While waiting for my feedback, go ahead and submit quiz and discussion type assignments (_if you see any on Canvas modules_).
 
