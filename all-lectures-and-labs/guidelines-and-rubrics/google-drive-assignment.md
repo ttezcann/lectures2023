@@ -15,7 +15,7 @@ layout:
     visible: true
 ---
 
-# Google Drive assignment (fall-spring)
+# Google Drive assignment
 
 {% hint style="warning" %}
 Students **cannot** continue this class without getting full credit from this assignment (unlimited attempts).&#x20;
@@ -32,7 +32,7 @@ We will rely heavily on Google Drive and Google Docs in this course.&#x20;
 
 The purpose of this assignment is to create your Google Drive Class Folder.&#x20;
 
-All your class files (except quiz and discussion type submissions - _if you see any on Canvas modules_) will be stored on Google Drive Class Folder and will be submitted to Canvas from there using Google Drive LTI 1.3).
+All your assignment files (except quiz and discussion type submissions) will be stored on Google Drive Class Folder and will be submitted to Canvas from there using Google Drive LTI 1.3).
 {% endhint %}
 
 ## Assignment video
@@ -132,14 +132,6 @@ Go to [https://drive.google.com/drive](https://drive.google.com/drive) and make 
 * Week 16 (05/04-05/10)
 * Week 17 (05/11-05/17)
 {% endtab %}
-
-{% tab title="Summer 26" %}
-* TBD
-{% endtab %}
-
-{% tab title="Fall 26" %}
-* TBD
-{% endtab %}
 {% endtabs %}
 
 1. Click "Create" after pasting each Week name.
@@ -172,9 +164,9 @@ Go to [https://drive.google.com/drive](https://drive.google.com/drive) and make 
 
 Click on "\[gr] Google Drive assignment (must be submitted first)" under the "Getting ready for the class" Module on Canvas.
 
-Click "Begin."
+Scroll down and click "Begin."
 
-<figure><img src="../../.gitbook/assets/SCR-20251211-limd-2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 1. Right click on your Google Drive class folder.
 2. Click "Share."
@@ -185,15 +177,17 @@ Click "Begin."
 1. Paste (control or cmd + V) the link you copied from the step above.
 2. Click "Submit."
 
-<figure><img src="../../.gitbook/assets/SCR-20251211-ktre-2 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 ### Waiting for my feedback
 
-After the submission, you need to wait for my feedback.&#x20;
+After the submission, you need to wait for my feedback for the assignments that you see the icon next to "Assignment type that you will use Google Drive class folder" (see the figure below).
 
-Each submission without getting full credit from this assignment will result in no credit for the subsequent assignments other than quiz and discussion type submissions (_if you see any on Canvas modules)_.
+Each submission without getting full credit from this assignment will result in no credit for the subsequent assignments other than quiz and discussion type submissions (_if you see any on Canvas modules)_.&#x20;
+
+While waiting for my feedback, go ahead and submit quiz and discussion type assignments (_if you see any on Canvas modules_).
 
 The type of submission is indicated by the icons next to the assignments on Canvas, as follows:
 
