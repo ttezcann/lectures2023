@@ -10,5 +10,4 @@ When you click there, the following page will pop up. I recommend that you click
 
 Then you will see all the materials:
 
-<figure><img src="../../.gitbook/assets/image (58).png" alt=""><figcaption></figcaption></figure>
-
+<figure><img src="../../.gitbook/assets/image (134).png" alt=""><figcaption></figcaption></figure>

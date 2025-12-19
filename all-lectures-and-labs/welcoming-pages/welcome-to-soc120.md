@@ -60,18 +60,20 @@ Feel free to submit assignments during the break if you wish. I will grade the a
 
 We have two lectures each week.&#x20;
 
-Below is a sample overview from a different class, which includes two lectures:
+Below is a sample overview from SOC120 class.
 
-1. Data collection in mass media research
-2. Content analysis and coding
+1. Claims and evidence
+2. Everyday arguments
 
 Each lecture is accompanied by two assignments (indented items are assignments associated with the specific lecture above):
 
-<figure><img src="../../.gitbook/assets/soc120 soc399 modules view edited (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (137).png" alt=""><figcaption></figcaption></figure>
+
+### <mark style="color:orange;">Where are the readings, slides, and lecture videos?</mark>
 
 Click on the lecture names to see the readings, slides, and lecture videos. See [\[Where are the readings, slides, and lecture videos?\]](https://ttezcan.gitbook.io/lectures/all-lectures-and-labs/guidelines-and-rubrics/where-are-the-readings-slides-and-lecture-videos)
 
-<figure><img src="../../.gitbook/assets/image (120).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (136).png" alt="" width="512"><figcaption></figcaption></figure>
 
 ## <mark style="color:orange;">General format of the lectures</mark>
 
@@ -82,9 +84,8 @@ The general format of the lectures is as follows, though note that adjustments m
 ## <mark style="color:orange;">Assignments</mark>
 
 1. **Lecture assignments**: Each lecture comes with an assignment. We'll start (and most of the time finish) these assignments during the class.
-2. **Lecture quizzes**: Each lecture comes with a quiz. Taken in the classroom and cannot be taken outside the classroom.\
-   \
-   &#xNAN;**\[Optional] Lecture reflection**: No need to submit a lecture reflection if you're satisfied with your lecture quiz. Low in-class quizzes can be compensated with a [lecture reflection](https://ttezcan.gitbook.io/lectures/all-lectures-and-labs/guidelines-and-rubrics/lecture-reflections#video-reflection-guidelines).&#x20;
+2. **Lecture quizzes**: Each lecture comes with a quiz. Taken in the classroom and cannot be taken outside the classroom.
+   1. **\[Optional] Lecture reflection**: No need to submit a lecture reflection if you're satisfied with your lecture quiz. Low in-class quizzes can be compensated with a [lecture reflection](https://ttezcan.gitbook.io/lectures/all-lectures-and-labs/guidelines-and-rubrics/lecture-reflections#video-reflection-guidelines).&#x20;
 
 ## <mark style="color:orange;">Research memo</mark>
 

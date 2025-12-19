@@ -1,6 +1,6 @@
 # Welcome to SOC120 (short term)
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt="" width="534"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt="" width="356"><figcaption></figcaption></figure>
 
 ## <mark style="color:orange;">Welcome!</mark> <a href="#welcome" id="welcome"></a>
 
@@ -47,18 +47,23 @@ Feel free to submit assignments during the break if you wish. I will grade the a
 
 We have five lectures each week, except the Week 1 which includes three lectures.
 
-Below is a sample overview from a different class, which includes two lectures:
+Below is a sample overview from SOC120 class, which includes five lectures for Week 3:
 
-1. Data collection in mass media research
-2. Content analysis and coding
+1. Claims and evidence
+2. Everyday arguments
+3. Misinformation and disinformation
+4. Propaganda
+5. Conspiracy theories
 
 Each lecture is accompanied by two assignments (indented items are assignments associated with the specific lecture above):
 
-<figure><img src="https://ttezcan.gitbook.io/lectures/~gitbook/image?url=https%3A%2F%2F1373704161-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FFj6bxTviGJMBga1Kc5Yc%252Fuploads%252FzE9h96hT9ywbDfZFB1Il%252Fsoc120%2520soc399%2520modules%2520view%2520edited.png%3Falt%3Dmedia%26token%3D89b92c5c-df8e-4fb1-9760-2005dffbe7a8&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=fe27b051&#x26;sv=2" alt="A screenshot of a Canvas course module labeled Week 6 (02/24–03/02). Two lecture items are shown: “Data collection in mass media research” and “Content analysis and coding with Google Docs.” Under each lecture title are two indented assignments shaded in pink. For the first lecture, the assignments include a quiz and a basic content analysis task. For the second lecture, the assignments include a quiz and an initial/axial/focused coding assignment. Black arrows point to each lecture title with notes explaining that clicking the lecture will open the readings, slides, and lecture video. Green checkmarks indicate completion or publishing status."><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/SCR-20251219-htzp-2.png" alt="" width="555"><figcaption></figcaption></figure>
 
 ### <mark style="color:orange;">Where are the readings, slides, and lecture videos?</mark>
 
 Click on the lecture names (see figure above) to see the readings, slides, and lecture videos. See [\[Where are the readings, slides, and lecture videos?\]](https://ttezcan.gitbook.io/lectures/all-lectures-and-labs/guidelines-and-rubrics/where-are-the-readings-slides-and-lecture-videos)
+
+<figure><img src="../../.gitbook/assets/SCR-20251219-hxst (1).png" alt="" width="512"><figcaption></figcaption></figure>
 
 ## <mark style="color:orange;">Deadlines</mark> <a href="#deadlines" id="deadlines"></a>
 
