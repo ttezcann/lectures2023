@@ -17,7 +17,7 @@ layout:
 
 # Introduce yourself
 
-{% hint style="info" %}
+{% hint style="success" %}
 There are three parts for this submission:
 
 1. Pronunciation of your first and last name
