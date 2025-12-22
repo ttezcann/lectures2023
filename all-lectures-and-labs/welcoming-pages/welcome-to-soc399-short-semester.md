@@ -1,5 +1,4 @@
 ---
-noIndex: true
 layout:
   width: default
   title:
@@ -11,14 +10,14 @@ layout:
   outline:
     visible: true
   pagination:
-    visible: true
+    visible: false
   metadata:
-    visible: true
+    visible: false
 ---
 
 # Welcome to SOC399 (short term)
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt="" width="374"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt="" width="374"><figcaption></figcaption></figure>
 
 ## <mark style="color:orange;">Welcome!</mark> <a href="#welcome" id="welcome"></a>
 
