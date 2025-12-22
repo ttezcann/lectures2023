@@ -23,7 +23,7 @@ layout:
 
 Welcome to SOC120 - Thinking Sociologically!
 
-My name is Tolga Tezcan, Associate Professor of Cociology, and I'm your instructor. [You can check my CV here](https://docs.google.com/document/d/16HdRvPXse_88mQysbXL6SdoQP2MEhRmX/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true).
+My name is Tolga Tezcan, Associate Professor of Sociology, and I'm your instructor. [You can check my CV here](https://docs.google.com/document/d/16HdRvPXse_88mQysbXL6SdoQP2MEhRmX/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true).
 
 This page will make you familiar with the course, structure, what to expect, and some other important information.
 
