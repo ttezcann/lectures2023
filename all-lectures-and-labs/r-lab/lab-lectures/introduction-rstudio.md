@@ -22,7 +22,7 @@
 
 {% embed url="https://drive.google.com/open?id=1fI0b0ui-kVh2hHlWeAaw0mlu8CSa1aZR&usp=drive_fs" %}
 
-## Lab assignment video
+## Sample lab assignment video
 
 {% embed url="https://drive.google.com/open?id=1v3jfwrnZvJ0eqDgi9wJ5f3uTa7QYN1Eq&usp=drive_fs" %}
 

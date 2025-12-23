@@ -83,7 +83,7 @@ Note: In previous semesters, many students mistakenly created a separate project
 ### Download the specific R script file for this assignment
 
 1. [**Click here and download script\_installing packages.R**](https://drive.google.com/open?id=1dSgvAslE39sRxC_E08aHIffPipT9um8U\&usp=drive_fs)
-2. **Do not** click on this file.
+2. **Do not** click on this file. You will upload it to RStudio in the next step.
 
 <figure><img src="../../../.gitbook/assets/SCR-20251216-nfru-2.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
@@ -94,7 +94,7 @@ Note: In previous semesters, many students mistakenly created a separate project
 1. Click "Upload" on RStudio.
 2. Click "Choose file." Find the R script file you just downloaded (script\_installing packages.R) in the previous step and click “Open.”
 
-<figure><img src="../../../.gitbook/assets/SCR-20251216-mnhh-2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/SCR-20251216-mnhh-2.png" alt="A screenshot of the RStudio interface showing the Upload Files dialog open. The dialog displays the target directory /cloud/project, with a red callout highlighting the Choose File button and another highlighting the Upload button in the Files pane, indicating how to upload files into an RStudio cloud project."><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -106,7 +106,7 @@ Note: In previous semesters, many students mistakenly created a separate project
    1. Highlight all the lines under the “Install and load packages.”
 3. Click "Run."
 
-<figure><img src="../../../.gitbook/assets/SCR-20251216-mpjj-2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/SCR-20251216-mpjj-2.png" alt="A screenshot of the RStudio interface demonstrating how to install packages. The Files pane highlights a script named script_installing packages.R (labeled 1). In the Source pane, a block of code for installing and loading packages is highlighted in red (labeled 2). A large red circle emphasizes the Run button at the top of the Source pane (labeled 3), indicating that the user should select the highlighted code and click Run to execute it."><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -132,7 +132,7 @@ You won't wait this long again during the semester.
 4. Take a screenshot of this view as you will submit this view to Canvas.
    1. [\[Instructions: How to take a screenshot\]](https://ttezcan.gitbook.io/lectures/all-lectures-and-labs/guidelines-and-rubrics/how-to-take-a-screenshot)
 
-<figure><img src="../../../.gitbook/assets/SCR-20251216-mwtc-2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/SCR-20251216-mwtc-2.png" alt="A screenshot of the RStudio interface showing how to load data using an R script. In the Source pane, a block of code labeled “Load data” is highlighted in red (label 1). The Run button at the top of the Source pane is circled and pointed out (label 2), indicating how to execute the selected code. In the Environment pane on the right, two newly loaded objects—gss and key—are highlighted (label 3), confirming that the data were successfully loaded."><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}

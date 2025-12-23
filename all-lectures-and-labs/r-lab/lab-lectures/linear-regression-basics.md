@@ -28,8 +28,6 @@
 
 ## Sample lab assignment video
 
-[sample lab assignment google doc](https://docs.google.com/document/d/1ajX4ou8l1TyWwFr6e-KESzkLgeCzyKuB?rtpof=true\&usp=drive_fs)
-
 {% embed url="https://drive.google.com/file/d/1jvxOHQVWbARraibIJJxuE5S3xIsZ2aZo/view?usp=drive_link" %}
 
 ## Lecture reflection

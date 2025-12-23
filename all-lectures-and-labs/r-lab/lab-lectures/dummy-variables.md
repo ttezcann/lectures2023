@@ -24,8 +24,6 @@
 
 ## Sample lab assignment video <a href="#sample-lab-assignment-video" id="sample-lab-assignment-video"></a>
 
-[sample lab assignment google doc](https://docs.google.com/document/d/1V-FicIfqEGZZvaZMUAlwe7rDS0crTjQZ/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
-
 {% embed url="https://drive.google.com/open?id=1wLTRSSSjlD0k0N8NKH_noaQirP3wXKve&usp=drive_fs" %}
 
 ## Lecture reflection
