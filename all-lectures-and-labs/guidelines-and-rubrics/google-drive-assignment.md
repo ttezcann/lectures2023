@@ -101,7 +101,7 @@ Go to [https://drive.google.com/drive](https://drive.google.com/drive) and make 
     1. Copy (control or cmd + C)&#x20;
     2. Paste (control or cmd + V).
 
-    <mark style="color:red;">**Note:**</mark> Depending on the semester, there are different numbers of weekly folders. You need to repeat this 4 times if you see 4 week names; 8 times if you see 8 week names; 17 times if you see 17 week names below.
+    <mark style="color:red;">**Note:**</mark> Depending on the semester, there are different numbers of weekly folders. You need to repeat this 4 times if you see 4 week names; 8 times if you see 8 week names; 16 times if you see 16 week names below.
 
 <mark style="color:red;">Choose the tab</mark> for the semester you are enrolled in this class:
 
@@ -124,13 +124,12 @@ Go to [https://drive.google.com/drive](https://drive.google.com/drive) and make 
 * Week 8 (03/09-03/15)
 * Week 9 (03/16-03/22)
 * Week 10 (03/23-03/29)
-* Week 11 (03/30-04/05)
-* Week 12 (04/06-04/12)
-* Week 13 (04/13-04/19)
-* Week 14 (04/20-04/26)
-* Week 15 (04/27-05/03)
-* Week 16 (05/04-05/10)
-* Week 17 (05/11-05/17)
+* Week 11 (04/06-04/12)
+* Week 12 (04/13-04/19)
+* Week 13 (04/20-04/26)
+* Week 14 (04/27-05/03)
+* Week 15 (05/04-05/10)
+* Week 16 (05/11-05/17)
 {% endtab %}
 {% endtabs %}
 
