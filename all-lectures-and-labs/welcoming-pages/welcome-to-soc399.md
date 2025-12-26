@@ -92,7 +92,7 @@ Feel free to submit assignments during the break if you wish. I will grade the a
 
 ### <mark style="color:orange;">Where are the due dates?</mark> <a href="#deadlines" id="deadlines"></a>
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. The Modules page show each assignment's due date.
 2. When you click on the assignment, you see more details, such as "Due" again, and
@@ -115,13 +115,13 @@ Below is a sample overview from SOC120 class.
 
 Each lecture is accompanied by two assignments (indented items are assignments associated with the specific lecture above):
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:orange;">Where are the readings, slides, and lecture videos?</mark>
 
 Click on the lecture names to see the readings, slides, and lecture videos. See [\[Where are the readings, slides, and lecture videos?\]](https://ttezcan.gitbook.io/lectures/all-lectures-and-labs/guidelines-and-rubrics/where-are-the-readings-slides-and-lecture-videos)
 
-<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:orange;">General format of the lectures</mark>
 

@@ -39,31 +39,27 @@ Make sure you have a RStudio Cloud account. Otherwise, get one and install all t
    1. Go to Canvas <mark style="color:red;">➜</mark> Resources module page <mark style="color:red;">➜</mark> “Lab resources” <mark style="color:red;">➜</mark> “All R script files” <mark style="color:red;">➜</mark> Click on the R Script file you need and download that file. [“All script files” is here](https://ttezcan.gitbook.io/lectures/all-lectures-and-labs/r-lab/lab-resources/all-r-script-files) for your convenience.
    2. For example, if you need the "Descriptive Statistics" R script file. Click on it and download:
 
-<figure><img src="../../../.gitbook/assets/ss_2024-07-16 16.55.54.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/ss_2024-07-16 16.55.54.png" alt="" width="563"><figcaption></figcaption></figure>
 
-3. **Uploading R script files 1:** On [RStudio Cloud website](https://posit.cloud/), click “Upload” (see highlighted part #2 below).&#x20;
+3. **Uploading R script files 1:** On [RStudio Cloud website](https://posit.cloud/), click “Upload” (see highlighted part #2 below). Click “Choose File.” Find the R script file you just downloaded (e.g., script\_descriptive.R) in the previous step, click “Open” and "OK."
 
-<figure><img src="../../../.gitbook/assets/image (65).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt="A screenshot of the RStudio interface showing the Upload Files dialog open. The dialog displays the target directory /cloud/project, with a red callout highlighting the Choose File button and another highlighting the Upload button in the Files pane, indicating how to upload files into an RStudio cloud project."><figcaption></figcaption></figure>
 
-4. **Uploading R script files 2:** Click “Choose File.” Find the R script file you just downloaded (script\_descriptive.R) in the previous step, click “Open” and "OK."
+4. **Opening R script files:** The file is uploaded and at the bottom of the "Files" list (see highlighted part #1). When you click on it, the descriptive R script file will open (see highlighted part #2).
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2).png" alt="A screenshot of the RStudio interface showing an open script titled script_intro.R in the Source pane on the left, with commented instructions and example R code. Red callouts highlight the script tab in the Source pane and the same file listed in the Files pane on the right, indicating where to open and locate the R script within the RStudio workspace."><figcaption></figcaption></figure>
 
-5. **Opening R script files:** The file is uploaded and at the bottom of the "Files" list (see highlighted part #1). When you click on it, the descriptive R script file will open (see highlighted part #2).
+6. **Installing and loading packages:** Make sure you click on the R script file name and open it (see highlighted part #1). Whenever we open RStudio, we highlight all the lines under the “Install and load packages” (see highlighted part #2) and click run (see highlighted part #3).
 
-<figure><img src="../../../.gitbook/assets/ss_2024-07-16 17.00.10.png" alt="" width="563"><figcaption></figcaption></figure>
-
-6. **Installing and loading packages:** Whenever we open RStudio, we highlight all the lines under the “Install and load packages” (see highlighted part #1) and click run (see highlighted part #2).
-
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3).png" alt="A screenshot of the RStudio interface demonstrating how to install packages. The Files pane highlights a script named script_installing packages.R (labeled 1). In the Source pane, a block of code for installing and loading packages is highlighted in red (labeled 2). A large red circle emphasizes the Run button at the top of the Source pane (labeled 3), indicating that the user should select the highlighted code and click Run to execute it."><figcaption></figcaption></figure>
 
 7. **Loading data:** When the process of installing and loading packages is completed, we highlight all the lines under the “Load data” (see highlighted part #1) and click “Run” (see highlighted part #2).  When you see “gss” and “key” (see highlighted part #3), it means we successfully installed and loaded the packages, and loaded the GSS data.
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4).png" alt="A screenshot of the RStudio interface showing how to load data using an R script. In the Source pane, a block of code labeled “Load data” is highlighted in red (label 1). The Run button at the top of the Source pane is circled and pointed out (label 2), indicating how to execute the selected code. In the Environment pane on the right, two newly loaded objects—gss and key—are highlighted (label 3), confirming that the data were successfully loaded."><figcaption></figcaption></figure>
 
 8. **Running the analysis codes:** We highlight the codes (see highlighted part #1) and click “Run” (see highlighted part #2). Clicking “Run” generates the analysis (see highlighted part #3).
 
-<figure><img src="../../../.gitbook/assets/image (139).png" alt="A screenshot of the RStudio interface showing an example of running code and viewing output. A line of code generating a frequency table for respondents’ sex is highlighted in the script editor, the Run button is circled to indicate execution, and the resulting frequency table appears in the Viewer pane with counts and percentages for male and female respondents." width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (139).png" alt="A screenshot of the RStudio interface showing an example of running code and viewing output. A line of code generating a frequency table for respondents’ sex is highlighted in the script editor, the Run button is circled to indicate execution, and the resulting frequency table appears in the Viewer pane with counts and percentages for male and female respondents."><figcaption></figcaption></figure>
 
 9.  **Using R script files - “working space” and outline view:** We do not edit or change anything on R script files except under “working space”(see highlighted part #1). Anything above the “working space” is teaching material!<br>
 
@@ -71,11 +67,11 @@ Make sure you have a RStudio Cloud account. Otherwise, get one and install all t
 
     For easy navigation click “Outline” (see highlighted part #2) to see the headings and subheadings.
 
-<figure><img src="../../../.gitbook/assets/SCR-20251226-jmyc-2.png" alt="A warning message states, “Do not edit or change anything on R script files except under ‘WORKING SPACE’ (#1).” The section labeled WORKING SPACE is highlighted in red within the script editor (label 1), indicating where users are allowed to make changes. At the top of the editor, a toolbar area is circled (label 2) showing the outline for easy navigation." width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/SCR-20251226-jmyc-2.png" alt="A warning message states, “Do not edit or change anything on R script files except under ‘WORKING SPACE’ (#1).” The section labeled WORKING SPACE is highlighted in red within the script editor (label 1), indicating where users are allowed to make changes. At the top of the editor, a toolbar area is circled (label 2) showing the outline for easy navigation."><figcaption></figcaption></figure>
 
 10. **Saving R script files:** When we make any changes, the font of the file name (shown in the highlighted part #2 above) will be red with an asterisk (\*) - (see the highlighted part #1 below). To save our progress, we click save (see the highlighted part #2 below)
 
-<figure><img src="../../../.gitbook/assets/SCR-20251226-jkop-2.png" alt="A screenshot of the RStudio interface illustrating how file-saving status is indicated. When changes are made, the script file name appears in red with an asterisk, indicating unsaved edits. Clicking the Save button stores the changes, after which the file name turns black, showing that all changes are saved." width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/SCR-20251226-jkop-2.png" alt="A screenshot of the RStudio interface illustrating how file-saving status is indicated. When changes are made, the script file name appears in red with an asterisk, indicating unsaved edits. Clicking the Save button stores the changes, after which the file name turns black, showing that all changes are saved."><figcaption></figcaption></figure>
 
 ***
 
@@ -87,11 +83,11 @@ Make sure you have a RStudio Cloud account. Otherwise, get one and install all t
 
 We need specific packages to conduct our analyses. Running the "install and run packages" is always the first step.
 
-<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 We can check the installed packages under “Packages.” Checkmark means that the specific packages are loaded for the session. If there is no checkmark, we have the package but it was not loaded.
 
-<figure><img src="../../../.gitbook/assets/image (4) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/SCR-20251226-jtei-2.png" alt="Packages view" width="563"><figcaption></figcaption></figure>
 
 For troubleshooting, make sure to run "install and run packages" codes, wait until the “STOP” sign in the console disappears, no more code is running in the console, and see "Package already installed: _package name_" (under the console in red font, see the first figure).
 
@@ -103,11 +99,11 @@ For troubleshooting, make sure to run "install and run packages" codes, wait unt
 
 Every time we open RStudio, we must load the data. Even if we see "gss" under “Environment,” we should run "load data" code again. If we do not see "gss" under "Environment," our codes will not work.
 
-<figure><img src="../../../.gitbook/assets/image (5) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4).png" alt="A screenshot of the RStudio interface showing how to load data using an R script. In the Source pane, a block of code labeled “Load data” is highlighted in red (label 1). The Run button at the top of the Source pane is circled and pointed out (label 2), indicating how to execute the selected code. In the Environment pane on the right, two newly loaded objects—gss and key—are highlighted (label 3), confirming that the data were successfully loaded."><figcaption></figcaption></figure>
 
 If the data is not loaded, we will get the following error (under the console):
 
-<figure><img src="../../../.gitbook/assets/image (6) (1) (1).png" alt="" width="313"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6) (1) (1) (1).png" alt="The error says &#x22;object &#x60;gss&#x60; not found&#x22;" width="313"><figcaption></figcaption></figure>
 
 For troubleshooting, make sure to run "install and run packages" codes and "load data" codes in order.
 
@@ -123,13 +119,13 @@ The codes for assignments will be put under the “working space”
 
 For easy navigation click “Outline” (see highlighted part #2) to see the headings and subheadings.
 
-<figure><img src="../../../.gitbook/assets/image (83).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/SCR-20251226-jmyc-2.png" alt="A warning message states, “Do not edit or change anything on R script files except under ‘WORKING SPACE’ (#1).” The section labeled WORKING SPACE is highlighted in red within the script editor (label 1), indicating where users are allowed to make changes. At the top of the editor, a toolbar area is circled (label 2) showing the outline for easy navigation."><figcaption></figcaption></figure>
 
 If we accidentally delete something from the R script file (above the working space), we can undo the changes using ctrl + Z for Windows or command + Z for macOS. If we lose track of the changes or cannot undo them, we simply re-upload the original R script file.
 
 If this happens, we should first rename the current R script file because re-uploading the file will overwrite it and we lose our previous progress. Based on the sample below, we can rename the file to 'script\_scripting\_previous.R' (make sure not to delete the ".R" file extension at the end). Click "check box" (see highlighted part #1) and click "Rename" (see highlighted part #2)&#x20;
 
-<figure><img src="../../../.gitbook/assets/ss_2024-07-24 14.55.33.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/ss_2024-07-24 14.55.33.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -147,9 +143,9 @@ The lab assignments will ask you to paste the code for specific questions. Write
 
 Whenever we run an analysis with a different variable, we create a model code and a working code.
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 This is a view from the [Code templates](https://ttezcan.gitbook.io/lect/all-lectures-and-labs/r-lab/lab-resources/code-templates) page. Triple click the code and copy, or click "Copy" (see the highlighted part).
 
@@ -157,15 +153,15 @@ This is a view from the [Code templates](https://ttezcan.gitbook.io/lect/all-lec
 
 If we don’t use model code for comparison, it is likely that we accidentally delete something extra. In this example, the comma was deleted.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="273"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="273"><figcaption></figcaption></figure>
 
 Instead, we keep the use model code and compare it with our working code. Here we clearly see that the comma is missing in line 79. Note that RStudio warns us that something is wrong with that red cross.
 
-<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1).png" alt="" width="321"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="321"><figcaption></figcaption></figure>
 
 After identifying what is missing, we can fix the working code. Once the working code functions correctly, we can delete the model code.
 
-<figure><img src="../../../.gitbook/assets/image (4) (1) (1) (1) (1).png" alt="" width="320"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1) (1) (1) (1) (1).png" alt="" width="320"><figcaption></figcaption></figure>
 
 ***
 
@@ -193,7 +189,7 @@ For multiple lines, we highlight the codes with mouse.
 
 Here's what happens if we don't:
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 It simply shows what we highlighted and run (check the console part), not the analysis (check the plots part).
 
@@ -215,7 +211,7 @@ Not putting a hashtag (#) will confuse RStudio.
 
 While line 29 will work, line 27 won’t. Here RStudio warns us that there is something wrong. Look at the red cross on line 27. When there is a red cross on the left side of the line number, there is something wrong with our codes.
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ***
 
@@ -277,7 +273,7 @@ When we want to display, for example, the frequency distribution of a recoded (n
 
 This is because, for our analysis, the original variable is no longer relevant. We recoded the original variable and created a new one for our analysis needs.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ***
 
@@ -291,7 +287,7 @@ It becomes <mark style="color:red;">CATEGORICAL</mark> because we have merged th
 
 Therefore, for example, we use the <mark style="color:red;">FRQ</mark> code to see the frequency distribution.
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ***
 
@@ -303,9 +299,9 @@ Therefore, for example, we use the <mark style="color:red;">FRQ</mark> code to s
 
 Use the [Code templates](https://ttezcan.gitbook.io/lect/all-lectures-and-labs/r-lab/lab-resources/code-templates) page and Model codes:
 
-<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (4) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ***
 
@@ -313,7 +309,7 @@ Use the [Code templates](https://ttezcan.gitbook.io/lect/all-lectures-and-labs/r
 
 ### Pasting the original variable to the correct place
 
-<figure><img src="../../../.gitbook/assets/image (5) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ***
 
@@ -323,7 +319,7 @@ Use the [Code templates](https://ttezcan.gitbook.io/lect/all-lectures-and-labs/r
 
 If variables are misplaced in the codes and have overwritten the original values, we have to “Load GSS” again, because we lost the values of the original variable and we need a fresh data.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ***
 
@@ -476,7 +472,7 @@ This may happen if your RStudio Cloud session consumes too much ram.
 
 3. Click "Download"
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 4. It will download a zip file.
 5. Go to your new account.

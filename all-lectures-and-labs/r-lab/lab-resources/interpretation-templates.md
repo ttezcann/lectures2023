@@ -23,7 +23,7 @@ Here's the order you need to follow:
 
 **Example 1:**&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}
 <mark style="color:green;">Correct:</mark> <mark style="color:orange;">The perceived discrimination at work because of age</mark> <mark style="color:orange;">variable</mark> shows that 7.93% of the respondents feel discriminated at work because of age and 92.07% do not.
@@ -115,7 +115,7 @@ Slides: [descriptive statistics](https://docs.google.com/presentation/d/1_rePJrP
 descr(gss$hapindex, out = "v", show = "short")
 ```
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Indicate the highest possible score in your interpretation <mark style="color:red;">➜ "Out of 3", "Out of 5", etc.</mark>
 
@@ -143,7 +143,7 @@ sjt.xtab(gss$sex, gss$health, show.row.prc = TRUE)
 
 Independent variable first (sex), dependent variable second (health)
 
-<figure><img src="../../../.gitbook/assets/image (5) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 _<mark style="color:blue;">Respondents' sex has no effect on the condition of health since the p-value is higher than 0.05. We can conclude that males and females have similar condition of health.</mark>_
@@ -171,7 +171,7 @@ sjt.xtab(gss$agegroups, gss$health, show.row.prc = TRUE)
 
 Independent variable first (agegroups), dependent variable second (health)
 
-<figure><img src="../../../.gitbook/assets/image (6) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 _<mark style="color:blue;">Age group has an effect on the condition of health since the p value is less than 0.05. We can conclude that 18-39 age group, 40-59 age group, and 60-89 age group have substantially different health conditions.</mark>_
@@ -363,7 +363,7 @@ wrap.labels = 30, p.numeric = TRUE, triangle="lower", na.deletion = "pairwise")
 
 Read "correlation analysis structure" above first.
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 _<mark style="color:blue;">There is a significant correlation between the socioeconomic index score of the respondents and the socioeconomic index score of the respondents’ spouses since the p-value is less than .05.</mark>_&#x20;
@@ -398,7 +398,7 @@ wrap.labels = 30, p.numeric = TRUE, triangle="lower", na.deletion = "pairwise")
 
 Read "correlation analysis structure" above first.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 _<mark style="color:blue;">There is a significant correlation between television screen time and percentage of time use at work using electronic technologies since the p-value is less than .05.</mark>_&#x20;
@@ -427,7 +427,7 @@ tab_corr (gss[, c("age", "educ")],
           wrap.labels = 30, p.numeric = TRUE, triangle="lower", na.deletion = "pairwise")
 ```
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 _<mark style="color:blue;">There is no significant correlation between the age of the respondents and the years of education since the p-value is higher than .05.</mark>_&#x20;
@@ -454,7 +454,7 @@ scatterplot <- ggscatter(gss, x = "tvhours", y = "usetech",
 scatterplot + stat_cor(p.accuracy = 0.001, r.accuracy = 0.01)
 ```
 
-<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Same interpretation as correlation analysis table:<br>
@@ -479,7 +479,7 @@ tab_corr (gss[, c("sei10", "spsei10", "tvhours", "usetech", "age", "educ", "mara
 wrap.labels = 30, p.numeric = TRUE, triangle="lower", na.deletion = "pairwise")
 ```
 
-<figure><img src="../../../.gitbook/assets/image (5).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Same interpretation as correlation analysis table and scatterplot graph:
@@ -502,7 +502,7 @@ pairs.panels(gss[, c("sei10", "spsei10", "tvhours", "usetech", "age", "educ", "m
 ellipses=F, scale=F, show.points=F, stars=T, ci=T)
 ```
 
-<figure><img src="../../../.gitbook/assets/image (6).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Same interpretation as correlation analysis table and scatterplot graph:
@@ -557,7 +557,7 @@ tab_model(model4, show.std = T, show.ci = F, collapse.se = T, p.style = "stars")
 
 &#x20;Dependent variable (conrinc) first, followed by the independent variables separated by a plus (+).
 
-<figure><img src="../../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### Linear regression analysis interpretation breakdown
 
@@ -699,7 +699,7 @@ Slides: [dummy variables](https://docs.google.com/presentation/d/14DvMvFfpo0zkmW
 
 ## Logistic regression analysis (with dummy variables)
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="515"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="515"><figcaption></figcaption></figure>
 
 ```r
 frq(gss$class, out = "v")
@@ -802,7 +802,7 @@ Negative Std.Beta =
 
 1➗ 0.80 = 1.25
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### Reporting of Tjur R-Squared
 
