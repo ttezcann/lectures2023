@@ -71,7 +71,7 @@ Make sure you have a RStudio Cloud account. Otherwise, get one and install all t
 
     For easy navigation click “Outline” (see highlighted part #2) to see the headings and subheadings.
 
-<figure><img src="../../../.gitbook/assets/SCR-20251226-jmyc-2.png" alt="A warning message states, “Do not edit or change anything on R script files except under ‘WORKING SPACE’ (#1).” The section labeled WORKING SPACE is highlighted in red within the script editor (label 1), indicating where users are allowed to make changes. At the top of the editor, a toolbar area is circled (label 2) showing the outline for easy navigation."><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/SCR-20251226-jmyc-2.png" alt="A warning message states, “Do not edit or change anything on R script files except under ‘WORKING SPACE’ (#1).” The section labeled WORKING SPACE is highlighted in red within the script editor (label 1), indicating where users are allowed to make changes. At the top of the editor, a toolbar area is circled (label 2) showing the outline for easy navigation." width="563"><figcaption></figcaption></figure>
 
 10. **Saving R script files:** When we make any changes, the font of the file name (shown in the highlighted part #2 above) will be red with an asterisk (\*) - (see the highlighted part #1 below). To save our progress, we click save (see the highlighted part #2 below)
 
