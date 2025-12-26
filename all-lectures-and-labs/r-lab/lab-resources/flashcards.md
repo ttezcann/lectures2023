@@ -63,7 +63,7 @@ Make sure you have a RStudio Cloud account. Otherwise, get one and install all t
 
 8. **Running the analysis codes:** We highlight the codes (see highlighted part #1) and click “Run” (see highlighted part #2). Clicking “Run” generates the analysis (see highlighted part #3).
 
-<figure><img src="../../../.gitbook/assets/image (139).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (139).png" alt="A screenshot of the RStudio interface showing an example of running code and viewing output. A line of code generating a frequency table for respondents’ sex is highlighted in the script editor, the Run button is circled to indicate execution, and the resulting frequency table appears in the Viewer pane with counts and percentages for male and female respondents." width="563"><figcaption></figcaption></figure>
 
 9.  **Using R script files - “working space” and outline view:** We do not edit or change anything on R script files except under “working space”(see highlighted part #1). Anything above the “working space” is teaching material!<br>
 
@@ -71,11 +71,11 @@ Make sure you have a RStudio Cloud account. Otherwise, get one and install all t
 
     For easy navigation click “Outline” (see highlighted part #2) to see the headings and subheadings.
 
-<figure><img src="../../../.gitbook/assets/ss_2024-07-24 09.40.36.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/SCR-20251226-jmyc-2.png" alt="A warning message states, “Do not edit or change anything on R script files except under ‘WORKING SPACE’ (#1).” The section labeled WORKING SPACE is highlighted in red within the script editor (label 1), indicating where users are allowed to make changes. At the top of the editor, a toolbar area is circled (label 2) showing the outline for easy navigation."><figcaption></figcaption></figure>
 
 10. **Saving R script files:** When we make any changes, the font of the file name (shown in the highlighted part #2 above) will be red with an asterisk (\*) - (see the highlighted part #1 below). To save our progress, we click save (see the highlighted part #2 below)
 
-<figure><img src="../../../.gitbook/assets/ss_2024-07-16 17.06.29.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/SCR-20251226-jkop-2.png" alt="A screenshot of the RStudio interface illustrating how file-saving status is indicated. When changes are made, the script file name appears in red with an asterisk, indicating unsaved edits. Clicking the Save button stores the changes, after which the file name turns black, showing that all changes are saved." width="563"><figcaption></figcaption></figure>
 
 ***
 
