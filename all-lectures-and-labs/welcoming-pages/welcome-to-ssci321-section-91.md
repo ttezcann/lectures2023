@@ -12,7 +12,7 @@ This page will make you familiar with the course, structure, what to expect, and
 
 ## <mark style="color:orange;">Syllabus</mark>
 
-[The syllabus is here](https://docs.google.com/document/d/1b1_U_ttN5HuvSU77VWxN7hvnnz6QQUBx), also under the "Resources" page of Canvas (The first module).
+[The syllabus is here](https://docs.google.com/document/d/1H1GJPg4y2MdKxv80nj31_bBr5w6pXNxd/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true), also under the "Resources" page of Canvas (The first module).
 
 ## <mark style="color:orange;">"Getting ready for the class" module assignments</mark>
 
