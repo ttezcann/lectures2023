@@ -163,7 +163,7 @@
       * [NVIVO file for final paper](all-lectures-and-labs/nvivo-lab/nvivo-lab-lectures/nvivo-file-for-final-paper.md)
   * [Welcoming pages](all-lectures-and-labs/welcoming-pages/README.md)
     * [Welcome to SSCI321-Section 1](all-lectures-and-labs/welcoming-pages/welcome-to-ssci321-section-1.md)
-    * [Welcome to SSCI321-Section 2](all-lectures-and-labs/welcoming-pages/welcome-to-ssci321-section-2.md)
+    * [Welcome to SSCI321-Section 91](all-lectures-and-labs/welcoming-pages/welcome-to-ssci321-section-91.md)
     * [Welcome to SOC399](all-lectures-and-labs/welcoming-pages/welcome-to-soc399.md)
     * [Welcome to SOC120](all-lectures-and-labs/welcoming-pages/welcome-to-soc120.md)
     * [Welcome to SOC399 (short term)](all-lectures-and-labs/welcoming-pages/welcome-to-soc399-short-semester.md)

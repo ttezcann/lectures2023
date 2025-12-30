@@ -1,53 +1,22 @@
----
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
-  metadata:
-    visible: false
----
+# Welcome to SSCI321-Section 91
 
-# Welcome to SOC399
-
-<figure><img src="../../.gitbook/assets/image (70).png" alt="" width="374"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## <mark style="color:orange;">Welcome!</mark>
 
-Welcome to SOC99 - Contemporary Immigration!
+Welcome to SSCI321 - Survey Research!
 
-My name is Tolga Tezcan, Associate Professor of Sociology, and I'm your instructor. [You can check my CV here](https://docs.google.com/document/d/16HdRvPXse_88mQysbXL6SdoQP2MEhRmX/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true).
+My name is Tolga Tezcan, associate professor of sociology, and I'm your instructor. [You can check my CV here](https://docs.google.com/document/d/16HdRvPXse_88mQysbXL6SdoQP2MEhRmX/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true).
 
 This page will make you familiar with the course, structure, what to expect, and some other important information.
 
 ## <mark style="color:orange;">Syllabus</mark>
 
-[The syllabus is here](https://docs.google.com/document/d/1r2ra11FDmrvDp4NEVylL4agdFsXcafsd/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true), also under the "Resources" page of Canvas (The first module).
-
-Read the syllabus before the first class and bring me your questions.
-
-## <mark style="color:orange;">First class</mark>
-
-Our first class is held on <mark style="color:red;">01/21</mark> - <mark style="color:red;">Wednesday at 10 am</mark> at [CAHSS](https://goo.gl/maps/hYxctdN9tuwBnjuT8) - 1102.
-
-Please arrive the classroom at least 5 minutes early.
-
-I will explain the class structure, go over the syllabus in detail, and answer your questions.
-
-There will be a **graded attendance quiz**. Make sure to bring an electronic device to take the attendance quiz on Canvas. Ensure you have access to Canvas.&#x20;
-
-If you cannot attend the first class, you have an opportunity to write 700 words lecture reflection to compensate for the missed points. Click on the "\[firstclass] First class attendance quiz" (module Week 1) for further details. You do not need to submit this if you attend the first class.&#x20;
+[The syllabus is here](https://docs.google.com/document/d/1b1_U_ttN5HuvSU77VWxN7hvnnz6QQUBx), also under the "Resources" page of Canvas (The first module).
 
 ## <mark style="color:orange;">"Getting ready for the class" module assignments</mark>
 
-There are four assignments to get ready for the class. You can find these assignments under the module named "Getting ready for the class" module (The second module).
+There are five assignments to get ready for the class. You can find these assignments under the module named "Getting ready for the class" (The second module).
 
 Feel free to submit assignments during the break if you wish. I will grade the assignments in 48 hours during the break.
 
@@ -67,7 +36,15 @@ Feel free to submit assignments during the break if you wish. I will grade the a
 {% endstep %}
 
 {% step %}
-**\[gr] Introduce yourself** <mark style="color:red;">(due by 01/21 - 11:58 pm)</mark>
+**\[gr] RStudio lab assignment: Account and packages** <mark style="color:red;">(due by 01/21 - 11:59 pm)</mark>
+
+* There is a video instruction for this assignment.
+* This assignment needs to be submitted third. When graded, you will receive a notification email with feedback. Follow the feedback and resubmit it until you receive full credit within the deadline.
+* Without receiving full credit from this assignment, students cannot continue the course.
+{% endstep %}
+
+{% step %}
+**\[gr] Introduce yourself** <mark style="color:red;">(due by 01/22 - 11:58 pm)</mark>
 
 * When graded, you will receive a notification email with feedback. Follow the feedback and resubmit it until you receive full credit within the deadline.&#x20;
 {% endstep %}
@@ -92,7 +69,7 @@ Feel free to submit assignments during the break if you wish. I will grade the a
 
 ### <mark style="color:orange;">Where are the due dates?</mark> <a href="#deadlines" id="deadlines"></a>
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. The Modules page show each assignment's due date.
 2. When you click on the assignment, you see more details, such as "Due" again, and
@@ -106,59 +83,48 @@ Feel free to submit assignments during the break if you wish. I will grade the a
 
 ## <mark style="color:orange;">Class structure</mark> <a href="#class-structure" id="class-structure"></a>
 
-We have two lectures each week.&#x20;
+We have two lectures each week. The first class is lab, the second class is regular lecture.&#x20;
 
-Below is a sample overview from SOC120 class.
+Below is a sample overview, which includes two lectures:
 
-1. Claims and evidence
-2. Everyday arguments
+1. RStudio: Descriptive statistics (lab lecture)
+2. Introduction to survey methodology (regular lecture)
 
 Each lecture is accompanied by two assignments (indented items are assignments associated with the specific lecture above):
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-### <mark style="color:orange;">Where are the readings, slides, and lecture videos?</mark>
+<figure><img src="../../.gitbook/assets/sbs321 modules view edited.png" alt=""><figcaption></figcaption></figure>
 
 Click on the lecture names to see the readings, slides, and lecture videos. See [\[Where are the readings, slides, and lecture videos?\]](https://ttezcan.gitbook.io/lectures/all-lectures-and-labs/guidelines-and-rubrics/where-are-the-readings-slides-and-lecture-videos)
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-### <mark style="color:orange;">General format of the lectures</mark>
-
-The general format of the lectures is as follows, though note that adjustments may be made for certain specific lectures:
-
-<figure><img src="../../.gitbook/assets/image (119).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (117).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## <mark style="color:orange;">Assignments</mark>
 
 ### <mark style="color:orange;">**Lecture assignments**</mark>
 
-Each lecture comes with an assignment. We'll start (and most of the time finish) these assignments during the class.
+Each regular lecture comes with an assignment.
 
 ### <mark style="color:orange;">Lecture quizzes</mark>
 
-**Lecture quizzes**: Each lecture comes with a quiz. Taken in the classroom and cannot be taken outside the classroom.
+Each lecture (both regular and lab) comes with a quiz.
 
-* **\[Optional] Lecture reflection**: No need to submit a lecture reflection if you're satisfied with your lecture quiz. Low in-class quizzes can be compensated with a [lecture reflection](https://ttezcan.gitbook.io/lectures/all-lectures-and-labs/guidelines-and-rubrics/lecture-reflections#video-reflection-guidelines).&#x20;
+* **\[Optional] Lecture reflection**: No need to submit a lecture reflection if you're satisfied with your lecture quiz. Low in-class quizzes can be compensated with a [lecture reflection](https://ttezcan.gitbook.io/lectures/all-lectures-and-labs/guidelines-and-rubrics/lecture-reflections#video-reflection-guidelines).
 
-### <mark style="color:orange;">Research memo and presentation</mark>
+### <mark style="color:orange;">**Lab assignments**</mark>
 
-During the term, students will be conducting content analysis focusing on any subject from the syllabus and addressing their own research interests.
+Each lab lecture comes with a lan assignment. These assignments are to assess their data analysis skills in RStudio. Each lab comes with a lab lecture video and sample lab assignment video.
 
-1. **\[DRM]** Draft research memo (10 points – 10%),
-2. **\[PRES]** Presentation (10 points – 10%),
-3. **\[FRM]** Final research memo (10 points – 10%).
+## <mark style="color:orange;">Exams</mark>
 
-Assignments designed to assist students in preparing components of the research memo will be graded under the “Research Memo (30%)” item. These assignments are identified by the label “\[DRM]” (Draft Research Memo), “\[PRES]” (Presentation), or “\[FRM]” (Final Research Memo) in their names.
+1. Midterm (<mark style="color:red;">03/20 due by 11:59pm</mark> @ online - time limited)
+2. Final exam (<mark style="color:red;">05/12 due by 11:59pm</mark> @ online - time limited)
 
-Draft research memo, presentation, and final research memo without data analysis (\[DRM] coding your own data for draft research memo) (Week 7 assignment) will automatically receive zero. Mathematically speaking, students who do not complete this assignment will fail. This assignment will be assigned twice. If students receive, for example, 85 from one of these assignments, the maximum grade they can get from draft research memo, presentation, and final research memo is 85.
-
-### <mark style="color:orange;">Assignment submissions</mark>
+## <mark style="color:orange;">Assignment submissions</mark>
 
 1. Assignments should not be attached. For this class, students will not download or upload any documents.
 2. Assignments should be submitted to Canvas using Google LTI: [\[How to submit an assignment\]](https://ttezcan.gitbook.io/lectures/all-lectures-and-labs/guidelines-and-rubrics/how-to-submit-an-assignment): This link is located at the top of each assignment.
 
-#### <mark style="color:orange;">Incorrect submissions</mark>
+## <mark style="color:orange;">Incorrect submissions</mark>
 
 {% stepper %}
 {% step %}
@@ -187,20 +153,15 @@ If mistakes are detected after submission and students wish to revise their assi
 
 ## <mark style="color:orange;">How to work for this class?</mark>
 
-1. Attend the classes.&#x20;
-2. Do the reading before coming to class.&#x20;
-3. Review the slides before coming to class.&#x20;
-4. Take notes during the class (paper-pen-method).&#x20;
-5. Watch the lecture videos after class if you were late or struggled.
-
-## <mark style="color:orange;">What are the benefits of attending classes?</mark>
-
-* **Less work:** No need to write a 700-word lecture reflection to compensate for each missed in-class quiz.
-* **Better comprehension:** During the 30-40 minute lecture, you will take notes for lecture quizzes, helping you better understand the content.
-* **Immediate feedback:** After the in-class quiz and a 5-minute break, you will begin the assignment, and I will provide individual feedback right away and answer any questions.
-* **One-on-one meetings:** I always arrive 15 minutes early to the class and stay 15 minutes late. Schedule an appointment and ask me your questions before or after class, or during the break.
-* **Making friends and networking:** Over half of the assignments are done in groups (2-3 members, with different peers each class). This helps you make friends and look forward to seeing each other.
-* **College Experience:** Regular attendance provides a real college life experience. College is more than just grades; it is about networking and developing social skills.
+1. Do the reading and take notes.
+2. Review the slides and take notes.
+3. Watch the lecture video and take notes.
+4. Review your notes, then take the lecture quiz.
+5. \[For lab lectures]&#x20;
+   1. Upload the specific lab lecture’s R script file to RStudio and watch the lecture video. As you watch, run the codes as shown on the video and take notes.
+   2. Watch the sample lab assignment video and take notes.
+   3. If you have errors in your previous lab assignments, review the correct code and interpretations that I post as Canvas comments. Paste that code into the specific R script files and run it.
+6. Complete the assignment.
 
 ## <mark style="color:orange;">Late enrollment</mark>
 
