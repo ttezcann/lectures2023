@@ -88,11 +88,11 @@ We have two lectures each week. The first class is lab, the second class is regu
 Below is a sample overview, which includes two lectures:
 
 1. RStudio: Descriptive statistics (lab lecture)
-2. Introduction to survey methodology (regular lecture)
+2. Concepts and indicators (regular lecture)
 
 Each lecture is accompanied by two assignments (indented items are assignments associated with the specific lecture above):
 
-<figure><img src="../../.gitbook/assets/sbs321 modules view edited.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/SCR-20251230-kniz-2.png" alt=""><figcaption></figcaption></figure>
 
 Click on the lecture names to see the readings, slides, and lecture videos. See [\[Where are the readings, slides, and lecture videos?\]](https://ttezcan.gitbook.io/lectures/all-lectures-and-labs/guidelines-and-rubrics/where-are-the-readings-slides-and-lecture-videos)
 
