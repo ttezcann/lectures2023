@@ -20,7 +20,7 @@ The video below shows how to complete this assignment from start to finish.
 
 > **Do not** submit this assignment <mark style="color:red;">without</mark> watching the video and read the instructions together.
 
-{% embed url="https://drive.google.com/file/d/1mgBJHsjDY1F8Tbig0Szjok4aGoxiaMNn/view" %}
+{% embed url="https://drive.google.com/file/d/1qS2xGpy1h04ojoOoFLOrW8rehxsr6cUL/view?usp=drive_link" %}
 
 ## Assignment instructions
 
