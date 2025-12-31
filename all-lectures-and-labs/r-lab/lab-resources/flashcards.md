@@ -43,7 +43,7 @@ Make sure you have a RStudio Cloud account. Otherwise, get one and install all t
 
 3. **Uploading R script files 1:** On [RStudio Cloud website](https://posit.cloud/), click “Upload” (see highlighted part #2 below). Click “Choose File.” Find the R script file you just downloaded (e.g., script\_descriptive.R) in the previous step, click “Open” and "OK."
 
-<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt="A screenshot of the RStudio interface showing the Upload Files dialog open. The dialog displays the target directory /cloud/project, with a red callout highlighting the Choose File button and another highlighting the Upload button in the Files pane, indicating how to upload files into an RStudio cloud project."><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt="A screenshot of the RStudio interface showing the Upload Files dialog open. The dialog displays the target directory /cloud/project, with a red callout highlighting the Choose File button and another highlighting the Upload button in the Files pane, indicating how to upload files into an RStudio cloud project."><figcaption></figcaption></figure>
 
 4. **Opening R script files:** The file is uploaded and at the bottom of the "Files" list (see highlighted part #1). When you click on it, the descriptive R script file will open (see highlighted part #2).
 
@@ -143,9 +143,9 @@ The lab assignments will ask you to paste the code for specific questions. Write
 
 Whenever we run an analysis with a different variable, we create a model code and a working code.
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image.png" alt="A teaching slide explaining how to work with R code using model code and working code. The slide states that users should never edit the original code in the R script file; instead, they copy a known-working example (called the model code) into a designated “working space.” Step 1 shows a model code line that generates a frequency table. Step 2 explains copying that line twice into the working space so one line remains unchanged as a reference. Step 3 shows editing only the second line to change the variable name (for example, replacing “marital” with “sex”); if the edited code fails, it is compared to the unchanged model code to troubleshoot."><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/SCR-20251231-ickl.png" alt="A teaching slide explaining how to work with R code using model codes from a separate Code templates page. The slide emphasizes that users should never type or modify code directly in the lab R script; instead, they create a model code and a working code.  Step 1 shows a model code example from the Code templates page for producing descriptive statistics, written with a placeholder variable name. This line is presented as known to work and should not be edited.  Step 2 explains copying this model code into the WORKING SPACE of the R script file twice, with a blank line between them. The first pasted line remains unchanged as the reference model code, and the second line is designated as the working code to be edited.  Step 3 shows editing only the working code by replacing the placeholder variable name with a specific variable, such as “educ.” If the edited working code does not run correctly, the user compares it to the unchanged model code to troubleshoot errors.  The overall message of the slide is that model codes provide a safe, reliable template, while all experimentation and changes should occur only in the working code."><figcaption></figcaption></figure>
 
 This is a view from the [Code templates](https://ttezcan.gitbook.io/lect/all-lectures-and-labs/r-lab/lab-resources/code-templates) page. Triple click the code and copy, or click "Copy" (see the highlighted part).
 
@@ -153,7 +153,7 @@ This is a view from the [Code templates](https://ttezcan.gitbook.io/lect/all-lec
 
 If we don’t use model code for comparison, it is likely that we accidentally delete something extra. In this example, the comma was deleted.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="273"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="273"><figcaption></figcaption></figure>
 
 Instead, we keep the use model code and compare it with our working code. Here we clearly see that the comma is missing in line 79. Note that RStudio warns us that something is wrong with that red cross.
 
@@ -189,7 +189,7 @@ For multiple lines, we highlight the codes with mouse.
 
 Here's what happens if we don't:
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 It simply shows what we highlighted and run (check the console part), not the analysis (check the plots part).
 
@@ -233,7 +233,7 @@ When this happens, we go to the very top of the R script file and load the data 
 
 ### Using keyboard shortcuts
 
-<figure><img src="../../../.gitbook/assets/image (91).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (91).png" alt="For Windows, the shortcuts shown are: Control plus C for Copy, Control plus V for Paste, and Control plus Z for Undo. For macOS, the corresponding shortcuts are: Command plus C for Copy, Command plus V for Paste, and Command plus Z for Undo. The slide visually aligns Windows shortcuts on the left and macOS shortcuts on the right to show their equivalence." width="563"><figcaption></figcaption></figure>
 
 ***
 
@@ -241,7 +241,7 @@ When this happens, we go to the very top of the R script file and load the data 
 
 ### Keyboard shortcuts: hand and finger positions (how to work)
 
-<figure><img src="../../../.gitbook/assets/image (92).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/SCR-20251231-iect.png" alt="A side-by-side instructional image about using keyboard shortcuts correctly. On the left, a close-up photo shows one hand on a keyboard, with the little finger pressing the Control key and the index or middle finger pressing a letter key, demonstrating the correct hand position. On the right, a close-up photo shows both hands on the keyboard with a large red “X” over the image, indicating incorrect technique. Text explains that users should not use both hands for keyboard shortcuts and should keep the other hand on the mouse or trackpad."><figcaption></figcaption></figure>
 
 ***
 
@@ -249,7 +249,7 @@ When this happens, we go to the very top of the R script file and load the data 
 
 ### Using mouse shortcuts
 
-<figure><img src="../../../.gitbook/assets/image (93).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (93).png" alt="explaining how to select text in an R script using mouse clicks. The first section explains that to replace an existing variable name, users should double-click the variable name so that only the word is highlighted. The second section explains that to select an entire line of code, users should triple-click anywhere on the line to highlight it all at once. The third section explains that to select multiple lines of code, users should click and drag the mouse to highlight several lines. Each instruction is paired with a code example showing the correct selection result."><figcaption></figcaption></figure>
 
 ***
 
@@ -273,7 +273,7 @@ When we want to display, for example, the frequency distribution of a recoded (n
 
 This is because, for our analysis, the original variable is no longer relevant. We recoded the original variable and created a new one for our analysis needs.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ***
 
@@ -319,7 +319,7 @@ Use the [Code templates](https://ttezcan.gitbook.io/lect/all-lectures-and-labs/r
 
 If variables are misplaced in the codes and have overwritten the original values, we have to “Load GSS” again, because we lost the values of the original variable and we need a fresh data.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ***
 
@@ -392,15 +392,15 @@ We refer to statistical significance as <mark style="color:red;">p < 0.05</mark>
 
 <mark style="color:red;">Response set:</mark> The combination of values and their corresponding labels.
 
-<figure><img src="../../../.gitbook/assets/image (75).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (75).png" alt="A conceptual diagram illustrating how survey data are created. On the left is an icon labeled “questionnaire,” representing a set of survey questions. In the center is an icon labeled “respondents,” representing a group of people who answer the questions. On the right is an icon labeled “data,” representing recorded responses. Text below states that researchers ask questions to a group of people and record their responses as data."><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (74).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (74).png" alt="A three-part diagram showing a real survey example. On the left is a questionnaire with questions about unfair treatment in the United States, such as being unfairly fired, treated by police, or treated badly at restaurants or stores. In the center is an icon representing respondents, labeled as participants in the Latino National Survey, consisting of 8,634 self-identified Latino or Hispanic residents of the United States. On the right is a dataset shown as a table with columns labeled DFIRED, DBADPOLC, DHOUSING, and DRESTAUR, containing numeric response codes."><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/ss_2024-07-22 13.10.11.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/ss_2024-07-22 13.10.11.png" alt="An explanatory diagram showing how survey questions are transformed into dataset variables. The full wording of a question is shown on the questionnaire side. The variable name, such as DFIRED, is identified as the column name used in the dataset. Numeric values, such as 1, 2, and 3, are shown as the stored responses in the dataset. Labels explain what each value means, for example, 1 equals Yes, 2 equals No, and 3 equals DK or NA. The response set is defined as the complete list of possible responses for the question."><figcaption></figcaption></figure>
 
 [\[Variables in GSS\]](https://ttezcan.gitbook.io/lectures/all-lectures-and-labs/r-lab/lab-resources/variables-in-gss)
 
-<figure><img src="../../../.gitbook/assets/image (76).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (76).png" alt="A table titled “Discrimination and harassment at work” demonstrating how a survey variable is analyzed. The variable name “wkageism” is shown and described as measuring perceived discrimination at work because of age. The full wording of the question is displayed: “Do you feel in any way discriminated against on your job because of your age?” Numeric values are shown, where 1 represents Yes and 2 represents No. A frequency table below shows counts and percentages for each response category, illustrating how values and labels are used in statistical analysis."><figcaption></figcaption></figure>
 
 ***
 
@@ -472,7 +472,7 @@ This may happen if your RStudio Cloud session consumes too much ram.
 
 3. Click "Download"
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 4. It will download a zip file.
 5. Go to your new account.

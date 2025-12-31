@@ -1,6 +1,6 @@
 # Welcome to SOC120 (short term)
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt="" width="356"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="356"><figcaption></figcaption></figure>
 
 ## <mark style="color:orange;">Welcome!</mark> <a href="#welcome" id="welcome"></a>
 
