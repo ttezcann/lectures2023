@@ -8,9 +8,54 @@ Maximize your browser window to display the outline on the right side for easier
 
 ## A. Setup
 
-### 1.&#x20;
-
+{% stepper %}
+{% step %}
 ### How to create RStudio Cloud account and installing all the packages
+
+#### Video guideline
+
+{% embed url="https://drive.google.com/open?id=1qS2xGpy1h04ojoOoFLOrW8rehxsr6cUL&usp=drive_fs" %}
+
+#### Textual guideline
+
+Follow the procedures described in [\[How to create RStudio Cloud account and installing all the packages\]](https://ttezcan.gitbook.io/lectures/all-lectures-and-labs/r-lab/lab-resources/how-to-create-rstudio-cloud-account-and-installing-all-the-packages)
+{% endstep %}
+
+{% step %}
+### How to open and use R script files in RStudio Cloud
+
+#### Video guideline
+
+{% embed url="https://youtu.be/G12HTq6zJ-g" %}
+
+#### Textual guideline
+
+1. Open [RStudio Cloud website](https://posit.cloud/) and log in. Click "RStudio labs" under "Your content."
+2. Download the R script file you need:
+   1. Go to Canvas <mark style="color:red;">➜</mark> Resources module page <mark style="color:red;">➜</mark> “Lab resources” <mark style="color:red;">➜</mark> “All R script files” <mark style="color:red;">➜</mark> Click on the R Script file you need and download that file. [“All script files” is here](https://ttezcan.gitbook.io/lectures/all-lectures-and-labs/r-lab/lab-resources/all-r-script-files) for your convenience.
+   2.  For example, if you need the "Descriptive Statistics" R script file. Click on it and download:
+
+       <figure><img src="../../../.gitbook/assets/ss_2024-07-16 16.55.54.png" alt="" width="375"><figcaption></figcaption></figure>
+   3.  **Uploading R script files:** On [RStudio Cloud website](https://posit.cloud/), click “Upload” (see highlighted part #2 below). Click “Choose File.” Find the R script file you just downloaded (e.g., script\_descriptive.R) in the previous step, click “Open” and "OK."
+
+       <figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt="A screenshot of the RStudio interface showing the Upload Files dialog open. The dialog displays the target directory /cloud/project, with a red callout highlighting the Choose File button and another highlighting the Upload button in the Files pane, indicating how to upload files into an RStudio cloud project."><figcaption></figcaption></figure>
+   4.  **Opening R script files:** The file is uploaded and at the bottom of the "Files" list (see highlighted part #1). When you click on it, the descriptive R script file will open (see highlighted part #2).
+
+       <figure><img src="../../../.gitbook/assets/image (2).png" alt="A screenshot of the RStudio interface showing an open script titled script_intro.R in the Source pane on the left, with commented instructions and example R code. Red callouts highlight the script tab in the Source pane and the same file listed in the Files pane on the right, indicating where to open and locate the R script within the RStudio workspace."><figcaption></figcaption></figure>
+   5. dasda
+   6. dsadas
+   7.
+   8. sss
+{% endstep %}
+
+{% step %}
+###
+
+
+{% endstep %}
+{% endstepper %}
+
+###
 
 #### Video guideline:
 
@@ -28,8 +73,6 @@ Follow the procedures described in the [RStudio lab assignment: account and pack
 
 #### Video guideline:
 
-{% embed url="https://youtu.be/G12HTq6zJ-g" %}
-
 Make sure you have a RStudio Cloud account. Otherwise, get one and install all the packages. [See this guideline](https://ttezcan.gitbook.io/lectures/all-lectures-and-labs/r-lab/lab-resources/how-to-create-rstudio-cloud-account-and-installing-all-the-packages).
 
 #### Textual guideline:&#x20;
@@ -38,18 +81,9 @@ Make sure you have a RStudio Cloud account. Otherwise, get one and install all t
 2. Download the R script file you need:
    1. Go to Canvas <mark style="color:red;">➜</mark> Resources module page <mark style="color:red;">➜</mark> “Lab resources” <mark style="color:red;">➜</mark> “All R script files” <mark style="color:red;">➜</mark> Click on the R Script file you need and download that file. [“All script files” is here](https://ttezcan.gitbook.io/lectures/all-lectures-and-labs/r-lab/lab-resources/all-r-script-files) for your convenience.
    2. For example, if you need the "Descriptive Statistics" R script file. Click on it and download:
-
-<figure><img src="../../../.gitbook/assets/ss_2024-07-16 16.55.54.png" alt="" width="563"><figcaption></figcaption></figure>
-
-3. **Uploading R script files 1:** On [RStudio Cloud website](https://posit.cloud/), click “Upload” (see highlighted part #2 below). Click “Choose File.” Find the R script file you just downloaded (e.g., script\_descriptive.R) in the previous step, click “Open” and "OK."
-
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt="A screenshot of the RStudio interface showing the Upload Files dialog open. The dialog displays the target directory /cloud/project, with a red callout highlighting the Choose File button and another highlighting the Upload button in the Files pane, indicating how to upload files into an RStudio cloud project."><figcaption></figcaption></figure>
-
-4. **Opening R script files:** The file is uploaded and at the bottom of the "Files" list (see highlighted part #1). When you click on it, the descriptive R script file will open (see highlighted part #2).
-
-<figure><img src="../../../.gitbook/assets/image (2).png" alt="A screenshot of the RStudio interface showing an open script titled script_intro.R in the Source pane on the left, with commented instructions and example R code. Red callouts highlight the script tab in the Source pane and the same file listed in the Files pane on the right, indicating where to open and locate the R script within the RStudio workspace."><figcaption></figcaption></figure>
-
-6. **Installing and loading packages:** Make sure you click on the R script file name and open it (see highlighted part #1). Whenever we open RStudio, we highlight all the lines under the “Install and load packages” (see highlighted part #2) and click run (see highlighted part #3).
+3.
+4.
+5. **Installing and loading packages:** Make sure you click on the R script file name and open it (see highlighted part #1). Whenever we open RStudio, we highlight all the lines under the “Install and load packages” (see highlighted part #2) and click run (see highlighted part #3).
 
 <figure><img src="../../../.gitbook/assets/image (3).png" alt="A screenshot of the RStudio interface demonstrating how to install packages. The Files pane highlights a script named script_installing packages.R (labeled 1). In the Source pane, a block of code for installing and loading packages is highlighted in red (labeled 2). A large red circle emphasizes the Run button at the top of the Source pane (labeled 3), indicating that the user should select the highlighted code and click Run to execute it."><figcaption></figcaption></figure>
 
