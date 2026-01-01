@@ -1,6 +1,8 @@
 # Flashcards
 
 {% hint style="success" %}
+
+
 Maximize your browser window to display the outline on the right side for easier navigation.
 {% endhint %}
 
@@ -321,7 +323,25 @@ When this happens, we go to the very top of the R script file and load the data 
 {% step %}
 ### Use the new (recoded) variables in computation code
 
-<figure><img src="../../../.gitbook/assets/image (53).png" alt=""><figcaption></figcaption></figure>
+{% hint style="danger" %}
+Wrong:
+
+gss <- gss %>%
+
+&#x20; rowwise() %>%
+
+&#x20; mutate (<mark style="color:red;">hapindex</mark> = mean (c(<mark style="color:red;">happy</mark>,<mark style="color:red;">life</mark>,<mark style="color:red;">satfin</mark>)))
+{% endhint %}
+
+{% hint style="success" %}
+Correct:
+
+gss <- gss %>%
+
+&#x20; rowwise() %>%
+
+&#x20; mutate (<mark style="color:red;">hapindex</mark> = mean (c(<mark style="color:red;">happynew</mark>,<mark style="color:red;">lifenew</mark>,<mark style="color:red;">satfinnew</mark>)))
+{% endhint %}
 {% endstep %}
 
 {% step %}
@@ -333,19 +353,27 @@ It becomes CONTINUOUS because we have created a score, and we treat it as a real
 
 Therefore, we use the DESCR code to see the distribution (mean and standard deviation)
 
-<figure><img src="../../../.gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>
+{% hint style="danger" %}
+Wrong:
 
-When we recode a continuous variable, the new (recoded) variable is no longer continuous.
+frq(gss$<mark style="color:red;">hapindex</mark>, out = "v", show = "short")
+{% endhint %}
 
-It becomes CATEGORICAL because we have merged the real numbers, and they no longer remain as real numbers.
+{% hint style="success" %}
+Correct:
 
-Therefore, for example, we use the FRQ code to see the distribution.
+descr(gss$<mark style="color:red;">hapindex</mark>, out = "v")
+{% endhint %}
+{% endstep %}
 
-<figure><img src="../../../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
+{% step %}
+### Use a model code
+
+Use the Code templates page.
+
+<figure><img src="../../../.gitbook/assets/image (142).png" alt="" width="563"><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
-
-
 
 ***
 
@@ -363,9 +391,9 @@ The lower the p-value, the greater the statistical significance of the observed 
 
 We refer to statistical significance as <mark style="color:red;">p < 0.05</mark>
 
-#### Use the following website
+#### Use the following website:
 
-{% embed url="http://www.whichnumberislarger.com/" %}
+[https://www.whichnumberislarger.com/](https://www.whichnumberislarger.com/)
 
 ***
 
