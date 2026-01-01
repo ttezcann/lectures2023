@@ -255,6 +255,36 @@ When this happens, we go to the very top of the R script file and load the data 
 
 ## D. Common recoding issues
 
+{% stepper %}
+{% step %}
+### Different recoding codes for different variables
+
+Recoding a categorical variable and a continuous variable requires slightly different codes
+
+<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+### Use the recoded (new) variable in analyses
+
+When we want to display, for example, the frequency distribution of a recoded (new) variable, we must use the recoded (new) variable’s name in the frequency code.
+
+This is because, for our analysis, the original variable is no longer relevant. We recoded the original variable and created a new one for our analysis needs.
+
+{% hint style="danger" %}
+Wrong:&#x20;
+
+frq(gss$<mark style="color:yellow;">**marital**</mark>, out = "v")
+{% endhint %}
+
+{% hint style="success" %}
+Correct:
+
+frq(gss$<mark style="color:yellow;">**maritalgroups**</mark>, out = "v")
+{% endhint %}
+{% endstep %}
+{% endstepper %}
+
 ### 1.&#x20;
 
 ### Different recoding codes for different variables
@@ -273,7 +303,17 @@ When we want to display, for example, the frequency distribution of a recoded (n
 
 This is because, for our analysis, the original variable is no longer relevant. We recoded the original variable and created a new one for our analysis needs.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+{% hint style="danger" %}
+Wrong:&#x20;
+
+frq(gss$<mark style="color:yellow;">**marital**</mark>, out = "v")
+{% endhint %}
+
+{% hint style="success" %}
+Correct:
+
+frq(gss$<mark style="color:yellow;">**maritalgroups**</mark>, out = "v")
+{% endhint %}
 
 ***
 
@@ -287,7 +327,17 @@ It becomes <mark style="color:red;">CATEGORICAL</mark> because we have merged th
 
 Therefore, for example, we use the <mark style="color:red;">FRQ</mark> code to see the frequency distribution.
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+{% hint style="danger" %}
+Wrong:&#x20;
+
+descr(gss$<mark style="color:yellow;">**educgroups**</mark>, out = "v", show = "short")
+{% endhint %}
+
+{% hint style="success" %}
+Correct:
+
+frq(gss$<mark style="color:yellow;">**educgroups**</mark>, out = "v")
+{% endhint %}
 
 ***
 
@@ -319,7 +369,11 @@ Use the [Code templates](https://ttezcan.gitbook.io/lect/all-lectures-and-labs/r
 
 If variables are misplaced in the codes and have overwritten the original values, we have to “Load GSS” again, because we lost the values of the original variable and we need a fresh data.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+We **never** save our data, but our R script files. From time to time, we may accidentally change the values of original variables (especially when we recode variables).&#x20;
+
+When this happens, we go to the very top of the R script file and load the data again. If we created new variables previously, we will need to run those codes under our working space again in order since it will be a fresh data.
+
+<figure><img src="../../../.gitbook/assets/image (4).png" alt="A screenshot of the RStudio interface showing how to load data using an R script. In the Source pane, a block of code labeled “Load data” is highlighted in red (label 1). The Run button at the top of the Source pane is circled and pointed out (label 2), indicating how to execute the selected code. In the Environment pane on the right, two newly loaded objects—gss and key—are highlighted (label 3), confirming that the data were successfully loaded."><figcaption></figcaption></figure>
 
 ***
 
