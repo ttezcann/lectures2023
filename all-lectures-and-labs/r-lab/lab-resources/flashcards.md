@@ -12,11 +12,11 @@ Maximize your browser window to display the outline on the right side for easier
 {% step %}
 ### How to create RStudio Cloud account and installing all the packages
 
-#### Video guideline
+#### (A) Video guideline
 
 {% embed url="https://drive.google.com/open?id=1qS2xGpy1h04ojoOoFLOrW8rehxsr6cUL&usp=drive_fs" %}
 
-#### Textual guideline
+#### (B) Textual guideline
 
 Follow the procedures described in [\[How to create RStudio Cloud account and installing all the packages\]](https://ttezcan.gitbook.io/lectures/all-lectures-and-labs/r-lab/lab-resources/how-to-create-rstudio-cloud-account-and-installing-all-the-packages)
 {% endstep %}
@@ -24,11 +24,11 @@ Follow the procedures described in [\[How to create RStudio Cloud account and in
 {% step %}
 ### How to open and use R script files in RStudio Cloud
 
-#### Video guideline
+#### (A) Video guideline
 
 {% embed url="https://youtu.be/G12HTq6zJ-g" %}
 
-#### Textual guideline
+#### (B) Textual guideline
 
 1. Open [RStudio Cloud website](https://posit.cloud/) and log in. Click "RStudio labs" under "Your content."
 2. Download the R script file you need:
@@ -36,99 +36,54 @@ Follow the procedures described in [\[How to create RStudio Cloud account and in
    2.  For example, if you need the "Descriptive Statistics" R script file. Click on it and download:
 
        <figure><img src="../../../.gitbook/assets/ss_2024-07-16 16.55.54.png" alt="" width="375"><figcaption></figcaption></figure>
-   3.  **Uploading R script files:** On [RStudio Cloud website](https://posit.cloud/), click “Upload” (see highlighted part #2 below). Click “Choose File.” Find the R script file you just downloaded (e.g., script\_descriptive.R) in the previous step, click “Open” and "OK."
+3.  **Uploading R script files:** On [RStudio Cloud website](https://posit.cloud/), click “Upload” (see highlighted part #2 below). Click “Choose File.” Find the R script file you just downloaded (e.g., script\_descriptive.R) in the previous step, click “Open” and "OK."
 
-       <figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt="A screenshot of the RStudio interface showing the Upload Files dialog open. The dialog displays the target directory /cloud/project, with a red callout highlighting the Choose File button and another highlighting the Upload button in the Files pane, indicating how to upload files into an RStudio cloud project."><figcaption></figcaption></figure>
-   4.  **Opening R script files:** The file is uploaded and at the bottom of the "Files" list (see highlighted part #1). When you click on it, the descriptive R script file will open (see highlighted part #2).
+    <figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt="A screenshot of the RStudio interface showing the Upload Files dialog open. The dialog displays the target directory /cloud/project, with a red callout highlighting the Choose File button and another highlighting the Upload button in the Files pane, indicating how to upload files into an RStudio cloud project."><figcaption></figcaption></figure>
+4.  **Opening R script files:** The file is uploaded and at the bottom of the "Files" list (see highlighted part #1). When you click on it, the descriptive R script file will open (see highlighted part #2).
 
-       <figure><img src="../../../.gitbook/assets/image (2).png" alt="A screenshot of the RStudio interface showing an open script titled script_intro.R in the Source pane on the left, with commented instructions and example R code. Red callouts highlight the script tab in the Source pane and the same file listed in the Files pane on the right, indicating where to open and locate the R script within the RStudio workspace."><figcaption></figcaption></figure>
-   5. dasda
-   6. dsadas
-   7.
-   8. sss
-{% endstep %}
+    <figure><img src="../../../.gitbook/assets/image (2).png" alt="A screenshot of the RStudio interface showing an open script titled script_intro.R in the Source pane on the left, with commented instructions and example R code. Red callouts highlight the script tab in the Source pane and the same file listed in the Files pane on the right, indicating where to open and locate the R script within the RStudio workspace."><figcaption></figcaption></figure>
+5.  **Installing and loading packages:** Make sure you click on the R script file name and open it (see highlighted part #1). Whenever we open RStudio, we highlight all the lines under the “Install and load packages” (see highlighted part #2) and click run (see highlighted part #3).
 
-{% step %}
-###
+    <figure><img src="../../../.gitbook/assets/image (3).png" alt="A screenshot of the RStudio interface demonstrating how to install packages. The Files pane highlights a script named script_installing packages.R (labeled 1). In the Source pane, a block of code for installing and loading packages is highlighted in red (labeled 2). A large red circle emphasizes the Run button at the top of the Source pane (labeled 3), indicating that the user should select the highlighted code and click Run to execute it."><figcaption></figcaption></figure>
+6.  **Loading data:** When the process of installing and loading packages is completed, we highlight all the lines under the “Load data” (see highlighted part #1) and click “Run” (see highlighted part #2).  When you see “gss” and “key” (see highlighted part #3), it means we successfully installed and loaded the packages, and loaded the GSS data.
 
+    <figure><img src="../../../.gitbook/assets/image (4).png" alt="A screenshot of the RStudio interface showing how to load data using an R script. In the Source pane, a block of code labeled “Load data” is highlighted in red (label 1). The Run button at the top of the Source pane is circled and pointed out (label 2), indicating how to execute the selected code. In the Environment pane on the right, two newly loaded objects—gss and key—are highlighted (label 3), confirming that the data were successfully loaded."><figcaption></figcaption></figure>
+7.  **Running the analysis codes:** We highlight the codes (see highlighted part #1) and click “Run” (see highlighted part #2). Clicking “Run” generates the analysis (see highlighted part #3).
 
-{% endstep %}
-{% endstepper %}
-
-###
-
-#### Video guideline:
-
-{% embed url="https://www.youtube.com/watch?v=G7SvmDZrpNE" %}
-
-#### Textual guideline:
-
-Follow the procedures described in the [RStudio lab assignment: account and packages assignment instructions](https://docs.google.com/document/d/1P0gpXCsAk03u9fSdHNdMpO43TCbHUoJT/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true).
-
-***
-
-### 2.&#x20;
-
-### How to open and use R script files in RStudio Cloud
-
-#### Video guideline:
-
-Make sure you have a RStudio Cloud account. Otherwise, get one and install all the packages. [See this guideline](https://ttezcan.gitbook.io/lectures/all-lectures-and-labs/r-lab/lab-resources/how-to-create-rstudio-cloud-account-and-installing-all-the-packages).
-
-#### Textual guideline:&#x20;
-
-1. Open [RStudio Cloud website](https://posit.cloud/) and log in. Click "RStudio labs" under "Your content."
-2. Download the R script file you need:
-   1. Go to Canvas <mark style="color:red;">➜</mark> Resources module page <mark style="color:red;">➜</mark> “Lab resources” <mark style="color:red;">➜</mark> “All R script files” <mark style="color:red;">➜</mark> Click on the R Script file you need and download that file. [“All script files” is here](https://ttezcan.gitbook.io/lectures/all-lectures-and-labs/r-lab/lab-resources/all-r-script-files) for your convenience.
-   2. For example, if you need the "Descriptive Statistics" R script file. Click on it and download:
-3.
-4.
-5. **Installing and loading packages:** Make sure you click on the R script file name and open it (see highlighted part #1). Whenever we open RStudio, we highlight all the lines under the “Install and load packages” (see highlighted part #2) and click run (see highlighted part #3).
-
-<figure><img src="../../../.gitbook/assets/image (3).png" alt="A screenshot of the RStudio interface demonstrating how to install packages. The Files pane highlights a script named script_installing packages.R (labeled 1). In the Source pane, a block of code for installing and loading packages is highlighted in red (labeled 2). A large red circle emphasizes the Run button at the top of the Source pane (labeled 3), indicating that the user should select the highlighted code and click Run to execute it."><figcaption></figcaption></figure>
-
-7. **Loading data:** When the process of installing and loading packages is completed, we highlight all the lines under the “Load data” (see highlighted part #1) and click “Run” (see highlighted part #2).  When you see “gss” and “key” (see highlighted part #3), it means we successfully installed and loaded the packages, and loaded the GSS data.
-
-<figure><img src="../../../.gitbook/assets/image (4).png" alt="A screenshot of the RStudio interface showing how to load data using an R script. In the Source pane, a block of code labeled “Load data” is highlighted in red (label 1). The Run button at the top of the Source pane is circled and pointed out (label 2), indicating how to execute the selected code. In the Environment pane on the right, two newly loaded objects—gss and key—are highlighted (label 3), confirming that the data were successfully loaded."><figcaption></figcaption></figure>
-
-8. **Running the analysis codes:** We highlight the codes (see highlighted part #1) and click “Run” (see highlighted part #2). Clicking “Run” generates the analysis (see highlighted part #3).
-
-<figure><img src="../../../.gitbook/assets/image (139).png" alt="A screenshot of the RStudio interface showing an example of running code and viewing output. A line of code generating a frequency table for respondents’ sex is highlighted in the script editor, the Run button is circled to indicate execution, and the resulting frequency table appears in the Viewer pane with counts and percentages for male and female respondents."><figcaption></figcaption></figure>
-
-9.  **Using R script files - “working space” and outline view:** We do not edit or change anything on R script files except under “working space”(see highlighted part #1). Anything above the “working space” is teaching material!<br>
+    <figure><img src="../../../.gitbook/assets/image (139).png" alt="A screenshot of the RStudio interface showing an example of running code and viewing output. A line of code generating a frequency table for respondents’ sex is highlighted in the script editor, the Run button is circled to indicate execution, and the resulting frequency table appears in the Viewer pane with counts and percentages for male and female respondents."><figcaption></figcaption></figure>
+8.  **Using R script files - “working space” and outline view:** We do not edit or change anything on R script files except under “working space”(see highlighted part #1). Anything above the “working space” is teaching material!<br>
 
     The codes for assignments will be put under the “working space”<br>
 
     For easy navigation click “Outline” (see highlighted part #2) to see the headings and subheadings.
 
-<figure><img src="../../../.gitbook/assets/SCR-20251226-jmyc-2.png" alt="A warning message states, “Do not edit or change anything on R script files except under ‘WORKING SPACE’ (#1).” The section labeled WORKING SPACE is highlighted in red within the script editor (label 1), indicating where users are allowed to make changes. At the top of the editor, a toolbar area is circled (label 2) showing the outline for easy navigation."><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/SCR-20251226-jmyc-2.png" alt="A warning message states, “Do not edit or change anything on R script files except under ‘WORKING SPACE’ (#1).” The section labeled WORKING SPACE is highlighted in red within the script editor (label 1), indicating where users are allowed to make changes. At the top of the editor, a toolbar area is circled (label 2) showing the outline for easy navigation."><figcaption></figcaption></figure>
+9.  **Saving R script files:** When we make any changes, the font of the file name (shown in the highlighted part #2 above) will be red with an asterisk (\*) - (see the highlighted part #1 below). To save our progress, we click save (see the highlighted part #2 below)
 
-10. **Saving R script files:** When we make any changes, the font of the file name (shown in the highlighted part #2 above) will be red with an asterisk (\*) - (see the highlighted part #1 below). To save our progress, we click save (see the highlighted part #2 below)
-
-<figure><img src="../../../.gitbook/assets/SCR-20251226-jkop-2.png" alt="A screenshot of the RStudio interface illustrating how file-saving status is indicated. When changes are made, the script file name appears in red with an asterisk, indicating unsaved edits. Clicking the Save button stores the changes, after which the file name turns black, showing that all changes are saved."><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/SCR-20251226-jkop-2.png" alt="A screenshot of the RStudio interface illustrating how file-saving status is indicated. When changes are made, the script file name appears in red with an asterisk, indicating unsaved edits. Clicking the Save button stores the changes, after which the file name turns black, showing that all changes are saved."><figcaption></figcaption></figure>
+{% endstep %}
+{% endstepper %}
 
 ***
 
 ## B. How to work with RStudio
 
-### 1.&#x20;
-
+{% stepper %}
+{% step %}
 ### Installing and loading packages
 
 We need specific packages to conduct our analyses. Running the "install and run packages" is always the first step.
+
+For troubleshooting, make sure to run "install and run packages" codes, wait until the “STOP” sign in the console disappears, no more code is running in the console, and see "Package already installed: _package name_" (under the console in red font, see the first figure).
 
 <figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 We can check the installed packages under “Packages.” Checkmark means that the specific packages are loaded for the session. If there is no checkmark, we have the package but it was not loaded.
 
-<figure><img src="../../../.gitbook/assets/SCR-20251226-jtei-2.png" alt="Packages view" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/SCR-20251226-jtei-2.png" alt="Packages view" width="375"><figcaption></figcaption></figure>
+{% endstep %}
 
-For troubleshooting, make sure to run "install and run packages" codes, wait until the “STOP” sign in the console disappears, no more code is running in the console, and see "Package already installed: _package name_" (under the console in red font, see the first figure).
-
-***
-
-### 2.&#x20;
-
+{% step %}
 ### Loading the data
 
 Every time we open RStudio, we must load the data. Even if we see "gss" under “Environment,” we should run "load data" code again. If we do not see "gss" under "Environment," our codes will not work.
@@ -140,11 +95,9 @@ If the data is not loaded, we will get the following error (under the console):
 <figure><img src="../../../.gitbook/assets/image (6) (1) (1) (1).png" alt="The error says &#x22;object &#x60;gss&#x60; not found&#x22;" width="313"><figcaption></figcaption></figure>
 
 For troubleshooting, make sure to run "install and run packages" codes and "load data" codes in order.
+{% endstep %}
 
-***
-
-### 3.&#x20;
-
+{% step %}
 ### Working in the "Working space"
 
 We do not edit or change anything on R script files except under “working space”(see highlighted part #1). Anything above the “working space” is teaching material!
@@ -159,131 +112,120 @@ If we accidentally delete something from the R script file (above the working sp
 
 If this happens, we should first rename the current R script file because re-uploading the file will overwrite it and we lose our previous progress. Based on the sample below, we can rename the file to 'script\_scripting\_previous.R' (make sure not to delete the ".R" file extension at the end). Click "check box" (see highlighted part #1) and click "Rename" (see highlighted part #2)&#x20;
 
-<figure><img src="../../../.gitbook/assets/ss_2024-07-24 14.55.33.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/ss_2024-07-24 14.55.33.png" alt="A screenshot of the RStudio Files pane showing a list of files in a project folder. The file script_scripting.R is selected and highlighted (label 1). At the top of the Files pane, the Rename button is highlighted (label 2), indicating the option used to rename the selected file."><figcaption></figcaption></figure>
+{% endstep %}
 
-***
-
-### 4.&#x20;
-
+{% step %}
 ### Working on codes in RStudio, not in assignment files
 
 The lab assignments will ask you to paste the code for specific questions. Write and test the code in RStudio, and once it works, paste it into the assignment file. Do not write codes directly in the assignment file.
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2024-11-09 at 1.41.12 PM.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-11-09 at 1.41.12 PM.png" alt="A slide explaining how to submit code for lab assignments. Text states that students should write and test code in RStudio, then paste the working code into the assignment file, and should not write code directly in the assignment document. Below, an example code block is shown with a note stating, “This code was pasted from RStudio; no changes made in Google Docs,” emphasizing that the code should be copied exactly after it works." width="563"><figcaption></figcaption></figure>
+{% endstep %}
 
-### 5.&#x20;
-
+{% step %}
 ### Using a model code
 
 Whenever we run an analysis with a different variable, we create a model code and a working code.
 
-<figure><img src="../../../.gitbook/assets/image.png" alt="A teaching slide explaining how to work with R code using model code and working code. The slide states that users should never edit the original code in the R script file; instead, they copy a known-working example (called the model code) into a designated “working space.” Step 1 shows a model code line that generates a frequency table. Step 2 explains copying that line twice into the working space so one line remains unchanged as a reference. Step 3 shows editing only the second line to change the variable name (for example, replacing “marital” with “sex”); if the edited code fails, it is compared to the unchanged model code to troubleshoot."><figcaption></figcaption></figure>
-
 <figure><img src="../../../.gitbook/assets/SCR-20251231-ickl.png" alt="A teaching slide explaining how to work with R code using model codes from a separate Code templates page. The slide emphasizes that users should never type or modify code directly in the lab R script; instead, they create a model code and a working code.  Step 1 shows a model code example from the Code templates page for producing descriptive statistics, written with a placeholder variable name. This line is presented as known to work and should not be edited.  Step 2 explains copying this model code into the WORKING SPACE of the R script file twice, with a blank line between them. The first pasted line remains unchanged as the reference model code, and the second line is designated as the working code to be edited.  Step 3 shows editing only the working code by replacing the placeholder variable name with a specific variable, such as “educ.” If the edited working code does not run correctly, the user compares it to the unchanged model code to troubleshoot errors.  The overall message of the slide is that model codes provide a safe, reliable template, while all experimentation and changes should occur only in the working code."><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/image.png" alt="A teaching slide explaining how to work with R code using model code and working code. The slide states that users should never edit the original code in the R script file; instead, they copy a known-working example (called the model code) into a designated “working space.” Step 1 shows a model code line that generates a frequency table. Step 2 explains copying that line twice into the working space so one line remains unchanged as a reference. Step 3 shows editing only the second line to change the variable name (for example, replacing “marital” with “sex”); if the edited code fails, it is compared to the unchanged model code to troubleshoot."><figcaption></figcaption></figure>
 
 This is a view from the [Code templates](https://ttezcan.gitbook.io/lect/all-lectures-and-labs/r-lab/lab-resources/code-templates) page. Triple click the code and copy, or click "Copy" (see the highlighted part).
 
-<figure><img src="../../../.gitbook/assets/image (89).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (89).png" alt="A “Code templates” box labeled “descriptive table (for continuous variables)” shows the model code: descr(gss$variable_here, out = &#x22;v&#x22;, show = &#x22;short&#x22;), with a “Copy” button on the right." width="563"><figcaption></figcaption></figure>
 
 If we don’t use model code for comparison, it is likely that we accidentally delete something extra. In this example, the comma was deleted.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="273"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="A single-line code snippet shows an error caused by a missing comma: frq(gss$sex out=&#x22;v&#x22;) (the comma between sex and out is missing). A red X icon appears next to the line number, indicating RStudio flags it as wrong." width="273"><figcaption></figcaption></figure>
 
 Instead, we keep the use model code and compare it with our working code. Here we clearly see that the comma is missing in line 79. Note that RStudio warns us that something is wrong with that red cross.
 
-<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="321"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1).png" alt="A short list of code lines (77–79) compares a correct “model” line with a faulty “working” line. Line 77 is frq(gss$marital, out=&#x22;v&#x22;) (correct), and line 79 is frq(gss$sex out=&#x22;v&#x22;) (missing comma). A red X icon marks the problematic line." width="321"><figcaption></figcaption></figure>
 
 After identifying what is missing, we can fix the working code. Once the working code functions correctly, we can delete the model code.
 
-<figure><img src="../../../.gitbook/assets/image (4) (1) (1) (1) (1) (1).png" alt="" width="320"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1) (1) (1) (1) (1).png" alt="The corrected code line is shown: frq(gss$sex, out=&#x22;v&#x22;), now including the comma after sex, indicating the error has been fixed." width="320"><figcaption></figcaption></figure>
+{% endstep %}
 
-***
-
-### 6.&#x20;
-
+{% step %}
 ### Pasting variable names
 
 We **NEVER** type variable names! It is very common to miswrite codes, forget commas, etc. We always copy the variable names (from the code templates page or assignments), and paste into our codes.
 
 There is no variable called “maritaal”, but “marital.” RStudio warns us that “maritaal” is “unknown.” We copy and paste variable names to avoid this possibility.
 
-<figure><img src="../../../.gitbook/assets/image (8) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8) (1).png" alt="An R script example shows the code frq(gss$maritaal, out = &#x22;v&#x22;), where the variable name is misspelled. In the console below, RStudio displays a warning message stating “Unknown or uninitialised column: ‘maritaal’,” illustrating how a typing error causes the code to fail and why copying variable names prevents this problem." width="563"><figcaption></figcaption></figure>
+{% endstep %}
 
-***
-
-### 7.&#x20;
-
+{% step %}
 ### Highlighting all the lines when running codes
 
 We need to highlight all the lines and click “Run.”
 
-For single lines, we triple click (clicking three times _really_ fast).
-
-For multiple lines, we highlight the codes with mouse.
+* For single lines, we triple click (clicking three times _really_ fast).
+* For multiple lines, we highlight the codes with mouse.
 
 Here's what happens if we don't:
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="single lines should be selected with a triple click and multiple lines by dragging the mouse. An example screenshot shows code for generating a bar graph, but the output pane displays the message “No bar graph here!” indicating that the graph was not produced because the necessary lines were not highlighted and executed." width="563"><figcaption></figcaption></figure>
 
 It simply shows what we highlighted and run (check the console part), not the analysis (check the plots part).
 
 Instead, we should have highlighted all the line:
 
-<figure><img src="../../../.gitbook/assets/ss_2024-07-22 11.41.45.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/ss_2024-07-22 11.41.45.png" alt="A screenshot of the RStudio interface showing multiple lines of code selected and executed together. The console reflects only the highlighted lines being run, while the Plots pane displays a bar chart of marital status. The image demonstrates that analysis results appear only when all necessary lines of code are highlighted and run, not when partial code is executed." width="563"><figcaption></figcaption></figure>
+{% endstep %}
 
-***
-
-### 8.&#x20;
-
+{% step %}
 ### Putting hashtags (#) for our notes (how to work)
 
 Typing notes on our R script files is encouraged. When we type a note, we must put a hashtag (#) first (we can put # anywhere we want). Likewise I use "notes" in R script files to communicate with you.
 
-<figure><img src="../../../.gitbook/assets/SCR-20251226-jdom-2.png" alt="A screenshot of the RStudio interface showing an R script with commented instructions. A line of code, frq(gss$sex, out = &#x22;v&#x22;), is highlighted with arrows and a note explaining that this code generates the frequency table for the sex variable. Below it, another highlighted comment explains that notes can be added anywhere in the script by starting a line with a hash symbol (#)."><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/SCR-20251226-jdom-2.png" alt="A screenshot of an R script containing comments that begin with a hashtag symbol. A line of code generating a frequency table is shown, followed by a commented note explaining what the code does. The image illustrates that notes must start with a hashtag so RStudio recognizes them as comments rather than executable code."><figcaption></figcaption></figure>
 
 Not putting a hashtag (#) will confuse RStudio.
 
 While line 29 will work, line 27 won’t. Here RStudio warns us that there is something wrong. Look at the red cross on line 27. When there is a red cross on the left side of the line number, there is something wrong with our codes.
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="A screenshot of an R script showing a line of text intended as a note but missing a leading hashtag. RStudio displays a red error indicator next to the line number, signaling a problem. Below, corrected lines show the same text properly commented with a hashtag, indicating that adding the hashtag resolves the error." width="563"><figcaption></figcaption></figure>
+{% endstep %}
 
-***
-
-### 9.&#x20;
-
+{% step %}
 ### Not changing the original values of the dataset
 
 We **never** save our data, but our R script files. From time to time, we may accidentally change the values of original variables (especially when we recode variables).&#x20;
 
 When this happens, we go to the very top of the R script file and load the data again. If we created new variables previously, we will need to run those codes under our working space again in order since it will be a fresh data.
 
-<figure><img src="../../../.gitbook/assets/ss_2024-07-22 11.20.29.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4).png" alt="A screenshot of the RStudio interface showing how to load data using an R script. In the Source pane, a block of code labeled “Load data” is highlighted in red (label 1). The Run button at the top of the Source pane is circled and pointed out (label 2), indicating how to execute the selected code. In the Environment pane on the right, two newly loaded objects—gss and key—are highlighted (label 3), confirming that the data were successfully loaded."><figcaption></figcaption></figure>
+{% endstep %}
+{% endstepper %}
 
 ***
 
 ## C. Keyboard and mouse shortcuts
 
-### 1.&#x20;
-
+{% stepper %}
+{% step %}
 ### Using keyboard shortcuts
 
 <figure><img src="../../../.gitbook/assets/image (91).png" alt="For Windows, the shortcuts shown are: Control plus C for Copy, Control plus V for Paste, and Control plus Z for Undo. For macOS, the corresponding shortcuts are: Command plus C for Copy, Command plus V for Paste, and Command plus Z for Undo. The slide visually aligns Windows shortcuts on the left and macOS shortcuts on the right to show their equivalence." width="563"><figcaption></figcaption></figure>
+{% endstep %}
 
-***
-
-### 2.&#x20;
-
+{% step %}
 ### Keyboard shortcuts: hand and finger positions (how to work)
 
 <figure><img src="../../../.gitbook/assets/SCR-20251231-iect.png" alt="A side-by-side instructional image about using keyboard shortcuts correctly. On the left, a close-up photo shows one hand on a keyboard, with the little finger pressing the Control key and the index or middle finger pressing a letter key, demonstrating the correct hand position. On the right, a close-up photo shows both hands on the keyboard with a large red “X” over the image, indicating incorrect technique. Text explains that users should not use both hands for keyboard shortcuts and should keep the other hand on the mouse or trackpad."><figcaption></figcaption></figure>
+{% endstep %}
 
-***
-
-### 3.&#x20;
-
+{% step %}
 ### Using mouse shortcuts
 
 <figure><img src="../../../.gitbook/assets/image (93).png" alt="explaining how to select text in an R script using mouse clicks. The first section explains that to replace an existing variable name, users should double-click the variable name so that only the word is highlighted. The second section explains that to select an entire line of code, users should triple-click anywhere on the line to highlight it all at once. The third section explains that to select multiple lines of code, users should click and drag the mouse to highlight several lines. Each instruction is paired with a code example showing the correct selection result."><figcaption></figcaption></figure>
+{% endstep %}
+{% endstepper %}
 
 ***
 
@@ -295,7 +237,7 @@ When this happens, we go to the very top of the R script file and load the data 
 
 Recoding a categorical variable and a continuous variable requires slightly different codes
 
-<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8).png" alt="Text explaining how to plan a recoding task by first identifying the type of recoding needed—merging categories, reversing categories, or grouping a continuous variable—and then determining how many categories the new recoded variable will have, with examples using marital status, stress, and education."><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -317,42 +259,8 @@ Correct:
 frq(gss$<mark style="color:yellow;">**maritalgroups**</mark>, out = "v")
 {% endhint %}
 {% endstep %}
-{% endstepper %}
 
-### 1.&#x20;
-
-### Different recoding codes for different variables
-
-Recoding a categorical variable and a continuous variable requires slightly different codes
-
-<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
-
-***
-
-### 2.&#x20;
-
-### Use the recoded (new) variable in analyses
-
-When we want to display, for example, the frequency distribution of a recoded (new) variable, we must use the recoded (new) variable’s name in the frequency code.
-
-This is because, for our analysis, the original variable is no longer relevant. We recoded the original variable and created a new one for our analysis needs.
-
-{% hint style="danger" %}
-Wrong:&#x20;
-
-frq(gss$<mark style="color:yellow;">**marital**</mark>, out = "v")
-{% endhint %}
-
-{% hint style="success" %}
-Correct:
-
-frq(gss$<mark style="color:yellow;">**maritalgroups**</mark>, out = "v")
-{% endhint %}
-
-***
-
-### 3.&#x20;
-
+{% step %}
 ### Recoded variables are always categorical
 
 When we recode a continuous variable, the new (recoded) variable is no longer continuous.
@@ -372,33 +280,27 @@ Correct:
 
 frq(gss$<mark style="color:yellow;">**educgroups**</mark>, out = "v")
 {% endhint %}
+{% endstep %}
 
-***
-
-### 4.&#x20;
-
+{% step %}
 ### Not using a model code
 
-<figure><img src="../../../.gitbook/assets/image (43).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (43).png" alt="A composite figure showing an R script with age-group recoding typed manually instead of copied from a model code. One line defining the 50–59 age group is incorrectly formatted, missing required punctuation such as a semicolon or bracket. A console output below displays a syntax error message indicating the problem, illustrating how not using a model code can lead to coding errors." width="563"><figcaption></figcaption></figure>
 
 Use the [Code templates](https://ttezcan.gitbook.io/lect/all-lectures-and-labs/r-lab/lab-resources/code-templates) page and Model codes:
 
-<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt="Text explaining how to plan a recoding task by first identifying the type of recoding needed—merging categories, reversing categories, or grouping a continuous variable—and then determining how many categories the new recoded variable will have, with examples using marital status, stress, and education." width="563"><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (4) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1) (1) (1).png" alt="Two code examples showing recoding in R. The first is a model code template from a code templates page, and the second is a working code in RStudio that applies the template to create a new variable called maritalgroups by merging marital status categories." width="563"><figcaption></figcaption></figure>
+{% endstep %}
 
-***
-
-### 5.&#x20;
-
+{% step %}
 ### Pasting the original variable to the correct place
 
-<figure><img src="../../../.gitbook/assets/image (5) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1) (1).png" alt="A figure showing correct and incorrect placement of variable names when recoding in R. The incorrect example assigns the recode back to the original variable “marital,” which would overwrite its values and is marked with an X. The correct example assigns the recoded output to a new variable named “maritalgroups” while using the original variable as input, marked with a check, illustrating how to preserve the original data." width="563"><figcaption></figcaption></figure>
+{% endstep %}
 
-***
-
-### 6.&#x20;
-
+{% step %}
 ### Load GSS data again if variables are misplaced in the codes and have thus overwritten the original values
 
 If variables are misplaced in the codes and have overwritten the original values, we have to “Load GSS” again, because we lost the values of the original variable and we need a fresh data.
@@ -408,21 +310,21 @@ We **never** save our data, but our R script files. From time to time, we may ac
 When this happens, we go to the very top of the R script file and load the data again. If we created new variables previously, we will need to run those codes under our working space again in order since it will be a fresh data.
 
 <figure><img src="../../../.gitbook/assets/image (4).png" alt="A screenshot of the RStudio interface showing how to load data using an R script. In the Source pane, a block of code labeled “Load data” is highlighted in red (label 1). The Run button at the top of the Source pane is circled and pointed out (label 2), indicating how to execute the selected code. In the Environment pane on the right, two newly loaded objects—gss and key—are highlighted (label 3), confirming that the data were successfully loaded."><figcaption></figcaption></figure>
+{% endstep %}
+{% endstepper %}
 
 ***
 
 ## E. Common computing issues
 
-### 1.&#x20;
-
+{% stepper %}
+{% step %}
 ### Use the new (recoded) variables in computation code
 
 <figure><img src="../../../.gitbook/assets/image (53).png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
 
-***
-
-### 2.&#x20;
-
+{% step %}
 ### Computed variables are always continuous
 
 When we compute variables and create an index, the new (computed) variable is continuous.
@@ -435,10 +337,17 @@ Therefore, we use the DESCR code to see the distribution (mean and standard devi
 
 When we recode a continuous variable, the new (recoded) variable is no longer continuous.
 
-It becomes CATEGORICAL because we have merged the real numbers, and they no longer remain as real numbers.\
+It becomes CATEGORICAL because we have merged the real numbers, and they no longer remain as real numbers.
+
 Therefore, for example, we use the FRQ code to see the distribution.
 
 <figure><img src="../../../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+{% endstepper %}
+
+
+
+***
 
 ## F. Miscellaneous
 
