@@ -73,13 +73,16 @@ _Do not use the text appears in the table. No one would understand what you mean
 
 [Frequency tables](#user-content-fn-1)[^1] are for [categorical variables](#user-content-fn-2)[^2]
 
-<pre class="language-r"><code class="lang-r"><strong>frq(gss$<a data-footnote-ref href="#user-content-fn-3">marital</a>, out = <a data-footnote-ref href="#user-content-fn-4">"v"</a>)
-</strong></code></pre>
+<table data-header-hidden><thead><tr><th>val</th><th>label</th><th>frq</th><th width="128">raw.prc</th><th>valid.prc</th><th>cum.prc</th></tr></thead><tbody><tr><td>1</td><td>married</td><td>1462</td><td>41.25</td><td><mark style="color:red;"><strong>41.43</strong></mark></td><td>41.43</td></tr><tr><td>2</td><td>widowed</td><td>255</td><td>7.20</td><td><mark style="color:red;"><strong>7.23</strong></mark></td><td>48.65</td></tr><tr><td>3</td><td>divorced</td><td>608</td><td>17.16</td><td><mark style="color:red;"><strong>17.23</strong></mark></td><td>65.88</td></tr><tr><td>4</td><td>separated</td><td>103</td><td>2.91</td><td><mark style="color:red;"><strong>2.92</strong></mark></td><td>68.80</td></tr><tr><td>5</td><td>never married</td><td>1101</td><td>31.07</td><td><mark style="color:red;"><strong>31.20</strong></mark></td><td>100.00</td></tr><tr><td>NA</td><td>NA</td><td>15</td><td>0.42</td><td>NA</td><td>NA</td></tr></tbody></table>
+
+```r
+frq(gss$marital, out = "v")
+```
 
 <figure><img src="../../../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-[_<mark style="color:blue;">The respondents' marital status variable</mark>_](#user-content-fn-5)[^5] _<mark style="color:blue;">shows that</mark>_ [_<mark style="color:blue;">41.43%</mark>_](#user-content-fn-6)[^6] _<mark style="color:blue;">of the respondents are</mark>_ [_<mark style="color:blue;">married;</mark>_](#user-content-fn-7)[^7] _<mark style="color:blue;">7.23% of the respondents are widowed; 17.23% of the respondents are divorced; 2.92% of the respondents are separated; 31.20% of the respondents are never married.</mark>_
+[_<mark style="color:blue;">The respondents' marital status variable</mark>_](#user-content-fn-3)[^3] _<mark style="color:blue;">shows that</mark>_ [_<mark style="color:blue;">41.43%</mark>_](#user-content-fn-4)[^4] _<mark style="color:blue;">of the respondents are</mark>_ [_<mark style="color:blue;">married;</mark>_](#user-content-fn-5)[^5] _<mark style="color:blue;">7.23% of the respondents are widowed; 17.23% of the respondents are divorced; 2.92% of the respondents are separated; 31.20% of the respondents are never married.</mark>_
 {% endhint %}
 
 {% hint style="success" %}
@@ -92,15 +95,15 @@ Slides: [descriptive statistics](https://docs.google.com/presentation/d/1_rePJrP
 
 ### Descriptive tables 1
 
-[Descriptive tables](#user-content-fn-8)[^8] are for [continuous variables](#user-content-fn-9)[^9].
+[Descriptive tables](#user-content-fn-6)[^6] are for [continuous variables](#user-content-fn-7)[^7].
 
-<pre class="language-r"><code class="lang-r">descr(gss$<a data-footnote-ref href="#user-content-fn-10">age</a>, out = "v", show = "short")
+<pre class="language-r"><code class="lang-r">descr(gss$<a data-footnote-ref href="#user-content-fn-8">age</a>, out = "v", show = "short")
 </code></pre>
 
 <figure><img src="../../../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-[_<mark style="color:blue;">The age in years variable</mark>_](#user-content-fn-5)[^5] _<mark style="color:blue;">shows that the average age of the respondents is</mark>_ [_<mark style="color:blue;">49.18</mark>_](#user-content-fn-11)[^11]_<mark style="color:blue;">, with standard deviation</mark>_ [_<mark style="color:blue;">17.97</mark>_](#user-content-fn-12)[^12]_<mark style="color:blue;">.</mark>_
+[_<mark style="color:blue;">The age in years variable</mark>_](#user-content-fn-3)[^3] _<mark style="color:blue;">shows that the average age of the respondents is</mark>_ [_<mark style="color:blue;">49.18</mark>_](#user-content-fn-9)[^9]_<mark style="color:blue;">, with standard deviation</mark>_ [_<mark style="color:blue;">17.97</mark>_](#user-content-fn-10)[^10]_<mark style="color:blue;">.</mark>_
 {% endhint %}
 
 {% hint style="success" %}
@@ -845,30 +848,22 @@ Slides: [dummy variables](https://docs.google.com/presentation/d/14DvMvFfpo0zkmW
 
     These numbers are arbitrary. In other words, widowed people (2) are **NOT** double of married people (1).
 
-[^3]: replace marital with a new categorical variable.
+[^3]: use "what it measures" column of Variables in GSS page.
 
-[^4]: v means "viewer"
+[^4]: Always use "valid.prc" (valid percent) column of the tables.
 
+[^5]: use the labels.
 
+[^6]: The “Descriptives” command is used to determine mean, standard deviation.
 
-    if you replace v with **b**, you will see the output on your browser.
-
-[^5]: use "what it measures" column of Variables in GSS page.
-
-[^6]: Always use "valid.prc" (valid percent) column of the tables.
-
-[^7]: use the labels.
-
-[^8]: The “Descriptives” command is used to determine mean, standard deviation.
-
-[^9]: Continuous variables are numeric variables that have an infinite number of values between any two values, with each point placed at an equal distance from one another.
+[^7]: Continuous variables are numeric variables that have an infinite number of values between any two values, with each point placed at an equal distance from one another.
 
 
 
     F
 
-[^10]: replace age with a new continuous variable.
+[^8]: replace age with a new continuous variable.
 
-[^11]: Mean
+[^9]: Mean
 
-[^12]: SD: standard deviation.
+[^10]: SD: standard deviation.
