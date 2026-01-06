@@ -422,7 +422,7 @@ descr(gss$<mark style="color:red;">hapindex</mark>, out = "v")
 
 Use the Code templates page.
 
-<figure><img src="../../../.gitbook/assets/image (142).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (142).png" alt="A view from the code templates page." width="563"><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 **Troubleshooting:**
@@ -502,7 +502,7 @@ We refer to statistical significance as <mark style="color:red;">p < 0.05</mark>
 
 Sometimes you may accidentally close one of the panes. When that happens, click "View" <mark style="color:red;">➜</mark>  "Panes" <mark style="color:red;">➜</mark> "Show All Panes."
 
-<figure><img src="../../../.gitbook/assets/SCR-20250911-kvqy-2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/SCR-20250911-kvqy-2.png" alt="A view from RStudio."><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -514,11 +514,11 @@ This may happen if your RStudio Cloud session consumes too much ram.
 
     **Saving R script files:** When we make any changes, the font of the file name (shown in the highlighted part #2 above) will be red with an asterisk (\*) - (see the highlighted part #1 below). To save our progress, we click save (see the highlighted part #2 below)
 
-<figure><img src="../../../.gitbook/assets/ss_2024-07-16 17.06.29.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/ss_2024-07-16 17.06.29.png" alt="A view from RStudio." width="563"><figcaption></figcaption></figure>
 
 2.  Click the three dots next to the gear. Click "Relaunch Project."
 
-    <figure><img src="../../../.gitbook/assets/Screenshot 2024-11-06 at 12.10.57 PM.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/Screenshot 2024-11-06 at 12.10.57 PM.png" alt="A view from RStudio."><figcaption></figcaption></figure>
 3. When you work on a R script file right after relaunching project, you need to run "install and load packages" and "load data" (as always).
 {% endstep %}
 
@@ -531,7 +531,7 @@ Therefore, whenever you are not running code or generating analyses, close the R
 
 Click on your name (see highlighted part #1). The highlighted part #2 shows the time period (e.g., "I will have 25 more hours on Aug 8, 2024"). The highlighted part #3 shows how many hours you have spent.
 
-<figure><img src="../../../.gitbook/assets/image (90).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (90).png" alt="A view from RStudio." width="563"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -544,11 +544,11 @@ Click on your name (see highlighted part #1). The highlighted part #2 shows the 
 1. Go to the previous account where you exceeded the time limit.
 2. Click "Export" (see the highlighted part)
 
-<figure><img src="../../../.gitbook/assets/ss_2024-07-19 14.24.08.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/ss_2024-07-19 14.24.08.png" alt="A view from RStudio." width="563"><figcaption></figcaption></figure>
 
 3. Click "Download"
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="A view from RStudio."><figcaption></figcaption></figure>
 
 4. It will download a zip file.
 5. Go to your new account.
@@ -568,7 +568,7 @@ Because when you log out, lab computers revert to their factory settings and del
 4. Find the Script file that you just downloaded, and click Open.
 5. **DO NOT DOUBLE CLICK R SCRIPT FILES.** It may open R, instead of RStudio.
 
-<figure><img src="../../../.gitbook/assets/image (67).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (67).png" alt="A view from RStudio."><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
