@@ -1,12 +1,8 @@
 # Flashcards
 
 {% hint style="success" %}
-
-
 Maximize your browser window to display the outline on the right side for easier navigation.
 {% endhint %}
-
-
 
 ## A. Setup
 
@@ -240,6 +236,14 @@ When this happens, we go to the very top of the R script file and load the data 
 Recoding a categorical variable and a continuous variable requires slightly different codes
 
 <figure><img src="../../../.gitbook/assets/image (8).png" alt="Text explaining how to plan a recoding task by first identifying the type of recoding needed—merging categories, reversing categories, or grouping a continuous variable—and then determining how many categories the new recoded variable will have, with examples using marital status, stress, and education."><figcaption></figcaption></figure>
+
+{% hint style="warning" %}
+**Troubleshooting:**
+
+* You need to check the "variable type" column of the variable (in "Variables in GSS page") you recode.
+  1. If you recode a categorical variable, use comma (,) between the values for merging.
+  2. If you recode a continuous variable, use colon (:) between the values.
+{% endhint %}
 {% endstep %}
 
 {% step %}
@@ -259,6 +263,12 @@ frq(gss$<mark style="color:yellow;">**marital**</mark>, out = "v")
 Correct:
 
 frq(gss$<mark style="color:yellow;">**maritalgroups**</mark>, out = "v")
+{% endhint %}
+
+{% hint style="warning" %}
+**Troubleshooting:**
+
+* After the recoding process, use the recoded (new) variable in analyses. Make sure you do not use the original variable name in analyses.
 {% endhint %}
 {% endstep %}
 
@@ -282,6 +292,12 @@ Correct:
 
 frq(gss$<mark style="color:yellow;">**educgroups**</mark>, out = "v")
 {% endhint %}
+
+{% hint style="warning" %}
+**Troubleshooting:**
+
+* Recoded variables are always categorical. Therefore, they should be treated categorical in every analyses they are used.
+{% endhint %}
 {% endstep %}
 
 {% step %}
@@ -294,12 +310,27 @@ Use the [Code templates](https://ttezcan.gitbook.io/lect/all-lectures-and-labs/r
 <figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt="Text explaining how to plan a recoding task by first identifying the type of recoding needed—merging categories, reversing categories, or grouping a continuous variable—and then determining how many categories the new recoded variable will have, with examples using marital status, stress, and education." width="563"><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/image (4) (1) (1) (1).png" alt="Two code examples showing recoding in R. The first is a model code template from a code templates page, and the second is a working code in RStudio that applies the template to create a new variable called maritalgroups by merging marital status categories." width="563"><figcaption></figcaption></figure>
+
+{% hint style="warning" %}
+**Troubleshooting:**
+
+* In code templates page, there are [recoding templates for both categorical and continuous variables](https://ttezcan.gitbook.io/lectures/all-lectures-and-labs/r-lab/lab-resources/code-templates#recoding), with every kind of value possibility.
+  1. determine what kind of recoding you need (merging, reversing, or transforming continuous variables into groups)
+  2. determine how many values you will need in your recoded (new variables).
+{% endhint %}
 {% endstep %}
 
 {% step %}
 ### Pasting the original variable to the correct place
 
 <figure><img src="../../../.gitbook/assets/image (5) (1) (1).png" alt="A figure showing correct and incorrect placement of variable names when recoding in R. The incorrect example assigns the recode back to the original variable “marital,” which would overwrite its values and is marked with an X. The correct example assigns the recoded output to a new variable named “maritalgroups” while using the original variable as input, marked with a check, illustrating how to preserve the original data." width="563"><figcaption></figcaption></figure>
+
+{% hint style="warning" %}
+**Troubleshooting:**
+
+1. The original variable you need to recode should be pasted (not typed) into the red area
+2. The new variable variable name that RStudio will create when you run the code should be pasted (not typed) into the yellow area.
+{% endhint %}
 {% endstep %}
 
 {% step %}
@@ -312,6 +343,14 @@ We **never** save our data, but our R script files. From time to time, we may ac
 When this happens, we go to the very top of the R script file and load the data again. If we created new variables previously, we will need to run those codes under our working space again in order since it will be a fresh data.
 
 <figure><img src="../../../.gitbook/assets/image (4).png" alt="A screenshot of the RStudio interface showing how to load data using an R script. In the Source pane, a block of code labeled “Load data” is highlighted in red (label 1). The Run button at the top of the Source pane is circled and pointed out (label 2), indicating how to execute the selected code. In the Environment pane on the right, two newly loaded objects—gss and key—are highlighted (label 3), confirming that the data were successfully loaded."><figcaption></figcaption></figure>
+
+{% hint style="warning" %}
+**Troubleshooting:**
+
+1. Mistakes happen. For example, you could put the new variable name into the wrong part of the code. When this happens, the values of the original variable are lost.
+2. Therefore, you should run the "Load data" codes again.
+3. Make sure you run each code again before the wrong code, because they are also lost.
+{% endhint %}
 {% endstep %}
 {% endstepper %}
 
@@ -342,6 +381,12 @@ gss <- gss %>%
 
 &#x20; mutate (<mark style="color:red;">hapindex</mark> = mean (c(<mark style="color:red;">happynew</mark>,<mark style="color:red;">lifenew</mark>,<mark style="color:red;">satfinnew</mark>)))
 {% endhint %}
+
+{% hint style="warning" %}
+**Troubleshooting:**
+
+* When creating a computed variable and if the original variables need to be recoded, then make sure you use the new variable names in the computation code. For such analyses, the original variables were not useful. That's why they were recoded.
+{% endhint %}
 {% endstep %}
 
 {% step %}
@@ -364,6 +409,12 @@ Correct:
 
 descr(gss$<mark style="color:red;">hapindex</mark>, out = "v")
 {% endhint %}
+
+{% hint style="warning" %}
+**Troubleshooting:**
+
+* Computed variables are always continuous. Therefore, they should be treated continuous in further analyses.
+{% endhint %}
 {% endstep %}
 
 {% step %}
@@ -372,6 +423,13 @@ descr(gss$<mark style="color:red;">hapindex</mark>, out = "v")
 Use the Code templates page.
 
 <figure><img src="../../../.gitbook/assets/image (142).png" alt="" width="563"><figcaption></figcaption></figure>
+
+{% hint style="warning" %}
+**Troubleshooting:**
+
+* In code templates page, there are [computing templates](https://ttezcan.gitbook.io/lectures/all-lectures-and-labs/r-lab/lab-resources/code-templates#computing) for every kind of value possibility.
+* Do not start computing process without using code templates page.
+{% endhint %}
 {% endstep %}
 {% endstepper %}
 
@@ -379,8 +437,8 @@ Use the Code templates page.
 
 ## F. Miscellaneous
 
-### 1.&#x20;
-
+{% stepper %}
+{% step %}
 ### Is my p-value less than 0.05?
 
 #### Statistical significance
@@ -394,11 +452,9 @@ We refer to statistical significance as <mark style="color:red;">p < 0.05</mark>
 #### Use the following website:
 
 [https://www.whichnumberislarger.com/](https://www.whichnumberislarger.com/)
+{% endstep %}
 
-***
-
-### 2.&#x20;
-
+{% step %}
 ### Data terminologies
 
 <mark style="color:red;">Questionnaire:</mark> A set of written questions used for collecting information from respondents.
@@ -426,44 +482,30 @@ We refer to statistical significance as <mark style="color:red;">p < 0.05</mark>
 [\[Variables in GSS\]](https://ttezcan.gitbook.io/lectures/all-lectures-and-labs/r-lab/lab-resources/variables-in-gss)
 
 <figure><img src="../../../.gitbook/assets/image (76).png" alt="A table titled “Discrimination and harassment at work” demonstrating how a survey variable is analyzed. The variable name “wkageism” is shown and described as measuring perceived discrimination at work because of age. The full wording of the question is displayed: “Do you feel in any way discriminated against on your job because of your age?” Numeric values are shown, where 1 represents Yes and 2 represents No. A frequency table below shows counts and percentages for each response category, illustrating how values and labels are used in statistical analysis."><figcaption></figcaption></figure>
+{% endstep %}
 
-***
-
-### 3.&#x20;
-
+{% step %}
 ### GSS codebooks
 
 * [GSS 2022 Codebook website](https://gssdataexplorer.norc.org/variables/vfilter)
 * [GSS 2022 Codebook pdf file](https://drive.google.com/open?id=1_-FMP3vDlPOiD1_KKkZjEIy3KNnnYOSP\&usp=drive_fs)
+{% endstep %}
+{% endstepper %}
 
 ***
 
 ## G. RStudio issues and usage&#x20;
 
-### 1.&#x20;
-
+{% stepper %}
+{% step %}
 ### Opening all the panes
 
-Sometimes you may accidentally close one of the panes. When that happens, click "View" ➜  "Panes" ➜ "Show All Panes"
+Sometimes you may accidentally close one of the panes. When that happens, click "View" <mark style="color:red;">➜</mark>  "Panes" <mark style="color:red;">➜</mark> "Show All Panes."
 
 <figure><img src="../../../.gitbook/assets/SCR-20250911-kvqy-2.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
 
-### 2.&#x20;
-
-### How to check how many hours left in RStudio Cloud?
-
-An RStudio Cloud free account allows you 25 hours of connect time per month. Every second the RStudio Cloud is open counts towards this allocated time.&#x20;
-
-Therefore, whenever you are not running code or generating analyses, close the RStudio Cloud browser
-
-Click on your name (see highlighted part #1). The highlighted part #2 shows the time period (e.g., "I will have 25 more hours on Aug 8, 2024"). The highlighted part #3 shows how many hours you have spent.
-
-<figure><img src="../../../.gitbook/assets/image (90).png" alt="" width="563"><figcaption></figcaption></figure>
-
-***
-
-### 3.&#x20;
-
+{% step %}
 ### What to do if RStudio Cloud crashes?
 
 This may happen if your RStudio Cloud session consumes too much ram.
@@ -474,21 +516,30 @@ This may happen if your RStudio Cloud session consumes too much ram.
 
 <figure><img src="../../../.gitbook/assets/ss_2024-07-16 17.06.29.png" alt="" width="563"><figcaption></figcaption></figure>
 
-2. Click the three dots next to the gear. Click "Relaunch Project."
+2.  Click the three dots next to the gear. Click "Relaunch Project."
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2024-11-06 at 12.10.57 PM.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/Screenshot 2024-11-06 at 12.10.57 PM.png" alt=""><figcaption></figcaption></figure>
+3. When you work on a R script file right after relaunching project, you need to run "install and load packages" and "load data" (as always).
+{% endstep %}
 
-### 4.&#x20;
+{% step %}
+### How to check how many hours left in RStudio Cloud?
 
+An RStudio Cloud free account allows you 25 hours of connect time per month. Every second the RStudio Cloud is open counts towards this allocated time.&#x20;
+
+Therefore, whenever you are not running code or generating analyses, close the RStudio Cloud browser
+
+Click on your name (see highlighted part #1). The highlighted part #2 shows the time period (e.g., "I will have 25 more hours on Aug 8, 2024"). The highlighted part #3 shows how many hours you have spent.
+
+<figure><img src="../../../.gitbook/assets/image (90).png" alt="" width="563"><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
 ### What to do if you exceed 25 hours per month?
 
-25 hours of connect time is enough for this class. If you exceed this limit, open another free account using a different email address. Follow the procedures described in the [RStudio lab assignment: account and packages assignment instructions](https://docs.google.com/document/d/1P0gpXCsAk03u9fSdHNdMpO43TCbHUoJT/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true).
+25 hours of connect time is enough for this class. If you exceed this limit, open another free account using a different email address. Follow the procedures described in the [How to create RStudio Cloud account and installing all the packages](https://ttezcan.gitbook.io/lectures/all-lectures-and-labs/r-lab/lab-resources/how-to-create-rstudio-cloud-account-and-installing-all-the-packages).
 
-***
-
-### 5.&#x20;
-
-### What to do if you want your new free account to be identical (files, packages, etc.) to the previous account where you exceeded the time limit?
+#### What to do if you want your new free account to be identical (files, packages, etc.) to the previous account where you exceeded the time limit?
 
 1. Go to the previous account where you exceeded the time limit.
 2. Click "Export" (see the highlighted part)
@@ -502,11 +553,9 @@ This may happen if your RStudio Cloud session consumes too much ram.
 4. It will download a zip file.
 5. Go to your new account.
 6. Upload that zip file just like you upload a R script file.
+{% endstep %}
 
-***
-
-### 6.&#x20;
-
+{% step %}
 ### Using RStudio on a university lab computer
 
 Every time you log in to a lab computer, you have to run "install and load packages" codes.
@@ -520,11 +569,9 @@ Because when you log out, lab computers revert to their factory settings and del
 5. **DO NOT DOUBLE CLICK R SCRIPT FILES.** It may open R, instead of RStudio.
 
 <figure><img src="../../../.gitbook/assets/image (67).png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
 
-***
-
-### 7.&#x20;
-
+{% step %}
 ### Downloading R and RStudio to a personal computer
 
 You can download R and RStudio to your personal computer.  "Install and load packages" codes will install the packages once, but every time you open RStudio on your personal computer, you should run "Install and load packages" again.
@@ -565,10 +612,10 @@ macOS may want you to allow it to download. Open System Preferences, navigate to
 
 Windows users may need to change some of their settings.
 
-Select Start  > Settings  > Apps > Apps & features. Under Installing apps, select "Allow apps from anywhere"
+Select Start <mark style="color:red;">➜</mark> Settings <mark style="color:red;">➜</mark> Apps <mark style="color:red;">➜</mark> Apps & features. Under Installing apps, select "Allow apps from anywhere."
 
 #### Video guidance (Windows)
 
 {% embed url="https://www.youtube.com/watch?v=v3SsxSNINO8" %}
-
-***
+{% endstep %}
+{% endstepper %}
