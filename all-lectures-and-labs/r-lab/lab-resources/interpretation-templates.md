@@ -73,13 +73,11 @@ _Do not use the text appears in the table. No one would understand what you mean
 
 [Frequency tables](#user-content-fn-1)[^1] are for [categorical variables](#user-content-fn-2)[^2]
 
-<table data-header-hidden><thead><tr><th>val</th><th>label</th><th>frq</th><th width="128">raw.prc</th><th>valid.prc</th><th>cum.prc</th></tr></thead><tbody><tr><td>1</td><td>married</td><td>1462</td><td>41.25</td><td><mark style="color:red;"><strong>41.43</strong></mark></td><td>41.43</td></tr><tr><td>2</td><td>widowed</td><td>255</td><td>7.20</td><td><mark style="color:red;"><strong>7.23</strong></mark></td><td>48.65</td></tr><tr><td>3</td><td>divorced</td><td>608</td><td>17.16</td><td><mark style="color:red;"><strong>17.23</strong></mark></td><td>65.88</td></tr><tr><td>4</td><td>separated</td><td>103</td><td>2.91</td><td><mark style="color:red;"><strong>2.92</strong></mark></td><td>68.80</td></tr><tr><td>5</td><td>never married</td><td>1101</td><td>31.07</td><td><mark style="color:red;"><strong>31.20</strong></mark></td><td>100.00</td></tr><tr><td>NA</td><td>NA</td><td>15</td><td>0.42</td><td>NA</td><td>NA</td></tr></tbody></table>
-
 ```r
 frq(gss$marital, out = "v")
 ```
 
-<figure><img src="../../../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
+<table><thead><tr><th>val</th><th>label</th><th>frq</th><th width="128">raw.prc</th><th>valid.prc</th><th>cum.prc</th></tr></thead><tbody><tr><td>1</td><td>married</td><td>1462</td><td>41.25</td><td><mark style="color:red;"><strong>41.43</strong></mark></td><td>41.43</td></tr><tr><td>2</td><td>widowed</td><td>255</td><td>7.20</td><td><mark style="color:red;"><strong>7.23</strong></mark></td><td>48.65</td></tr><tr><td>3</td><td>divorced</td><td>608</td><td>17.16</td><td><mark style="color:red;"><strong>17.23</strong></mark></td><td>65.88</td></tr><tr><td>4</td><td>separated</td><td>103</td><td>2.91</td><td><mark style="color:red;"><strong>2.92</strong></mark></td><td>68.80</td></tr><tr><td>5</td><td>never married</td><td>1101</td><td>31.07</td><td><mark style="color:red;"><strong>31.20</strong></mark></td><td>100.00</td></tr><tr><td>NA</td><td>NA</td><td>15</td><td>0.42</td><td>NA</td><td>NA</td></tr></tbody></table>
 
 {% hint style="info" %}
 [_<mark style="color:blue;">The respondents' marital status variable</mark>_](#user-content-fn-3)[^3] _<mark style="color:blue;">shows that</mark>_ [_<mark style="color:blue;">41.43%</mark>_](#user-content-fn-4)[^4] _<mark style="color:blue;">of the respondents are</mark>_ [_<mark style="color:blue;">married;</mark>_](#user-content-fn-5)[^5] _<mark style="color:blue;">7.23% of the respondents are widowed; 17.23% of the respondents are divorced; 2.92% of the respondents are separated; 31.20% of the respondents are never married.</mark>_
@@ -100,7 +98,9 @@ Slides: [descriptive statistics](https://docs.google.com/presentation/d/1_rePJrP
 <pre class="language-r"><code class="lang-r">descr(gss$<a data-footnote-ref href="#user-content-fn-8">age</a>, out = "v", show = "short")
 </code></pre>
 
-<figure><img src="../../../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
+| Variable | N    | Missings (%) | Mean                                      | SD                                        |
+| -------- | ---- | ------------ | ----------------------------------------- | ----------------------------------------- |
+| dd       | 3336 | 5.87         | <mark style="color:red;">**49.18**</mark> | <mark style="color:red;">**17.97**</mark> |
 
 {% hint style="info" %}
 [_<mark style="color:blue;">The age in years variable</mark>_](#user-content-fn-3)[^3] _<mark style="color:blue;">shows that the average age of the respondents is</mark>_ [_<mark style="color:blue;">49.18</mark>_](#user-content-fn-9)[^9]_<mark style="color:blue;">, with standard deviation</mark>_ [_<mark style="color:blue;">17.97</mark>_](#user-content-fn-10)[^10]_<mark style="color:blue;">.</mark>_
@@ -118,7 +118,8 @@ Slides: [descriptive statistics](https://docs.google.com/presentation/d/1_rePJrP
 descr(gss$hapindex, out = "v", show = "short")
 ```
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+| dd | 2309 | 34.85 | <mark style="color:red;">**2.10**</mark> | <mark style="color:red;">**0.47**</mark> |
+| -- | ---- | ----- | ---------------------------------------- | ---------------------------------------- |
 
 Indicate the highest possible score in your interpretation <mark style="color:red;">➜ "Out of 3", "Out of 5", etc.</mark>
 
@@ -145,6 +146,16 @@ sjt.xtab(gss$sex, gss$health, show.row.prc = TRUE)
 ```
 
 Independent variable first (sex), dependent variable second (health)
+
+| respondents sex |  health              |                       |                      |                     | Total                                       |
+| --------------- | -------------------- | --------------------- | -------------------- | ------------------- | ------------------------------------------- |
+|                 | excellent            | good                  | fair                 | poor                |                                             |
+| male            | <p>328<br>20.2 %</p> | <p>821<br>50.5 %</p>  | <p>396<br>24.4 %</p> | <p>80<br>4.9 %</p>  | <p>1625<br>100 %</p>                        |
+| female          | <p>357<br>18.8 %</p> | <p>998<br>52.6 %</p>  | <p>441<br>23.3 %</p> | <p>100<br>5.3 %</p> | <p>1896<br>100 %</p>                        |
+| Total           | <p>685<br>19.5 %</p> | <p>1819<br>51.7 %</p> | <p>837<br>23.8 %</p> | <p>180<br>5.1 %</p> | <p>3521<br>100 %</p>                        |
+|                 |                      | χ2=2.248              | df=3                 | Cramer's V=0.025    | <mark style="color:red;">**p=0.523**</mark> |
+
+
 
 <figure><img src="../../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
