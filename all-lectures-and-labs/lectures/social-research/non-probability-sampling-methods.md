@@ -2,7 +2,7 @@
 
 ## Reading
 
-* [Babbie, Earl R. 2013. “Inferential Statistics.” Pp. 469–77 in The practice of social research. Independence, KY: Wadsworth, Cengage Learning.](https://drive.google.com/open?id=1aGH4f2tALbs02luktW6y7qb2ZG1rw_QI\&usp=drive_fs)
+* [Babbie, Earl R. 2013. “The logic of sampling” Pp. 183–90 in The practice of social research. Independence, KY: Wadsworth, Cengage Learning.](https://drive.google.com/open?id=1aGH4f2tALbs02luktW6y7qb2ZG1rw_QI\&usp=drive_fs)
 
 ## Slides
 
