@@ -67,7 +67,7 @@ Previous assignments to use&#x20;
       2. Paste Paragraph 2 under **"2.2" subsection** in your draft research memo before Hypothesis 2
       3. Paste Paragraph 3 under **"2.3" subsection** in your draft research memo before Hypothesis 3
          1. Name these subsections based on your variables (e.g., "2.1. Discrimination and Return migration")
-      4. Open "\[DRM] Choosing annual review articles and determining research items" assignment and check question 3. Paste anything relevant for the **2.1., 2.2., 2.3. subsections**
+      4. Open "\[DRM] Choosing annual review articles and determining research items" assignment and check question 2 (paragraphs). Paste anything relevant for the **2.1., 2.2., 2.3. subsections**
    2. If you modified your variables:
       1. Only paste relevant sentences from previous assignments
       2. Write new sentences and cite peer-reviewed journal articles
