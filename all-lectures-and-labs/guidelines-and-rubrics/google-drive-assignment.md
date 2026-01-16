@@ -106,13 +106,6 @@ Go to [https://drive.google.com/drive](https://drive.google.com/drive) and make 
 <mark style="color:red;">Choose the tab</mark> for the semester you are enrolled in this class:
 
 {% tabs fullWidth="true" %}
-{% tab title="Winter 26" %}
-* Week 1 (12/22-12/26)
-* Week 2 (12/29-01/02)
-* Week 3 (01/05-01/09)
-* Week 4 (01/12-01/16)
-{% endtab %}
-
 {% tab title="Spring 26" %}
 * Week 1 (01/19-01/25)
 * Week 2 (01/26-02/01)
@@ -185,8 +178,6 @@ Scroll down and click "Begin."
 After the submission, you need to wait for my feedback.
 
 Each submission without getting full credit from this assignment will result in no credit for the subsequent assignments **other than quiz and discussion type submissions.** While waiting for my feedback, submit the quiz and discussion type submissions (_if you see any on Canvas modules)_.
-
-While waiting for my feedback, go ahead and submit quiz and discussion type assignments (_if you see any on Canvas modules_).
 
 The type of submission is indicated by the icons next to the assignments on Canvas, as follows:
 
