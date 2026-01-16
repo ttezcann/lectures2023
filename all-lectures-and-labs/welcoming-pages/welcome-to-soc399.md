@@ -92,7 +92,7 @@ Feel free to submit assignments during the break if you wish. I will grade the a
 
 ### <mark style="color:orange;">Where are the due dates?</mark> <a href="#deadlines" id="deadlines"></a>
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. The Modules page show each assignment's due date.
 2. When you click on the assignment, you see more details, such as "Due" again, and

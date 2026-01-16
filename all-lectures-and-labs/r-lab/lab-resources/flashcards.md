@@ -36,7 +36,7 @@ Follow the procedures described in [\[How to create RStudio Cloud account and in
        <figure><img src="../../../.gitbook/assets/ss_2024-07-16 16.55.54.png" alt="" width="375"><figcaption></figcaption></figure>
 3.  **Uploading R script files:** On [RStudio Cloud website](https://posit.cloud/), click “Upload” (see highlighted part #2 below). Click “Choose File.” Find the R script file you just downloaded (e.g., script\_descriptive.R) in the previous step, click “Open” and "OK."
 
-    <figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt="A screenshot of the RStudio interface showing the Upload Files dialog open. The dialog displays the target directory /cloud/project, with a red callout highlighting the Choose File button and another highlighting the Upload button in the Files pane, indicating how to upload files into an RStudio cloud project."><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt="A screenshot of the RStudio interface showing the Upload Files dialog open. The dialog displays the target directory /cloud/project, with a red callout highlighting the Choose File button and another highlighting the Upload button in the Files pane, indicating how to upload files into an RStudio cloud project."><figcaption></figcaption></figure>
 4.  **Opening R script files:** The file is uploaded and at the bottom of the "Files" list (see highlighted part #1). When you click on it, the descriptive R script file will open (see highlighted part #2).
 
     <figure><img src="../../../.gitbook/assets/image (2).png" alt="A screenshot of the RStudio interface showing an open script titled script_intro.R in the Source pane on the left, with commented instructions and example R code. Red callouts highlight the script tab in the Source pane and the same file listed in the Files pane on the right, indicating where to open and locate the R script within the RStudio workspace."><figcaption></figcaption></figure>
@@ -128,7 +128,7 @@ Whenever we run an analysis with a different variable, we create a model code an
 
 <figure><img src="../../../.gitbook/assets/SCR-20251231-ickl.png" alt="A teaching slide explaining how to work with R code using model codes from a separate Code templates page. The slide emphasizes that users should never type or modify code directly in the lab R script; instead, they create a model code and a working code.  Step 1 shows a model code example from the Code templates page for producing descriptive statistics, written with a placeholder variable name. This line is presented as known to work and should not be edited.  Step 2 explains copying this model code into the WORKING SPACE of the R script file twice, with a blank line between them. The first pasted line remains unchanged as the reference model code, and the second line is designated as the working code to be edited.  Step 3 shows editing only the working code by replacing the placeholder variable name with a specific variable, such as “educ.” If the edited working code does not run correctly, the user compares it to the unchanged model code to troubleshoot errors.  The overall message of the slide is that model codes provide a safe, reliable template, while all experimentation and changes should occur only in the working code."><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image.png" alt="A teaching slide explaining how to work with R code using model code and working code. The slide states that users should never edit the original code in the R script file; instead, they copy a known-working example (called the model code) into a designated “working space.” Step 1 shows a model code line that generates a frequency table. Step 2 explains copying that line twice into the working space so one line remains unchanged as a reference. Step 3 shows editing only the second line to change the variable name (for example, replacing “marital” with “sex”); if the edited code fails, it is compared to the unchanged model code to troubleshoot."><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt="A teaching slide explaining how to work with R code using model code and working code. The slide states that users should never edit the original code in the R script file; instead, they copy a known-working example (called the model code) into a designated “working space.” Step 1 shows a model code line that generates a frequency table. Step 2 explains copying that line twice into the working space so one line remains unchanged as a reference. Step 3 shows editing only the second line to change the variable name (for example, replacing “marital” with “sex”); if the edited code fails, it is compared to the unchanged model code to troubleshoot."><figcaption></figcaption></figure>
 
 This is a view from the [Code templates](https://ttezcan.gitbook.io/lect/all-lectures-and-labs/r-lab/lab-resources/code-templates) page. Triple click the code and copy, or click "Copy" (see the highlighted part).
 
@@ -136,7 +136,7 @@ This is a view from the [Code templates](https://ttezcan.gitbook.io/lect/all-lec
 
 If we don’t use model code for comparison, it is likely that we accidentally delete something extra. In this example, the comma was deleted.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="A single-line code snippet shows an error caused by a missing comma: frq(gss$sex out=&#x22;v&#x22;) (the comma between sex and out is missing). A red X icon appears next to the line number, indicating RStudio flags it as wrong." width="273"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="A single-line code snippet shows an error caused by a missing comma: frq(gss$sex out=&#x22;v&#x22;) (the comma between sex and out is missing). A red X icon appears next to the line number, indicating RStudio flags it as wrong." width="273"><figcaption></figcaption></figure>
 
 Instead, we keep the use model code and compare it with our working code. Here we clearly see that the comma is missing in line 79. Note that RStudio warns us that something is wrong with that red cross.
 
@@ -167,7 +167,7 @@ We need to highlight all the lines and click “Run.”
 
 Here's what happens if we don't:
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="single lines should be selected with a triple click and multiple lines by dragging the mouse. An example screenshot shows code for generating a bar graph, but the output pane displays the message “No bar graph here!” indicating that the graph was not produced because the necessary lines were not highlighted and executed." width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="single lines should be selected with a triple click and multiple lines by dragging the mouse. An example screenshot shows code for generating a bar graph, but the output pane displays the message “No bar graph here!” indicating that the graph was not produced because the necessary lines were not highlighted and executed." width="563"><figcaption></figcaption></figure>
 
 It simply shows what we highlighted and run (check the console part), not the analysis (check the plots part).
 
@@ -548,7 +548,7 @@ Click on your name (see highlighted part #1). The highlighted part #2 shows the 
 
 3. Click "Download"
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="A view from RStudio."><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="A view from RStudio."><figcaption></figcaption></figure>
 
 4. It will download a zip file.
 5. Go to your new account.

@@ -113,5 +113,5 @@ It's always better to search DOI instead of title of the articles.
    2. Click Search
    3. The DOI appears at the bottom
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="A database search form displays fields filled with author “Duckitt” and the article title “Group identification and intergroup attitudes: A longitudinal analysis in South Africa.” A results table below highlights the DOI link for the article in the Journal of Personality and Social Psychology."><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="A database search form displays fields filled with author “Duckitt” and the article title “Group identification and intergroup attitudes: A longitudinal analysis in South Africa.” A results table below highlights the DOI link for the article in the Journal of Personality and Social Psychology."><figcaption></figcaption></figure>
 
