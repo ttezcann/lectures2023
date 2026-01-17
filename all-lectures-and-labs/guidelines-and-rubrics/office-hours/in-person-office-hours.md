@@ -10,7 +10,7 @@
 
 ## <mark style="color:orange;">IN-PERSON office hours table (day, time, room)</mark> <a href="#in-person-office-hours-table-day-time-room" id="in-person-office-hours-table-day-time-room"></a>
 
-In-person office hours: before/after classes or my office\*
+In-person office hours: before/after classes in a classroom or my office\*
 
 | (1) Monday      | 9:45 - 10:00 am - (CAHSS 1102)   |
 | --------------- | -------------------------------- |
