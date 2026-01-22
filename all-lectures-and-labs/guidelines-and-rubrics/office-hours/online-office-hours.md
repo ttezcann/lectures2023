@@ -28,7 +28,7 @@ layout:
 
 ## <mark style="color:orange;">ONLINE office hours table (day and time)</mark>
 
-<table data-header-hidden><thead><tr><th width="228.07421875">No - Day</th><th>Time - Room</th></tr></thead><tbody><tr><td>(1) Tuesday</td><td>10:00 - 10:15 am (Zoom)</td></tr><tr><td>(2) Tuesday</td><td>10:15 - 10:30 am (Zoom)</td></tr><tr><td>(3) Tuesday</td><td>10:30 - 10:45 am (Zoom)</td></tr><tr><td>(4) Tuesday</td><td>10:45 - 11:00 am (Zoom)</td></tr><tr><td></td><td></td></tr><tr><td>(5) Thursday</td><td>10:00 - 10:15 am (Zoom)</td></tr><tr><td>(6) Thursday</td><td>10:15 - 10:30 am (Zoom)</td></tr><tr><td>​(7) Thursday</td><td>10:30 - 10:45 am (Zoom)</td></tr><tr><td>(8) Thursday</td><td>10:45 - 11:00 am (Zoom)</td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="228.07421875">No - Day</th><th>Time - Room</th></tr></thead><tbody><tr><td>(1) Monday</td><td>3:30 - 3:45 pm (Zoom)</td></tr><tr><td>(2) Monday</td><td>3:45 - 4:00 pm (Zoom)</td></tr><tr><td>(3) Monday</td><td>4:00 - 4:15 pm (Zoom)</td></tr><tr><td>(4) Monday</td><td>4:15 - 4:30 pm (Zoom)</td></tr><tr><td></td><td></td></tr><tr><td>(5) Wednesday</td><td>3:30 - 3:45 pm (Zoom)</td></tr><tr><td>(6) Wednesday</td><td>3:45 - 4:00 pm (Zoom)</td></tr><tr><td>​(7) Wednesday</td><td>4:00 - 4:15 pm (Zoom)</td></tr><tr><td>(8) Wednesday</td><td>4:15 - 4:30 pm (Zoom)</td></tr></tbody></table>
 
 ## <mark style="color:orange;">**Cancelling a meeting**</mark>
 
