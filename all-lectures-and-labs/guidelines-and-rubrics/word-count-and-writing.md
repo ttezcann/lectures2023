@@ -15,7 +15,7 @@ layout:
     visible: true
 ---
 
-# Word count
+# Word count and writing
 
 {% hint style="success" %}
 This guideline includes:
@@ -31,10 +31,8 @@ This guideline includes:
   * If there's a single question, you will target the provided minimum word count.&#x20;
   * If there are multiple questions, I will provide the minimum word count with and without question prompts.&#x20;
     * Highlight your responses <mark style="color:red;">with the question prompts,</mark> and report the word count with question prompts.
+    * When there multiple questions, stated minimum word counts are <mark style="color:red;">collective (combined) responses</mark>, not for each question.
   * You can exceed the provided word counts.
-
-
-
 * When there is a “WC” (Word count) section under the responses, provide the word count; otherwise, there will be a **-5% deduction**.&#x20;
 * Reported word counts must be accurate. Incorrect counts result in a **-5% deduction**.
   * Discrepancies within ±2% of the actual count are considered negligible and will not be penalized.
