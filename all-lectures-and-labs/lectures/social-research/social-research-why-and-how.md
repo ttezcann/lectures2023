@@ -12,8 +12,7 @@
 
 ## Assignment
 
-* [Research design group work - Instructions](https://docs.google.com/presentation/d/1Wmy1TylvYnv6zrMgsahrZKazQj3R6dLt/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
-* [Submission form](https://docs.google.com/document/d/1WKwdx-offZJQL1Jp96hPx1zua0eSXPHT/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
+* [Research design](https://docs.google.com/document/d/1WKwdx-offZJQL1Jp96hPx1zua0eSXPHT/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
 
 ## Video
 

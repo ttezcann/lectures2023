@@ -10,7 +10,9 @@
 
 ## Slides
 
-* [Introduction to RStudio.pptx](https://docs.google.com/presentation/d/1_ax3v8lEjDK96E5YNoASj8H_afsD98p9/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
+{% embed url="https://docs.google.com/presentation/d/1_ax3v8lEjDK96E5YNoASj8H_afsD98p9/edit?ouid=100179871492576617561&rtpof=true&sd=true&usp=sharing" %}
+[**Downloadeble slides here**](https://docs.google.com/presentation/d/1_ax3v8lEjDK96E5YNoASj8H_afsD98p9/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true)
+{% endembed %}
 
 ## Lab assignment
 
