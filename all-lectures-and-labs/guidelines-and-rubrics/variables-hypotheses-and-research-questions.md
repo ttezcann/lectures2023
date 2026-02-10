@@ -1,14 +1,5 @@
 # Variables, hypotheses, and research questions
 
-## <mark style="color:$primary;">Empirical and normative social resarch</mark>
-
-* <mark style="color:red;">**Empirical social research:**</mark> Studies what is. It describes and explains the social world as it exists using verifiable evidence.
-  * "Does the death penalty deter crime rates?" (Measured by statistics)
-    * We collect data or use existing data in empirical social research.
-* <mark style="color:red;">**Normative social research:**</mark> Studies what it should be. It evaluates the social world based on values, beliefs, and ethical standards.
-  * "Is it morally right for the state to execute criminals?" (Debated by ethics)
-    * We do not need any kind of data in normative social research.
-
 ## <mark style="color:$primary;">Variables</mark>
 
 * Empirical social research uses data to examine potential relationships between social concepts such as;
@@ -16,19 +7,19 @@
     * In research, these social concepts are called “variables.”
 * A variable is any characteristics, number, or quantity that can be measured, observed, or counted. Any piece of information we know about our subjects (e.g., individuals).
   * <mark style="color:red;">**Dependent variables:**</mark> Dependent variable is the main topic that we investigate. It is the outcome: What is being affected? What’s being changed? You SHOULD have only ONE dependent variable. Because you have one main topic. Such as;
-    * Dependent variable: Return migration
+    * <mark style="color:yellow;">Dependent variable:</mark> Return migration
   * <mark style="color:red;">**Independent variables:**</mark> Independent variables are the factors through which we attempt to explain and understand our dependent variable (main topic). You SHOULD have more than ONE independent variables. Because you have one main topic; We can’t explain a social issue through only one factor. Such as;
-    * Independent variable 1: Ethnic identification
-    * Independent variable 2: Contact level with natives
-    * Independent variable 3: Discrimination
+    * <mark style="color:$success;">Independent variable 1:</mark> Ethnic identification
+    * <mark style="color:blue;">Independent variable 2:</mark> Contact level with natives
+    * <mark style="color:purple;">Independent variable 3:</mark> Discrimination
 
 ### <mark style="color:$primary;">Hypotheses</mark>
 
 <mark style="color:red;">**Hypothesis:**</mark> Tentative predictions we have about what we are going to discover before we begin the research. Educated guesses by following the directions of the literature. The proposed links between independent variables and the dependent variable, such as;
 
-* Hypothesis 1: I expect to find that ethnic identification (Independent variable 1) increases return migration (Dependent variable)&#x20;
-* Hypothesis 2: I expect to find that contact level with natives (Independent variable 2) decreases return migration (Dependent variable)&#x20;
-* Hypothesis 3: I expect to find that discrimination (Independent variable 3) increases return migration (Dependent variable)
+* Hypothesis 1: I expect to find that <mark style="color:$success;">ethnic identification</mark> **(Independent variable 1)** increases <mark style="color:$warning;">return migration</mark> **(Dependent variable)**&#x20;
+* Hypothesis 2: I expect to find that <mark style="color:blue;">contact level with natives</mark> **(Independent variable 2)** decreases <mark style="color:$warning;">return migration</mark> **(Dependent variable)**&#x20;
+* Hypothesis 3: I expect to find that <mark style="color:purple;">discrimination</mark> **(Independent variable 3)** increases <mark style="color:$warning;">return migration</mark> **(Dependent variable)**
 
 As there are three independent variables, there are three hypotheses.&#x20;
 
@@ -39,15 +30,18 @@ As there are three independent variables, there are three hypotheses.&#x20;
 
 <mark style="color:red;">**Hypotheses should be in this format:**</mark>
 
-* I expect to find that independentvariable1 (choose one, delete the rest: increases OR decreases OR positively affects OR negatively affects) dependentvariable
-* I expect to find that independentvariable2 (choose one, delete the rest: increases OR decreases OR positively affects OR negatively affects) dependentvariable
-* I expect to find that independentvariable3 (choose one, delete the rest: increases OR decreases OR positively affects OR negatively affects) dependentvariable
+* I expect to find that <mark style="color:$success;">independentvariable1</mark> (choose one, delete the rest: increases OR decreases OR positively affects OR negatively affects) <mark style="color:$warning;">dependentvariable</mark>
+* I expect to find that <mark style="color:blue;">independentvariable2</mark> (choose one, delete the rest: increases OR decreases OR positively affects OR negatively affects) <mark style="color:$warning;">dependentvariable</mark>
+* I expect to find that <mark style="color:purple;">independentvariable3</mark> (choose one, delete the rest: increases OR decreases OR positively affects OR negatively affects) <mark style="color:$warning;">dependentvariable</mark>
+  * Hypothesis 1: I expect to find that <mark style="color:$success;">ethnic identification</mark> **(Independent variable 1)** increases <mark style="color:$warning;">return migration</mark> **(Dependent variable)**&#x20;
+  * Hypothesis 2: I expect to find that <mark style="color:blue;">contact level with natives</mark> **(Independent variable 2)** decreases <mark style="color:$warning;">return migration</mark> **(Dependent variable)**&#x20;
+  * Hypothesis 3: I expect to find that <mark style="color:purple;">discrimination</mark> **(Independent variable 3)** increases <mark style="color:$warning;">return migration</mark> **(Dependent variable)**
 
 ## <mark style="color:$primary;">**Research question**</mark>&#x20;
 
 <mark style="color:red;">**Research question:**</mark> An answerable inquiry into a specific concern or issue. Research question is what the research attempts to answer.
 
-* Research question: To what extent do ethnic identification (Independent variable 1), contact level with natives (Independent variable 2), and discrimination (Independent variable 3) influence return migration (Dependent variable)?
+* Research question: To what extent do <mark style="color:$success;">ethnic identification</mark> **(Independent variable 1)**, <mark style="color:blue;">contact level with natives</mark> **(Independent variable 2)**, and <mark style="color:purple;">discrimination</mark> **(Independent variable 3)** influence <mark style="color:$warning;">return migration</mark> **(Dependent variable)**?
 
 ## <mark style="color:$primary;">Phrasing variables</mark>
 
@@ -57,32 +51,32 @@ As there are three independent variables, there are three hypotheses.&#x20;
   * (1) are specific and anyone can understand exactly what you mean,
   * (2) have high and low values - all variables must be able to increase or decrease, or be positively or negatively affected by other variables.
   * (3) show causality - variables should make sense in a hypothesis. Independent variables must be able to increase (positively affect) or decrease (negatively affect) the dependent variable so it shows causality.
-    * Hypothesis 1: I expect to find that family involvement positively affects academic performance
+    * Hypothesis 1: I expect to find that family involvement positively affects academic performance.
 
 #### <mark style="color:$primary;">The three-step test</mark>
 
 * <mark style="color:red;">**Step 1: The “What about it?” test (Check for specificity):**</mark>&#x20;
   * A variable is not a topic; it is a specific attribute of that topic.
-  * The Test: Look at your variable. Does it force you to ask, “What about it?”
-    * Example: You write “Social media.”
-    * Question: “What about social media? Do you mean the time spent? The platform? The addiction?"
-    * Fix: If you have to explain it, rewrite it.&#x20;
+  * **The Test:** Look at your variable. Does it force you to ask, “What about it?”
+    * **Example:** You write “Social media.”
+    * **Question:** “What about social media? Do you mean the time spent? The platform? The addiction?"
+    * **Fix:** If you have to explain it, rewrite it.&#x20;
       * For example, “Frequency of Social Media Use.”
 * <mark style="color:red;">**Step 2: The “Higher or lower?” test (Check for measurement):**</mark>&#x20;
   * A variable must be able to vary (increase, decrease, positively affect(ed), negatively affect(ed)).
-  * The Test: Can you meaningfully ask, “Is this variable higher or lower for this person/group?”
-    * Example: You write “Social media.”
-    * Question: “Is social media higher for youth?”
-    * Fix: If it doesn’t make sense, rewrite it.&#x20;
+  * **The Test:** Can you meaningfully ask, “Is this variable higher or lower for this person/group?”
+    * **Example:** You write “Social media.”
+    * **Question:** “Is social media higher for youth?”
+    * **Fix:** If it doesn’t make sense, rewrite it.&#x20;
       * For example, “Level of social media addiction.”
 * <mark style="color:red;">**Step 3: The “Is there a causality?” test (Hypothesis fit):**</mark>&#x20;
   * Variables must be phrased so it can logically “increase,” “decrease,” “positively affect(ed),” or “negatively affected”
     * (e.g., “I expect to find that X increases Y”).
-  * The Test: Put your variables into the hypothesis template and read, “Is there a meaningful causality here?”
-    * Hypothesis template:  “I expect to find that independentvariable1 (choose one, delete the rest: increases OR decreases OR positively affects OR negatively affects) dependentvariable”
+  * **The Test:** Put your variables into the hypothesis template and read, “Is there a meaningful causality here?”
+    * **Hypothesis template:** “I expect to find that independentvariable1 (choose one, delete the rest: increases OR decreases OR positively affects OR negatively affects) dependentvariable”
       * Example: You write “I expect to find that social media decreases attention span.”
-    * Question: “Is there a meaningful causality here?”
-    * Fix: If it doesn’t make sense, rewrite it.&#x20;
+    * **Question:** “Is there a meaningful causality here?”
+    * **Fix: I**f it doesn’t make sense, rewrite it.&#x20;
       * For example, “I expect to find that using short video-based social media platforms decreases attention span.”
 
 ## <mark style="color:$primary;">Bad variables, good variables</mark>
