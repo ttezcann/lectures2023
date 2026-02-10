@@ -6,12 +6,14 @@
   * How **experienced discrimination** affects **a sense of belonging**.
     * In research, these social concepts are called “variables.”
 * A variable is any characteristics, number, or quantity that can be measured, observed, or counted. Any piece of information we know about our subjects (e.g., individuals).
-  * <mark style="color:red;">**Dependent variables:**</mark> Dependent variable is the main topic that we investigate. It is the outcome: What is being affected? What’s being changed? You SHOULD have only ONE dependent variable. Because you have one main topic. Such as;
-    * <mark style="color:yellow;">Dependent variable:</mark> Return migration
-  * <mark style="color:red;">**Independent variables:**</mark> Independent variables are the factors through which we attempt to explain and understand our dependent variable (main topic). You SHOULD have more than ONE independent variables. Because you have one main topic; We can’t explain a social issue through only one factor. Such as;
-    * <mark style="color:$success;">Independent variable 1:</mark> Ethnic identification
-    * <mark style="color:blue;">Independent variable 2:</mark> Contact level with natives
-    * <mark style="color:purple;">Independent variable 3:</mark> Discrimination
+  * <mark style="color:red;">**Dependent variables:**</mark> Dependent variable is the main topic that we investigate. It is the outcome: What is being affected? What’s being changed? You **SHOULD** have only ONE dependent variable. Because you have one main topic. Such as;
+    * <mark style="color:yellow;">**Dependent variable**</mark><mark style="color:yellow;">:</mark> Return migration
+  * <mark style="color:red;">**Independent variables:**</mark> Independent variables are the factors through which we attempt to explain and understand our dependent variable (main topic). You **SHOULD** have more than ONE independent variables. Because you have one main topic; We can’t explain a social issue through only one factor. Such as;
+    * <mark style="color:$success;">**Independent variable 1:**</mark> Ethnic identification
+    * <mark style="color:blue;">**Independent variable 2:**</mark> Contact level with natives
+    * <mark style="color:purple;">**Independent variable 3:**</mark> Discrimination
+
+<figure><img src="../../.gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure>
 
 ### <mark style="color:$primary;">Hypotheses</mark>
 
@@ -21,12 +23,14 @@
 * Hypothesis 2: I expect to find that <mark style="color:blue;">**contact level with natives**</mark> **(Independent variable 2)** decreases <mark style="color:$warning;">**return migration**</mark> **(Dependent variable)**&#x20;
 * Hypothesis 3: I expect to find that <mark style="color:purple;">**discrimination**</mark>**&#x20;(Independent variable 3)** increases <mark style="color:$warning;">**return migration**</mark>**&#x20;(Dependent variable)**
 
+<figure><img src="../../.gitbook/assets/image (1).png" alt="" width="375"><figcaption></figcaption></figure>
+
 As there are three independent variables, there are three hypotheses.&#x20;
 
 * So, we develop a hypothesis for the proposed relationship between each independent variable and the dependent variable.&#x20;
-* Hypotheses MUST include:
+* Hypotheses **MUST** include:
   * An independent variable and the dependent variable and
-  * How the independent variable influences or changes the dependent variable (in a positive or negative direction). It cannot be both “increases” and “decreases” or “depends.” It cannot be both “positively affects” and “negatively affects”. You need to choose one.
+  * How the independent variable influences or changes the dependent variable (in a positive or negative direction). It cannot be both “increases” and “decreases” or “depends.” It **CANNOT** be both “positively affects” and “negatively affects”. You need to choose one.
 
 <mark style="color:red;">**Hypotheses should be in this format:**</mark>
 

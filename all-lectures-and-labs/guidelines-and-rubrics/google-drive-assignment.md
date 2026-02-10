@@ -173,7 +173,7 @@ Click on "\[gr] Google Drive assignment (must be submitted first)" under the "Ge
 
 Scroll down and click "Begin."
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. Right click on your Google Drive class folder.
 2. Click "Share."

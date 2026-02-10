@@ -145,6 +145,6 @@ There are two questions:
 1. Paste your email address and the new password
 2. Upload the screenshot showing your RStudio view with "gss" and "key." Your screenshot should look like the image above.
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
