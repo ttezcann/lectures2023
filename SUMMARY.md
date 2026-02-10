@@ -13,6 +13,7 @@
     * [How to post a comment on an assignment](all-lectures-and-labs/guidelines-and-rubrics/how-to-post-a-comment-on-an-assignment.md)
     * [Highlighting and commenting instructions](all-lectures-and-labs/guidelines-and-rubrics/highlighting-and-commenting-instructions.md)
     * [How to collaborate on the same Google document](all-lectures-and-labs/guidelines-and-rubrics/how-to-collaborate-on-the-same-google-document.md)
+    * [Variables, hypotheses, and research questions](all-lectures-and-labs/guidelines-and-rubrics/variables-hypotheses-and-research-questions.md)
     * [How to use zbib.org for citations?](all-lectures-and-labs/guidelines-and-rubrics/how-to-use-zbib.org-for-citations.md)
     * [How to determine peer-reviewed journal articles?](all-lectures-and-labs/guidelines-and-rubrics/how-to-determine-peer-reviewed-journal-articles.md)
     * [Citation chaining procedure](all-lectures-and-labs/guidelines-and-rubrics/citation-chaining-procedure.md)

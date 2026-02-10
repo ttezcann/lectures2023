@@ -1,0 +1,90 @@
+# Variables, hypotheses, and research questions
+
+## <mark style="color:$primary;">Empirical and normative social resarch</mark>
+
+* <mark style="color:red;">**Empirical social research:**</mark> Studies what is. It describes and explains the social world as it exists using verifiable evidence.
+  * "Does the death penalty deter crime rates?" (Measured by statistics)
+    * We collect data or use existing data in empirical social research.
+* <mark style="color:red;">**Normative social research:**</mark> Studies what it should be. It evaluates the social world based on values, beliefs, and ethical standards.
+  * "Is it morally right for the state to execute criminals?" (Debated by ethics)
+    * We do not need any kind of data in normative social research.
+
+## <mark style="color:$primary;">Variables</mark>
+
+* Empirical social research uses data to examine potential relationships between social concepts such as;
+  * How **experienced discrimination** affects **a sense of belonging**.
+    * In research, these social concepts are called “variables.”
+* A variable is any characteristics, number, or quantity that can be measured, observed, or counted. Any piece of information we know about our subjects (e.g., individuals).
+  * <mark style="color:red;">**Dependent variables:**</mark> Dependent variable is the main topic that we investigate. It is the outcome: What is being affected? What’s being changed? You SHOULD have only ONE dependent variable. Because you have one main topic. Such as;
+    * Dependent variable: Return migration
+  * <mark style="color:red;">**Independent variables:**</mark> Independent variables are the factors through which we attempt to explain and understand our dependent variable (main topic). You SHOULD have more than ONE independent variables. Because you have one main topic; We can’t explain a social issue through only one factor. Such as;
+    * Independent variable 1: Ethnic identification
+    * Independent variable 2: Contact level with natives
+    * Independent variable 3: Discrimination
+
+### <mark style="color:$primary;">Hypotheses</mark>
+
+<mark style="color:red;">**Hypothesis:**</mark> Tentative predictions we have about what we are going to discover before we begin the research. Educated guesses by following the directions of the literature. The proposed links between independent variables and the dependent variable, such as;
+
+* Hypothesis 1: I expect to find that ethnic identification (Independent variable 1) increases return migration (Dependent variable)&#x20;
+* Hypothesis 2: I expect to find that contact level with natives (Independent variable 2) decreases return migration (Dependent variable)&#x20;
+* Hypothesis 3: I expect to find that discrimination (Independent variable 3) increases return migration (Dependent variable)
+
+As there are three independent variables, there are three hypotheses.&#x20;
+
+* So, we develop a hypothesis for the proposed relationship between each independent variable and the dependent variable.&#x20;
+* Hypotheses MUST include:
+  * An independent variable and the dependent variable and
+  * How the independent variable influences or changes the dependent variable (in a positive or negative direction). It cannot be both “increases” and “decreases” or “depends.” It cannot be both “positively affects” and “negatively affects”. You need to choose one.
+
+<mark style="color:red;">**Hypotheses should be in this format:**</mark>
+
+* I expect to find that independentvariable1 (choose one, delete the rest: increases OR decreases OR positively affects OR negatively affects) dependentvariable
+* I expect to find that independentvariable2 (choose one, delete the rest: increases OR decreases OR positively affects OR negatively affects) dependentvariable
+* I expect to find that independentvariable3 (choose one, delete the rest: increases OR decreases OR positively affects OR negatively affects) dependentvariable
+
+## <mark style="color:$primary;">**Research question**</mark>&#x20;
+
+<mark style="color:red;">**Research question:**</mark> An answerable inquiry into a specific concern or issue. Research question is what the research attempts to answer.
+
+* Research question: To what extent do ethnic identification (Independent variable 1), contact level with natives (Independent variable 2), and discrimination (Independent variable 3) influence return migration (Dependent variable)?
+
+## <mark style="color:$primary;">Phrasing variables</mark>
+
+* Variables are the main elements of hypotheses where we propose causal relationships;
+  * A increases B, A decreases B, A positive affects B, or A negatively affects B.
+* Therefore, phrase your variables so they;&#x20;
+  * (1) are specific and anyone can understand exactly what you mean,
+  * (2) have high and low values - all variables must be able to increase or decrease, or be positively or negatively affected by other variables.
+  * (3) show causality - variables should make sense in a hypothesis. Independent variables must be able to increase (positively affect) or decrease (negatively affect) the dependent variable so it shows causality.
+    * Hypothesis 1: I expect to find that family involvement positively affects academic performance
+
+#### <mark style="color:$primary;">The three-step test</mark>
+
+* <mark style="color:red;">**Step 1: The “What about it?” test (Check for specificity):**</mark>&#x20;
+  * A variable is not a topic; it is a specific attribute of that topic.
+  * The Test: Look at your variable. Does it force you to ask, “What about it?”
+    * Example: You write “Social media.”
+    * Question: “What about social media? Do you mean the time spent? The platform? The addiction?"
+    * Fix: If you have to explain it, rewrite it.&#x20;
+      * For example, “Frequency of Social Media Use.”
+* <mark style="color:red;">**Step 2: The “Higher or lower?” test (Check for measurement):**</mark>&#x20;
+  * A variable must be able to vary (increase, decrease, positively affect(ed), negatively affect(ed)).
+  * The Test: Can you meaningfully ask, “Is this variable higher or lower for this person/group?”
+    * Example: You write “Social media.”
+    * Question: “Is social media higher for youth?”
+    * Fix: If it doesn’t make sense, rewrite it.&#x20;
+      * For example, “Level of social media addiction.”
+* <mark style="color:red;">**Step 3: The “Is there a causality?” test (Hypothesis fit):**</mark>&#x20;
+  * Variables must be phrased so it can logically “increase,” “decrease,” “positively affect(ed),” or “negatively affected”
+    * (e.g., “I expect to find that X increases Y”).
+  * The Test: Put your variables into the hypothesis template and read, “Is there a meaningful causality here?”
+    * Hypothesis template:  “I expect to find that independentvariable1 (choose one, delete the rest: increases OR decreases OR positively affects OR negatively affects) dependentvariable”
+      * Example: You write “I expect to find that social media decreases attention span.”
+    * Question: “Is there a meaningful causality here?”
+    * Fix: If it doesn’t make sense, rewrite it.&#x20;
+      * For example, “I expect to find that using short video-based social media platforms decreases attention span.”
+
+## <mark style="color:$primary;">Bad variables, good variables</mark>
+
+<table data-full-width="true"><thead><tr><th>Bad variable</th><th>#</th><th>Why?</th><th>Good variable</th></tr></thead><tbody><tr><td>1</td><td> “Political attitudes”</td><td>Too vague. Everyone has relationships. The variable must measure a specific attribute of those relationships (how good they are or how often they happen).</td><td><p>“Quality of social relationships” <strong>OR</strong> </p><p>“The number of friends” <strong>OR</strong>  </p><p>“Frequency of social interaction”</p></td></tr><tr><td>2</td><td>”Culture” <strong>OR</strong> “Globalization”</td><td>Too vague. What about it? Culture (of globalization) affects everything and is being affected by everything. Imagine you ask questions to respondents, or you read a social media post and you’ll say, “this is culture (or globalization).”</td><td><p>“Collectivistic culture” <strong>OR</strong> </p><p>“individualistic culture” <strong>OR</strong> </p><p>“Support for free trade”</p></td></tr><tr><td>3</td><td><p>“Race” <strong>OR</strong> </p><p>“Gender” <strong>OR</strong> </p><p>“Marital status” <strong>OR</strong></p><p>“Employment status”</p></td><td><p>These are categories. You cannot say “Race (or Gender) increases X.” You must specify if you mean the identification or mean something else. </p><p><br></p><p>Perhaps, you mean “presence of a condition,” such as “being employed.” While the following doesn’t make sense: “Employment status increases financial security,” this makes sense: “Being employed increases financial security.”</p></td><td><p>"Strength of racial identification" <strong>OR</strong> </p><p>“Racism” <strong>OR</strong> </p><p>“Sexism” <strong>OR</strong></p><p>“Gender wage gap”  <strong>OR</strong></p><p>“Being woman”  <strong>OR</strong></p><p>“Being Black”  <strong>OR</strong></p><p>“Being married”  <strong>OR</strong></p><p>“Being employed” </p></td></tr><tr><td>4</td><td><p>"Resources" <strong>OR</strong> </p><p>“Life conditions”</p></td><td>Too broad. Are we talking about money, friends, time, or information? It is impossible to measure “Resources” or “Life conditions” in general. Do everyone understand the same thing when we say “Resources” or “Life conditions”?</td><td><p>“Level of household income” (Financial) <strong>OR</strong> </p><p>“Size of social support network” (Social) <strong>OR</strong> </p><p>“Quality of housing conditions” <strong>OR</strong> </p><p>“Perception of neighborhood safety”</p></td></tr><tr><td>5</td><td>"Social relationships"</td><td>Too vague. Everyone has relationships. The variable must measure a specific attribute of those relationships (how good they are or how often they happen).</td><td><p>“Quality of social relationships” <strong>OR</strong> </p><p>“The number of friends” <strong>OR</strong>  </p><p>“Frequency of social interaction”</p></td></tr><tr><td>6</td><td>“Quality of social relationships and the number of friends”</td><td>Double-barrelled. There are two separate variables here. You need to focus on only one.</td><td><p>“Quality of social relationships” <strong>OR</strong></p><p>“The number of friends”</p></td></tr><tr><td>7</td><td>“Education”</td><td>It is an institution, not a variable. Do you mean the time spent there, the degree earned, or the quality of the school?</td><td><p>“Years of formal schooling” <strong>OR</strong> </p><p>“Level of educational attainment”</p></td></tr><tr><td>8</td><td>“Climate change”</td><td>This is a global issue, not a variable. You usually measure people’s reactions to it or their knowledge about it.</td><td><p>“Concern about climate change” <strong>OR</strong> </p><p>“Support for environmental regulations”</p></td></tr><tr><td>9</td><td>“Crime”</td><td>Ambiguous. Does this refer to committing a crime, fearing crime, or being a victim? "Crime" is just a topic.</td><td><p>“Fear of crime” <strong>OR</strong> </p><p>“Frequency of criminal behavior” <strong>OR</strong> “Risk of victimization”</p></td></tr></tbody></table>
