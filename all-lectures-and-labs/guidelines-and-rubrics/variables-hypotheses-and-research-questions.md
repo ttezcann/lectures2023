@@ -48,9 +48,9 @@ Empirical social research uses data to examine potential relationships between s
 
 <mark style="color:red;">**Hypothesis:**</mark> Tentative predictions we have about what we are going to discover before we begin the research. Educated guesses by following the directions of the literature. The proposed links between independent variables and the dependent variable, such as;
 
-* Hypothesis 1: I expect to find that <mark style="color:$success;">**ethnic identification**</mark> **(Independent variable 1)** increases <mark style="color:$warning;">**return migration**</mark> **(Dependent variable)**&#x20;
-* Hypothesis 2: I expect to find that <mark style="color:blue;">**contact level with natives**</mark> **(Independent variable 2)** decreases <mark style="color:$warning;">**return migration**</mark> **(Dependent variable)**&#x20;
-* Hypothesis 3: I expect to find that <mark style="color:purple;">**discrimination**</mark>**&#x20;(Independent variable 3)** increases <mark style="color:$warning;">**return migration**</mark>**&#x20;(Dependent variable)**
+* **Hypothesis 1:** I expect to find that <mark style="color:$success;">**ethnic identification**</mark> **(Independent variable 1)** increases <mark style="color:$warning;">**return migration**</mark> **(Dependent variable)**&#x20;
+* **Hypothesis 2:** I expect to find that <mark style="color:blue;">**contact level with natives**</mark> **(Independent variable 2)** decreases <mark style="color:$warning;">**return migration**</mark> **(Dependent variable)**&#x20;
+* **Hypothesis 3:** I expect to find that <mark style="color:purple;">**discrimination**</mark>**&#x20;(Independent variable 3)** increases <mark style="color:$warning;">**return migration**</mark>**&#x20;(Dependent variable)**
 
 <figure><img src="../../.gitbook/assets/image (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
