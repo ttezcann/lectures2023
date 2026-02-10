@@ -17,9 +17,9 @@
 
 <mark style="color:red;">**Hypothesis:**</mark> Tentative predictions we have about what we are going to discover before we begin the research. Educated guesses by following the directions of the literature. The proposed links between independent variables and the dependent variable, such as;
 
-* Hypothesis 1: I expect to find that <mark style="color:$success;">ethnic identification</mark> **(Independent variable 1)** increases <mark style="color:$warning;">return migration</mark> **(Dependent variable)**&#x20;
-* Hypothesis 2: I expect to find that <mark style="color:blue;">contact level with natives</mark> **(Independent variable 2)** decreases <mark style="color:$warning;">return migration</mark> **(Dependent variable)**&#x20;
-* Hypothesis 3: I expect to find that <mark style="color:purple;">discrimination</mark> **(Independent variable 3)** increases <mark style="color:$warning;">return migration</mark> **(Dependent variable)**
+* Hypothesis 1: I expect to find that <mark style="color:$success;">**ethnic identification**</mark> **(Independent variable 1)** increases <mark style="color:$warning;">**return migration**</mark> **(Dependent variable)**&#x20;
+* Hypothesis 2: I expect to find that <mark style="color:blue;">**contact level with natives**</mark> **(Independent variable 2)** decreases <mark style="color:$warning;">**return migration**</mark> **(Dependent variable)**&#x20;
+* Hypothesis 3: I expect to find that <mark style="color:purple;">**discrimination**</mark>**&#x20;(Independent variable 3)** increases <mark style="color:$warning;">**return migration**</mark>**&#x20;(Dependent variable)**
 
 As there are three independent variables, there are three hypotheses.&#x20;
 
@@ -30,18 +30,18 @@ As there are three independent variables, there are three hypotheses.&#x20;
 
 <mark style="color:red;">**Hypotheses should be in this format:**</mark>
 
-* I expect to find that <mark style="color:$success;">independentvariable1</mark> (choose one, delete the rest: increases OR decreases OR positively affects OR negatively affects) <mark style="color:$warning;">dependentvariable</mark>
-* I expect to find that <mark style="color:blue;">independentvariable2</mark> (choose one, delete the rest: increases OR decreases OR positively affects OR negatively affects) <mark style="color:$warning;">dependentvariable</mark>
-* I expect to find that <mark style="color:purple;">independentvariable3</mark> (choose one, delete the rest: increases OR decreases OR positively affects OR negatively affects) <mark style="color:$warning;">dependentvariable</mark>
-  * Hypothesis 1: I expect to find that <mark style="color:$success;">ethnic identification</mark> **(Independent variable 1)** increases <mark style="color:$warning;">return migration</mark> **(Dependent variable)**&#x20;
-  * Hypothesis 2: I expect to find that <mark style="color:blue;">contact level with natives</mark> **(Independent variable 2)** decreases <mark style="color:$warning;">return migration</mark> **(Dependent variable)**&#x20;
-  * Hypothesis 3: I expect to find that <mark style="color:purple;">discrimination</mark> **(Independent variable 3)** increases <mark style="color:$warning;">return migration</mark> **(Dependent variable)**
+* I expect to find that <mark style="color:$success;">**independentvariable1**</mark> (choose one, delete the rest: increases OR decreases OR positively affects OR negatively affects) <mark style="color:$warning;">**dependentvariable**</mark>
+* I expect to find that <mark style="color:blue;">**independentvariable2**</mark> (choose one, delete the rest: increases OR decreases OR positively affects OR negatively affects) <mark style="color:$warning;">**dependentvariable**</mark>
+* I expect to find that <mark style="color:purple;">**independentvariable3**</mark> (choose one, delete the rest: increases OR decreases OR positively affects OR negatively affects) <mark style="color:$warning;">**dependentvariable**</mark>
+  * Hypothesis 1: I expect to find that <mark style="color:$success;">**ethnic identification**</mark> **(Independent variable 1)** increases <mark style="color:$warning;">**return migration**</mark> **(Dependent variable)**&#x20;
+  * Hypothesis 2: I expect to find that <mark style="color:blue;">**contact level with natives**</mark> **(Independent variable 2)** decreases <mark style="color:$warning;">**return migration**</mark> **(Dependent variable)**&#x20;
+  * Hypothesis 3: I expect to find that <mark style="color:purple;">**discrimination**</mark>**&#x20;(Independent variable 3)** increases <mark style="color:$warning;">**return migration**</mark>**&#x20;(Dependent variable)**
 
 ## <mark style="color:$primary;">**Research question**</mark>&#x20;
 
 <mark style="color:red;">**Research question:**</mark> An answerable inquiry into a specific concern or issue. Research question is what the research attempts to answer.
 
-* Research question: To what extent do <mark style="color:$success;">ethnic identification</mark> **(Independent variable 1)**, <mark style="color:blue;">contact level with natives</mark> **(Independent variable 2)**, and <mark style="color:purple;">discrimination</mark> **(Independent variable 3)** influence <mark style="color:$warning;">return migration</mark> **(Dependent variable)**?
+* Research question: To what extent do <mark style="color:$success;">**ethnic identification**</mark> **(Independent variable 1)**, <mark style="color:blue;">**contact level with natives**</mark>**&#x20;(Independent variable 2)**, and <mark style="color:purple;">**discrimination**</mark> **(Independent variable 3)** influence <mark style="color:$warning;">**return migration**</mark> **(Dependent variable)**?
 
 ## <mark style="color:$primary;">Phrasing variables</mark>
 
