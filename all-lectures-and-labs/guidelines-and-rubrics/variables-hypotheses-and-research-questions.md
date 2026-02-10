@@ -1,5 +1,34 @@
 # Variables, hypotheses, and research questions
 
+## <mark style="color:$primary;">Empirical and normative social research</mark>
+
+### <mark style="color:red;">Empirical social research (trends/patterns):</mark>
+
+* Studies what is. It describes and explains the social world as it exists using verifiable evidence.
+  * "Does the death penalty deter crime rates?" (Measured by statistics)
+    * We collect data or use existing data in empirical social research.
+
+### <mark style="color:red;">Normative social research (values):</mark>
+
+* Studies what it should be. It evaluates the social world based on values, beliefs, and ethical standards.
+  * "Is it morally right for the state to execute criminals?" (Debated by ethics)
+    * We do not need any kind of data in normative social research.
+
+## <mark style="color:$primary;">Empirical social research and data</mark>
+
+Empirical social research uses data to examine potential relationships between social concepts.
+
+* To study the potential relationships between variables, we must have data that specifically includes those social concepts. It’s because we want to find a justification from the real-world data.
+* To be able to use a social concept (variable) in empirical social research, we must have a data that includes those variables:
+  * <mark style="color:red;">**Primary data (self-collected – surveying and interviewing):**</mark>
+    * If you interview or survey people for a project examining “How frequency of social media use affects attention span,” you must directly ask questions related to “frequency of social media use” and “attention span.”
+      * You gather this through interviews (qualitative) or surveys (quantitative) using questions you prepare.
+        * Here you go out and ask questions to people.
+  * <mark style="color:red;">**Secondary data (collected or created by someone else):**</mark>
+    * If you analyze existing textual data from social media or survey data collected by other researchers for a project examining “How frequency of social media use affects attention span,” that data must actually include information related to “frequency of social media use” and “attention span.”
+      * You obtain this through existing surveys, data archives, government records, or posts from social media platforms (e.g., Reddit, YouTube).
+        * This is a desk-based job, and you do not ask question to people.
+
 ## <mark style="color:$primary;">Variables</mark>
 
 * Empirical social research uses data to examine potential relationships between social concepts such as;
