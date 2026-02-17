@@ -6,19 +6,77 @@
 
 When we enter a couple of articles to ResearchRabbit, it analyzes their citation patterns, recommend related research based on our interests, and provide a literature network diagram.
 
+Use the "Free version." Do not use the "Paid" option.
+
 ## Website
 
 [**researchrabbitapp.com**](https://researchrabbitapp.com/)
 
-## Sign up
+## Sign up, create a project and a collection
 
-1. Use school email address
+{% stepper %}
+{% step %}
+### Sign up
 
-<figure><img src="https://lh7-rt.googleusercontent.com/slidesz/AGV_vUf5c1NvlM-oA71SDzlG_Z8QwJ7gg0v4-kJEYhtcV0RLC964OGjsOJaAXOVKMehPziIW0lBFJA4PavvIJPG3fuCkO7NBJXkCKzHEpeSA30C3NvFnijLuRq-HQXgjcLeRolxlqfoQjkruCGKRE4kw5Hw=s2048?key=EHXAyaYxYZ3bbPFoOn3TGQ" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/SCR-20260217-jrcm.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
 
-2. Complete all fields
+{% step %}
+### Complete the four fields
 
-<figure><img src="https://lh7-rt.googleusercontent.com/slidesz/AGV_vUeBBA5bB0LAy3a_IrUX1srWmOCEeSEYZXoplPmUMhGLhX2sMtc7ZD42EfYGskn_Lh64JF8AxvErrIdabIAngMmAyJPyhOutAOpM9ZBkzHyb04qXybGVV7Zg2yGitjdCcRcTUJSrYn7oQj93s-8nnA=s2048?key=EHXAyaYxYZ3bbPFoOn3TGQ" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/SCR-20260217-jsam-2.png" alt=""><figcaption></figcaption></figure>
+
+Your name, school email address, password, re-enter password. Then, click "Sign up."
+{% endstep %}
+
+{% step %}
+### Create a project
+
+1. Type the project name: Research memo
+2. Click "Start using ResearchRabbit"
+
+<figure><img src="../../.gitbook/assets/ss_2026-02-17 10.39.13.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+### Create a collection
+
+<figure><img src="../../.gitbook/assets/SCR-20260217-juof-2.png" alt=""><figcaption></figcaption></figure>
+
+1. Click "Library" on the main website
+2. Click "Create Collection"
+3. Type the collection name. For example, if your research relates to ingroup bias, type "Ingroup bias." You can type your dependent variable here.
+4. Click "Create"
+{% endstep %}
+{% endstepper %}
+
+## Adding articles to the collection
+
+{% stepper %}
+{% step %}
+### Add the first article
+
+<figure><img src="../../.gitbook/assets/SCR-20260217-jzit-2.png" alt=""><figcaption></figcaption></figure>
+
+1. Click "Search" on the main website.
+2. Paste the DOI number (starting with "10") of the first article.
+   1. [**\[How to find DOI?\]**](https://ttezcan.gitbook.io/lectures/all-lectures-and-labs/guidelines-and-rubrics/citation-chaining-procedure#how-to-find-doi)
+3. Click "Search."
+4. Click on the link and make sure it's a peer-reviewed journal article.
+   1. [**\[How to determine peer-reviewed journal articles?\]**](https://ttezcan.gitbook.io/lectures/all-lectures-and-labs/guidelines-and-rubrics/how-to-determine-peer-reviewed-journal-articles)
+5. Click on the collection name you created.
+6. Make sure you see your collection name in the next dialoge box.
+7. Close the pane.
+
+
+{% endstep %}
+
+{% step %}
+###
+
+
+{% endstep %}
+{% endstepper %}
 
 ## Paste the DOI
 

@@ -1,20 +1,3 @@
----
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
-  metadata:
-    visible: false
----
-
 # Welcome to SOC120
 
 <figure><img src="../../.gitbook/assets/image (9).png" alt="" width="356"><figcaption></figcaption></figure>
