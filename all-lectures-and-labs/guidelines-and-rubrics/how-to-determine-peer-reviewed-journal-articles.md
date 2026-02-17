@@ -30,3 +30,51 @@ You will see the <mark style="color:blue;">chapter title</mark>, <mark style="co
 <mark style="color:red;">✘</mark> Fokkema, Tineke, Eralba Cela, and Yvonne Witter. 2016. <mark style="color:blue;">“Pendular Migration of the Older First Generations in Europe: Misconceptions and Nuances.”</mark> In _<mark style="color:orange;">Transnational Aging: Current Insights and Future Challenges</mark>_, <mark style="color:yellow;">eds. Vincent Horn and Cornelia Schweppe</mark>. New York: Routledge, 141–61.
 
 <mark style="color:red;">✘</mark> Landis, Daniel R., and Jerry Boucher. 1987. <mark style="color:blue;">“Themes and Models of Conflict.”</mark> In _<mark style="color:orange;">Ethnic Conflict: International Perspectives</mark>_, <mark style="color:yellow;">edited by Jerry Boucher, Daniel R. Landis, and Karen Arnold Clark</mark>, 18–32. Beverly Hills: Sage.
+
+{% stepper %}
+{% step %}
+### <mark style="color:green;">✔</mark> Search the title of the study in [www.scholar.google.com](https://www.scholar.google.com)
+
+<figure><img src="../../.gitbook/assets/sssssss.png" alt=""><figcaption></figcaption></figure>
+
+1. Search the title of the study in [www.scholar.google.com](https://www.scholar.google.com)
+2. Click on the link.
+   1. This will open the study webpage
+3. It's a peer reviewed journal article, IF:
+4. You see the DOI number in the link (starts with "10").
+5. See the journal name
+6. See the volume, issue, and page numbers.
+{% endstep %}
+
+{% step %}
+### <mark style="color:red;">✘</mark> Books: Search the title of the study in [www.scholar.google.com](https://www.scholar.google.com)
+
+<figure><img src="../../.gitbook/assets/sff.png" alt=""><figcaption></figcaption></figure>
+
+1. Search the title of the study in [www.scholar.google.com](https://www.scholar.google.com)
+2. Note that it says \[BOOK].
+3. Click on the link.
+   1. This will open the study webpage
+4. It's a book, IF you see a publisher name.
+{% endstep %}
+
+{% step %}
+### <mark style="color:red;">✘</mark> Book Chapters: Search the title of the study in [www.scholar.google.com](https://www.scholar.google.com)
+
+<figure><img src="../../.gitbook/assets/sff (1).png" alt=""><figcaption></figcaption></figure>
+
+1. Search the title of the study in [www.scholar.google.com](https://www.scholar.google.com)
+2. Click on the link.
+   1. This will open the study webpage
+3. It's a book chapter, IF you see the word "Chapter"
+4. It's a book chapter, IF you see the the book information.
+5. It's a book chapter, IF you see the the publisher name.
+{% endstep %}
+
+{% step %}
+### You can ask AI
+
+1. Paste the end-text citation of the study.
+2. Ask your preferred AI tool if it's a peer-reviewed journal article.
+{% endstep %}
+{% endstepper %}
