@@ -19,7 +19,7 @@ On page **585**, we read the following:
 2. This argument is related to our first independent variable.
 3. Now, we’re interested in this argument/evidence which is made by four different authors. We want to read only one or all of them too.&#x20;
 4. For this guideline, we will choose the highlighted one. We go to the references (literature cited or bibliography) section (at the very end of the article) and find the title of this study.&#x20;
-5. We need to make sure it’s a peer-reviewed journal article:
+5. We need to make sure Duckitt's article ("_Group identification and intergroup attitudes: A longitudinal analysis in South Africa_") a peer-reviewed journal article:
    1. [\[How to determine peer-reviewed journal articles?\]](https://ttezcan.gitbook.io/lect/all-lectures-and-labs/guidelines-and-rubrics/how-to-determine-peer-reviewed-journal-articles)
 
 <figure><img src="../../.gitbook/assets/image (95).png" alt="“Duckitt J., Mphuthing T. 1998. Group identification and intergroup attitudes: a longitudinal analysis in South Africa. J. Pers. Soc. Psychol. 74:80–85.”"><figcaption></figcaption></figure>
@@ -31,7 +31,7 @@ On page **586**, we read the following:
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdOMzFujzXmg0qjC-yhnxv_8L0nFSeT2iTbhhNAAv29guvjlV9StYB9TQEXbFY91bpbavy79EKdbe1uq7fM8L8KyedpWdhsghMZfFgtDsjU2TZVyxMFEWkhMc4rgTVUGQRA-g5qXwutJyAJoA0y4J4?key=vRZgQ_2KxJIVKIPKReuFqA" alt="“Analyses of xenophobia and hate crimes against social and ethnic minorities provide extra-laboratory evidence of the role of threat. Perceived threat and incidence of violence is greatest when there is a conjunction of faltering economic growth and a high percentage of immigrant minorities (Quillian 1995), with bias fomented by far-right political elites (Green et al. 1998, Pettigrew 1998a).” (Highlighted portion: the full sentence shown above, including the in-text citation “Quillian 1995”.)"><figcaption></figcaption></figure>
 
 6. We can benefit from this argument for our second independent variable.&#x20;
-7. That argument belongs to three authors and is relevant to our study too, that’s why we go to the references and find the title as well. We’ll go with Quillian.
+7. That argument belongs to three authors and is relevant to our study too, that’s why we go to the references and find the title as well. We’ll go with Quillian ("_Prejudice as a response to perceived group threat: Population composition and anti-immigrant and racial prejudice in Europe_").
 
 <figure><img src="../../.gitbook/assets/image (97).png" alt="“Quillian L. 1995. Prejudice as a response to perceived group threat: population composition and anti-immigrant and racial prejudice in Europe. Am. Soc. Rev. 60:586–611.”"><figcaption></figcaption></figure>
 
@@ -42,7 +42,7 @@ On page **593**, we read the following:
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeXah2DINQBGvegCX4KLVTucAmbRpynMVms_4asFO7lTy4rBk9WFr6oab9X1L1_LBwZJYJhtchN70VOMDeuKfVa7hp1c_ei6VBHHsYepWrX7BhlBlDvSIjLqhmUjSu1TKvir6jFRGDcqYYcAraVKEM?key=vRZgQ_2KxJIVKIPKReuFqA" alt="“Cross-cutting social identities or role assignments manipulated as part of cooperative intergroup contact are especially effective, increasing intracategory differentiation and decreasing perceived intercategory differences (Ensari &#x26; Miller 2001; Marcus–Newhall et al. 1993).” (Highlighted portion: the full sentence shown above, including the in-text citations “Ensari &#x26; Miller 2001” and “Marcus–Newhall et al. 1993”.)"><figcaption></figcaption></figure>
 
 9. Thanks to this argument, we have decided to change our third independent variable.&#x20;
-10. This argument belongs to two authors. We go to the references and find it as well. We’ll go with Ensari & Miller, because the other one is a book chapter. We should only look for peer-reviewed journal articles.&#x20;
+10. This argument belongs to two authors. We go to the references and find it as well. We’ll go with Ensari & Miller ("_Effect of affective reactions by the out-group on preferences for crossed categorization discussion patterns_"), because the other one is a book chapter. We should only look for peer-reviewed journal articles.&#x20;
     1. [**\[How to determine peer-reviewed journal articles?\]**](https://ttezcan.gitbook.io/lectures/all-lectures-and-labs/guidelines-and-rubrics/how-to-determine-peer-reviewed-journal-articles)
 
 <figure><img src="../../.gitbook/assets/image (96).png" alt="“Ensari N., Miller N. 1998. Effect of affective reactions by the out-group on preferences for crossed categorization discussion partners. J. Pers. Soc. Psychol. 75:1503–27.”"><figcaption></figcaption></figure>
@@ -57,7 +57,7 @@ If we like, we can continue the citation chaining by reading Hewstone, Duckitt, 
 
 ## How to find articles
 
-1. We will find the full PDF versions of these three articles.&#x20;
+1. We will find the full PDF versions of these three articles, and read them all.&#x20;
 2. We will paste the DOI (the most preferred way) or title of the articles into [scholar.google.com](http://scholar.google.com).&#x20;
    1. [\[How to find DOI?\]](https://ttezcan.gitbook.io/lectures/all-lectures-and-labs/guidelines-and-rubrics/citation-chaining-procedure#how-to-find-doi)
 3. If we see <mark style="color:red;">\[PDF] on the right side</mark>, we have access. We click on \[PDF], **not** the title.
