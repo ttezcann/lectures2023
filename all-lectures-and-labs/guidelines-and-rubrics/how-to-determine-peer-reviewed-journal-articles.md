@@ -31,9 +31,15 @@ You will see the <mark style="color:blue;">chapter title</mark>, <mark style="co
 
 <mark style="color:red;">✘</mark> Landis, Daniel R., and Jerry Boucher. 1987. <mark style="color:blue;">“Themes and Models of Conflict.”</mark> In _<mark style="color:orange;">Ethnic Conflict: International Perspectives</mark>_, <mark style="color:yellow;">edited by Jerry Boucher, Daniel R. Landis, and Karen Arnold Clark</mark>, 18–32. Beverly Hills: Sage.
 
+## Steps
+
 {% stepper %}
 {% step %}
 ### <mark style="color:green;">✔</mark> Search the title of the study in [www.scholar.google.com](https://www.scholar.google.com)
+
+Search this in [www.scholar.google.com](https://www.scholar.google.com)
+
+> Incarceration in the household: Academic outcomes of adolescents with an incarcerated household member.
 
 <figure><img src="../../.gitbook/assets/sssssss.png" alt=""><figcaption></figcaption></figure>
 
@@ -49,6 +55,10 @@ You will see the <mark style="color:blue;">chapter title</mark>, <mark style="co
 {% step %}
 ### <mark style="color:red;">✘</mark> Books: Search the title of the study in [www.scholar.google.com](https://www.scholar.google.com)
 
+Search this in [www.scholar.google.com](https://www.scholar.google.com)
+
+> _Immigrant America: A Portrait_
+
 <figure><img src="../../.gitbook/assets/sff.png" alt=""><figcaption></figcaption></figure>
 
 1. Search the title of the study in [www.scholar.google.com](https://www.scholar.google.com)
@@ -60,6 +70,10 @@ You will see the <mark style="color:blue;">chapter title</mark>, <mark style="co
 
 {% step %}
 ### <mark style="color:red;">✘</mark> Book Chapters: Search the title of the study in [www.scholar.google.com](https://www.scholar.google.com)
+
+Search this in [www.scholar.google.com](https://www.scholar.google.com)
+
+> Pendular Migration of the Older First Generations in Europe: Misconceptions and Nuances
 
 <figure><img src="../../.gitbook/assets/sff (1).png" alt=""><figcaption></figcaption></figure>
 
