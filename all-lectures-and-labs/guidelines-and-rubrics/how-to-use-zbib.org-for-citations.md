@@ -37,3 +37,16 @@ A source is referenced in <mark style="color:red;">two parts</mark>:
    2. **End-text citation:** Reskin, B. (2012). The race discrimination system. Annual Review of Sociology, 38(1), 17–35. https://doi.org/10.1146/annurev-soc-071811-145508
 7. If it does not work, find DOI (Digital Object Identifier). It's actually always better to use DOI.&#x20;
    1. [**\[How to find DOI?\]**](https://ttezcan.gitbook.io/lectures/all-lectures-and-labs/guidelines-and-rubrics/citation-chaining-procedure#how-to-find-doi)
+
+## What is the most common mistake?
+
+Pasting the whole article link to zbib.org.
+
+The links of the annual review articles are my Google Drive links. This is how I share them with you. Do not paste the Google Drive links to zbib.org, otherwise you will see the following:
+
+## <mark style="color:red;">✘ WRONG ✘</mark>&#x20;
+
+As you see, there's no author name, year of publication, research title, journal name, etc.
+
+<figure><img src="../../.gitbook/assets/SCR-20260219-oopg-2.png" alt=""><figcaption></figcaption></figure>
+
