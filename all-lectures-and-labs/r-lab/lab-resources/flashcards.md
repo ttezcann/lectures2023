@@ -352,6 +352,27 @@ When this happens, we go to the very top of the R script file and load the data 
 3. Make sure you run each code again before the wrong code, because they are also lost.
 {% endhint %}
 {% endstep %}
+
+{% step %}
+### Run the recoding codes to create a new variable
+
+Let’s say we want to recode an existing variable and therefore create a new variable. Then we want to create a frequency table of the new (recoded) variable.
+
+Preparing the recoding code does not mean we created a new variable. We need to run the recoding code so the frequency code can work.
+
+For example, the frq(gss$maritalgroups, out = "v") code didn’t work below, and it yielded an “unknown or uninitialised column: ‘maritalgroups’” error. Even though the recoding code that generates the “maritalgroups” variable exists, we didn’t highlight and run it, so the data doesn’t include “maritalgroups” yet.&#x20;
+
+<figure><img src="../../../.gitbook/assets/image (146).png" alt=""><figcaption></figcaption></figure>
+
+Below, it works because we did highlight and run both the recoding code and the frequency code.
+
+<figure><img src="../../../.gitbook/assets/image (147).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="warning" %}
+1. Always run the recoding codes before running the frequency codes, or any other codes including the new (recoded) variable.
+2. If you do not remember if you did run it before, run it again.
+{% endhint %}
+{% endstep %}
 {% endstepper %}
 
 ***
@@ -430,6 +451,12 @@ Use the Code templates page.
 * In code templates page, there are [computing templates](https://ttezcan.gitbook.io/lectures/all-lectures-and-labs/r-lab/lab-resources/code-templates#computing) for every kind of value possibility.
 * Do not start computing process without using code templates page.
 {% endhint %}
+{% endstep %}
+
+{% step %}
+### Run the computing codes to create a new variable
+
+
 {% endstep %}
 {% endstepper %}
 
