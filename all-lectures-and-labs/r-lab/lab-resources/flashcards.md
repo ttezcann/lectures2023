@@ -366,7 +366,7 @@ For example, the frq(gss$maritalgroups, out = "v") code didn’t work below, and
 
 Below, it works because we did highlight and run both the recoding code and the frequency code. They need to be run in order.
 
-<figure><img src="../../../.gitbook/assets/image (147).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/ddd.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 1. Always run the recoding codes before running the frequency codes, or any other codes including the new (recoded) variable.
@@ -482,7 +482,7 @@ For example, below, the descr(gss$hapindex, out = "v", show = "short") code didn
 
 Below, it works because we did highlight and run both the recoding codes, computing code, and the descriptive statistics table code. They need to be run in order.
 
-<figure><img src="../../../.gitbook/assets/image (149).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (150).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 1. If the computing requires prior recoding;
