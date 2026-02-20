@@ -358,13 +358,13 @@ When this happens, we go to the very top of the R script file and load the data 
 
 Let’s say we want to recode an existing variable and therefore create a new variable. Then we want to create a frequency table of the new (recoded) variable.
 
-Preparing the recoding code does not mean we created a new variable. We need to run the recoding code so the frequency code can work.
+Preparing the recoding code does not mean we created a new variable. We need to run the recoding code so the frequency code can work. They need to be run in order.
 
 For example, the frq(gss$maritalgroups, out = "v") code didn’t work below, and it yielded an “unknown or uninitialised column: ‘maritalgroups’” error. Even though the recoding code that generates the “maritalgroups” variable exists, we didn’t highlight and run it, so the data doesn’t include “maritalgroups” yet.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (146).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (146).png" alt="" width="492"><figcaption></figcaption></figure>
 
-Below, it works because we did highlight and run both the recoding code and the frequency code.
+Below, it works because we did highlight and run both the recoding code and the frequency code. They need to be run in order.
 
 <figure><img src="../../../.gitbook/assets/image (147).png" alt=""><figcaption></figcaption></figure>
 
@@ -406,7 +406,7 @@ gss <- gss %>%
 {% hint style="warning" %}
 **Troubleshooting:**
 
-* When creating a computed variable and if the original variables need to be recoded, then make sure you use the new variable names in the computation code. For such analyses, the original variables were not useful. That's why they were recoded.
+1. When creating a computed variable and if the original variables need to be recoded, then make sure you use the new variable names in the computation code. For such analyses, the original variables were not useful. That's why they were recoded.
 {% endhint %}
 {% endstep %}
 
@@ -434,7 +434,7 @@ descr(gss$<mark style="color:red;">hapindex</mark>, out = "v")
 {% hint style="warning" %}
 **Troubleshooting:**
 
-* Computed variables are always continuous. Therefore, they should be treated continuous in further analyses.
+1. Computed variables are always continuous. Therefore, they should be treated continuous in further analyses.
 {% endhint %}
 {% endstep %}
 
@@ -448,15 +448,48 @@ Use the Code templates page.
 {% hint style="warning" %}
 **Troubleshooting:**
 
-* In code templates page, there are [computing templates](https://ttezcan.gitbook.io/lectures/all-lectures-and-labs/r-lab/lab-resources/code-templates#computing) for every kind of value possibility.
-* Do not start computing process without using code templates page.
+1. In code templates page, there are [computing templates](https://ttezcan.gitbook.io/lectures/all-lectures-and-labs/r-lab/lab-resources/code-templates#computing) for every kind of value possibility.
+2. Do not start computing process without using code templates page.
+{% endhint %}
+{% endstep %}
+
+{% step %}
+### “Why can’t we see a table when we compute a variable?”
+
+When we compute (or recode) a variable, we will not see a table. That code will create a new variable.
+
+* If you want to see the distribution of your new (computed) variables:
+  * Descriptive code will generate a descriptive table (for continuous variables):
+    * descr(gss$hapindex, out = "v", show = "short")
+
+{% hint style="warning" %}
+**Troubleshooting:**
+
+1. If you need to create a descriptive table, showing the mean and standard deviation information, then run the descriptive table code. Preparing and running the computing (or recoding) codes will not generate a table; they secretly generate a new variable.
 {% endhint %}
 {% endstep %}
 
 {% step %}
 ### Run the computing codes to create a new variable
 
+Let’s say we want to compute a variable and therefore create a new variable. Then we want to create a descriptive statistics table of the new (recoded) variable.
 
+Preparing the computing code does not mean we computed a new variable. We need to run the computing code (and also recoding codes, if any) so the descriptive statistics table code can work. They need to be run in order.
+
+For example, below, the descr(gss$hapindex, out = "v", show = "short") code didn’t work, and it yielded an “unknown or uninitialised column: ‘hapindex’” error. Even though the computing code that generates the “hapindex” variable exists, we didn’t highlight and run it, so the data doesn’t include “hapindex” yet.&#x20;
+
+<figure><img src="../../../.gitbook/assets/image (148).png" alt="" width="563"><figcaption></figcaption></figure>
+
+Below, it works because we did highlight and run both the recoding codes, computing code, and the descriptive statistics table code. They need to be run in order.
+
+<figure><img src="../../../.gitbook/assets/image (149).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="warning" %}
+1. If the computing requires prior recoding;
+   1. Always run the recoding codes before the computing code, and then
+   2. Always run the computing code before the descriptive statistics table code.
+2. If you do not remember if you did run recoding and computing codes before, run them again.
+{% endhint %}
 {% endstep %}
 {% endstepper %}
 
