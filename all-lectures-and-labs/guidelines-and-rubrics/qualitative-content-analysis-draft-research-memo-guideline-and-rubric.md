@@ -42,59 +42,107 @@ Previous assignments to use&#x20;
 
 \*Note: Submissions <mark style="color:red;">without data analysis</mark> from "Coding your own data for draft research memo" <mark style="color:red;">will automatically receive zero.</mark> This assignment is assigned twice. If students receive, for example, 85 from one of these assignments, the maximum grade they can get from draft research memo, presentation, and final research memo is 85.
 
-## 5. Recommended workflow
+## 5.  Workflow
 
 ### Starting
 
-1. On this page;
-   1. Read the "7. Sections" part to understand what to expect
-   2. Review the "2. Sample draft research memo"
-   3. Read the "9. Rubric" items
-   4. Read the "10. Reminders"
-2. Open the "1. Template file". File <mark style="color:red;">➜</mark> Make a copy <mark style="color:red;">➜</mark> Relevant week subfolder
-3. Review my feedback from assignments shown in Figure 1.
+{% stepper %}
+{% step %}
+### On this page:
+
+1. Read the "7. Sections" part to understand what to expect
+2. Review the "2. Sample draft research memo"
+3. Read the "9. Rubric" items
+4. Read the "10. Reminders"
+{% endstep %}
+
+{% step %}
+### Open and make a copy of the template file
+
+1. Open the "1. Template file".&#x20;
+2. File <mark style="color:red;">➜</mark> Make a copy <mark style="color:red;">➜</mark> Relevant week subfolder (Preferably Week 16).
+{% endstep %}
+
+{% step %}
+### Review previous feedback
+
+1. Review my feedback from assignments shown in Figure 1.
+{% endstep %}
+{% endstepper %}
 
 ### Theoretical structure and hypotheses section
 
-4. Open your "\[DRM] Coding your own data for draft research memo" or "\[DRM] Coding your own data for draft research memo 2" (whichever is the more recent) assignment or if  and check the question 5
-   1. Paste Hypothesis 1 at end of  **"2.1" subsection** in your draft research memo. _Hypothesis 1: I expect to find that…_
-   2. Paste Hypothesis 2 at the end of  **"2.2" subsection** in your draft research memo. _Hypothesis 2: I expect to find that…_
-   3. Paste Hypothesis 3 at the end of  **"2.2" subsection** in your draft research memo. _Hypothesis 3: I expect to find that…_
-   4. Paste your Research question at the end of **"1. Introduction and background" section** in your draft research memo. "_The research question of this study is as follows... \[insert your research question]_"
-5. Open your "\[DRM] Citation chaining and discovery engine" assignment and find the three paragraphs from question 4.
-   1. If these paragraphs are still fully relevant to your hypotheses (the current variable composition) pasted above, then:
-      1. Paste Paragraph 1 under **"2.1" subsection** in your draft research memo before Hypothesis 1
-      2. Paste Paragraph 2 under **"2.2" subsection** in your draft research memo before Hypothesis 2
-      3. Paste Paragraph 3 under **"2.3" subsection** in your draft research memo before Hypothesis 3
-         1. Name these subsections based on your variables (e.g., "2.1. Discrimination and Return migration")
-      4. Open "\[DRM] Choosing annual review articles and determining research items" assignment and check question 2 (paragraphs). Paste anything relevant for the **2.1., 2.2., 2.3. subsections**
-   2. If you modified your variables:
-      1. Only paste relevant sentences from previous assignments
-      2. Write new sentences and cite peer-reviewed journal articles
-         1. First, check your peer-reviewed journal article list from question 7 of "\[DRM] Citation chaining and discovery engine"; there may be some relevant articles to your new hypotheses.
-         2. Then, go to [**researchrabbitapp.com**](https://researchrabbitapp.com/) and check your ResearchRabbit literature network analysis; there may be some relevant articles to your new hypotheses.
-         3. And/or, conduct [**Selective Literature Review**](https://ttezcan.gitbook.io/lectures/all-lectures-and-labs/guidelines-and-rubrics/selective-literature-review)**.**
+{% stepper %}
+{% step %}
+### "\[DRM] Coding your own data for draft research memo"
 
-### **Methodology section**
+Open your "\[DRM] Coding your own data for draft research memo" or "\[DRM] Coding your own data for draft research memo 2" (whichever is the more recent) assignment. Use your responses in question 5.
 
-6. Open your "\[DRM] Basic content analysis" assignment and check your "Essay" for the question 2. Then, open your "\[DRM] Coding your own data for draft research memo" assignment and check the question 3. These are essentially the same questions progressed on each other.
-   1. Paste both answers under **"3. Methodology"** section in your draft research memo.
+1. Paste Hypothesis 1 at end of  **"2.1" subsection** in your draft research memo. _Hypothesis 1: I expect to find that…_
+2. Paste Hypothesis 2 at the end of  **"2.2" subsection** in your draft research memo. _Hypothesis 2: I expect to find that…_
+3. Paste Hypothesis 3 at the end of  **"2.2" subsection** in your draft research memo. _Hypothesis 3: I expect to find that…_
+4. Paste your Research question at the end of **"1. Introduction and background" section** in your draft research memo. "_The research question of this study is as follows... \[insert your research question]_"
+{% endstep %}
+
+{% step %}
+### Previous paragraphs
+
+Open your "\[DRM] Citation chaining and discovery engine" assignment and find the three paragraphs from question 4.
+
+1. If these paragraphs are still fully relevant to your hypotheses (the current variable composition) pasted above and if you didn't receive feedback for these paragraphs, then:
+   1. Paste Paragraph 1 under **"2.1" subsection** in your draft research memo before Hypothesis 1
+   2. Paste Paragraph 2 under **"2.2" subsection** in your draft research memo before Hypothesis 2
+   3. Paste Paragraph 3 under **"2.3" subsection** in your draft research memo before Hypothesis 3
+      1. Name these subsections based on your variables (e.g., 2.1. Discrimination and Return migration)
+   4. Open "\[DRM] Choosing annual review articles and determining research items" assignment and check question 2 (paragraphs). Paste anything relevant for the **2.1., 2.2., 2.3. subsections**
+2. If you modified your variables:
+   1. Only paste relevant sentences from previous assignments.
+   2. Write new sentences and cite peer-reviewed journal articles.
+      1. First, check your peer-reviewed journal article list from question 5 of "\[DRM] Citation chaining and discovery engine"; there may be some relevant articles to your new hypotheses.
+      2. Then, go to [**researchrabbitapp.com**](https://researchrabbitapp.com/) and check your ResearchRabbit literature network analysis; there may be some relevant articles to your new hypotheses.
+      3. And/or, conduct [**Selective Literature Review**](https://ttezcan.gitbook.io/lectures/all-lectures-and-labs/guidelines-and-rubrics/selective-literature-review)**.**
+{% endstep %}
+{% endstepper %}
+
+### **Methodology and Results sections**
+
+{% stepper %}
+{% step %}
+### **Previous methodology responses**
+
+1. Open your "\[DRM] Basic content analysis" assignment and check your "Essay" for the question 2. Then, open your "\[DRM] Coding your own data for draft research memo" assignment and check the question 3. These are essentially the same questions progressed on each other.
+   1. Paste both answers under "3. Methodology" section in your draft research memo.
    2. Combine both answers and remove the duplicate information.
+{% endstep %}
 
-### **Results section**
+{% step %}
+### **Previous results responses**
 
-7. Open your Open your "\[DRM] Coding your own data for draft research memo" or "\[DRM] Coding your own data for draft research memo 2" (whichever is the more recent)  assignment and check the question 6. Paste this essay under the **"4. Results"** **section** in your draft research memo.&#x20;
+1. Open your Open your "\[DRM] Coding your own data for draft research memo" or "\[DRM] Coding your own data for draft research memo 2" (whichever is the more recent)  assignment and check the question 6. Paste this essay under the **"4. Results"** **section** in your draft research memo.&#x20;
    1. Remove the research question from here, as you already mentioned it in **"1. Introduction and background"** section.
    2. Open your "My data" file and check the coding table at the very end. For each focused code, find one or two most representative quotes from the media content you analyzed.
    3. Explicitly mention if you confirm or reject your hypotheses (pasted under **2.1., 2.2., 2.3. subsections)** after discussing each focused code.
+{% endstep %}
+{% endstepper %}
 
 ### Finalizing
 
-8. Read everything you prepared so far.
-9. Write the **"2. Theoretical structure and hypotheses"** section.
+{% stepper %}
+{% step %}
+### Read everything
+
+1. Read everything you prepared so far.
+{% endstep %}
+
+{% step %}
+### **Finalize the sections**
+
+1. Write the **"2. Theoretical structure and hypotheses"** section.
    1. You need to define your key concepts (variables). There's a guideline in  [**Selective Literature Review**](https://ttezcan.gitbook.io/lectures/all-lectures-and-labs/guidelines-and-rubrics/selective-literature-review)  page for this.
-10. Write the **"1. Introduction and background" section**.
-11. Finally, complete "Self-grade sheet" at the very end of the draft research memo file.
+2. Write the **"1. Introduction and background" section**.
+3. Finally, complete "Self-grade sheet" at the very end of the draft research memo file.
+{% endstep %}
+{% endstepper %}
 
 ## 6. What if you do not have access to the articles <a href="#what-if-you-do-not-have-access-to-the-articles" id="what-if-you-do-not-have-access-to-the-articles"></a>
 
