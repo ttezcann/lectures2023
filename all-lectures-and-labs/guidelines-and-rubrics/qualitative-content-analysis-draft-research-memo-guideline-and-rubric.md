@@ -48,7 +48,7 @@ Previous assignments to use&#x20;
 
 {% stepper %}
 {% step %}
-### On this page:
+**On this page:**
 
 1. Read the "7. Sections" part to understand what to expect
 2. Review the "2. Sample draft research memo"
@@ -57,14 +57,14 @@ Previous assignments to use&#x20;
 {% endstep %}
 
 {% step %}
-### Open and make a copy of the template file
+**Open and make a copy of the template file**
 
 1. Open the "1. Template file".&#x20;
 2. File <mark style="color:red;">➜</mark> Make a copy <mark style="color:red;">➜</mark> Relevant week subfolder (Preferably Week 16).
 {% endstep %}
 
 {% step %}
-### Review previous feedback
+**Review previous feedback**
 
 1. Review my feedback from assignments shown in Figure 1.
 {% endstep %}
@@ -74,7 +74,7 @@ Previous assignments to use&#x20;
 
 {% stepper %}
 {% step %}
-### "\[DRM] Coding your own data for draft research memo"
+**"\[DRM] Coding your own data for draft research memo"**
 
 Open your "\[DRM] Coding your own data for draft research memo" or "\[DRM] Coding your own data for draft research memo 2" (whichever is the more recent) assignment. Use your responses in question 5.
 
@@ -85,7 +85,7 @@ Open your "\[DRM] Coding your own data for draft research memo" or "\[DRM] Codin
 {% endstep %}
 
 {% step %}
-### Previous paragraphs
+**Previous paragraphs**
 
 Open your "\[DRM] Citation chaining and discovery engine" assignment and find the three paragraphs from question 4.
 
@@ -108,7 +108,7 @@ Open your "\[DRM] Citation chaining and discovery engine" assignment and find th
 
 {% stepper %}
 {% step %}
-### **Previous methodology responses**
+**Previous methodology responses**
 
 1. Open your "\[DRM] Basic content analysis" assignment and check your "Essay" for the question 2. Then, open your "\[DRM] Coding your own data for draft research memo" assignment and check the question 3. These are essentially the same questions progressed on each other.
    1. Paste both answers under "3. Methodology" section in your draft research memo.
@@ -116,7 +116,7 @@ Open your "\[DRM] Citation chaining and discovery engine" assignment and find th
 {% endstep %}
 
 {% step %}
-### **Previous results responses**
+**Previous results responses**
 
 1. Open your Open your "\[DRM] Coding your own data for draft research memo" or "\[DRM] Coding your own data for draft research memo 2" (whichever is the more recent)  assignment and check the question 6. Paste this essay under the **"4. Results"** **section** in your draft research memo.&#x20;
    1. Remove the research question from here, as you already mentioned it in **"1. Introduction and background"** section.
@@ -129,13 +129,13 @@ Open your "\[DRM] Citation chaining and discovery engine" assignment and find th
 
 {% stepper %}
 {% step %}
-### Read everything
+**Read everything**
 
-1. Read everything you prepared so far.
+1. Read everything you prepared so far on your draft research memo file.
 {% endstep %}
 
 {% step %}
-### **Finalize the sections**
+**Finalize the sections**
 
 1. Write the **"2. Theoretical structure and hypotheses"** section.
    1. You need to define your key concepts (variables). There's a guideline in  [**Selective Literature Review**](https://ttezcan.gitbook.io/lectures/all-lectures-and-labs/guidelines-and-rubrics/selective-literature-review)  page for this.
