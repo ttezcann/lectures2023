@@ -12,7 +12,7 @@
 
 ## Assignment
 
-* [Hometown organizations](https://docs.google.com/document/d/1dALyeoH16VFn8B2jTGtjarw2t9DJZGxE?rtpof=true\&usp=drive_fs)
+* [Hometown associations](https://docs.google.com/document/d/1dALyeoH16VFn8B2jTGtjarw2t9DJZGxE?rtpof=true\&usp=drive_fs)
 
 ## Video
 
