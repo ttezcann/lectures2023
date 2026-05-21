@@ -45,7 +45,7 @@ A selective literature review gathers scholarly sources that directly relate to 
       * This search will return sources discussing environmental racism but exclude those focusing on policy.
         * This is helpful when you want to study non-policy aspects of forms of environmental racism.
 
-<figure><img src="../../.gitbook/assets/image (109).png" alt="" width="463"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (194).png" alt="" width="463"><figcaption></figcaption></figure>
 
 ## Finding definitions and conceptual work
 
@@ -56,7 +56,7 @@ A selective literature review gathers scholarly sources that directly relate to 
    4. "definition of **\[your variable]**"
    5. "conceptual framework of **\[your variable]**"
 
-<figure><img src="../../.gitbook/assets/image (110).png" alt="" width="461"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (195).png" alt="" width="461"><figcaption></figcaption></figure>
 
 ## Evaluating source relevance
 
@@ -64,19 +64,19 @@ A selective literature review gathers scholarly sources that directly relate to 
 2. Check citation count (higher counts often indicate influence).
    1. Be wary of sources with extremely low citation counts (unless very recent)
 
-<figure><img src="../../.gitbook/assets/image (111).png" alt="" width="457"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (196).png" alt="" width="457"><figcaption></figcaption></figure>
 
 ## Helpful tricks
 
 1. **Use the "cited by" feature** to find newer papers that cite an important source.
 2. Use Google Scholar's "Related articles" link that appears under each result.
 
-<figure><img src="../../.gitbook/assets/image (112).png" alt="" width="458"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (197).png" alt="" width="458"><figcaption></figcaption></figure>
 
 3. Look at the reference lists of highly relevant papers (citation chaining).
 4. Check the author profiles of key researchers in your field to find their other work.
 
-<figure><img src="../../.gitbook/assets/image (113).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (198).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Integrating with previous methods
 

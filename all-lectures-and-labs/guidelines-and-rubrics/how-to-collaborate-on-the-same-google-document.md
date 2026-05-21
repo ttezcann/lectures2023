@@ -4,11 +4,11 @@ The student whose first name <mark style="color:red;">comes first alphabetically
 
 After making a copy and placing the documents in the relevant weekly subfolder on Google Drive, they should click on "Share," as demonstrated below:
 
-<figure><img src="../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (111).png" alt=""><figcaption></figcaption></figure>
 
 Then, they will type their peers' names below.
 
-<figure><img src="../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (113).png" alt=""><figcaption></figcaption></figure>
 
 Make sure they are the "Editor" and "Notify people" is checked. Click send.
 

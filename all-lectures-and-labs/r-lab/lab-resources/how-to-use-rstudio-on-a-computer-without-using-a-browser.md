@@ -12,7 +12,7 @@ Because when you log out, lab computers revert to their factory settings and del
 4. Find the Script file that you just downloaded, and click Open.
 5. **DO NOT DOUBLE CLICK R SCRIPT FILES.** It may open R, instead of RStudio.
 
-<figure><img src="../../../.gitbook/assets/image (67).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (152).png" alt=""><figcaption></figcaption></figure>
 
 ## Downloading R and RStudio to a personal computer
 

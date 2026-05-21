@@ -89,38 +89,14 @@ Go to [https://drive.google.com/drive](https://drive.google.com/drive) and make 
 <mark style="color:red;">Choose the tab</mark> for the semester you are enrolled in this class:
 
 {% tabs fullWidth="true" %}
-{% tab title="Spring 26" %}
-Week 1 (01/19-01/25)
+{% tab title="Summer 26" %}
+Week 1 (06/01 - 06/07)
 
-Week 2 (01/26-02/01)
+Week 2 (06/81 - 06/14)
 
-Week 3 (02/02-02/08)
+Week 3 (06/15 - 06/21)
 
-Week 4 (02/09-02/15)
-
-Week 5 (02/16-02/22)
-
-Week 6 (02/23-03/01)
-
-Week 7 (03/02-03/08)
-
-Week 8 (03/09-03/15)
-
-Week 9 (03/16-03/22)
-
-Week 10 (03/23-03/29)
-
-Week 11 (04/06-04/12)
-
-Week 12 (04/13-04/19)
-
-Week 13 (04/20-04/26)
-
-Week 14 (04/27-05/03)
-
-Week 15 (05/04-05/10)
-
-Week 16 (05/11-05/17)
+Week 4 (06/22 - 06/28)
 {% endtab %}
 {% endtabs %}
 
@@ -156,7 +132,7 @@ Click on "\[gr] Google Drive assignment (must be submitted first)" under the "Ge
 
 Scroll down and click "Begin."
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 
 1. Right click on your Google Drive class folder.
 2. Click "Share."
@@ -167,7 +143,7 @@ Scroll down and click "Begin."
 1. Paste (control or cmd + V) the link you copied from the step above.
 2. Click "Submit."
 
-<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -175,10 +151,8 @@ Scroll down and click "Begin."
 
 After the submission, you need to wait for my feedback.
 
-Each submission without getting full credit from this assignment will result in no credit for the subsequent assignments **other than quiz and discussion type submissions.** While waiting for my feedback, submit the quiz and discussion type submissions (_if you see any on Canvas modules)_.
+Each submission without getting full credit from this assignment will result in no credit for the subsequent assignments.&#x20;
 
-The type of submission is indicated by the icons next to the assignments on Canvas, as follows:
-
-<figure><img src="../../.gitbook/assets/SCR-20251219-gsnw-2 (1).png" alt=""><figcaption></figcaption></figure>
+* Note that Canvas automatically gives zero for essay questions. **Ignore that.** I will grade this assignment and provide feedback as soon as possible.
 {% endstep %}
 {% endstepper %}

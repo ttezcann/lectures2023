@@ -22,7 +22,7 @@ On page **585**, we read the following:
 5. We need to make sure Duckitt's article ("_Group identification and intergroup attitudes: A longitudinal analysis in South Africa_") a peer-reviewed journal article:
    1. [\[How to determine peer-reviewed journal articles?\]](https://ttezcan.gitbook.io/lect/all-lectures-and-labs/guidelines-and-rubrics/how-to-determine-peer-reviewed-journal-articles)
 
-<figure><img src="../../.gitbook/assets/image (95).png" alt="“Duckitt J., Mphuthing T. 1998. Group identification and intergroup attitudes: a longitudinal analysis in South Africa. J. Pers. Soc. Psychol. 74:80–85.”"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (180).png" alt="“Duckitt J., Mphuthing T. 1998. Group identification and intergroup attitudes: a longitudinal analysis in South Africa. J. Pers. Soc. Psychol. 74:80–85.”"><figcaption></figcaption></figure>
 
 5. Before we find Duckitt’s article, we continue reading the annual review article by Hewstone to find more relevant arguments.
 
@@ -33,7 +33,7 @@ On page **586**, we read the following:
 6. We can benefit from this argument for our second independent variable.&#x20;
 7. That argument belongs to three authors and is relevant to our study too, that’s why we go to the references and find the title as well. We’ll go with Quillian ("_Prejudice as a response to perceived group threat: Population composition and anti-immigrant and racial prejudice in Europe_").
 
-<figure><img src="../../.gitbook/assets/image (97).png" alt="“Quillian L. 1995. Prejudice as a response to perceived group threat: population composition and anti-immigrant and racial prejudice in Europe. Am. Soc. Rev. 60:586–611.”"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (182).png" alt="“Quillian L. 1995. Prejudice as a response to perceived group threat: population composition and anti-immigrant and racial prejudice in Europe. Am. Soc. Rev. 60:586–611.”"><figcaption></figcaption></figure>
 
 8. Before we find Quillian’s article, we continue reading the annual review article by Hewstone to find one more relevant argument.&#x20;
 
@@ -45,13 +45,13 @@ On page **593**, we read the following:
 10. This argument belongs to two authors. We go to the references and find it as well. We’ll go with Ensari & Miller ("_Effect of affective reactions by the out-group on preferences for crossed categorization discussion patterns_"), because the other one is a book chapter. We should only look for peer-reviewed journal articles.&#x20;
     1. [**\[How to determine peer-reviewed journal articles?\]**](https://ttezcan.gitbook.io/lectures/all-lectures-and-labs/guidelines-and-rubrics/how-to-determine-peer-reviewed-journal-articles)
 
-<figure><img src="../../.gitbook/assets/image (96).png" alt="“Ensari N., Miller N. 1998. Effect of affective reactions by the out-group on preferences for crossed categorization discussion partners. J. Pers. Soc. Psychol. 75:1503–27.”"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (181).png" alt="“Ensari N., Miller N. 1998. Effect of affective reactions by the out-group on preferences for crossed categorization discussion partners. J. Pers. Soc. Psychol. 75:1503–27.”"><figcaption></figcaption></figure>
 
 ## Citation chain figure
 
 Our current citation chain looks like this:
 
-<figure><img src="../../.gitbook/assets/image (98).png" alt="A simple diagram shows “Hewstone (2002)” on the left with arrows pointing to three studies on the right: “Duckitt (1998),” “Ensari &#x26; Miller (2001),” and “Quillian (1995),” illustrating how one source leads to related references."><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (183).png" alt="A simple diagram shows “Hewstone (2002)” on the left with arrows pointing to three studies on the right: “Duckitt (1998),” “Ensari &#x26; Miller (2001),” and “Quillian (1995),” illustrating how one source leads to related references."><figcaption></figcaption></figure>
 
 If we like, we can continue the citation chaining by reading Hewstone, Duckitt, Quillian, and Ensari & Miller, and add more chains.
 
@@ -89,12 +89,12 @@ It's always better to search DOI instead of title of the articles.
 
 1. This is how we can find DOI:
 
-<figure><img src="../../.gitbook/assets/image (99).png" alt="A diagram shows where to locate a DOI for a journal article, with arrows pointing to the DOI number in an APA-formatted reference, within the article’s URL, and on the journal’s webpage. The DOI is highlighted to emphasize that it begins with “10.” and can be copied from multiple locations."><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (184).png" alt="A diagram shows where to locate a DOI for a journal article, with arrows pointing to the DOI number in an APA-formatted reference, within the article’s URL, and on the journal’s webpage. The DOI is highlighted to emphasize that it begins with “10.” and can be copied from multiple locations."><figcaption></figcaption></figure>
 
 2. We can also use [crossref.org/guestquery](https://www.crossref.org/guestquery/)
    1. Paste the "First Author" name and the "Article Title"
    2. Click Search
    3. The DOI appears at the bottom
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="A database search form displays fields filled with author “Duckitt” and the article title “Group identification and intergroup attitudes: A longitudinal analysis in South Africa.” A results table below highlights the DOI link for the article in the Journal of Personality and Social Psychology."><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (26).png" alt="A database search form displays fields filled with author “Duckitt” and the article title “Group identification and intergroup attitudes: A longitudinal analysis in South Africa.” A results table below highlights the DOI link for the article in the Journal of Personality and Social Psychology."><figcaption></figcaption></figure>
 

@@ -35,7 +35,7 @@ hidden: true
 I recommend [Bitward Free Password Generator](https://bitwarden.com/password-generator/#password-generator).
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image (131).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (216).png" alt=""><figcaption></figcaption></figure>
 
 3. **DO NOT** use “Sign up with Google." Not now, not during the semester.
 4. Click "Sign up."
@@ -44,7 +44,7 @@ I recommend [Bitward Free Password Generator](https://bitwarden.com/password-gen
 {% endstep %}
 {% endstepper %}
 
-<figure><img src="../../../.gitbook/assets/image (129).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (214).png" alt=""><figcaption></figcaption></figure>
 
 Follow the procedures described in the [RStudio lab assignment: account and packages assignment instructions](https://docs.google.com/document/d/1P0gpXCsAk03u9fSdHNdMpO43TCbHUoJT/edit?usp=sharing\&ouid=100179871492576617561\&rtpof=true\&sd=true).
 
@@ -81,7 +81,7 @@ There is no need for this in this class.
 
 3. Click "Download"
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (82).png" alt=""><figcaption></figcaption></figure>
 
 4. It will download a zip file.
 5. Go to your new account.

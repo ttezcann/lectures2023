@@ -1,6 +1,6 @@
 # Welcome to SOC120 (short term)
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="356"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (22).png" alt="" width="356"><figcaption></figcaption></figure>
 
 ## <mark style="color:orange;">Welcome!</mark> <a href="#welcome" id="welcome"></a>
 
@@ -67,7 +67,7 @@ Click on the lecture names (see figure above) to see the readings, slides, and l
 
 ## <mark style="color:orange;">Deadlines</mark> <a href="#deadlines" id="deadlines"></a>
 
-<figure><img src="../../.gitbook/assets/image (128).png" alt="Table explaining the deadline structure as described below."><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (213).png" alt="Table explaining the deadline structure as described below."><figcaption></figcaption></figure>
 
 1. After the deadline has passed, Canvas will automatically give a zero, but students are granted one (1) additional (flexibility) day to submit their work without a deduction.
 2. Once the assignment deadline and the flexibility day has passed, students are granted an additional three-day window to submit their work.&#x20;

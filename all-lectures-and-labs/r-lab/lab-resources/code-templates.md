@@ -695,7 +695,7 @@ add more independent variables with a plus (+)
 frq(gss$happy, out = "v")
 ```
 
-![](<../../../.gitbook/assets/image (32).png>)
+![](<../../../.gitbook/assets/image (117).png>)
 
 
 

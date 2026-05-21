@@ -156,13 +156,13 @@ First try finding the articles on your own.
 
 <mark style="color:orange;">**We have found the PDF!**</mark>
 
-<figure><img src="../../.gitbook/assets/image (121).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (206).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (122).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (207).png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:red;">**NO PDF!**</mark>
 
-<figure><img src="../../.gitbook/assets/image (123).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (208).png" alt=""><figcaption></figcaption></figure>
 
 ### If you do not see "PDF"
 

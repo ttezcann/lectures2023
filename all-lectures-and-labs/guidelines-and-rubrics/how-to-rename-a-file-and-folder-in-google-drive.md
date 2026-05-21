@@ -6,9 +6,9 @@ There are two ways to rename a file:
 
 1. Renaming in the file: highlight the part you want to change and type
 
-<figure><img src="../../.gitbook/assets/image (59).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (144).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (60).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (145).png" alt=""><figcaption></figcaption></figure>
 
 2. Renaming in the folder: go to the folder, right click on the file and choose "Rename."
 

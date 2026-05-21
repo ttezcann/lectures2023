@@ -45,45 +45,109 @@ The final research memo builds on the draft research memo (see the Qualitative D
 3. Write the "Abstract"&#x20;
    1. This should be the last section you will write
 
-## 5. Recommended workflow
+{% hint style="warning" %}
+You need to upload the PDFs of all the cited peer-reviewed journal articles (12 minimum) to Week 16 folder (Otherwise, no credit).
+{% endhint %}
+
+## 5.  Workflow
 
 ### Starting
 
-1. On this page;
-   1. Read the "7. Sections" part to understand what to expect
-   2. Review the "2. Sample final research memo"
-   3. Read the "9. Rubric" items
-   4. Read the "10. Reminders"
-2. Open the "1. Template file". File <mark style="color:red;">➜</mark> Make a copy <mark style="color:red;">➜</mark> Relevant week subfolder
-3. Review my feedback for "Draft research memo," "Presentation design (draft)", and "Final presentation submission" and address them in your final research memo.
-4. Copy the sections from the "Draft research memo" and paste them under the "Final research memo" sections.
+{% stepper %}
+{% step %}
+### **On this page:**
+
+1. Read the "7. Sections" part to understand what to expect
+2. Review the "2. Sample draft research memo"
+3. Read the "9. Rubric" items
+4. Read the "10. Reminders"
+{% endstep %}
+
+{% step %}
+### **Open and make a copy of the template file**
+
+1. Open the "1. Template file".&#x20;
+2. File <mark style="color:red;">➜</mark> Make a copy <mark style="color:red;">➜</mark> Relevant week subfolder (Week 16).
+{% endstep %}
+
+{% step %}
+### **Review previous feedback**
+
+1. Review my feedback for&#x20;
+   1. "Draft research memo,"&#x20;
+   2. "Presentation design (draft)", and&#x20;
+   3. "Final presentation submission" and address them in your final research memo.
+{% endstep %}
+
+{% step %}
+### Copy-paste the sections of draft research memo
+
+1. Copy the sections from the "Draft research memo" and paste them under the "Final research memo" sections.
+{% endstep %}
+{% endstepper %}
 
 ### Introduction and background section
 
+{% stepper %}
+{% step %}
+### Add new sentences
+
 1. In addition to what you prepared for "Draft Research Memo" Introduction section, address these questions:
    1. Indicate an issue, problem, or controversy in the field of study. Where does the field lack knowledge and how is your research filling that gap?
-2. Right after your research question, end this section by providing an overview of the structure of the paper:
+{% endstep %}
+
+{% step %}
+### Add an overview
+
+1. Right after your research question, end this section by providing an overview of the structure of the paper:
    1. "The remainder of the paper is organized as follows. First, it starts with X. Then, it presents an overview of the theoretical arguments and existing empirical research on X, Y, and Z… After describing the methods and sample, the study's findings are introduced. The final section summarizes and discusses the study's main contributions."
+{% endstep %}
+{% endstepper %}
 
 ### Theoretical structure and hypotheses section
 
+{% stepper %}
+{% step %}
+### At least two citations for 3.1, 3.2, and 3.3
+
 1. In addition to what you prepared for "Draft Research Memo" Theoretical structure and hypotheses section, you will provide at least two citations for each subsection, 3.1, 3.2, and 3.3. It was one citation for each subsection in "Draft Research Memo.
+{% endstep %}
 
-### Methodology section
+{% step %}
+### Upload PDFs to Week 16
 
-1. If you didn't receive feedback for this section, keep as is.
+1. You need to upload the PDFs of all the cited peer-reviewed journal articles (12 minimum to Week 16 folder (Otherwise, no credit).
+{% endstep %}
+{% endstepper %}
 
-### Results
+### Methodology and Results sections
 
-1. If you didn't receive feedback for this section, keep as is.
+{% stepper %}
+{% step %}
+### No feedback, no change
+
+1. If you didn't receive feedback for these sections, keep as is.
+{% endstep %}
+{% endstepper %}
 
 ### **Discussion and conclusion section**
+
+{% stepper %}
+{% step %}
+### Check "Final presentation submission"
 
 1. You created a slide on this section on "Final presentation submission."
 2. Open "Final presentation submission" slides. Paste the text on the "Discussion and conclusion" slide under the "6. Discussion and Conclusion" section in your final research memo.
 3. Improve each point by providing more details in paragraphs. Use citations.
-4. End this section by addressing this rubric item:
-   1. "Suggest some ways in which your findings have implications for theories relating to your area of interest. It is valuable to propose areas of further research that are suggested by your findings."
+{% endstep %}
+
+{% step %}
+### End this section
+
+1. End this section by addressing this rubric item:
+   1. Did you suggest some ways in which your findings have implications for theories relating to your area of interest?
+{% endstep %}
+{% endstepper %}
 
 ### **Abstract section**
 
@@ -95,14 +159,7 @@ The final research memo builds on the draft research memo (see the Qualitative D
 
 ## 6. What if you do not have access to the articles <a href="#what-if-you-do-not-have-access-to-the-articles" id="what-if-you-do-not-have-access-to-the-articles"></a>
 
-1. You need to cite minimum <mark style="color:red;">12 peer-reviewed journal articles</mark> in total.
-   1. When this is not fulfilled, the grades of the sections will be negatively affected.
-2. If you do not have access to the articles…
-3. Email me (<mark style="color:blue;">ttezcan@csumb.edu</mark>) with the title and the link of the articles.
-
-You will need to find the full PDF version of the articles. If you do not have access to them, please email me ([ttezcan@csumb.edu](mailto:ttezcan@csumb.edu)) with the title and the link of the articles. Make sure the link does NOT start with [https://csu-mb.primo.exlibrisgroup.com/](https://csu-mb.primo.exlibrisgroup.com/)
-
-<figure><img src="https://lh7-us.googleusercontent.com/yw8cRVgRZoA4OiwV77MotlTj6l3Y4hjkuUV9tU2hVR-5ZyuNFY_oevAtsy5_H-ylr2J2z8UHLJ_JaJK549ciSfEz9Nff0euoyDBi-CmvbcDbo6Dbv7jSXQEpfB9qheMvlZvr0R56c-oYnHNzwqTOpw" alt=""><figcaption></figcaption></figure>
+[Click here](https://ttezcan.gitbook.io/lectures/all-lectures-and-labs/guidelines-and-rubrics/qualitative-content-analysis-draft-research-memo-guideline-and-rubric#what-if-you-do-not-have-access-to-the-articles).
 
 ## 7. Sections
 

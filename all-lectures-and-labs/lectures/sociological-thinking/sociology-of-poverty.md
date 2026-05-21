@@ -17,7 +17,3 @@
 ## Video
 
 {% embed url="https://drive.google.com/open?id=1AqXQxMAyM1HCkJFzLWaGGZ4FqpgDv2LG&usp=drive_fs" %}
-
-## Lecture reflection
-
-* [Lecture reflection template](https://docs.google.com/document/d/11O3Fqq96s7mohgVW4UvObaitJewYaSSG?rtpof=true\&usp=drive_fs)

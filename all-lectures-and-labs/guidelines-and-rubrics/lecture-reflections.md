@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Lecture reflections
 
 ## <mark style="color:orange;">Lecture reflection templates</mark>

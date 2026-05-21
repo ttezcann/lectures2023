@@ -1,6 +1,6 @@
 # Welcome to SOC120
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt="" width="356"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (79).png" alt="" width="356"><figcaption></figcaption></figure>
 
 ## <mark style="color:orange;">Welcome!</mark>
 
@@ -65,7 +65,7 @@ Feel free to submit assignments during the break if you wish. I will grade the a
 
 ## <mark style="color:orange;">Deadlines</mark>
 
-<figure><img src="../../.gitbook/assets/image (118).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (203).png" alt=""><figcaption></figcaption></figure>
 
 1. After the deadline has passed, Canvas will automatically give a zero, but students are granted one (1) additional (flexibility) day to submit their work without a deduction.
 2. Once the assignment deadline and the flexibility day has passed, students are granted an additional three-day window to submit their work.&#x20;
@@ -75,7 +75,7 @@ Feel free to submit assignments during the break if you wish. I will grade the a
 
 ### <mark style="color:orange;">Where are the due dates?</mark> <a href="#deadlines" id="deadlines"></a>
 
-<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
 1. The Modules page show each assignment's due date.
 2. When you click on the assignment, you see more details, such as "Due" again, and
@@ -98,19 +98,19 @@ Below is a sample overview from SOC120 class.
 
 Each lecture is accompanied by two assignments (indented items are assignments associated with the specific lecture above):
 
-<figure><img src="../../.gitbook/assets/image (137).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (222).png" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:orange;">Where are the readings, slides, and lecture videos?</mark>
 
 Click on the lecture names to see the readings, slides, and lecture videos. See [\[Where are the readings, slides, and lecture videos?\]](https://ttezcan.gitbook.io/lectures/all-lectures-and-labs/guidelines-and-rubrics/where-are-the-readings-slides-and-lecture-videos)
 
-<figure><img src="../../.gitbook/assets/image (136).png" alt="" width="512"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (221).png" alt="" width="512"><figcaption></figcaption></figure>
 
 ### <mark style="color:orange;">General format of the lectures</mark>
 
 The general format of the lectures is as follows, though note that adjustments may be made for certain specific lectures:
 
-<figure><img src="../../.gitbook/assets/image (119).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (204).png" alt=""><figcaption></figcaption></figure>
 
 ## <mark style="color:orange;">Assignments</mark>
 
