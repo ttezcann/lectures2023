@@ -1,8 +1,29 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # Return migration
 
 ## Reading
 
-* [Tezcan, Tolga. 2018. “How Ties, Identities and Home States Influence Mexican-Born Immigrants’ Return Migration Intentions.” Migration and Development 7(3):388–411. doi:10.1080/21632324.2018.1457427.](https://drive.google.com/open?id=1Eo-e08C9onCeCuBK-UVgP8LAfnWniF9N\&usp=drive_fs)
+* [Tezcan, Tolga. 2018. “How Ties, Identities and Home States Influence Mexican-Born Immigrants’ Return Migration Intentions.” Migration and Development 7(3):388–411. doi:10.1080/21632324.2018.1457427.](https://drive.google.com/file/d/1LtTO1LzPYPl4WbpQow-fObrwpnwbf7L7/view?usp=sharing)
 
 ## Slides
 
