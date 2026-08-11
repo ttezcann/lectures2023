@@ -1,3 +1,24 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # Interpretation templates
 
 ## <mark style="color:orange;">Interpretation structure</mark>
@@ -265,7 +286,7 @@ plot_frq(gss$marital, type = "bar", geom.colors = "#336699")
 Same as frequency table interpretation
 
 \
-&#xNAN;_<mark style="color:blue;">The marital status variable shows that 41.43% of the respondents are</mark>_ _<mark style="color:blue;">married;</mark>_ _<mark style="color:blue;">7.23% of the respondents are widowed; 17.23% of the respondents are divorced; 2.92% of the respondents are separated; 31.20% of the respondents are never married.</mark>_
+_<mark style="color:blue;">The marital status variable shows that 41.43% of the respondents are</mark>_ _<mark style="color:blue;">married;</mark>_ _<mark style="color:blue;">7.23% of the respondents are widowed; 17.23% of the respondents are divorced; 2.92% of the respondents are separated; 31.20% of the respondents are never married.</mark>_
 {% endhint %}
 
 {% hint style="success" %}
@@ -321,7 +342,7 @@ graph + theme(
 When interpreting stacked bar graphs, we generally interpret one label (response):
 
 \
-&#xNAN;_<mark style="color:blue;">Of the GSS respondents, 44.2% have a great deal of confidence in the military; 33.4% have a great deal of confidence in medicine; 18.2% in education, 16% in the supreme court; 14.1% in major companies, and 10.4% in the executive branch of government.</mark>_
+_<mark style="color:blue;">Of the GSS respondents, 44.2% have a great deal of confidence in the military; 33.4% have a great deal of confidence in medicine; 18.2% in education, 16% in the supreme court; 14.1% in major companies, and 10.4% in the executive branch of government.</mark>_
 {% endhint %}
 
 {% hint style="success" %}

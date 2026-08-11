@@ -1,7 +1,28 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # Google Drive assignment
 
 {% hint style="warning" %}
-Students **cannot** continue this class without getting full credit from this assignment (unlimited attempts).&#x20;
+Students **cannot** continue this class without getting at least 70/100 from this assignment (unlimited attempts within the deadline period).&#x20;
 {% endhint %}
 
 {% hint style="info" %}
@@ -89,14 +110,38 @@ Go to [https://drive.google.com/drive](https://drive.google.com/drive) and make 
 <mark style="color:red;">Choose the tab</mark> for the semester you are enrolled in this class:
 
 {% tabs fullWidth="true" %}
-{% tab title="Summer 26" %}
-Week 1 (06/01 - 06/07)
+{% tab title="Fall 26" %}
+Week 1 (08/24 - 08/30)
 
-Week 2 (06/81 - 06/14)
+Week 2 (08/31 - 09/06)
 
-Week 3 (06/15 - 06/21)
+Week 3 (09/07 - 09/13)
 
-Week 4 (06/22 - 06/28)
+Week 4 (09/14 - 09/20)
+
+Week 5 (09/21 - 09/27)
+
+Week 6 (09/28 - 10/04)
+
+Week 7 (10/05 - 10/11)
+
+Week 8 (10/12 - 10/18)
+
+Week 9 (10/19 - 10/25)
+
+Week 10 (10/26 - 11/01)
+
+Week 11 (11/02 - 11/08)
+
+Week 12 (11/09 - 11/15)
+
+Week 13 (11/16 - 11/22)
+
+Week 14 (11/30 - 12/06)
+
+Week 15 (12/07 - 12/13)
+
+Week 16 (12/14 - 12/20)
 {% endtab %}
 {% endtabs %}
 

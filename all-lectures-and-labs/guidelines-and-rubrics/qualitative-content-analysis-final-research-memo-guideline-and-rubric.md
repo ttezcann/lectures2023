@@ -1,3 +1,24 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # Qualitative (Content analysis) FINAL research memo guideline and rubric
 
 <figure><img src="../../.gitbook/assets/ss_2024-07-20 17.08.50 8 2.png" alt=""><figcaption></figcaption></figure>

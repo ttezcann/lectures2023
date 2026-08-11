@@ -2,7 +2,6 @@
 
 * [All lectures and labs](README.md)
   * [Guidelines and rubrics](all-lectures-and-labs/guidelines-and-rubrics/README.md)
-    * [Lecture reflections](all-lectures-and-labs/guidelines-and-rubrics/lecture-reflections.md)
     * [Office hours](all-lectures-and-labs/guidelines-and-rubrics/office-hours/README.md)
       * [Online office hours](all-lectures-and-labs/guidelines-and-rubrics/office-hours/online-office-hours.md)
       * [In-person office hours](all-lectures-and-labs/guidelines-and-rubrics/office-hours/in-person-office-hours.md)

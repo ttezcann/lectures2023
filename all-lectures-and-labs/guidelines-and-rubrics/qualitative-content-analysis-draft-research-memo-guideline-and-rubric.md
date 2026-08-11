@@ -1,3 +1,24 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # Qualitative (Content analysis) DRAFT research memo guideline and rubric
 
 <figure><img src="../../.gitbook/assets/SCR-20260116-ngic.png" alt="A flowchart titled “Steps of draft research memo, presentation, and final research memo” showing a semester timeline. Boxes labeled by week illustrate a progression from selecting articles and conducting content analysis (Weeks 4–7), to a draft research memo (Week 8), to presentation design and delivery (Weeks 10–11), and finally to a revised and extended final research memo submission in Week 16, with arrows indicating the sequence and dependencies between steps."><figcaption></figcaption></figure>
