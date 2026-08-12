@@ -33,9 +33,9 @@ This guideline includes:
 
 * In most of the assignments, you will be asked to provide a word count of your responses.&#x20;
   * If there's a single question, you will target the provided minimum word count.&#x20;
-  * If there are multiple questions, I will provide the minimum word count with and without question prompts.&#x20;
+  * If there are multiple questions, I will provide the minimum word count with question prompts.&#x20;
     * Highlight your responses <mark style="color:red;">with the question prompts,</mark> and report the word count with question prompts.
-    * When there are multiple questions for an essay, the stated minimum word count applies to the <mark style="color:red;">collective (combined) responses</mark>, not to each question
+    * When there are multiple questions for an essay, the stated minimum word count applies to the <mark style="color:red;">collective (combined) responses</mark>, not to each question.
   * You can exceed the provided word counts.
 * When there is a “WC” (Word count) section under the responses, provide the word count; otherwise, there will be a **-5% deduction**.&#x20;
 * Reported word counts must be accurate. Incorrect counts result in a **-5% deduction**.
