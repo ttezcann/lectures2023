@@ -38,7 +38,3 @@ layout:
 ## Video
 
 {% embed url="https://drive.google.com/open?id=1e6y320PZyJRqFZxSYqL295MiCzvYVl3Y&usp=drive_fs" %}
-
-## Lecture reflection
-
-* [Lecture reflection template](https://docs.google.com/document/d/1-m3zJsLz5JDIqFX9wQSpjHHMDxgHeIV4?rtpof=true\&usp=drive_fs)
