@@ -17,6 +17,8 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 ---
 
 # Class structure, materials, and due dates
@@ -66,4 +68,4 @@ Then you will see all the materials:
    5. If submitted by Oct 6 - 11:59:00pm, the maximum grade could be 80 <mark style="color:red;">(4 days late; 20% deduction)</mark>.
    6. Then the submission window closes. Not possible to submit this assignment.
 
-<figure><img src="../../.gitbook/assets/image (236).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (236) (1).png" alt=""><figcaption></figcaption></figure>

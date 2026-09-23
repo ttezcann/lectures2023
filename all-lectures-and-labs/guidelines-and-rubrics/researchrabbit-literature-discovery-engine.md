@@ -17,6 +17,8 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 ---
 
 # ResearchRabbit: Literature discovery engine
@@ -47,26 +49,45 @@ Do not use the "Paid" option.
 {% endstep %}
 
 {% step %}
-### Complete the four fields
+### Complete the three fields
 
-<figure><img src="../../.gitbook/assets/SCR-20260217-jsam-2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/SCR-20260923-htqi.png" alt=""><figcaption></figcaption></figure>
 
-Your name, school email address, password, re-enter password. Then, click "Sign up."
+Your school email address, a new password, re-enter the new password. Then, click "Sign up."
 {% endstep %}
 
 {% step %}
-### Create a project
+### Verify your email address
 
-<figure><img src="../../.gitbook/assets/ss_2026-02-17 10.39.13.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/SCR-20260923-htwz.png" alt=""><figcaption></figcaption></figure>
 
-1. Type the project name: Research memo
-2. Click "Start using ResearchRabbit."
+1. Go to your email inbox, and verify your email address.
+2. Type the project name: Research memo
+3. Click "Start using ResearchRabbit."
+{% endstep %}
+
+{% step %}
+### Setup your account
+
+<figure><img src="../../.gitbook/assets/SCR-20260923-hvcb.png" alt=""><figcaption></figcaption></figure>
+
+1. Type your name
+2. Project name: Research memo
+3. Click next.
+{% endstep %}
+
+{% step %}
+### Find your flow
+
+<figure><img src="../../.gitbook/assets/SCR-20260923-hvgn (1).png" alt=""><figcaption></figcaption></figure>
+
+1. Click the last one: "Start from scratch."
 {% endstep %}
 
 {% step %}
 ### Create a collection
 
-<figure><img src="../../.gitbook/assets/SCR-20260217-juof-2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (236).png" alt=""><figcaption></figcaption></figure>
 
 1. Click "Library" on the main website
 2. Click "Create Collection"
