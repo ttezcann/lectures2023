@@ -102,20 +102,17 @@ Your school email address, a new password, re-enter the new password. Then, clic
 {% step %}
 ### Add the top choice annual review article(s)
 
-<figure><img src="../../.gitbook/assets/ss_2026-02-17 11.53.16s.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/SCR-20260923-lsnd.png" alt=""><figcaption></figcaption></figure>
 
-1. Click "Library" on the main website.
-2. Click on your collection.
-3. Click the plus sign (+).
-4. Paste the DOI number (starting with "10") of the first article.
+1. Click "Search" on the main website.
+2. Paste the DOI number (starting with "10") of the first article.
    1. [**\[How to find DOI?\]**](https://ttezcan.gitbook.io/lectures/all-lectures-and-labs/guidelines-and-rubrics/citation-chaining-procedure#how-to-find-doi)
-5. Click "Search."
-6. Make sure it appears in your collection.
-7. Click on the link and make sure it's a peer-reviewed journal article.
-   1. [**\[How to determine peer-reviewed journal articles?\]**](https://ttezcan.gitbook.io/lectures/all-lectures-and-labs/guidelines-and-rubrics/how-to-determine-peer-reviewed-journal-articles)
-8. Click on the collection name you created.
-9. Make sure you see your collection name in the next dialogue box.
-10. Close the pane.
+3. Click "Search."
+4. A new dialogue box will appear. Click "Collection +" here.
+   1. Make sure it's a peer-reviewed journal article.
+      1. [**\[How to determine peer-reviewed journal articles?\]**](https://ttezcan.gitbook.io/lectures/all-lectures-and-labs/guidelines-and-rubrics/how-to-determine-peer-reviewed-journal-articles)
+5. Click on your collection.&#x20;
+6. Close the pane.
 
 {% hint style="info" %}
 If you use more than one annual review article, repeat the steps above.
@@ -125,18 +122,29 @@ If you use more than one annual review article, repeat the steps above.
 {% step %}
 ### Add the three articles found through **citation chaining**
 
-<figure><img src="../../.gitbook/assets/ss_2026-02-17 12.05.41.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/SCR-20260923-lvym.png" alt=""><figcaption></figcaption></figure>
 
-1. Make sure you are in "Library"
-2. Make sure you click the "Collection name"
-3. Click the plus sign (+).
-4. Paste the DOI number of the first peer-reviewed journal article found through [**citation chaining**](https://ttezcan.gitbook.io/lectures/all-lectures-and-labs/guidelines-and-rubrics/citation-chaining-procedure)
-5. Click the "Search" icon.
-   1. This will add the article to your collection.
-   2. Repeat these steps for the rest two articles that were found through citation chaining.
-   3. You will see one (or more, depends on you) annual review article, and three peer-reviewed journal articles found through [**citation chaining**](https://ttezcan.gitbook.io/lectures/all-lectures-and-labs/guidelines-and-rubrics/citation-chaining-procedure) in your collection.
+1. REPEAT the process. Click "Search" on the main website.
+2. Paste the DOI number (starting with "10") of the first article.
+   1. [**\[How to find DOI?\]**](https://ttezcan.gitbook.io/lectures/all-lectures-and-labs/guidelines-and-rubrics/citation-chaining-procedure#how-to-find-doi)
+3. Click "Search."
+4. A new dialogue box will appear. Click "Collection +" here.
+   1. Make sure it's a peer-reviewed journal article.
+      1. [**\[How to determine peer-reviewed journal articles?\]**](https://ttezcan.gitbook.io/lectures/all-lectures-and-labs/guidelines-and-rubrics/how-to-determine-peer-reviewed-journal-articles)
+5. Click on your collection.&#x20;
+6. Close the pane.
+   1. Repeat these steps for the rest two articles that were found through citation chaining.
+   2. The process above added the articles to your collection.
+{% endstep %}
 
-<figure><img src="../../.gitbook/assets/SCR-20260217-kyrw-2.png" alt=""><figcaption></figcaption></figure>
+{% step %}
+### Go to library and click your "Collection"
+
+1. Click "library."
+2. Click on your collection name.
+   1. You will see one (or more, depends on you) annual review article, and three peer-reviewed journal articles found through [**citation chaining**](https://ttezcan.gitbook.io/lectures/all-lectures-and-labs/guidelines-and-rubrics/citation-chaining-procedure) in your collection.
+
+<figure><img src="../../.gitbook/assets/SCR-20260923-lzpl.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -170,14 +178,12 @@ All the relevant articles are on the left side and also on the diagram.
 {% step %}
 ### Adding more relevant articles to the collection (10 new articles)
 
-<figure><img src="../../.gitbook/assets/SCR-20260217-lgeu-2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/SCR-20260923-mbfx.png" alt=""><figcaption></figcaption></figure>
 
 1. As soon as you think the gray blank circle article is relevant to your research, click on it.
 2. A new dialogue box will appear on the right side. Click on the link. You need to make sure this is a peer-reviewed journal article.
    1. [**\[How to determine peer-reviewed journal articles?\]**](https://ttezcan.gitbook.io/lectures/all-lectures-and-labs/guidelines-and-rubrics/how-to-determine-peer-reviewed-journal-articles)
-3. If it's a peer-reviewed journal article, click "Save to."
-4. Click on your collection name.
-5. You will see the collection name right below the newly added peer-reviewed journal article.
+3. If it's a peer-reviewed journal article, click "Collection" and your collection name.
 {% endstep %}
 
 {% step %}
@@ -218,13 +224,13 @@ Using DOI is always the easiest and the most guaranteed way.
 
 You can search titles, but this will take longer with some extra steps.&#x20;
 
-<figure><img src="../../.gitbook/assets/SCR-20260217-lscd-2 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/SCR-20260923-mdmf.png" alt=""><figcaption></figcaption></figure>
 
 1. Click the ResearchRabbit logo to go to the main webpage.
 2. Paste the title of the article
 3. Click "Search."
 4. Make sure this is the correct article. If it is, click on it.
-5. The right pane will appear. Click "Save to."
+5. The right pane will appear. Click "Collection."
 6. Click your collection name.
 {% endstep %}
 
