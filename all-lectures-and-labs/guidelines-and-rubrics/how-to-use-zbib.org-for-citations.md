@@ -17,6 +17,8 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 ---
 
 # How to use zbib.org for citations?
@@ -37,9 +39,9 @@ A source is referenced in <mark style="color:red;">two parts</mark>:
 
 <figure><img src="../../.gitbook/assets/image (179).png" alt="A document excerpt displays an academic paragraph discussing perceived discrimination, with multiple author–date citations highlighted within the text. Below the paragraph is a references section listing full bibliographic entries, and arrows label the highlighted citations as “In-text citations” and the reference list as “End-text citations,” clarifying how sources are cited within and at the end of a paper."><figcaption></figcaption></figure>
 
-## Referencing site: [www.zbib.org](how-to-use-zbib.org-for-citations.md#referencing-site-www.zbib.org)
+## Referencing site: [www.zbib.org](https://www.zbib.org)
 
-1. Go to [www.zbib.org](how-to-use-zbib.org-for-citations.md#referencing-site-www.zbib.org)
+1. Go to [www.zbib.org](https://www.zbib.org)
 2. Paste the article title and click “Cite.”
 
 <figure><img src="../../.gitbook/assets/image (134).png" alt="A screenshot of the zbib.org (ZoteroBib) interface shows a search field with an article title entered and a “Cite” button on the right. The layout illustrates how to start generating a citation by pasting an article title."><figcaption></figcaption></figure>
