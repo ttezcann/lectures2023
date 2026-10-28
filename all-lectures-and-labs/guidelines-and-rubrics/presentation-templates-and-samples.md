@@ -17,6 +17,8 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 ---
 
 # Presentation templates and samples
@@ -93,6 +95,7 @@ The table below provides 87 Google Slides templates and 5 Infographic sets.
 * Did you  display the previous research on the topic? (3 points)
 * Did you cite the previous research and/or concepts and theories appropriately within the slides? (3 points)
 * Did you list and define the key concept(s)? (3 points)
+  * You need to conduct “[selective literature review](https://ttezcan.gitbook.io/lectures/all-lectures-and-labs/guidelines-and-rubrics/selective-literature-review#finding-definitions-and-conceptual-work)” by simply searching “XXX is defined as” / “XXX refers to” in Google Scholar (XXX = key concept(s)).
 * Did you display and explain your three (3) hypotheses? (6 points)
 
 <mark style="color:red;">Methods and sample slide</mark>
